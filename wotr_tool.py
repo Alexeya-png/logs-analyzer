@@ -1,13 +1,3 @@
-# wotr_tool.py
-# Requirements:
-# - UI in English
-# - Single page (no tabs)
-# - No "count whole file" checkbox
-# - No headful/maxsteps/sleep controls
-# - Downloaded reports keep names: YYYY-MM-DD_HHMMSS_FP_<name>_SP_<name>.log
-# - Overall stats: Top 10 unluckiest/luckiest show only luck value like: "1. Name – -34,67"
-# - Overall stats: ignore players with < 20 matches
-
 import os
 import re
 import json
@@ -19,7 +9,8 @@ from dataclasses import dataclass
 from datetime import datetime, date
 from pathlib import Path
 from collections import Counter, defaultdict
-from typing import Optional
+from typing import Optional, Iterable
+from urllib.parse import urlparse, unquote
 
 import tkinter as tk
 from tkinter import ttk, filedialog, messagebox
@@ -30,7 +21,9 @@ from tkinter import ttk, filedialog, messagebox
 # -----------------------------
 
 TALKER_MARK = "<~Talker.31~>"
-ROLL_RE = re.compile(r"^<game>\s+(.+?)<~Controls\.1~>\s*(.*?)\s*null\b")
+
+# <game> Name<~Controls.1~> 1 5 3 6 4 null
+ROLL_RE = re.compile(r"^<game>\s+(.+?)<~Controls\.1~>\s*(.*?)\s*null\b", re.IGNORECASE)
 DICE_RE = re.compile(r"\b[1-6]\b")
 
 IGNORED_PLAYER_RE = re.compile(r"^~(Interpreter|Talker)\.\d+~?$", re.IGNORECASE)
@@ -39,18 +32,13 @@ IGNORED_PLAYER_RE = re.compile(r"^~(Interpreter|Talker)\.\d+~?$", re.IGNORECASE)
 FNAME_TS_RE = re.compile(r"^wotr(\d{4})_(\d{1,2})_(\d{1,2})_(\d{1,2})_(\d{1,2})", re.IGNORECASE)
 TRAIL_SUFFIX_RE = re.compile(r"(-\d+)+$")
 
-# site logs: 2026-02-15_061430_FP_Stella Rossa_SP_Feanor (2).log
+# site logs (preferred): 2026-02-15_061430_FP_Stella Rossa_SP_Feanor.log
 SITE_DUP_RE = re.compile(r"\s*\(\d+\)\s*$", re.UNICODE)
 SITE_DT_RE = re.compile(r"^(\d{4}-\d{2}-\d{2})_(\d{6})_(.+)$", re.IGNORECASE)
 
-# extracting time + names from row text / suggested filename
-ROW_TIME_HHMMSS_RE = re.compile(r"\b(\d{2}):(\d{2}):(\d{2})\b")
-ROW_TIME_HHMM_RE = re.compile(r"\b(\d{2}):(\d{2})\b")
-ROW_TIME_6DIG_RE = re.compile(r"\b(\d{6})\b")
-
+# date parsing from site table text
 DATE_DDMMYYYY_RE = re.compile(r"\b(\d{2})/(\d{2})/(\d{4})\b")
-DATE_YYYYMMDD_RE = re.compile(r"\b(\d{4})-(\d{2})-(\d{2})\b")
-DATE_DDMMYYYY_DOT_RE = re.compile(r"\b(\d{2})\.(\d{2})\.(\d{4})\b")
+ISO_DT_RE = re.compile(r"\b(\d{4}-\d{2}-\d{2})[ T](\d{2}):(\d{2}):(\d{2})\b")
 
 
 def is_ignored_player(name: str) -> bool:
@@ -93,7 +81,7 @@ def find_talker_index(lines: list[str]) -> Optional[int]:
     return None
 
 
-def count_rolls(lines_after: list[str]) -> tuple[dict[str, Counter], list[str]]:
+def count_rolls(lines_after: Iterable[str]) -> tuple[dict[str, Counter], list[str]]:
     counts = defaultdict(lambda: Counter({1: 0, 2: 0, 3: 0, 4: 0, 5: 0, 6: 0}))
     roll_lines = []
     for line in lines_after:
@@ -297,9 +285,6 @@ def merge_counts(picks: list[LogPick]) -> dict[str, Counter]:
 # Site overall stats
 # -----------------------------
 
-OVERALL_MIN_MATCHES = 1
-
-
 @dataclass
 class SiteMeta:
     dt: Optional[datetime]
@@ -373,12 +358,17 @@ def better_pick(a: LogPick, b: LogPick) -> LogPick:
     return a if a.mtime > b.mtime else b
 
 
-def fmt_luck_plain(x: float) -> str:
-    s = f"{abs(x):.2f}".replace(".", ",")
-    return f"-{s}" if x < 0 else s
+def fmt_luck_value(x: float) -> str:
+    return f"{x:+.2f}".replace(".", ",")
 
 
-def overall_stats_from_site_folder(folder: Path, dedupe: bool, progress_cb, stop_event: threading.Event) -> str:
+def overall_stats_from_site_folder(
+    folder: Path,
+    dedupe: bool,
+    min_matches: int,
+    progress_cb,
+    stop_event: threading.Event,
+) -> str:
     files = site_folder_sorted_files(folder)
     if not files:
         return "No files found\n"
@@ -408,7 +398,7 @@ def overall_stats_from_site_folder(folder: Path, dedupe: bool, progress_cb, stop
                 if best.path == pick.path:
                     keep[pick.sig] = (pick, meta)
 
-        if processed % 50 == 0:
+        if processed % 200 == 0:
             progress_cb(f"Read: {processed}")
 
     picks = list(keep.values())
@@ -429,25 +419,32 @@ def overall_stats_from_site_folder(folder: Path, dedupe: bool, progress_cb, stop
         "FP": defaultdict(lambda: Counter({1: 0, 2: 0, 3: 0, 4: 0, 5: 0, 6: 0})),
         "SP": defaultdict(lambda: Counter({1: 0, 2: 0, 3: 0, 4: 0, 5: 0, 6: 0})),
     }
-    display: dict[str, str] = {}
-    match_counts = Counter()
 
-    def luck_score(c: Counter) -> float:
-        total = sum(c.values())
-        if total <= 0:
-            return 0.0
-        return c[6] - (total / 6.0)
+    matches_overall = defaultdict(int)
+    matches_faction = {"FP": defaultdict(int), "SP": defaultdict(int)}
+    display = {}
 
     for pick, meta in picks:
-        norm_counts: dict[str, Counter] = {}
+        norm_counts = {}
         for pname, c in pick.counts.items():
             if is_ignored_player(pname):
+                continue
+            total = sum(c.values())
+            if total <= 0:
                 continue
             n = norm_name(pname)
             if not n:
                 continue
             norm_counts[n] = c
             display.setdefault(n, pname)
+
+        if not norm_counts:
+            continue
+
+        for n, c in norm_counts.items():
+            matches_overall[n] += 1
+            for face in range(1, 7):
+                overall[n][face] += c[face]
 
         key_map = {canon_key(n): n for n in norm_counts.keys() if canon_key(n)}
 
@@ -458,50 +455,37 @@ def overall_stats_from_site_folder(folder: Path, dedupe: bool, progress_cb, stop
             if t_norm in norm_counts:
                 return t_norm
             ck = canon_key(t_norm)
-            if ck in key_map:
-                return key_map[ck]
-            return t_norm if t_norm else None
+            return key_map.get(ck)
 
         fp_n = resolve(meta.fp_name)
         sp_n = resolve(meta.sp_name)
 
-        game_players = set()
         if fp_n:
-            game_players.add(fp_n)
             display.setdefault(fp_n, meta.fp_name or display.get(fp_n, fp_n))
-        if sp_n:
-            game_players.add(sp_n)
-            display.setdefault(sp_n, meta.sp_name or display.get(sp_n, sp_n))
-
-        if not game_players:
-            for n, c in norm_counts.items():
-                if sum(c.values()) > 0:
-                    game_players.add(n)
-
-        for n in game_players:
-            match_counts[n] += 1
-
-        for n, c in norm_counts.items():
-            for face in range(1, 7):
-                overall[n][face] += c[face]
-
-        if fp_n and fp_n in norm_counts:
+            matches_faction["FP"][fp_n] += 1
             for face in range(1, 7):
                 per_faction["FP"][fp_n][face] += norm_counts[fp_n][face]
-        if sp_n and sp_n in norm_counts:
+        if sp_n:
+            display.setdefault(sp_n, meta.sp_name or display.get(sp_n, sp_n))
+            matches_faction["SP"][sp_n] += 1
             for face in range(1, 7):
                 per_faction["SP"][sp_n][face] += norm_counts[sp_n][face]
 
-    rows = []
-    for n, c in overall.items():
-        if match_counts.get(n, 0) < OVERALL_MIN_MATCHES:
-            continue
+    def luck_score(c: Counter) -> float:
         total = sum(c.values())
-        if total > 0:
-            rows.append((luck_score(c), n))
+        if total <= 0:
+            return 0.0
+        return c[6] - (total / 6.0)
 
+    eligible = {n for n, m in matches_overall.items() if m >= min_matches}
+
+    rows = []
+    for n in eligible:
+        c = overall.get(n)
+        if c:
+            rows.append((luck_score(c), n))
     if not rows:
-        return "No data (min matches filter)\n"
+        return f"No players with >= {min_matches} matches\n"
 
     rows_sorted_lucky = sorted(rows, key=lambda t: t[0], reverse=True)
     rows_sorted_unlucky = sorted(rows, key=lambda t: t[0])
@@ -509,7 +493,7 @@ def overall_stats_from_site_folder(folder: Path, dedupe: bool, progress_cb, stop
     def best_by_most_six(f: str) -> Optional[tuple[str, int, float]]:
         cand = []
         for n, c in per_faction[f].items():
-            if match_counts.get(n, 0) < OVERALL_MIN_MATCHES:
+            if matches_faction[f].get(n, 0) < min_matches:
                 continue
             total = sum(c.values())
             if total <= 0:
@@ -525,30 +509,31 @@ def overall_stats_from_site_folder(folder: Path, dedupe: bool, progress_cb, stop
     best_fp = best_by_most_six("FP")
 
     out = []
-    out.append(f"Files scanned: {processed} | Games counted: {len(picks)} | Min matches: {OVERALL_MIN_MATCHES}")
+    out.append(f"Files scanned: {processed} | Games counted: {len(picks)}")
+    out.append(f"Min matches filter: {min_matches}")
     out.append("")
 
     if best_sp:
         n, six, score = best_sp
-        out.append(f"Luckiest SP (most 6): {display.get(n, n)} – 6={six} – {fmt_luck_plain(score)}")
+        out.append(f"Luckiest SP (most 6): {display.get(n, n)} – 6={six} – luck {fmt_luck_value(score)}")
     else:
-        out.append("Luckiest SP (most 6): no data")
+        out.append("Luckiest SP (most 6): no data (after min matches filter)")
 
     if best_fp:
         n, six, score = best_fp
-        out.append(f"Luckiest FP (most 6): {display.get(n, n)} – 6={six} – {fmt_luck_plain(score)}")
+        out.append(f"Luckiest FP (most 6): {display.get(n, n)} – 6={six} – luck {fmt_luck_value(score)}")
     else:
-        out.append("Luckiest FP (most 6): no data")
+        out.append("Luckiest FP (most 6): no data (after min matches filter)")
 
     out.append("")
     out.append("Top 10 luckiest")
     for i, (score, n) in enumerate(rows_sorted_lucky[:10], start=1):
-        out.append(f"{i}. {display.get(n, n)} – {fmt_luck_plain(score)}")
+        out.append(f"{i}. {display.get(n, n)} – {fmt_luck_value(score)}")
 
     out.append("")
     out.append("Top 10 unluckiest")
     for i, (score, n) in enumerate(rows_sorted_unlucky[:10], start=1):
-        out.append(f"{i}. {display.get(n, n)} – {fmt_luck_plain(score)}")
+        out.append(f"{i}. {display.get(n, n)} – {fmt_luck_value(score)}")
 
     out.append("")
     return "\n".join(out)
@@ -559,59 +544,6 @@ def overall_stats_from_site_folder(folder: Path, dedupe: bool, progress_cb, stop
 # -----------------------------
 
 URL = "https://waroftheringcommunity.net/game-reports"
-ID_RE = re.compile(r"\b(\d{3,})\b")
-
-
-@dataclass
-class RowInfo:
-    report_id: Optional[str]
-    played_on: Optional[date]
-    raw_text: str
-
-
-def extract_date_any(txt: str) -> Optional[date]:
-    t = " ".join((txt or "").split())
-
-    m = DATE_DDMMYYYY_RE.search(t)
-    if m:
-        dd, mm, yy = map(int, m.groups())
-        try:
-            return date(yy, mm, dd)
-        except Exception:
-            pass
-
-    m = DATE_YYYYMMDD_RE.search(t)
-    if m:
-        yy, mm, dd = map(int, m.groups())
-        try:
-            return date(yy, mm, dd)
-        except Exception:
-            pass
-
-    m = DATE_DDMMYYYY_DOT_RE.search(t)
-    if m:
-        dd, mm, yy = map(int, m.groups())
-        try:
-            return date(yy, mm, dd)
-        except Exception:
-            pass
-
-    return None
-
-
-def parse_row_text_basic(txt: str) -> RowInfo:
-    txt = " ".join((txt or "").split())
-    played_on = extract_date_any(txt)
-
-    m_id = ID_RE.search(txt)
-    report_id = m_id.group(1) if m_id else None
-    return RowInfo(report_id=report_id, played_on=played_on, raw_text=txt)
-
-
-def in_range(d: Optional[date], d_from: date, d_to: date) -> bool:
-    if not d:
-        return True  # allow unknown dates; will still download (wide ranges work)
-    return d_from <= d <= d_to
 
 
 def safe_name(s: str) -> str:
@@ -648,124 +580,180 @@ def unique_path(out_dir: Path, filename: str) -> Path:
     raise RuntimeError("Cannot pick unique filename")
 
 
-def extract_time_tag_any(txt: str) -> str:
-    t = " ".join((txt or "").split())
-    m = ROW_TIME_HHMMSS_RE.search(t)
-    if m:
-        return f"{m.group(1)}{m.group(2)}{m.group(3)}"
-    m = ROW_TIME_HHMM_RE.search(t)
-    if m:
-        return f"{m.group(1)}{m.group(2)}00"
-    m = ROW_TIME_6DIG_RE.search(t)
-    if m:
-        return m.group(1)
-    return "000000"
-
-
-def extract_fp_sp_names(row_txt: str) -> tuple[Optional[str], Optional[str]]:
-    t = " ".join((row_txt or "").split())
-
-    m = re.search(r"\bFP\b[\s:_-]*([^|]+?)\s+\bSP\b[\s:_-]*([^|]+)", t, re.IGNORECASE)
-    if m:
-        fp = m.group(1).strip(" _-|")
-        sp = m.group(2).strip(" _-|")
-        return fp or None, sp or None
-
-    m = re.search(r"\bSP\b[\s:_-]*([^|]+?)\s+\bFP\b[\s:_-]*([^|]+)", t, re.IGNORECASE)
-    if m:
-        sp = m.group(1).strip(" _-|")
-        fp = m.group(2).strip(" _-|")
-        return fp or None, sp or None
-
-    return None, None
-
-
 def try_accept_cookies(page) -> None:
-    for label in ("Accept", "I agree", "Agree", "OK"):
+    for rx in (r"Accept", r"I agree", r"Agree", r"OK"):
         try:
-            btn = page.get_by_role("button", name=re.compile(rf"^{label}$", re.I))
+            btn = page.get_by_role("button", name=re.compile(rx, re.I))
             if btn.count() and btn.first.is_visible():
-                btn.first.click(timeout=2000)
-                page.wait_for_timeout(300)
+                btn.first.click(timeout=1500)
                 return
         except Exception:
             pass
 
 
-def closest_row_text(link) -> str:
-    for xp in ("xpath=ancestor::tr[1]", "xpath=ancestor::*[@role='row'][1]"):
-        try:
-            row = link.locator(xp)
-            if row.count():
-                t = row.first.inner_text(timeout=3000)
-                if t and t.strip():
-                    return t
-        except Exception:
-            pass
+def _row_text_for_link(link) -> str:
     try:
-        return link.inner_text(timeout=2000)
+        row = link.locator("xpath=ancestor::tr[1]")
+        if row.count():
+            t = row.first.inner_text(timeout=3000)
+            return " ".join((t or "").split())
+    except Exception:
+        pass
+    try:
+        t = link.evaluate("el => (el.closest('tr') && el.closest('tr').innerText) ? el.closest('tr').innerText : el.innerText")
+        return " ".join((t or "").split())
     except Exception:
         return ""
 
 
-def click_next_page(page) -> bool:
-    # rel=next
+def _parse_date_from_text(row_txt: str) -> Optional[date]:
+    m = DATE_DDMMYYYY_RE.search(row_txt or "")
+    if not m:
+        return None
+    dd, mm, yy = map(int, m.groups())
     try:
-        a = page.locator("ul.pagination a[rel='next'], nav ul.pagination a[rel='next']")
-        if a.count() and a.first.is_visible():
-            a.first.click()
-            page.wait_for_load_state("domcontentloaded")
-            return True
+        return date(yy, mm, dd)
+    except Exception:
+        return None
+
+
+def _parse_time_from_row_attrs(link) -> str:
+    # sometimes full timestamp is hidden in td attributes
+    try:
+        row = link.locator("xpath=ancestor::tr[1]")
+        if not row.count():
+            return "000000"
+        tds = row.first.locator("td")
+        for i in range(tds.count()):
+            td = tds.nth(i)
+            for attr in ("data-sort", "data-order", "title"):
+                v = td.get_attribute(attr) or ""
+                m = ISO_DT_RE.search(v)
+                if m:
+                    hh, mm, ss = m.group(2), m.group(3), m.group(4)
+                    return f"{hh}{mm}{ss}"
     except Exception:
         pass
+    return "000000"
 
-    # aria-label Next
+
+@dataclass
+class HrefMeta:
+    ok: bool
+    played_on: Optional[date]
+    time_tag: str
+    fp_name: Optional[str]
+    sp_name: Optional[str]
+    basename: Optional[str]
+
+
+def _parse_meta_from_download_href(href: str) -> HrefMeta:
     try:
-        a = page.locator("ul.pagination a[aria-label='Next'], nav ul.pagination a[aria-label='Next']")
-        if a.count() and a.first.is_visible():
-            a.first.click()
-            page.wait_for_load_state("domcontentloaded")
-            return True
-    except Exception:
-        pass
+        u = urlparse(href)
+        base = unquote(u.path.split("/")[-1])
+        # expected: 2026-02-15_084902_FP_Elendil_SP_Arress.log
+        m = re.match(r"^(\d{4}-\d{2}-\d{2})_(\d{6})_(.+)$", base, re.IGNORECASE)
+        if not m:
+            return HrefMeta(False, None, "000000", None, None, base or None)
 
-    # arrow / Next text
-    for rx in (r"^(›|»|>)$", r"^(Next|Older)$"):
+        d_s, t_s, rest = m.group(1), m.group(2), m.group(3)
         try:
-            a = page.locator("ul.pagination a, nav ul.pagination a", has_text=re.compile(rx, re.I))
-            if a.count() and a.first.is_visible():
-                a.first.click()
-                page.wait_for_load_state("domcontentloaded")
-                return True
+            d = datetime.strptime(d_s, "%Y-%m-%d").date()
         except Exception:
-            pass
+            d = None
 
-    return False
+        fp_name = sp_name = None
+
+        # rest: FP_<name>_SP_<name>.log  OR SP_<name>_FP_<name>.log
+        # keep extension inside "rest" (names may contain dots/spaces)
+        if rest.startswith("FP_") or rest.startswith("SP_"):
+            f1 = rest[:2].upper()
+            rest2 = rest[3:]
+            i_fp = rest2.find("_FP_")
+            i_sp = rest2.find("_SP_")
+            candidates = [i for i in (i_fp, i_sp) if i != -1]
+            if candidates:
+                idx = min(candidates)
+                name1 = rest2[:idx]
+                f2 = rest2[idx + 1:idx + 3].upper()
+                name2 = rest2[idx + 4:]
+                if f1 == "FP":
+                    fp_name = name1
+                else:
+                    sp_name = name1
+                if f2 == "FP":
+                    fp_name = name2
+                else:
+                    sp_name = name2
+
+        return HrefMeta(True, d, t_s, fp_name, sp_name, base)
+    except Exception:
+        return HrefMeta(False, None, "000000", None, None, None)
 
 
-def _wait_reports_ready(page) -> None:
-    page.wait_for_load_state("domcontentloaded")
-    # try multiple selectors; do not hard-fail
-    for sel in (
-        "a:has-text('Download Report')",
-        "button:has-text('Download Report')",
-        "text=Download Report",
-    ):
+def _next_page_button(page):
+    # the exact class changes; rely on ChevronRightIcon
+    btns = page.locator("button:has(svg[data-testid='ChevronRightIcon'])")
+    if not btns.count():
+        return None
+    # choose last visible (pagination "next" is usually the last)
+    for i in range(btns.count() - 1, -1, -1):
+        b = btns.nth(i)
         try:
-            page.wait_for_selector(sel, timeout=15000)
-            return
+            if b.is_visible() and b.is_enabled():
+                return b
         except Exception:
             continue
+    return None
 
 
-def _get_download_links(page):
-    links = page.locator("a:has-text('Download Report')")
+def _first_download_href(page) -> str:
     try:
-        if links.count() == 0:
-            links = page.locator("button:has-text('Download Report')")
+        a = page.locator("a", has_text=re.compile(r"Download\s+Report", re.I)).first
+        return a.get_attribute("href") or ""
     except Exception:
-        links = page.locator("a:has-text('Download Report')")
-    return links
+        return ""
+
+
+def goto_next_page(page, progress_cb) -> bool:
+    prev_first = _first_download_href(page)
+
+    btn = _next_page_button(page)
+    if btn is None:
+        progress_cb("Stop: next page button not found")
+        return False
+
+    try:
+        btn.click(timeout=5000)
+    except Exception as e:
+        progress_cb(f"Stop: cannot click next page ({e})")
+        return False
+
+    try:
+        page.wait_for_load_state("domcontentloaded", timeout=20000)
+    except Exception:
+        pass
+
+    # wait until table changes (first href changes)
+    try:
+        page.wait_for_function(
+            """(prev) => {
+                const a = Array.from(document.querySelectorAll('a')).find(x => /Download\\s+Report/i.test(x.innerText || ''));
+                return a && a.getAttribute('href') && a.getAttribute('href') !== prev;
+            }""",
+            prev_first,
+            timeout=20000,
+        )
+    except Exception:
+        # still allow, but may be last page
+        pass
+
+    new_first = _first_download_href(page)
+    if new_first and prev_first and new_first == prev_first:
+        progress_cb("Stop: pagination ended (same page)")
+        return False
+
+    return True
 
 
 def download_reports(
@@ -779,16 +767,23 @@ def download_reports(
     try:
         from playwright.sync_api import sync_playwright, TimeoutError as PWTimeoutError
     except Exception:
-        raise RuntimeError("Playwright not installed: pip install playwright && playwright install chromium")
+        raise RuntimeError("Playwright missing. Install: pip install playwright  |  Then: playwright install chromium")
 
     out_dir.mkdir(parents=True, exist_ok=True)
+
+    # store downloaded basenames (from href). This replaces unstable “id” parsing.
     state_path = out_dir / "downloaded_ids.json"
-    downloaded_ids = load_state(state_path)
+    downloaded_keys = load_state(state_path)
 
     user_filter_norm = (user_filter or "").strip().lower()
 
     def log(msg: str):
         progress_cb(msg)
+
+    downloaded = 0
+    matched = 0
+    page_idx = 1
+    seen_first_hrefs = set()
 
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
@@ -796,127 +791,132 @@ def download_reports(
         page = context.new_page()
 
         log(f"Open: {URL}")
-        page.goto(URL, wait_until="networkidle", timeout=60000)
+        page.goto(URL, wait_until="domcontentloaded", timeout=60000)
         try_accept_cookies(page)
-        _wait_reports_ready(page)
 
-        processed_links = set()
-        downloaded = 0
-        matched = 0
-        scanned = 0
-
-        max_pages = 5000
-
-        for page_idx in range(1, max_pages + 1):
+        while True:
             if stop_event.is_set():
                 log("Stopped")
                 break
 
-            _wait_reports_ready(page)
-            links = _get_download_links(page)
+            first_href = _first_download_href(page)
+            if first_href:
+                if first_href in seen_first_hrefs:
+                    log("Stop: pagination loop detected")
+                    break
+                seen_first_hrefs.add(first_href)
 
+            links = page.locator("a", has_text=re.compile(r"Download\s+Report", re.I))
             try:
                 count = links.count()
             except Exception:
                 count = 0
 
+            log(f"Page {page_idx}: found {count} download items")
             if count == 0:
-                if page_idx == 1:
-                    log("No 'Download Report' links found (page structure changed or blocked).")
-                if not click_next_page(page):
-                    break
-                continue
+                break
 
+            # detect oldest date on this page via href filename
             page_dates = []
+            href_cache = []
+
+            for i in range(count):
+                try:
+                    href = links.nth(i).get_attribute("href") or ""
+                except Exception:
+                    href = ""
+                href_cache.append(href)
+                meta = _parse_meta_from_download_href(href) if href else HrefMeta(False, None, "000000", None, None, None)
+                if meta.played_on:
+                    page_dates.append(meta.played_on)
+
+            min_date_on_page = min(page_dates) if page_dates else None
 
             for i in range(count):
                 if stop_event.is_set():
                     break
 
                 link = links.nth(i)
+                href = href_cache[i] if i < len(href_cache) else (link.get_attribute("href") or "")
 
-                row_txt = closest_row_text(link)
-                info = parse_row_text_basic(row_txt)
-
-                scanned += 1
-                if info.played_on:
-                    page_dates.append(info.played_on)
-
-                try:
-                    href = link.get_attribute("href")
-                except Exception:
-                    href = None
-
-                sig = href or f"p{page_idx}:i{i}:{info.report_id or ''}"
-                if sig in processed_links:
+                row_txt = _row_text_for_link(link)
+                if user_filter_norm and user_filter_norm not in (row_txt.lower() + " " + (href or "").lower()):
                     continue
-                processed_links.add(sig)
 
-                if info.report_id and info.report_id in downloaded_ids:
+                meta = _parse_meta_from_download_href(href) if href else HrefMeta(False, None, "000000", None, None, None)
+
+                played_on = meta.played_on or _parse_date_from_text(row_txt)
+                if not played_on:
                     continue
-                if not in_range(info.played_on, date_from, date_to):
+
+                # stop condition (list goes from newer to older)
+                if played_on < date_from:
                     continue
-                if user_filter_norm and user_filter_norm not in (info.raw_text or "").lower():
+
+                if not (date_from <= played_on <= date_to):
+                    continue
+
+                # key for dedupe
+                key = meta.basename or (unquote(urlparse(href).path.split("/")[-1]) if href else None)
+                if not key:
+                    continue
+                key_norm = key.strip()
+                if key_norm in downloaded_keys:
                     continue
 
                 matched += 1
 
+                time_tag = meta.time_tag if meta.time_tag != "000000" else _parse_time_from_row_attrs(link)
+                fp_name = meta.fp_name or "unknown"
+                sp_name = meta.sp_name or "unknown"
+
+                # build final filename (exact format)
+                date_tag = played_on.strftime("%Y-%m-%d")
+                ext = Path(key_norm).suffix or ".log"
+                final_name = safe_name(f"{date_tag}_{time_tag}_FP_{fp_name}_SP_{sp_name}{ext}")
+
                 try:
-                    log(f"Download: {info.played_on or 'unknown date'} id={info.report_id or 'noid'}")
-                    with page.expect_download(timeout=45000) as dl_info:
+                    log(f"Download: {played_on} file={key_norm}")
+                    with page.expect_download(timeout=60000) as dl_info:
                         link.click()
                     dl = dl_info.value
 
-                    suggested = dl.suggested_filename or "report.log"
-                    ext = Path(suggested).suffix or ".log"
+                    final_path = unique_path(out_dir, final_name)
+                    dl.save_as(str(final_path))
 
-                    # if row has no date, try from suggested filename
-                    played_on = info.played_on or extract_date_any(suggested) or extract_date_any(info.raw_text)
-
-                    date_tag = played_on.strftime("%Y-%m-%d") if played_on else "nodate"
-                    time_tag = extract_time_tag_any(info.raw_text + " " + suggested)
-
-                    fp_name, sp_name = extract_fp_sp_names(info.raw_text)
-                    if fp_name or sp_name:
-                        fp_name = fp_name or "unknown"
-                        sp_name = sp_name or "unknown"
-                        fname = safe_name(f"{date_tag}_{time_tag}_FP_{fp_name}_SP_{sp_name}{ext}")
-                    else:
-                        # fallback: keep suggested name, but still try to make it stable
-                        fname = safe_name(Path(suggested).name)
-                        if not Path(fname).suffix:
-                            fname += ext
-
-                    target = unique_path(out_dir, fname)
-                    dl.save_as(str(target))
-
-                    if info.report_id:
-                        downloaded_ids.add(info.report_id)
-                        save_state(state_path, downloaded_ids)
+                    downloaded_keys.add(key_norm)
+                    save_state(state_path, downloaded_keys)
 
                     downloaded += 1
-                    log(f"Saved: {target.name}")
+                    log(f"Saved: {final_path.name}")
 
                 except PWTimeoutError:
                     log("Download failed: timeout")
                 except Exception as e:
                     log(f"Download error: {e}")
 
-            # early stop if the table is sorted by newest first and we passed date_from
-            if page_dates and max(page_dates) < date_from:
+            # stop if the oldest date on this page is older than From -> next pages only older
+            if min_date_on_page and min_date_on_page < date_from:
+                log("Stop: reached older than From date")
                 break
 
-            if not click_next_page(page):
+            if stop_event.is_set():
+                log("Stopped")
                 break
 
-        save_state(state_path, downloaded_ids)
+            if not goto_next_page(page, log):
+                break
+
+            page_idx += 1
+
+        save_state(state_path, downloaded_keys)
         context.close()
         browser.close()
         log(f"Done. Matched: {matched} | Downloaded: {downloaded} | Folder: {out_dir}")
 
 
 # -----------------------------
-# Tkinter GUI (single page; output left)
+# Tkinter GUI (single page)
 # -----------------------------
 
 class App(tk.Tk):
@@ -964,8 +964,7 @@ class App(tk.Tk):
             row=0, column=0, sticky="we", pady=(0, 10)
         )
 
-        # Log statistics
-        lf1 = ttk.LabelFrame(controls, text="Log statistics")
+        lf1 = ttk.LabelFrame(controls, text="Log statistics (file or folder)")
         lf1.grid(row=1, column=0, sticky="we", pady=(0, 10))
         lf1.columnconfigure(0, weight=1)
 
@@ -975,14 +974,15 @@ class App(tk.Tk):
         ttk.Label(lf1, text="Path").grid(row=0, column=0, sticky="w")
         ttk.Entry(lf1, textvariable=self.local_path_var).grid(row=1, column=0, sticky="we", pady=(0, 6))
         ttk.Button(lf1, text="Choose file", command=self._pick_local_file).grid(row=2, column=0, sticky="we")
-        ttk.Button(lf1, text="Choose folder", command=self._pick_local_folder).grid(row=3, column=0, sticky="we", pady=(6, 6))
+        ttk.Button(lf1, text="Choose folder", command=self._pick_local_folder).grid(
+            row=3, column=0, sticky="we", pady=(6, 6)
+        )
 
         ttk.Label(lf1, text="Only player").grid(row=4, column=0, sticky="w")
         ttk.Entry(lf1, textvariable=self.local_only_player_var).grid(row=5, column=0, sticky="we", pady=(0, 6))
         ttk.Button(lf1, text="Analyze", command=self._analyze_local).grid(row=6, column=0, sticky="we")
 
-        # Download reports
-        lf2 = ttk.LabelFrame(controls, text="Download reports")
+        lf2 = ttk.LabelFrame(controls, text="Download reports from website")
         lf2.grid(row=2, column=0, sticky="we", pady=(0, 10))
         lf2.columnconfigure(0, weight=1)
 
@@ -1009,13 +1009,13 @@ class App(tk.Tk):
         self.btn_dl_start.grid(row=9, column=0, sticky="we")
         self.btn_dl_stop.grid(row=10, column=0, sticky="we", pady=(6, 0))
 
-        # Overall stats
         lf3 = ttk.LabelFrame(controls, text="Overall statistics (downloaded site logs)")
         lf3.grid(row=3, column=0, sticky="we")
         lf3.columnconfigure(0, weight=1)
 
         self.ov_folder_var = tk.StringVar(value=str(Path.cwd() / "site_logs"))
         self.ov_dedupe_var = tk.BooleanVar(value=True)
+        self.ov_min_matches_var = tk.StringVar(value="20")
 
         ttk.Label(lf3, text="Folder").grid(row=0, column=0, sticky="w")
         ttk.Entry(lf3, textvariable=self.ov_folder_var).grid(row=1, column=0, sticky="we", pady=(0, 6))
@@ -1025,10 +1025,13 @@ class App(tk.Tk):
             row=3, column=0, sticky="w", pady=(0, 6)
         )
 
+        ttk.Label(lf3, text="Min matches per player").grid(row=4, column=0, sticky="w")
+        ttk.Entry(lf3, textvariable=self.ov_min_matches_var).grid(row=5, column=0, sticky="we", pady=(0, 6))
+
         self.btn_ov = ttk.Button(lf3, text="Compute", command=self._start_overall)
         self.btn_ov_stop = ttk.Button(lf3, text="Stop", command=self._stop_overall, state="disabled")
-        self.btn_ov.grid(row=4, column=0, sticky="we")
-        self.btn_ov_stop.grid(row=5, column=0, sticky="we", pady=(6, 0))
+        self.btn_ov.grid(row=6, column=0, sticky="we")
+        self.btn_ov_stop.grid(row=7, column=0, sticky="we", pady=(6, 0))
 
     def _clear_output(self):
         self.out_txt.delete("1.0", "end")
@@ -1136,6 +1139,12 @@ class App(tk.Tk):
             messagebox.showerror("Error", "Folder not found")
             return
 
+        try:
+            min_matches = int(self.ov_min_matches_var.get().strip())
+        except Exception:
+            messagebox.showerror("Error", "Min matches must be a number")
+            return
+
         dedupe = bool(self.ov_dedupe_var.get())
 
         self._ov_stop.clear()
@@ -1147,7 +1156,7 @@ class App(tk.Tk):
 
         def run():
             try:
-                report = overall_stats_from_site_folder(folder, dedupe, progress, self._ov_stop)
+                report = overall_stats_from_site_folder(folder, dedupe, min_matches, progress, self._ov_stop)
                 self._q.put(("ov_out", report))
             except Exception as e:
                 self._q.put(("ov_out", f"Error: {e}\n"))
