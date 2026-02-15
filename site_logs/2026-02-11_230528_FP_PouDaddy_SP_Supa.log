@@ -1,0 +1,797 @@
+<auto> silent null
+<auto><~Scribe.141~>363 397 398 402 401 400 399 403 404 376 375 374 373 377 378 <~Scribe.142~><~Game.2038~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>365 366 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 367 368 369 370 371 372 <~Scribe.142~><~Game.2040~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>155 152 <~Scribe.142~><~Game.2004~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>137 151 <~Scribe.142~><~Game.2005~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>161 198 <~Scribe.142~><~Game.2006~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>163 188 <~Scribe.142~><~Game.2007~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto> noisy null
+<~Game.7~>1 null
+<auto> silent null
+<auto><~Scribe.141~>363 397 398 402 401 400 399 403 404 376 375 374 373 377 378 <~Scribe.142~><~Game.2038~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>365 366 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 367 368 369 370 371 372 <~Scribe.142~><~Game.2040~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>155 152 <~Scribe.142~><~Game.2004~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>137 151 <~Scribe.142~><~Game.2005~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>161 198 <~Scribe.142~><~Game.2006~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>163 188 <~Scribe.142~><~Game.2007~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto> noisy null
+$base silent null
+$TEST<~Scribe.141~>312 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1965~><~Scribe.144~> null
+$TEST<~Scribe.141~>240 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.1998~><~Scribe.144~> null
+$base noisy null
+$base silent null
+<auto><~Controls.281~>363 <~Controls.282~>Spare<~Controls.283~><~Game.2038~> null
+<auto><~Controls.281~>366 <~Controls.282~>Spare<~Controls.283~><~Game.2040~> null
+<auto><~Controls.281~>365 <~Controls.282~>Spare<~Controls.283~><~Game.2040~> null
+$base noisy null
+<game> Supa<~Controls.408~>[WOTR-Gandalf2 wotr expansion2[L]] null
+<~Talker.31~> null
+<PouDaddy> hello 
+<Supa> Heya, how's it going? 
+<PouDaddy> good, how are you? 
+<Supa> doing great, even better now that I get to play Lome :) 
+<Supa> any preference what to play first? I guess no tokens needed? 
+<PouDaddy> should be an easy win for you...I'm the venting King 
+<PouDaddy> yeah and I hate house rules anyways 
+<Supa> hah! 
+<PouDaddy> I have no preference 
+<PouDaddy> up to you 
+<Supa> I roll, 1-3 I am FP first 
+<game> Supa<~Controls.1~> 5 null
+<Supa> ok, shadow for me 
+$PouDaddy<~Controls.464~>AFA9F18226E97A8AF15853625A01B2BD851F795A A975502C982533EAAAC675993C0EEF12 28 A7157E8FAD2C82089767B13C2ADA3FFAA515663B 60351612E5E04DC907F97A71C9385C3E ACA89185EBA98A148FBB3C602CDA19758F430371 7E0819B97D15507F09C33435D7C4C82F 5B60B9149132F637378FE2DB77FBC5DB2FA8AFFF A5E1352729C5943D82827EAF5CD4FD0B BA793C6A599EEBCC59AF8E666F30CE4F74CF115C 9EDC6D29A407BE199FDF3BADF2E07FD2 93503CC4C8570F882498406824F4DE60C54733BE 564468DD4A32296F916C6989A60C4053 0E682CA4897FDF94EFDE16CEBBF023CF049797CE 297500F80F4751F16F1BA5510F2CD1BC 05E4445EB2227BD97EF22216490F994EB42A44AA 621F599BB2DE74E95AAE2D16A2DD1AC4 1CC6C40272F175CD39E1D26EAED60F8035BED525 02AE827E3102744DE185A606454256CB 0CB0EF96F089316FEB2FC0E426EEAF3637C253A2 C0D55A157FA72DE4A771DFF9212BC5C6 1774742001F2D2146CC2D2F649E0CF5B18ACBC9D 5190279D74C5EB7B4367B6B0BBD04DD3 9A95CD4DB05727FBA5896F8B704D01EFECFBC1C7 E907D0410433E87C67432375466732C3 382F3589E434AF0AF9DAE5261D976056BD71872F 0037BA8CB3C5E37B43F9DBF43224BD20 8F239C7DE9F71D91432058674C48FF2960252F92 59407C9148636C322BD4015508892EF3 54F0AAB6BB467E725466645C0CFFF6348E3A1715 3FC3FCB1C0FA05B376AF2E507907C5A8 47D63D42D106D3EF5E7B7144A670B21C27405777 11B08DBB8598354AA94843B4B35292F6 FF4875677ADB1D634D3D8683BC30E204FF07841B 016141ADDF09AD31D50FC627F6F143E5 C5A46F04C6693DFEDE1C4D608F1EDD968AD1B773 18FB71D5AAC3C8AB3D1AB4C167E84916 81D5C080BFBCCBBBE1A721A16D64839F8ACDAF20 7C5B6F8D490079E23B1B9C9824861F18 937EB29BA14B57628589BC900068469298F0274C F514C89EDA48CAC86387F50897B62740 A7CAC588CAED075CF64668CA1C1FB5CB4533DDFB AD41E601ABDDD080E845247D0F60CF65 ADDED199C5D4BDD909D05FF5BD4C2F046D8EEC8A 372D01E2EBB1FD5B3E94BB0D8CA8BD4A 3B407D0ED7184C5B1FC299FA1BC77A26628B22CF D21AF1A2A4EE1A5901009954DA3303D0 FDBB8007E41CDD51AEDFA91AFE8DBE6464474562 EDAB828AE8309924159B9A63E0AEB6FD DB4CC3DF54F6B2DDEF86D3D95ADC4CB47056D231 EEAABBEC4AF7B5A40DCE4176393C7E9A 9FCB5A45DFD3F796D485FB20FF77AE506AF5AEE8 2E3E5B9990F29646D06CC6CE03966AB0 629299CBDF1210DBE78773F9A07CAAA16D7CFA3F 48C7FB54A62DFDCA79F13341F7F8810D CAEF200C9FA73273BF2104CFCC16DE50B599A5F3 93F2DC71D440EEA37F016564BA2CA60D 92111A2B9AF21FD61C08A35AD6C481679D1EA06C ECBAC0F73304E1EF15A14FC7723D62DA 26 98E3D43B338B5EF0916248C39122CFEDD1ED67A1 B865AE0F5C75DE55D3B856139BBAE1B0 8A0ABB3E54BF0262C79E65153645023222D7449B 28BB1AB463C4DEFF96D17BC81A8F1CA0 2FF704F7D88C01559145472E015CD2592D4CC86F BFFE249803BCB568A32A967891C65FDE 738EB4DC761D897A59F54E497A4907F602D5B264 116C8C351AF960D8128E62B1F5D30C2F 2619A5194E89AD6C628AC1BA394C63156A25BD64 CC3BFA6057A5BD1F698791645E2DEE8C 3F6ABE1B8E50B6A7C06AC843475E0F9DEDA1BBAD FC74785331A9D24287E02FB71E511934 C1F78FAA96CC97907C8D037B79B1C8943D688A2F 8A0EAEF61A893752C3881F0114884355 FAEB3E3CBC81A3329283D7C30614BFE4723545C2 0525FD63F461EF37544A151841F9EFE4 CDFC9CD3712327127076F279065BBC14680CEF7C A44828E5C4B892E5F2F1F1199BE232A0 0B6242936136796E921E4181C81D27013859F55A 8B27F09BA4111A48BDCC93FE210B2F20 CD5E4F57ADE554F2B67824CEF3273D1B0841733B 4D186B05FE8146045EA0A7A32FC22F9A A888C8D449D702B976FB4B01E44CB7DD4CC0A141 B248EC59F6B1C4146B81CE8313009335 D418BF8A0EF443C1298E1DE18AE2BAAA182A700C B99468DB2801FA730F2CE03FDF7BDC07 E7B909AD68AD217ABDFADFDBF3C0ACF335502C80 DF49A34693C2327EEAC267D380CA8333 D8B4F63CF365B01CC85EBB3467490BFC25FB4AB8 A15A4D1FD4C3E3583618F3260FDB9C14 5CFB69F9F834B306AF6503DC4F1867E5B85478C4 40C6E588969320882AE5AA8167649B28 62967EC42B7CD1EC8B38182D44D8854849A885F1 C338D2E5483B8BC7A2932C92F7176799 77646C8184A9579EF3A3A28F28EA53905754335B 422713E8116019FFFF7D04BBD8ADFF40 BEF954E746F557776B788D81CDE5F281BBEB6ED2 60EC66FB00FF55C14CC9B17B211E4D27 49106274F792B16673A398D0AF6486E1F643AAA0 19A9E39B88388697A13D0B127A9BA908 63EFEE2DAAD7DE17FC4D267491FAA18205057216 BDED47EE2BDF8A9BCCC06E4BEF227856 9BD184EF3F4B56D58B1852289197164290F31269 3B6FBEB474BDBF962D579B5706B5F364 3AA45201EC43CD350BB3F125231FF6734EB87EB0 A24CD1F329C7B45BE0CEAFD2128C9077 F5CD92C19CA7B811E50F8137095B0D5A91BB6E83 E5A80D7CC1A9AC152179C616C9E30909 9F19412DE30FDC00FD9D305D0CA2EFF196EF0C71 DE9CA04D13708F47EC9548CA1426CCCA 01E1323D3934AB035FCE654B897AB17325AEA68F 95C542E8502DB793E4559A0426911442 0 0 E39FA6
+<auto> wait 
+<auto> nowait 4360EA
+$PouDaddy names 240 Gandalf1 98D610
+$PouDaddy names 244 Boromir2 A0A38C
+$PouDaddy names 241 Strider1 9483D5
+$PouDaddy names 242 Legolas1 F009FF
+$PouDaddy names 245 Merry1 8A3262
+$PouDaddy names 243 Gimli1 D736CC
+$PouDaddy names 246 Pippin1 E63E2F
+$PouDaddy<~Scribe.141~>240 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> 9402B5
+$PouDaddy<~Scribe.141~>428 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.2037~><~Scribe.144~> F7155A
+$PouDaddy<~Controls.345~>428 <~Controls.346~>1 null
+$PouDaddy<~Controls.281~>428 <~Controls.282~><~Game.2037~><~Controls.283~><~Game.2042~> BF76DA
+$PouDaddy<~Controls.509~>107<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$PouDaddy<~Controls.509~>106<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$PouDaddy<~Scribe.141~>244 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1944~><~Scribe.144~> 13EB55
+$Supa<~Controls.479~>B6A0C1F859EE083D4D41421D0D52591C4AB550A7 001F34972C9265354B33F777DCBD7FD8 28 0EED0FE01182C2077B51A710071A5DF9838476DA E6231A9FDEBBB2D4EF46833BCFA80141 633D4EF6833260C207467070888A7AB1FAD931E9 86089796CA9FE037CC7C56D1487418BD D2681AA93A1F1C4CE4A39D7DDFFAE56A280D02FA 541479528ACF1C553B2E409C8C5110B2 F4DA80EA641813FF9BE2F314D7F57B3B0D5DF192 46DB8E40D1A82B8AAF1744A08A394099 4822955C12787911BCFF31A58522B8241BB2B066 939DDA97E333028B1748EA0277B256DB 77FFFF1A964C9DE4D5481AA958FE3279EF3DCCBF BD5F352E46F57A7B872294DB9ADA349F D972A3E982C5168F791FD7CE504A2CCF7F1F3840 D2FEBC2AB9A619751656ED1864CCEE37 5DC34664B14AA93204BF12E9380C503B1187641C EDC458D0650B9D4009F09940C3AF6517 05919C3FF9ACE5E7AC4B50D1B7644E3039D04609 0342540652535D6B30ECB09CB70C611D 8810094D5A7E88333FCDA75B7A14D7F961DC41CB DB6CC83E1CC268BD90E7A4092433523B 799F4EF8E9098596CC65E25CB3F6D46F164ABA3D 5E50874FE58C370642D932EDEACB453C 02883E2FAC76F69CAB99E989E6878053383D64F9 10C9BEB28D23EB059AF508F632E734EC C297DC19580C225CC827A1EE4D13AC24610FEE84 DE16CB2420599C278A1F568A0A1C284B 7F3137901D42F769F5F0E2B49481CC82E3685495 1947FA6C901F7FC1488C9453348DB434 A5C014A439CE14C42D8ADE7126B12A02A439299C C2BA8D4BA3CAD9882E7DE8153BE78344 A9A1D0EFB4F6913F873F94387E8B13D40CFFA4DD 084D57882E0E39F5E2339613C6AB1572 1D243BA9F57C460A12F92BC3E71A498470FD8CED 0EDE2337832B29FFB684A01F305EF921 A4ECAC14E40F3A4B67B6D653683FCE851999AA1A F045FDC12702503E51ABD3575765A656 D9AAA8E2AD1E71B4FD38E54E54CBEF4331BD0917 07F469B1C8F74A208E45964CB3B60F68 0FE5997CE4B63AB8AAA2CFEF224F4B361515518F 6CBE70906DEB6E30A498144EAB9E5EB4 1CA48C8E58E3068DED68272BC63693F4234D7002 BBA58B81EFA7B70F8684F838233A2127 D930D7C57DC7B5F243864901DDAEDC81F5204F54 19911CFBA789175F8BC922A35975EE23 3E1973C46914DF3CABC6EC2F35AF4A339F724654 7746A3C9684B2F04518400C9F1A34A4F A68C940F83E7D814D904D4C2F3CA1D9F087611D6 17232484AF2E8194DF0362504D06B529 9032C53A216A2A992C12EC7C7D3149FE9F151C3C 4E58237819F3B184095E667C22D07756 0B2EBFA71F839C1F595DE829B416B2983F8F443F 8CB0901E14519DDB186661094784596F 2CE9D9FF90FCFB0BA6BCD7B7EEAD9636265FDF69 99203C16D9EB2A73A9E9D7BDD0B9E738 F96AAE1A466DEAD5DB2EEEAC17996B1CF65D347C 21A92B9B99EE2B4ED55708195B9E0006 26 E25C64D48669F8295B71ED7346A0D3E3BC2F0EBF 724CAF70F6C858BA92363416A9C9C1CD 978BE4E9E019EA571E84447B71B4EDDC65C686C5 831C982EB4BE090B580A41107036586A 6B2B041D57614BC9B7A1BC4B0F418CC7E188F238 37A5C314B03EBCDB07948DA16E749642 57BA9673F80F046B058064C8ABBC1DAF5B984A3D E3367DB31035225407894242C167F330 594E03663312E2C633FFD5492033A2D01C56DF5F 0DD54A5FBBCC97A9B02934227529E551 689E99533BC78601DE895AAE3DDF16950427DEB8 77CDD3130B54AF96EC59DCAC5FDDB0D6 0829E8D6F58AC5A4317CD2D02CDAB40AF7066560 5B3BEBE7C1384A301B204B9428910172 8FDCFB2559D3B1B3C649ECD7C023F6FC2275B029 F7FAA8D4394FB10B36AE6595AC78252E 4B7721F47EAA9C83B21D7E934224D210B80CC80A 4BD11F67DED88D313659AA32841BF2CA 65A08614693B362A9D9F421D3FED148DFF250C26 20CCE717DFFDC7B1B62232D5E1474548 7CAE28EA87EDA46DA428533B177963A7789DE86C 4C1EA0D122AE669BD7B80E749BDE213B 58092BD995A66B7F121FDF62E70AF0D16EB91E47 34FCFB87781DD89C6310AE8A89CCC483 946B6B706AB97FAD7C0817F807E331CBBF86104A 923C2248124FC91334FDDAA512C5FF13 445EC9227D0D66937605BC0A60974FD995570A44 78C15F89346426FBD66C84A60492ECA3 AF124DD58EE0A5FEFA126F6604C43A8ECAF234D0 95EDA8A628A244096B27EB6FA40CE580 09C96E11EF0602DA9A6FF2C5C8F9E70BB7D498D2 B5A966BE7463D2BACF3A70960514D96C 37A04441902E09D7B46AF801C09FBD478AF4CE14 8EBECFF24E6838B8FC733CBB9D14DDBB 1E90542837F717B0578BC61DF6E4F7DC5F09E744 B886D761503ADB6DAE8A9B2114F56048 9FC415BC8CF748BEBEF5FD049F880548DFF72B03 FD3CC7A46797623B49E36B2B5F7C284D 391EC7C5DACBC2F291BE9735230EBE508A14E2D1 D36A273D111818E6FA0AAE640D851BE4 5C21E3711837C8AF4D85EE76FCA35DCCC64D1157 253BF3CAC784CD0D1D524D99E1919593 1F8126D86D860ED5F19CE80F08588B576B657533 59B56707B78ECE05DE28EDBDA097418E EBF7568BA4A5DA051C3D6915D5F5753991CB9B95 8E245D54B5DF685B22221DC32A1008BD 1AB1DF183A3E00EA04BCBA10C3B17D8D89C446F4 252F39CA73B5D06CA7C00F64CFAA6254 53AA9EC963985F15E804A9A5E78DBB07AAC5F14E 83626C62F07BD71C69720EB5DB2DCA27 298732BBAEC0FA159A5053FCFD917283C53A7EF4 143756822E1B4DFD475EA754725D288C 0 0 B907AB
+<PouDaddy> fsp ok, boromir out 11B8C4
+<PouDaddy> glhf DF6A1F
+$Supa<~Controls.509~>158<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Supa<~Controls.509~>448<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<Supa> gl hf! 0e 427556
+$Supa<~Controls.345~>105 104 103 102 101 100 099 <~Controls.346~>15 15 11 15 11 10 13 null
+$Supa<~Controls.350~>105 104 103 102 101 100 099 null
+$PouDaddy<~Controls.345~>428 213 212 211 210 <~Controls.346~>1 0 3 1 1 null
+$PouDaddy<~Controls.271~>428<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 24C4E8
+$PouDaddy<~Controls.509~>433<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$PouDaddy<~Controls.644~>428 <~Controls.645~><~Game.2035~> E44B6D
+$Supa<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 00A299
+$Supa<~Scribe.141~>262 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> C0A590
+$Supa<~Controls.644~>100 <~Controls.645~><~Game.2035~> 845E86
+$PouDaddy<~Controls.271~>210<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 6A6200
+$PouDaddy<~Scribe.141~>241 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1917~><~Scribe.144~> DA4CE2
+$PouDaddy<~Controls.644~>210 <~Controls.645~><~Game.2035~> 0F92E4
+$Supa<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> AB2C07
+<Supa> hmmm 7790B1
+$Supa<~Scribe.141~>040 035 015 014 013 012 011 <~Scribe.142~><~Game.1956~><~Scribe.143~><~Game.1958~><~Scribe.144~> 814A4A
+$Supa<~Scribe.141~>039 036 029 028 027 026 <~Scribe.142~><~Game.1979~><~Scribe.143~><~Game.1977~><~Scribe.144~> E0A568
+$Supa<~Controls.644~>101 <~Controls.645~><~Game.2035~> ABC737
+$PouDaddy<~Controls.271~>211<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 8346DE
+$PouDaddy<~Scribe.141~>241 <~Scribe.142~><~Game.1917~><~Scribe.143~><~Game.1937~><~Scribe.144~> F51C04
+$PouDaddy<~Controls.644~>211 <~Controls.645~><~Game.2035~> C4D43C
+$Supa<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 16ED70
+$Supa<~Scribe.141~>040 035 015 014 013 012 011 <~Scribe.142~><~Game.1958~><~Scribe.143~><~Game.1957~><~Scribe.144~> F55FAB
+$Supa<~Scribe.141~>039 036 029 028 027 026 <~Scribe.142~><~Game.1977~><~Scribe.143~><~Game.1974~><~Scribe.144~> 612CE3
+$Supa<~Controls.323~>258 82CA4E
+$Supa<~Controls.644~>103 <~Controls.645~><~Game.2035~> DEC59E
+$PouDaddy<~Controls.271~>212<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 1CD415
+$PouDaddy<~Scribe.141~>251 <~Scribe.142~><~Game.2010~><~Scribe.143~><~Game.2013~><~Scribe.144~> 5E40DF
+$PouDaddy<~Controls.323~>251 D6FA19
+$PouDaddy<~Scribe.141~>241 <~Scribe.142~><~Game.1937~><~Scribe.143~><~Game.1944~><~Scribe.144~> 8F7871
+$PouDaddy<~Controls.644~>212 <~Controls.645~><~Game.2035~> B45C2D
+$Supa<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 915B19
+<Supa> WLR 9BD4E4
+$PouDaddy<~Scribe.141~>098 094 088 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1991~><~Scribe.144~> 15331A
+$Supa<~Scribe.141~>256 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> 4760FE
+$Supa<~Scribe.141~>040 035 015 014 013 012 011 <~Scribe.142~><~Game.1957~><~Scribe.143~><~Game.1954~><~Scribe.144~> CA7C0E
+$Supa<~Controls.644~>099 <~Controls.645~><~Game.2035~> 1E2352
+$PouDaddy<~Controls.271~>213<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 2556FA
+$PouDaddy<~Controls.323~>241 85BEC0
+$PouDaddy<~Controls.323~>260 292231
+$PouDaddy<~Scribe.141~>359 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.2037~><~Scribe.144~> 44C3D1
+$PouDaddy<~Controls.644~>213 359 <~Controls.645~><~Game.2035~> 9A9BE0
+$PouDaddy<~Controls.731~>213 359 212 211 210 428 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 13E5AB
+$Supa<~Controls.757~>105 104 102 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 06DBDA
+<~Game.7~>2 null
+$Supa<~Controls.762~>099 103 101 100 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 350035
+$PouDaddy<~Controls.509~>136<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$PouDaddy<~Controls.509~>153<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Supa<~Controls.509~>203<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Supa<~Controls.509~>207<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$PouDaddy<~Controls.281~>428 <~Controls.282~><~Game.2042~><~Controls.283~><~Game.2039~> 36F92C
+<PouDaddy> fsp ok EFC74C
+<Supa> 0e 11139D
+$Supa<~Controls.345~>099 103 101 100 105 104 102 <~Controls.346~>12 12 12 13 12 14 12 null
+$Supa<~Controls.350~>099 103 101 100 105 104 102 null
+<PouDaddy> 0e in lome is very interesting strategy 95AAD9
+$PouDaddy<~Controls.345~>213 359 212 211 210 <~Controls.346~>2 1 1 1 1 null
+<PouDaddy> pass BA1C9B
+<Supa> I do not have much experience with lome 5FF359
+<Supa> but it is strange - if I allocate an eye, I roll no movement or muster 02A451
+<Supa> so the choice is always wrong whatever I do :) 144C83
+$Supa<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 22AA6C
+$Supa<~Scribe.141~>039 038 <~Scribe.142~><~Game.1974~><~Scribe.143~><~Game.1954~><~Scribe.144~> 3D8793
+$Supa<~Scribe.141~>037 <~Scribe.142~><~Game.1969~><~Scribe.143~><~Game.1954~><~Scribe.144~> B83302
+$Supa<~Controls.644~>100 <~Controls.645~><~Game.2035~> 42F481
+$PouDaddy<~Controls.271~>210<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 1507FA
+$PouDaddy<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 8B0535
+$PouDaddy<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 7D303F
+$Supa<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> C6D8D4
+$Supa<~Controls.509~>204<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Supa<~Controls.644~>104 <~Controls.645~><~Game.2035~> E7B250
+$PouDaddy<~Controls.271~>211<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 705FD9
+$PouDaddy<~Controls.790~>248<~Controls.791~><~Game.2015~><~Controls.792~><~Game.2016~> 782B22
+$PouDaddy<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> E11DA8
+$Supa<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 9E7873
+<Supa> WLR 45BA0B
+$PouDaddy<~HighlightLabel.96~>256<~HighlightLabel.97~><~Game.2001~><~HighlightLabel.98~><~Game.2002~> 8B071D
+$Supa<~Controls.840~>204 63702B
+<auto> playchosen A0C4EC
+<auto><~Controls.866~>reveal 204 1A468F7BE3BBCC93ED7A8D70954B75227EC5D4DC 1<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 4BE375
+<game> Supa<~Controls.1~> 6 3 2 1 3 null
+<game> Supa<~Controls.1~> 2 3 1 2 null
+<Supa> 1 3B6729
+<game> PouDaddy<~Controls.1~> 4 5 null
+<PouDaddy> 1 3F9BDC
+$Supa<~Controls.296~>011 <~Controls.297~><~Game.1954~> E354E1
+$PouDaddy<~Controls.304~>094 <~Controls.305~><~Game.1991~> D647D6
+$PouDaddy<~Controls.313~>269 <~Controls.307~><~Controls.314~><~Game.1991~> E9D2BB
+<Supa> stop 5BE7E5
+$Supa<~Controls.644~>102 204 <~Controls.645~><~Game.2035~> D18F98
+$PouDaddy<~Controls.271~>212<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 6924C2
+$PouDaddy<~Controls.790~>248<~Controls.791~><~Game.2016~><~Controls.792~><~Game.2017~> ED3100
+$PouDaddy<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 2CD999
+$Supa<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> F64CFC
+$Supa<~Scribe.141~>055 049 048 047 <~Scribe.142~><~Game.1968~><~Scribe.143~><~Game.1946~><~Scribe.144~> A20C89
+$Supa<~Scribe.141~>036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1974~><~Scribe.143~><~Game.1976~><~Scribe.144~> 6DA72A
+$Supa<~Controls.644~>105 <~Controls.645~><~Game.2035~> 5E97F1
+<PouDaddy> pass 5FB773
+$Supa<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 735E54
+<Supa> WLR 5D8049
+<Supa> nc FBC0B8
+$PouDaddy<~HighlightLabel.101~>256<~HighlightLabel.102~><~Game.2002~><~HighlightLabel.103~><~Game.2003~> D3DA85
+<PouDaddy> nc 63E17A
+<game> Supa<~Controls.1~> 6 4 1 3 6 null
+<Supa> 2 27B162
+<game> PouDaddy<~Controls.1~> 2 6 null
+<game> PouDaddy<~Controls.1~> 1 null
+<PouDaddy> 1 3EC241
+$PouDaddy<~Controls.296~>098 269 088 <~Controls.297~><~Game.1991~> 1AC45F
+$Supa<~Controls.304~>035 <~Controls.305~><~Game.1954~> C14368
+$Supa<~Controls.313~>011 <~Controls.307~><~Controls.314~><~Game.1954~> C6C2AD
+$Supa<~Scribe.141~>423 <~Scribe.142~><~Game.27~><~Scribe.143~><~Game.29~><~Scribe.144~> 2B3D14
+$Supa<~Controls.644~>101 <~Controls.645~><~Game.2035~> FEA758
+$PouDaddy<~Controls.271~>359<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 7AF567
+$PouDaddy<~Controls.790~>248<~Controls.791~><~Game.2017~><~Controls.792~><~Game.2018~> A6FBD1
+$PouDaddy<~Controls.795~>359<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> DD4457
+$Supa<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 5A6243
+$Supa<~Scribe.141~>036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1976~><~Scribe.143~><~Game.1964~><~Scribe.144~> EE2CAF
+$Supa<~Scribe.141~>032 031 030 <~Scribe.142~><~Game.1977~><~Scribe.143~><~Game.1969~><~Scribe.144~> A1573A
+$Supa<~Controls.644~>103 <~Controls.645~><~Game.2035~> D6F73C
+$PouDaddy<~Controls.271~>213<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> F719B8
+$PouDaddy<~Scribe.141~>reveal 136 D0EF1B50D42104F4003B06A2B8ABFACF419CC821 22 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2029~><~Scribe.144~> 35C76C
+$PouDaddy<~Controls.644~>213 <~Controls.645~><~Game.2035~> 1275A4
+$Supa<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 0A7A2F
+<Supa> Osgiliath 5BAEF9
+<Supa> nc 467DEB
+$PouDaddy<~HighlightLabel.96~>260<~HighlightLabel.97~><~Game.2001~><~HighlightLabel.98~><~Game.2002~> 6D134B
+<PouDaddy> nc F132C9
+<game> Supa<~Controls.1~> 5 2 1 2 6 null
+<Supa> 1 F0911C
+<game> PouDaddy<~Controls.1~> 1 1 null
+<PouDaddy> 0 00E0CD
+<Supa> press F08DC9
+$PouDaddy<~Controls.296~>079 <~Controls.297~><~Game.1943~> 76F6CA
+$PouDaddy<~Scribe.141~>080 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.1931~><~Scribe.144~> A6B7F6
+$Supa<~Scribe.141~>036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1964~><~Scribe.143~><~Game.1943~><~Scribe.144~> EA3765
+$Supa<~Controls.644~>099 <~Controls.645~><~Game.2035~> DD9285
+$PouDaddy<~Controls.726~>359 212 211 210 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 42624C
+$PouDaddy<~Controls.731~>213 428 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 99B47C
+$PouDaddy<~Controls.509~>133<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$PouDaddy<~Controls.509~>118<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Supa<~Controls.762~>099 103 101 105 102 104 100 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 4D740F
+<~Game.7~>3 null
+$Supa<~Controls.509~>168<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Supa<~Controls.509~>189<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<PouDaddy> fsp ok D89674
+<Supa> 1e 450F0F
+$Supa changes 100  to E 4E6C87
+$Supa<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> 631272
+$Supa<~Controls.345~>099 103 101 105 102 104 <~Controls.346~>10 14 14 10 14 12 null
+$Supa<~Controls.350~>099 103 101 105 102 104 null
+$PouDaddy<~Controls.345~>213 428 359 212 211 210 <~Controls.346~>0 3 2 0 1 1 null
+$PouDaddy<~Controls.271~>428<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 4A1306
+$PouDaddy<~Scribe.141~>363 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1928~><~Scribe.144~> CD1E3D
+$PouDaddy<~Scribe.141~>429 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.2037~><~Scribe.144~> 2BA61B
+$PouDaddy<~Controls.345~>429 <~Controls.346~>0 null
+$PouDaddy<~Controls.644~>428 429 <~Controls.645~><~Game.2035~> 4B8CE7
+$Supa<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> E5D9A6
+<Supa> MT 2B5821
+$PouDaddy<~Scribe.141~>241 244 085 084 083 082 081 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.1994~><~Scribe.144~> 87C567
+$PouDaddy<~HighlightLabel.101~>260<~HighlightLabel.102~><~Game.2002~><~HighlightLabel.103~><~Game.2003~> 78DB0E
+$Supa<~Scribe.141~>036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.1944~><~Scribe.144~> 55CD71
+$Supa<~Controls.644~>104 <~Controls.645~><~Game.2035~> 68BC9A
+$PouDaddy<~Controls.271~>210<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 219C2A
+$PouDaddy<~Controls.790~>248<~Controls.791~><~Game.2018~><~Controls.792~><~Game.2019~> 9438DF
+$PouDaddy<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> B342F8
+<game> Supa<~Controls.1~> 5 null
+$Supa<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> DE14D9
+$Supa<~Scribe.141~>263 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 27AFB3
+$Supa<~Controls.644~>105 <~Controls.645~><~Game.2035~> E3DC4F
+$PouDaddy<~Controls.271~>211<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 60CB99
+$PouDaddy<~Controls.790~>248<~Controls.791~><~Game.2019~><~Controls.792~><~Game.2020~> DC13F7
+$PouDaddy<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> DD50E8
+<game> Supa<~Controls.1~> 1 null
+$Supa<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> D27EA6
+$Supa<~Controls.509~>185<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Supa<~Controls.296~>158 <~Controls.297~><~Controls.46~> E24C8E
+$Supa<~Controls.644~>102 <~Controls.645~><~Game.2035~> 08FE3C
+$PouDaddy<~Controls.271~>359<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 36BB7B
+$PouDaddy<~CardBuffet.9~>reveal 118 A59422D153D7B7A5E7D66F08D96E7E08F1F3DCB0 19<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> E49D38
+$PouDaddy<~Scribe.141~>309 315 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1965~><~Scribe.144~> A6D4E4
+$PouDaddy<~Controls.644~>359 118 <~Controls.645~><~Game.2035~> CD311E
+$Supa<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> E57F39
+$Supa<~Scribe.141~>reveal 185 D2DCB42CC2D49B5A86E1A83A6A099F3534826F09 19 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2036~><~Scribe.144~> E52E97
+$Supa<~Scribe.141~>348 357 356 355 354 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1986~><~Scribe.144~> 2DC27D
+<PouDaddy> can't 40AE3E
+<PouDaddy> they're not at war D7CC58
+$Supa<~CardBuffet.3~>185 <~CardBuffet.4~><~Game.2036~><~CardBuffet.5~><~Controls.46~> A7C4C7
+<Supa> good point 47D56D
+$Supa<~Controls.281~>355 354 052 051 050 <~Controls.282~><~Game.1986~><~Controls.283~><~Game.2040~> DADC50
+$Supa<~Scribe.141~>reveal 168 78CEE6BEF0115AE1DB75B70A35268D16CE7257E9 19 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2030~><~Scribe.144~> BB5A4B
+$Supa<~Controls.644~>101 <~Controls.645~><~Game.2035~> 0BE092
+$PouDaddy<~Controls.271~>212<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> C54366
+$PouDaddy<~Controls.790~>248<~Controls.791~><~Game.2020~><~Controls.792~><~Game.2021~> 4B7C13
+$PouDaddy<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 3061BF
+<Supa> not using flocks 91EFFC
+<game> Supa<~Controls.1~> 5 null
+$Supa<~Controls.624~>231<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$PouDaddy<~Scribe.141~>364 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1999~><~Scribe.144~> 3585D1
+$PouDaddy<~Scribe.141~>240 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.1998~><~Scribe.144~> A1D040
+$PouDaddy<~Controls.644~>231 <~Controls.645~><~Game.2035~> 100E0C
+$Supa<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> C67B12
+$Supa<~Scribe.141~>254 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1919~><~Scribe.144~> 9A4604
+$Supa<~Scribe.141~>362 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2036~><~Scribe.144~> 7A80BD
+$Supa<~Controls.644~>099 362 <~Controls.645~><~Game.2035~> 486A73
+$PouDaddy<~Controls.271~>213<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> C5DF81
+$PouDaddy<~Controls.790~>248<~Controls.791~><~Game.2021~><~Controls.792~><~Game.2022~> 493075
+$PouDaddy<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 4A6806
+<Supa> not using B80E32
+<game> Supa<~Controls.1~> 4 null
+$Supa<~Controls.624~>216<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$PouDaddy<~Scribe.141~>136 <~Scribe.142~><~Game.2029~><~Scribe.143~><~Game.2036~><~Scribe.144~> D374DC
+$Supa<~Scribe.141~>168 <~Scribe.142~><~Game.2030~><~Scribe.143~><~Game.2029~><~Scribe.144~> 3A09F5
+$PouDaddy<~Scribe.141~>247 <~Scribe.142~><~Game.1911~><~Scribe.143~><~Game.1915~><~Scribe.144~> 45508E
+$PouDaddy<~Scribe.141~>247 <~Scribe.142~><~Game.1915~><~Scribe.143~><~Game.1912~><~Scribe.144~> B1A916
+$PouDaddy<~Scribe.141~>247 <~Scribe.142~><~Game.1912~><~Scribe.143~><~Game.1917~><~Scribe.144~> C43605
+$PouDaddy<~Scribe.141~>247 <~Scribe.142~><~Game.1917~><~Scribe.143~><~Game.1927~><~Scribe.144~> 9B15E6
+$PouDaddy<~Scribe.141~>247 <~Scribe.142~><~Game.1927~><~Scribe.143~><~Game.1930~><~Scribe.144~> 33A034
+$PouDaddy<~Scribe.141~>247 <~Scribe.142~><~Game.1930~><~Scribe.143~><~Game.1937~><~Scribe.144~> 99AE61
+$PouDaddy<~Scribe.141~>247 <~Scribe.142~><~Game.1937~><~Scribe.143~><~Game.1948~><~Scribe.144~> 71280E
+$PouDaddy<~Scribe.141~>247 <~Scribe.142~><~Game.1948~><~Scribe.143~><~Game.1967~><~Scribe.144~> 2C510F
+$PouDaddy<~Controls.323~>247 044FCA
+$PouDaddy<~Scribe.141~>216 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2036~><~Scribe.144~> A9CF02
+$Supa<~Controls.624~>226<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$PouDaddy<~Scribe.141~>364 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2035~><~Scribe.144~> 70821D
+$PouDaddy<~Scribe.141~>240 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> A9599E
+$PouDaddy<~Controls.819~> 089650
+$PouDaddy<~Controls.819~> B9C805
+<PouDaddy> umm actually B62AE4
+<PouDaddy> random E4D43A
+<PouDaddy> you draw 0F8BEC
+$Supa<~Scribe.141~>226 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2036~><~Scribe.144~> B9F374
+$Supa<~Controls.637~>240<~Controls.638~><~Game.1998~><~Controls.639~><~Game.2037~> null
+<Supa> lmao 24518D
+<Supa> no way EC4283
+$PouDaddy<~Controls.644~>136 226 216 240 <~Controls.645~><~Game.2035~> FB261A
+$Supa<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> CF47BA
+$Supa<~Scribe.141~>251 <~Scribe.142~><~Game.2013~><~Scribe.143~><~Game.2036~><~Scribe.144~> CD7A8E
+$Supa<~Scribe.141~>253 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1944~><~Scribe.144~> C9FB3E
+$Supa<~Scribe.141~>361 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2037~><~Scribe.144~> 75AD48
+$Supa<~Controls.323~>257 259 40669A
+$Supa<~Controls.644~>103 251 361 <~Controls.645~><~Game.2035~> FCEC68
+$PouDaddy<~Controls.726~>213 212 211 210 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 5C6846
+$PouDaddy<~Controls.731~>359 428 429 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 6760BA
+$Supa<~Controls.757~>100 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 25F74F
+<~Game.7~>4 null
+$Supa<~Controls.762~>103 361 099 362 101 102 105 104 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> EE3B01
+$PouDaddy<~Controls.509~>142<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$PouDaddy<~Controls.509~>131<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Supa<~Controls.509~>166<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Supa<~Controls.509~>180<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$PouDaddy<~Controls.296~>131 <~Controls.297~><~Controls.45~> B78940
+$PouDaddy<~Controls.281~>428 <~Controls.282~><~Game.2042~><~Controls.283~><~Game.2038~> D4C19A
+$Supa<~Controls.296~>180 <~Controls.297~><~Controls.46~> C0AB72
+<PouDaddy> fsp ok 02E37E
+$Supa<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> 179A45
+<Supa> 1e 642412
+$Supa<~Controls.345~>103 361 099 362 101 102 105 104 <~Controls.346~>12 11 11 15 11 12 14 15 null
+$Supa<~Controls.350~>103 361 099 362 101 102 105 104 null
+$PouDaddy<~Controls.345~>359 429 213 212 211 210 <~Controls.346~>4 3 2 1 3 2 null
+$PouDaddy<~Controls.271~>211<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 7D28D2
+$PouDaddy<~Scribe.141~>431 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1911~><~Scribe.144~> 724FCD
+$PouDaddy<~Scribe.141~>430 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.2037~><~Scribe.144~> 68BD07
+$PouDaddy<~Controls.345~>430 <~Controls.346~>0 null
+$PouDaddy<~Controls.644~>211 430 <~Controls.645~><~Game.2035~> 4CD767
+$Supa<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 81CF9F
+$Supa<~Scribe.141~>032 031 030 020 019 018 017 016 <~Scribe.142~><~Game.1969~><~Scribe.143~><~Game.1955~><~Scribe.144~> A7D0CC
+$Supa<~Scribe.141~>055 057 049 048 047 046 045 044 <~Scribe.142~><~Game.1946~><~Scribe.143~><~Game.1938~><~Scribe.144~> 629605
+$Supa<~Controls.644~>102 <~Controls.645~><~Game.2035~> 3D5C10
+$PouDaddy<~Controls.271~>212<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> C59C59
+$PouDaddy<~Controls.323~>247 111391
+$PouDaddy<~Scribe.141~>249 <~Scribe.142~><~Game.2008~><~Scribe.143~><~Game.2011~><~Scribe.144~> B6EE38
+$PouDaddy<~Controls.323~>249 688C14
+$PouDaddy<~Controls.281~>212 <~Controls.282~><~Game.2035~><~Controls.283~><~Game.2042~> A22BD0
+$Supa<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 1DCE3F
+$Supa<~Scribe.141~>032 031 030 020 019 018 017 016 <~Scribe.142~><~Game.1955~><~Scribe.143~><~Game.1943~><~Scribe.144~> D564E3
+$Supa<~Scribe.141~>056 348 357 356 <~Scribe.142~><~Game.1986~><~Scribe.143~><~Game.1984~><~Scribe.144~> 34DC02
+$Supa<~Controls.644~>103 <~Controls.645~><~Game.2035~> 228C36
+$PouDaddy<~Controls.271~>210<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 2D8103
+$PouDaddy<~CardBuffet.9~>reveal 107 1B1E79EB818DE928C9638664E348CC47C31D97A6 27<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> 67054B
+<game> PouDaddy<~Controls.1~> 3 1 4 null
+$PouDaddy<~Controls.644~>210 107 <~Controls.645~><~Game.2035~> 7FBB5C
+$Supa<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> A8025C
+$Supa<~Scribe.141~>reveal 203 2B3B971E57B98776DF7220ED7945401FAE6F48D9 8 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2036~><~Scribe.144~> AA0DEF
+$Supa<~Scribe.141~>037 039 038 040 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1944~><~Scribe.144~> E0B999
+$Supa<~Scribe.141~>203 <~Scribe.142~><~Game.2036~><~Scribe.143~><~Game.2034~><~Scribe.144~> 113600
+<Supa> MT CA000D
+$Supa<~Controls.840~>166 406A8A
+$PouDaddy<~Controls.840~>106 D81331
+<auto> playchosen 70A94A
+<auto><~Controls.3~>reveal 106 AA4334E16329C2B41C6A34DA763CD9F345EC97A6 9<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 2F6714
+<auto><~Controls.866~>reveal 166 A1A482169F068D481CCDBB531771FEC391EA45E1 18<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> ABB688
+<auto> playchosen AF5101
+<PouDaddy> pre 4B87C7
+<game> PouDaddy<~Controls.1~> 5 4 6 4 null
+<PouDaddy> 2 ECAED9
+$Supa<~Scribe.141~>028 021 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.2036~><~Scribe.144~> 6D76A8
+<game> Supa<~Controls.1~> 2 3 4 3 6 null
+<game> Supa<~Controls.1~> 3 1 4 5 null
+<Supa> 2 F9C5BF
+<game> PouDaddy<~Controls.1~> 2 3 5 6 4 null
+<game> PouDaddy<~Controls.1~> 3 1 4 null
+<PouDaddy> 2 5C0D30
+$Supa<~Scribe.141~>023 022 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.2036~><~Scribe.144~> 1FE062
+$PouDaddy<~Controls.296~>084 <~Controls.297~><~Game.1994~> 65385C
+<Supa> press, draw 570A47
+$Supa<~Controls.509~>447<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Supa<~Controls.662~>166 023 022 028 021 106 <~Controls.663~><~Game.2035~> CC338F
+<PouDaddy> you didn't press FD4F32
+$Supa<~Controls.840~>185 5734EB
+$Supa<~Controls.304~>036 <~Controls.305~><~Game.1944~> B54575
+$Supa<~Controls.313~>023 <~Controls.307~><~Controls.314~><~Game.1944~> E97886
+<PouDaddy> and just so you know, you need to press first and then draw. it matters if you have different elites of nations in the army AD0476
+<Supa> good point 4D6A39
+$PouDaddy<~Controls.840~>133 A12984
+<auto> playchosen 313946
+<auto><~Controls.3~>reveal 133 CAF90CF9151236C4CA8177B6BFBAA20A0050D8FC 11<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> FC5377
+<auto><~Controls.866~>reveal 185 D2DCB42CC2D49B5A86E1A83A6A099F3534826F09 19<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 26D22A
+<auto> playchosen 262A0D
+<Supa> I mean I knew that, but that elite thing is true 386EFF
+<game> Supa<~Controls.1~> 2 4 4 3 5 null
+<game> Supa<~Controls.1~> 5 2 null
+<Supa> 4 9297A8
+<game> PouDaddy<~Controls.1~> 5 5 3 4 2 null
+<game> PouDaddy<~Controls.1~> 4 2 null
+<PouDaddy> 4 436045
+$Supa<~Scribe.141~>026 024 025 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.2036~><~Scribe.144~> B89D26
+$Supa<~Scribe.141~>027 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.2036~><~Scribe.144~> 60F9F8
+<PouDaddy> is boromir level 1 or 2? 090825
+<Supa> lvl 1 ED5703
+<PouDaddy> k CA7F3F
+<Supa> only counts lvl 2 for movement 25E69A
+<Supa> base version is lvl 2 44952B
+$PouDaddy<~Scribe.141~>241 083 <~Scribe.142~><~Game.1994~><~Scribe.143~><~Game.2037~><~Scribe.144~> B84D2D
+$Supa<~Scribe.141~>203 <~Scribe.142~><~Game.2034~><~Scribe.143~><~Game.2036~><~Scribe.144~> 14BC41
+$Supa<~Controls.644~>105 203 185 027 026 024 025 133 241 083 <~Controls.645~><~Game.2035~> FDE54F
+$PouDaddy<~Controls.271~>359<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 105B81
+<PouDaddy> sortie MT D462E5
+$PouDaddy<~Controls.840~>153 5333FE
+$Supa<~Controls.840~>447 FB579A
+<auto> playchosen 135B75
+<auto><~Controls.888~>reveal 447 A700BDE797403AC8B7AEA1350A587419A11F6C8D 22<~Controls.889~><~Controls.46~><~Controls.890~><~Game.2036~> 71C408
+<auto><~Controls.861~>reveal 153 D4F4AD29686F546AB362C11F0209D563ADC550A0 23<~Controls.862~><~Controls.45~><~Controls.863~><~Game.2037~> C44FE8
+<auto> playchosen 516CE3
+<Supa> ff 2 366F19
+<game> PouDaddy<~Controls.1~> 3 null
+<game> PouDaddy<~Controls.1~> 1 null
+<PouDaddy> ugh 5539A7
+<game> Supa<~Controls.1~> 6 2 null
+<game> Supa<~Controls.1~> 4 null
+<Supa> 1 DCCF19
+$PouDaddy<~Controls.296~>081 <~Controls.297~><~Game.1994~> A31E91
+$PouDaddy<~Controls.644~>359 447 153 <~Controls.645~><~Game.2035~> 6980BF
+$Supa<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> E8FC14
+$Supa<~Scribe.141~>032 031 030 020 019 018 017 016 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.1944~><~Scribe.144~> 22D62A
+$Supa<~Scribe.141~>043 042 <~Scribe.142~><~Game.1932~><~Scribe.143~><~Game.1938~><~Scribe.144~> DEECB3
+$Supa<~Controls.644~>101 <~Controls.645~><~Game.2035~> B6061E
+$PouDaddy<~Controls.271~>212<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 69DF34
+$PouDaddy<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 93829A
+$PouDaddy<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> CFCDD7
+$Supa<~Scribe.141~>168 <~Scribe.142~><~Game.2029~><~Scribe.143~><~Game.2036~><~Scribe.144~> 7DF2BD
+<game> Supa<~Controls.1~> 1 5 1 null
+$Supa<~Controls.624~>214<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$PouDaddy<~Scribe.141~>247 <~Scribe.142~><~Game.1967~><~Scribe.143~><~Game.1976~><~Scribe.144~> EDF7E8
+$PouDaddy<~Controls.323~>247 9BF136
+$PouDaddy<~Controls.644~>168 214 <~Controls.645~><~Game.2035~> 137056
+<Supa> did I remember to draw? 5A848F
+<Supa> for WK? B22C74
+<Supa> the sortie 6C5823
+<PouDaddy> I don't know 996516
+<Supa> looks like I didn't 025D63
+<Supa> character card 29DDE4
+$Supa<~Controls.509~>162<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+<PouDaddy> I could be a jerk and not allow it, but it's all good 378552
+$Supa<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 59C966
+<Supa> MT 790AAB
+<Supa> nc 478AE4
+<PouDaddy> nc A3CF7F
+<game> Supa<~Controls.1~> 1 4 5 3 6 null
+<Supa> 1 1931D6
+<game> PouDaddy<~Controls.1~> 3 2 null
+<game> PouDaddy<~Controls.1~> 2 1 null
+$PouDaddy<~Controls.296~>244 085 082 <~Controls.297~><~Game.1994~> D2F1BF
+$Supa<~Scribe.141~>423 <~Scribe.142~><~Game.29~><~Scribe.143~><~Game.31~><~Scribe.144~> A172E7
+$Supa<~Controls.644~>099 <~Controls.645~><~Game.2035~> A5D63E
+<PouDaddy> this is what I mean. hence, my bad luck with this game DE2E06
+<PouDaddy> aka Venting KING 2BB29A
+$PouDaddy<~Controls.271~>429<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 1F8815
+$PouDaddy<~Controls.509~>134<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$PouDaddy<~Controls.644~>429 <~Controls.645~><~Game.2035~> 9741DC
+<Supa> i think you are going to win this CB9D0B
+<PouDaddy> famous last words. get ready for me to roast you after you beat me 61EAF7
+<PouDaddy> I'm going to troll you so hard now :D 4B8496
+<Supa> well it is a dice game, anything can happen 2FD58D
+<Supa> fsp is in awesome shape and I got lots of points to capture E80C50
+<Supa> odds are in your favor :) 32EBC7
+<PouDaddy> oh man, keep talking E2164C
+$Supa<~Scribe.141~>361 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> F9768F
+$Supa<~Scribe.141~>253 037 039 038 040 032 031 030 020 019 018 017 016 023 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.1935~><~Scribe.144~> 6E86F1
+$Supa<~Scribe.141~>056 348 357 356 <~Scribe.142~><~Game.1984~><~Scribe.143~><~Game.1980~><~Scribe.144~> D75E47
+$Supa<~Controls.644~>361 <~Controls.645~><~Game.2035~> 031F1F
+$PouDaddy<~Controls.271~>213<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> B954D5
+$PouDaddy<~CardBuffet.9~>reveal 134 B2DF9B107BA9BF90664663C95E8D670CFF3F16D0 10<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> AE4CAE
+$PouDaddy<~Scribe.141~>308 307 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1970~><~Scribe.144~> 5ADC8F
+$PouDaddy<~Controls.509~>121<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$PouDaddy<~Controls.644~>213 134 <~Controls.645~><~Game.2035~> 7E7C9D
+$PouDaddy<~Controls.726~>212 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> E70478
+$PouDaddy<~Controls.731~>213 429 359 210 211 430 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 1CE607
+$Supa<~Controls.757~>362 104 100 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 43CC8C
+<~Game.7~>5 null
+$Supa<~Controls.762~>361 099 101 105 103 102 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 0F0385
+$PouDaddy<~Controls.509~>115<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$PouDaddy<~Controls.509~>130<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Supa<~Controls.509~>167<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Supa<~Controls.509~>199<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$PouDaddy<~Controls.281~>210 <~Controls.282~><~Game.2042~><~Controls.283~><~Game.2038~> 1CD9C4
+<PouDaddy> fsp ok A439D4
+<Supa> 1e C74512
+$Supa<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> 1A1959
+$Supa<~Controls.345~>361 099 101 105 103 102 362 104 <~Controls.346~>13 14 13 14 10 10 13 11 null
+$Supa<~Controls.350~>361 099 101 105 103 102 362 104 null
+$PouDaddy<~Controls.345~>213 429 359 211 430 212 <~Controls.346~>3 4 2 1 1 2 null
+$PouDaddy<~Scribe.141~>429 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.1997~><~Scribe.144~> BAFE15
+<PouDaddy> now you see? 25AE48
+<PouDaddy> lol EA927E
+$PouDaddy<~Controls.271~>211<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 70E6D0
+$PouDaddy<~Controls.323~>247 EB3245
+$PouDaddy<~Controls.644~>211 <~Controls.645~><~Game.2035~> D169F7
+$PouDaddy<~Controls.281~>430 <~Controls.282~><~Game.2042~><~Controls.283~><~Game.2038~> BFE40D
+$PouDaddy<~Controls.281~>430 <~Controls.282~><~Game.2038~><~Controls.283~><~Game.2039~> A9719B
+$Supa<~Scribe.141~>362 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> C139E6
+<Supa> Pelargir from Lossarnach 62A259
+$Supa<~Controls.840~>199 EFE95A
+<auto> playchosen 555283
+<auto><~Controls.866~>reveal 199 EEEB5B1A8C00ECDF5EC65EE56D9064B590ED285E 18<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> F77092
+<game> Supa<~Controls.1~> 3 3 3 2 5 null
+<game> Supa<~Controls.1~> 2 5 1 3 2 null
+<Supa> 0 1E2804
+<game> PouDaddy<~Controls.1~> 3 2 null
+<Supa> +1 from card 2420CA
+$PouDaddy<~Controls.296~>078 <~Controls.297~><~Game.1931~> 4238F5
+<Supa> press 8EADC8
+$Supa<~Controls.509~>183<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$PouDaddy<~Scribe.141~>080 <~Scribe.142~><~Game.1931~><~Scribe.143~><~Game.1943~><~Scribe.144~> 3EC014
+$Supa<~Scribe.141~>253 037 039 038 040 032 031 030 020 019 018 017 016 023 <~Scribe.142~><~Game.1935~><~Scribe.143~><~Game.1931~><~Scribe.144~> BC35D0
+$Supa<~Scribe.141~>420 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1935~><~Scribe.144~> 9D4795
+$Supa<~Scribe.141~>423 <~Scribe.142~><~Game.31~><~Scribe.143~><~Game.32~><~Scribe.144~> E3D2C9
+$Supa<~Controls.644~>362 199 <~Controls.645~><~Game.2035~> 207C44
+$PouDaddy<~Controls.271~>212<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 83F480
+$PouDaddy<~CardBuffet.9~>reveal 130 0FDF1B814FFFFE5CB8841FF2E53E716A3F39DE91 11<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> 9D094D
+$PouDaddy<~Scribe.141~>267 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1911~><~Scribe.144~> 959CAE
+$PouDaddy<~Controls.509~>156<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$PouDaddy<~Controls.644~>212 130 <~Controls.645~><~Game.2035~> 3AD867
+$Supa<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 8B2B2F
+$Supa<~Scribe.141~>253 037 039 038 040 032 031 030 020 019 018 017 016 023 <~Scribe.142~><~Game.1931~><~Scribe.143~><~Game.1924~><~Scribe.144~> 05F680
+$Supa<~Scribe.141~>253 037 039 038 040 032 031 030 020 019 018 017 016 023 <~Scribe.142~><~Game.1924~><~Scribe.143~><~Game.1931~><~Scribe.144~> 4D3522
+$Supa<~Controls.281~>104 <~Controls.282~><~Game.2035~><~Controls.283~><~Game.2043~> 095C6D
+$Supa<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> C879C9
+$Supa<~Scribe.141~>261 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> 57C3F9
+$Supa<~Controls.644~>103 <~Controls.645~><~Game.2035~> 5BE499
+<PouDaddy> pass A9A7CA
+$Supa<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> ACAF72
+$Supa<~Scribe.141~>261 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> F28ABC
+$Supa<~Controls.644~>102 <~Controls.645~><~Game.2035~> 66BE53
+<PouDaddy> pass 420B6E
+$Supa<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> BF0262
+$Supa<~Scribe.141~>253 037 039 038 040 032 031 030 020 019 018 017 016 023 <~Scribe.142~><~Game.1931~><~Scribe.143~><~Game.1924~><~Scribe.144~> DDCECE
+$Supa<~Scribe.141~>055 057 043 042 049 048 047 046 045 044 <~Scribe.142~><~Game.1938~><~Scribe.143~><~Game.1931~><~Scribe.144~> 31F8C7
+$Supa<~Controls.644~>104 <~Controls.645~><~Game.2035~> 5CD69C
+$PouDaddy<~Controls.271~>213<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 83FD94
+$PouDaddy<~Scribe.141~>276 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1920~><~Scribe.144~> CA64B7
+$PouDaddy<~Controls.644~>213 <~Controls.645~><~Game.2035~> 8771EF
+$Supa<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 07B667
+<Supa> DA 0467A6
+$PouDaddy<~Scribe.141~>276 077 076 075 <~Scribe.142~><~Game.1920~><~Scribe.143~><~Game.1995~><~Scribe.144~> 0184A8
+$Supa<~Scribe.141~>253 037 039 038 040 032 031 030 020 019 018 017 016 023 <~Scribe.142~><~Game.1924~><~Scribe.143~><~Game.1920~><~Scribe.144~> BAC4A8
+$Supa<~Controls.644~>101 <~Controls.645~><~Game.2035~> 368486
+$PouDaddy<~Scribe.141~>419 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1924~><~Scribe.144~> E30876
+<PouDaddy> pass 996A77
+$Supa<~Scribe.141~>361 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 13A966
+<Supa> DA EE0BB2
+$Supa<~Controls.840~>183 3B2DA4
+$PouDaddy<~Controls.840~>156 26F517
+<auto> playchosen 340B81
+<auto><~Controls.3~>reveal 156 0E84DE7865997BCCAFC23FBB8127590F86DB67BA 24<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> DCD88A
+<auto><~Controls.866~>reveal 183 68C0CA26954FE6B84636D65ABC2898BE2B44083B 16<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 694149
+<auto> playchosen 0E4A10
+<game> Supa<~Controls.1~> 2 4 4 2 5 null
+<game> Supa<~Controls.1~> 4 4 5 1 null
+<Supa> 2 DF1CE7
+<Supa> -1 18B8CA
+<game> PouDaddy<~Controls.1~> 2 3 2 1 null
+<PouDaddy> 0 9F2CD2
+$PouDaddy<~Controls.304~>276 <~Controls.305~><~Game.1995~> E3FE88
+$PouDaddy<~Controls.313~>078 <~Controls.308~><~Controls.314~><~Game.1995~> 1A7F35
+$Supa<~Controls.644~>361 183 156 <~Controls.645~><~Game.2035~> 9C0137
+$Supa<~Controls.509~>187<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<PouDaddy> pass 45D309
+$Supa<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 45662E
+$Supa<~Scribe.141~>249 <~Scribe.142~><~Game.2011~><~Scribe.143~><~Game.2036~><~Scribe.144~> 5420E6
+<Supa> DA 01ED1A
+$Supa<~Controls.840~>448 971473
+$PouDaddy<~Controls.296~>249 <~Controls.297~><~Game.2036~> F4143D
+$PouDaddy<~Controls.840~>121 AB829A
+<auto> playchosen 0C6413
+<auto><~Controls.3~>reveal 121 AD42FC9413B14CD99E170C37386DFEA44D403567 22<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 02B746
+<auto><~Controls.866~>reveal 448 89DAC86B5547365C1DDF6F8B928CE4176C89B2CD 4<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 503F5D
+<auto> playchosen 0AA986
+<game> Supa<~Controls.1~> 1 2 1 6 2 null
+<game> Supa<~Controls.1~> 1 6 6 2 null
+<Supa> 3 B66272
+<game> PouDaddy<~Controls.1~> 2 5 4 1 null
+<PouDaddy> 1 FD5596
+$Supa<~Scribe.141~>030 <~Scribe.142~><~Game.1920~><~Scribe.143~><~Game.2036~><~Scribe.144~> 2097AE
+$PouDaddy<~Controls.296~>077 076 075 <~Controls.297~><~Game.1995~> D6BEC5
+<Supa> sack 4 9F3D20
+$Supa<~Scribe.141~>018 017 016 023 <~Scribe.142~><~Game.1920~><~Scribe.143~><~Game.2036~><~Scribe.144~> 9CE9B4
+<game> Supa<~Controls.1~> 4 5 4 1 null
+$PouDaddy<~Controls.296~>078 <~Controls.297~><~Game.1995~> FA391A
+$Supa<~Controls.644~>099 448 018 017 016 023 030 121 <~Controls.645~><~Game.2035~> 3B0B19
+<PouDaddy> now who's favored? ;) BF28A6
+$Supa<~Scribe.141~>423 <~Scribe.142~><~Game.32~><~Scribe.143~><~Game.388~><~Scribe.144~> BC8C70
+<Supa> it is a dice game 9B1428
+<PouDaddy> you were favored last round too btw C34ECE
+$PouDaddy<~Controls.271~>359<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> E424FB
+$Supa<~Controls.509~>178<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$PouDaddy<~Scribe.141~>250 <~Scribe.142~><~Game.2009~><~Scribe.143~><~Game.2012~><~Scribe.144~> 301AB7
+$PouDaddy<~Controls.323~>250 372558
+$PouDaddy<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 82CA00
+$PouDaddy<~Controls.795~>359<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 829E8E
+<game> Supa<~Controls.1~> 2 1 null
+$Supa<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> CD78EE
+$Supa<~Scribe.141~>250 <~Scribe.142~><~Game.2012~><~Scribe.143~><~Game.2036~><~Scribe.144~> 177439
+<PouDaddy> you just used a ring F647CA
+$Supa<~Scribe.141~>034 033 <~Scribe.142~><~Game.1971~><~Scribe.143~><~Game.1977~><~Scribe.144~> 00A3C8
+$Supa<~Scribe.141~>054 053 <~Scribe.142~><~Game.1987~><~Scribe.143~><~Game.1980~><~Scribe.144~> FC7ABF
+<PouDaddy> you can't 27C649
+$Supa<~Controls.644~>105 250 <~Controls.645~><~Game.2035~> 67B37C
+<PouDaddy> you already used a ring this round 3F7516
+<Supa> oh AC33FE
+$Supa<~Controls.819~> C555F7
+$Supa<~Controls.819~> FC943D
+$Supa<~Controls.819~> 4D26BE
+<Supa> thanks 588B4E
+$PouDaddy<~Scribe.141~>250 <~Scribe.142~><~Game.2036~><~Scribe.143~><~Game.2012~><~Scribe.144~> FA5B56
+$Supa<~Controls.509~>165<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Supa<~Controls.296~>162 <~Controls.297~><~Controls.46~> CC309A
+$Supa<~Controls.644~>105 <~Controls.645~><~Game.2035~> AD2A5E
+$PouDaddy<~Controls.726~>359 429 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 72DC87
+$PouDaddy<~Controls.731~>213 212 430 211 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 2C4E39
+$Supa<~Controls.757~>100 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 3A0B82
+<~Game.7~>6 null
+$Supa<~Controls.762~>105 099 361 101 104 102 103 362 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 7A32AC
+$PouDaddy<~Controls.509~>139<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$PouDaddy<~Controls.509~>436<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Supa<~Controls.509~>201<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Supa<~Controls.509~>164<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$PouDaddy<~Scribe.141~>247 <~Scribe.142~><~Game.1976~><~Scribe.143~><~Game.524~><~Scribe.144~> AFB170
+$PouDaddy<~Scribe.141~>248 <~Scribe.142~><~Game.2015~><~Scribe.143~><~Game.2014~><~Scribe.144~> 075972
+$Supa<~Controls.296~>201 <~Controls.297~><~Controls.46~> 691451
+$Supa<~Controls.296~>187 <~Controls.297~><~Controls.46~> 9A8D63
+<PouDaddy> fsp ok 977128
+$Supa<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> 6C3E98
+<Supa> 1e F65210
+$Supa<~Controls.345~>105 099 361 101 104 102 103 362 <~Controls.346~>11 10 12 10 10 11 12 15 null
+$Supa<~Controls.350~>105 099 361 101 104 102 103 362 null
+$PouDaddy<~Controls.345~>213 212 430 211 359 429 <~Controls.346~>2 1 2 2 1 3 null
+$PouDaddy<~Controls.271~>430<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 4320A4
+$PouDaddy<~CardBuffet.9~>reveal 433 06C743DFAB9A7E8C424978FDD393F08B0969C468 18<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> 247FD6
+$PouDaddy<~Controls.281~>234 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2044~> 84E4AA
+$PouDaddy<~Controls.644~>430 433 <~Controls.645~><~Game.2035~> 4E79BB
+$Supa<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> EA3B08
+$Supa<~Scribe.141~>443 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1969~><~Scribe.144~> 8318BB
+<Supa> can I bring him there? I don't remember E48A9B
+<PouDaddy> yes 389E8D
+<PouDaddy> any sauron stronghold 4F5882
+$Supa<~Scribe.141~>360 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2036~><~Scribe.144~> 44368C
+$Supa<~Controls.644~>101 360 <~Controls.645~><~Game.2035~> A6746B
+$PouDaddy<~Controls.271~>429<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> AF340A
+$PouDaddy<~Controls.509~>149<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$PouDaddy<~Controls.644~>429 <~Controls.645~><~Game.2035~> B1376F
+$Supa<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 5CFCA8
+$Supa<~Controls.323~>443 13C5E4
+<Supa> ackh do i remember it wrong DB1AC6
+<PouDaddy> oh did you mean the other mouth? A0EE5D
+<PouDaddy> what are you trying to do? 6FD9CE
+<Supa> could he turn muster into character die? A5F85F
+<Supa> or am I pulling things out of my arse? 05C6B7
+<PouDaddy> yes but only for an army move that he's in B787AF
+<Supa> ah crap 10E053
+<PouDaddy> it's not just a regular character die 969FE5
+<Supa> ok thanks 7F9B19
+$Supa<~Scribe.141~>250 <~Scribe.142~><~Game.2012~><~Scribe.143~><~Game.2036~><~Scribe.144~> 255B3D
+$Supa<~Scribe.141~>443 <~Scribe.142~><~Game.1969~><~Scribe.143~><~Game.1955~><~Scribe.144~> D2869C
+$Supa<~Scribe.141~>443 <~Scribe.142~><~Game.1955~><~Scribe.143~><~Game.1938~><~Scribe.144~> F9E599
+$Supa<~Scribe.141~>443 <~Scribe.142~><~Game.1938~><~Scribe.143~><~Game.1931~><~Scribe.144~> C070E0
+$Supa<~Scribe.141~>253 <~Scribe.142~><~Game.1920~><~Scribe.143~><~Game.1919~><~Scribe.144~> 3D08C9
+$Supa<~Scribe.141~>038 039 037 <~Scribe.142~><~Game.1920~><~Scribe.143~><~Game.1931~><~Scribe.144~> 53A84B
+$Supa<~Scribe.141~>040 <~Scribe.142~><~Game.1920~><~Scribe.143~><~Game.1919~><~Scribe.144~> 7F4E97
+$Supa<~Controls.644~>099 250 <~Controls.645~><~Game.2035~> F6F20A
+<PouDaddy> pass F648BC
+<Supa> i think i may hve missplayed FDE793
+<Supa> oh well C19214
+$Supa<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> A76852
+$Supa<~Scribe.141~>326 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1919~><~Scribe.144~> 9115C4
+$Supa<~Controls.644~>104 <~Controls.645~><~Game.2035~> FC3EEF
+$PouDaddy<~Controls.271~>359<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 704010
+$PouDaddy<~Controls.790~>247<~Controls.791~><~Game.524~><~Controls.792~><~Game.525~> A76970
+$PouDaddy<~Controls.795~>359<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> AAFE4F
+$Supa<~Controls.624~>227<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$PouDaddy<~Scribe.141~>364 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2035~><~Scribe.144~> A9B170
+$PouDaddy<~Scribe.141~>243 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> A1F391
+$PouDaddy<~Scribe.141~>252 <~Scribe.142~><~Game.2014~><~Scribe.143~><~Game.2015~><~Scribe.144~> E62B52
+$PouDaddy<~Controls.644~>364 227 <~Controls.645~><~Game.2035~> 4A9C7F
+$PouDaddy<~Scribe.141~>421 <~Scribe.142~><~Game.2036~><~Scribe.143~><~Game.2029~><~Scribe.144~> E1C5A8
+$Supa<~Scribe.141~>361 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 8264D1
+<Supa> Fords of Isen D3AD62
+$PouDaddy<~HighlightLabel.91~>259<~HighlightLabel.92~><~Game.2000~><~HighlightLabel.93~><~Game.2001~> 6B0AFA
+$Supa<~Controls.840~>167 84D829
+$PouDaddy<~Controls.840~>142 946FB9
+<auto> playchosen 40087A
+<auto><~Controls.3~>reveal 142 2E414E4C75249D01EFD149BE46CD50270C5016CD 4<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 5DFEC2
+<auto><~Controls.866~>reveal 167 8DED7B1E741372ADA5C60DB4F58EC00D394ED423 13<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 18A5EE
+<auto> playchosen 128E7C
+<game> Supa<~Controls.1~> 3 4 5 6 4 null
+<game> Supa<~Controls.1~> 5 1 5 5 null
+<Supa> 1 6655FC
+<game> PouDaddy<~Controls.1~> 6 4 null
+<game> PouDaddy<~Controls.1~> 3 null
+<PouDaddy> 3 B2DF5F
+$Supa<~Scribe.141~>006 005 <~Scribe.142~><~Game.1919~><~Scribe.143~><~Game.2036~><~Scribe.144~> FBD233
+$PouDaddy<~Controls.296~>069 <~Controls.297~><~Game.1918~> 47A075
+$Supa<~Scribe.141~>005 <~Scribe.142~><~Game.2036~><~Scribe.143~><~Game.1919~><~Scribe.144~> 3536EF
+$Supa<~Controls.304~>326 <~Controls.305~><~Game.1919~> 3E3E44
+$Supa<~Controls.313~>332 <~Controls.307~><~Controls.314~><~Game.1919~> C72042
+<Supa> press 5B914F
+$PouDaddy<~Scribe.141~>074 070 <~Scribe.142~><~Game.1918~><~Scribe.143~><~Game.1923~><~Scribe.144~> 987FCF
+$Supa<~Scribe.141~>253 040 332 005 004 003 002 <~Scribe.142~><~Game.1919~><~Scribe.143~><~Game.1918~><~Scribe.144~> 4E081A
+$Supa<~Controls.644~>361 167 006 142 <~Controls.645~><~Game.2035~> F01871
+$Supa<~Controls.509~>200<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+<PouDaddy> draw first, then kill your dice 1836E0
+<PouDaddy> that'll be useful for you in the tournament 783027
+<Supa> ok CD1152
+<Supa> I won't get in any tournament though :) 19CFD6
+<PouDaddy> once you kill your dice, your action is done. just trying to help EAFD82
+<Supa> yeah I appreciate it A779F4
+<PouDaddy> well even with other players with league play, you might be told that it won't count 163168
+<Supa> I wonder why nobody else has told me these F06632
+<Supa> and i see many people doing the same things CAB0FA
+<Supa> not disagreeing with you at all btw 28F5E9
+<PouDaddy> I'm pretty sure it's in our discord somewhere...but yeah that's how it should be done D6EE7F
+<PouDaddy> I'll check that out after 2D6216
+$PouDaddy<~Controls.271~>212<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 6C04C7
+$PouDaddy<~Controls.790~>247<~Controls.791~><~Game.525~><~Controls.792~><~Game.528~> 1C744C
+$PouDaddy<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> E096D5
+$Supa<~Controls.624~>228<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$PouDaddy<~Scribe.141~>243 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2035~><~Scribe.144~> 0CC73F
+$PouDaddy<~Scribe.141~>252 <~Scribe.142~><~Game.2015~><~Scribe.143~><~Game.2016~><~Scribe.144~> 27FDA2
+$PouDaddy<~Scribe.141~>242 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> 55B3B9
+$PouDaddy<~Controls.644~>243 228 <~Controls.645~><~Game.2035~> 0B8204
+$Supa<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 3A4FE0
+<Supa> HD CE4B44
+$PouDaddy<~Scribe.141~>074 070 071 <~Scribe.142~><~Game.1923~><~Scribe.143~><~Game.1993~><~Scribe.144~> AB202D
+$Supa<~Scribe.141~>259 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> CA2F21
+$Supa<~Scribe.141~>253 040 332 005 004 003 002 <~Scribe.142~><~Game.1918~><~Scribe.143~><~Game.1923~><~Scribe.144~> BDF12B
+$Supa<~Controls.644~>103 <~Controls.645~><~Game.2035~> 37FE6F
+$PouDaddy<~Controls.271~>213<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> CE24F5
+$PouDaddy<~Controls.509~>128<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$PouDaddy<~Controls.644~>213 <~Controls.645~><~Game.2035~> E9C5C8
+$Supa<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> BDDD8B
+<Supa> HD 300655
+$Supa<~Scribe.141~>259 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> AB665A
+$Supa<~Controls.840~>178 7C01F5
+$PouDaddy<~Controls.840~>115 051EEC
+<auto> playchosen 3DC884
+<auto><~Controls.3~>reveal 115 52F9435A8FC005C5D1F8D7C1F6830BD9166A44EA 6<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> F4439A
+<auto><~Controls.866~>reveal 178 ACFD62DD4639AC88D130555BFBCD6BD32BAEF53C 10<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 756A04
+<auto> playchosen 37110F
+<game> Supa<~Controls.1~> 4 5 4 3 5 null
+<game> PouDaddy<~Controls.1~> 2 3 null
+<game> PouDaddy<~Controls.1~> 5 null
+<PouDaddy> 2 36EE8C
+$PouDaddy<~Controls.296~>074 070 071 <~Controls.297~><~Game.1993~> 0DC935
+$Supa<~Scribe.141~>003 002 <~Scribe.142~><~Game.1923~><~Scribe.143~><~Game.2036~><~Scribe.144~> E7C3F2
+$Supa<~Controls.644~>102 178 003 002 115 <~Controls.645~><~Game.2035~> 8BD9A1
+$Supa<~Scribe.141~>423 <~Scribe.142~><~Game.388~><~Scribe.143~><~Game.391~><~Scribe.144~> 0DE9C7
+<Supa> let's see if my missplay is punished B500F8
+<PouDaddy> draw please C2BC66
+<Supa> ah ty 685422
+$Supa<~Controls.509~>170<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<Supa> sorry so tired 8288F8
+<Supa> hopefully ok if we won't play the 2nd game tonight hehe 6EC3ED
+<PouDaddy> don't see how you're gonna get punished A44CE4
+<PouDaddy> you're literally gonna win 2000D0
+<PouDaddy> lol E55BFF
+$PouDaddy<~Controls.271~>211<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 2095A5
+$PouDaddy<~CardBuffet.9~>reveal 149 0F2D1BFCFAFC4C41FBBDA5195B61368419E69009 25<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> B9484C
+$PouDaddy<~Scribe.141~>252 <~Scribe.142~><~Game.2016~><~Scribe.143~><~Game.2015~><~Scribe.144~> A3745C
+$PouDaddy<~Scribe.141~>421 <~Scribe.142~><~Game.2029~><~Scribe.143~><~Game.2036~><~Scribe.144~> 701139
+$PouDaddy<~Controls.644~>211 421 149 <~Controls.645~><~Game.2035~> B22D77
+$Supa<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 839821
+<Supa> Dale from vale of the carnen 2A4021
+$Supa<~Controls.840~>189 E46FBE
+<auto> playchosen 91491A
+<auto><~Controls.866~>reveal 189 A0764614669387EE13FEE4F976A0CF6C486761CA 24<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 7512EC
+<game> Supa<~Controls.1~> 1 2 6 6 null
+<Supa> 2 A2AA1F
+<PouDaddy> so dumb 09F548
+<game> PouDaddy<~Controls.1~> 2 1 5 null
+<game> PouDaddy<~Controls.1~> 2 null
+<Supa> +1 F82B37
+$PouDaddy<~Controls.296~>068 308 307 066 <~Controls.297~><~Game.1970~> 0279A2
+<Supa> o 66109B
+$PouDaddy<~Scribe.141~>423 <~Scribe.142~><~Game.391~><~Scribe.143~><~Game.392~><~Scribe.144~> F8A731
+$Supa<~Scribe.141~>056 348 357 356 <~Scribe.142~><~Game.1980~><~Scribe.143~><~Game.1970~><~Scribe.144~> 102A7A
+$Supa<~Controls.644~>105 189 <~Controls.645~><~Game.2035~> B0A5D8
+<PouDaddy> told you 6E168E
+<Supa> you were super close 14AEDB
+<PouDaddy> I literally had zero chance C48403
+<Supa> i got lucky despite playing bad 2036E3
+<PouDaddy> "super close" is an interesting term for being 3 steps away LOL C3C1D0
+<Supa> i mean 967289
+<Supa> you just needed gandalf a bit earlier 2C8E1D
+<PouDaddy> I had no chance after that disaster in MT B28862
+<Supa> I'm happy to take any tips if you have though FEE80D
+<Supa> i think my clear mistake was not moving nazgul near dale 4FE17A
+<PouDaddy> no you're fine. you're not me CE53CC
+<PouDaddy> I have the worst luck at this game 4CC80D
+<PouDaddy> not in the mood to discuss right now, maybe some other time. 972F31
+<PouDaddy> cya around. gg 5CB962
+<Supa> understandable 08C0B5
+<Supa> see you 49E18B
+<~Talker.22~> null
+$Supa<~Scribe.141~>258 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2002~><~Scribe.144~> FE35A5

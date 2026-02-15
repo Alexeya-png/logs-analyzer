@@ -1,0 +1,951 @@
+<auto> silent null
+<auto><~Scribe.141~>363 397 398 402 401 400 399 403 404 376 375 374 373 377 378 <~Scribe.142~><~Game.2038~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>365 366 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 367 368 369 370 371 372 <~Scribe.142~><~Game.2040~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>230 231 <~Scribe.142~><~Game.2044~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>155 152 <~Scribe.142~><~Game.2004~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>137 151 <~Scribe.142~><~Game.2005~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>161 198 <~Scribe.142~><~Game.2006~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>163 188 <~Scribe.142~><~Game.2007~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Controls.323~>364 null
+<auto> noisy null
+<auto> silent null
+<auto><~Scribe.141~>312 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1965~><~Scribe.144~> null
+<auto> noisy null
+<~Game.7~>1 null
+<auto> silent null
+<auto><~Scribe.141~>363 397 398 402 401 400 399 403 404 376 375 374 373 377 378 <~Scribe.142~><~Game.2038~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>365 366 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 367 368 369 370 371 372 <~Scribe.142~><~Game.2040~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>230 231 <~Scribe.142~><~Game.2044~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>155 152 <~Scribe.142~><~Game.2004~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>137 151 <~Scribe.142~><~Game.2005~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>161 198 <~Scribe.142~><~Game.2006~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>163 188 <~Scribe.142~><~Game.2007~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Controls.323~>364 null
+<auto> noisy null
+$base silent null
+$TEST<~Scribe.141~>312 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1965~><~Scribe.144~> null
+$base noisy null
+<game> gus833<~Controls.408~>[WOTR-Gandalf2 wotr base2] null
+<~Talker.31~> null
+<gus833> hey! 
+<gus833> roll and bid? muster points or rings/tokens? 
+<Alexey'a> if count, muster 
+<game> Alexey'a<~Controls.1~> 5 null
+<Alexey'a> rings 
+<game> Alexey'a<~Controls.1~> 6 null
+<game> gus833<~Controls.1~> 5 null
+<Alexey'a> 2t 
+<gus833> 3t 
+<Alexey'a> take gl hf 
+<gus833> glhf 
+$Alexey'a<~Controls.464~>25984C6901DF2DA818D20DDDEA765DB3209A19AB B078FD8B3E919782EEA6E02D69A99A13 24 77DC31C83D9389F35A3C7071DF0A77EE56CC0C6D E53FF645CDEF3D210E8D12CFC7E05CA1 F76B348F72A403A4A7FD4EEF7E83D3869614F06F DD58D440C85288BC7CA5FCB4F85543CC F9A028775317E6003CA22DD2193E87A095703B99 02F467185F4D6392478750B299D10156 69BE13C4986D6CB78C853F2C31B9BC76E61B6416 C225B4795FC0F9931A509F5172011A37 93EAB340565D852B87E3AC80FBF14C13CB107769 4D3E8426A450D5F99D4B88DC0F964CA0 3EF16076DA5E06AF200BD7F4B0A55121DB5A7095 9D5998CFCB50EB6D1B2D2067902586EE 769FE6E74B6BA6932B6570757D90EC305A30A404 B66BBCB72C12227864BF5F04BDE7364E 4E1F3105B603BB0CF15BA6247865DD90709ADC0D 2F4D8DCD07D12582F42EF38B5D9F61C2 76DF244BB3BB1141C0AEE74C9524630CADE23F33 F08BE303FCAF23E15452B123C7449F4B 98E82D890274B1C43B6F15B58C192BEADF43BD5C 3C0414D2C0767402BF949491B9451AF9 1B5BBFA1C9EE404BE1CA00783897D007B9E3A109 F185B2D90D08A8320967859C686E5DCA D4478C706A350183CCF77573D2E8519CB315F49F 0E0A8327DAC2FDC7BC5AE0FCD7CFFFD1 33D2726F98C70A31848E244EF09A3FC8BF3B97AC 763C0A95CC426581844BA07F6B37F8EF C691CE32F515D5B7232F9D17551C7B6EC89B34D9 F35DF6AFEB33E61CCC3AB79ABF0BF883 AB151207964383527EE92C8C4836AD3EE9EB9420 7DC2A5B8982D05EBA8C1A63CB5A2D67D 1A09C78694C422A2B1F1DBC5CC54BD3005EBBE65 BB6FA0C1BEC8A613F53C13B7CD641361 3CD232D6DEFD902F83970BAE4B4597F0DB85D02F C99F2E834865516BBE171B42B95106EA 13EA0B09A7454DB38AA98A138FFC561ACB5F1E30 3B2C8ED8D252C1E0E1D7ED5E30BABB9C 4660560B127F4DB9CE88BB1597B4B1B22B683E12 6125E523A250CA69F1D0B4D90243F147 BF49703EABE8E371D8B41863F6703923D4143A18 CC193093D998BCD65EA199FF6C85776F 9E5790DE62DED29D117B38C7CEA85C35032544BC 11D24EC7E5EA3274D3DDD4DBADE09C31 846C3252046E98AC8587C31A9AB976A9DD1567E8 CC843A07394992F7DF8E71A8D8507BF8 2514ED73B5A226073E756E26EB19197C44A0C28F E7C69C90405EDBE1D66418ABEC5E4C9B 7FD37A428025F148622BA919C1D100DBB29DA005 1BBCAEDC8EBCF889F9C5FF2D217E834A 24 181D77A6941604B9A3FBCFB1BEF3C692C54A1BA0 B74BBCB8586EB40AD41A4C47846AA01C 8C6B92F049A929A8A504C72654E443F5BB416784 A05D1FC5268832C4E7FCFD6FC55CB086 F763AF9E42C985320B24641AB10F2B229D5160A6 98634378C6B27554882B422D4F278EC3 E3D3DA8EC2701746E73D8E6B485A12A3FA2943BF C2B281D583E04D69076BD10D99905EC5 516F12682AC7C80F78AC5901B7E2CAEA31978878 6571AB1597A1609713B24C27BB7EC7F6 25ED6870E966649BF1BA442F82D096AC515687C2 F01C1E01DDCBFD285B4964E744C835D2 7DDEB0F20662A5D1FE9E6F6B5BD2975B45969EE5 3DEC8B6DCA696A4378C15E284ABE6E46 BB79128F5515159C03984E68E00966C3982E7F45 199271749E2477AD09E37EE2C1C3E76D 8F6753A8A64B8C5B87F1F094F13FCF80E544A738 0424C78ED69DD63D1FFD15CA10862F4B 6F76D70CC4752B0898E6DC491089822BC12000E2 342912D7E46BFB85DB35028FE1AA59DD B5B6895ECCFA287A5C53F09BA806FD84C80E0C19 E015DB9021AE8CA656C12E0C380717DD 10A10D9A33CCB640427E978FA802E2B48119C1FB BAB6E88B026CFB87C022A66EC7B3310B 1ED46B2DD84897686295F2B2CB081D7DFDD4E23A BC50C89E8A33B293CBDB24827F92C5FC 060062F90895E18AADEBE91A3BE2E1EEF560CD60 277951DFFFAAFBD3492E1DD76A190366 E0B3959B29CBD7A759913038263B737FD159F341 C8E9404DE009545913D40232B776D3C2 D788CD2CFC3DA3E003F8216F2C1504DCC6376867 7DD5F5B215ADA4662DD1BF9F166292F2 2F702040DFA65CA3B4ADA07DBC6C51EA534AD3FC F78011B7683A282227C4A105462F838A E6E297B936181882DC4DE05540139DF66697D40C C023719F3307A901C558210EEBF5EBBE B89249BFCFA11A8F9A4E7FF1B2D2CED3DB900350 7F55F6865BB6B275E2C0DBD5A4E21A56 6985E1DD1457EB361C03E37F8E3C95047F8B6F01 7A8B12B47C416B43905730BF5D054700 5F24BDE427F26BED9C6F0E1F132C049E59FC9C86 5D6A4E0A65E156C784D272C5E1307F1C DEEF7EE25418DFE689EF1294225DE27565A8FA28 39F04DF5C6898DF7B1A5C49CB2BFEEAA 280B068984B23569F441C6C47944C235D2FF2E30 CEBA5EA428EC1F51327DAED71C52E948 0CF891B2509DFB807041496B597FF09FFC7058D6 0DEEAD7A1C36D5056CF1BC4987D9AB40 0 0 C1AC4F
+$Alexey'a<~Controls.509~>123<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Alexey'a<~Controls.509~>106<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$gus833<~Controls.479~>07EBBF64F3C70B978F0BB9471BE23248C62D37A3 38E990A62236C258EE67D351748E28CF 24 F2364CCB3F5C3CD6B464D1DA1E6754F7E9A67721 12B313A610108CD5DC189AEF48283F47 0A3D29A57415F0B7EA14841783A7A1252F4A9E1E 75D89C80300E6F4A9CD6AC20BBC70273 F209CB8A3DB6A6670B2F0EB588272D612BDAF9C4 A442B69AC17A7394FB497252F0D0BB8E B2B8E2AE089DA68FEB2E4F08F3BE1477233DF163 94C82876F4605BBBDDCE8118544CA402 B7F52FEF186E8F40CA35DFAFF8EDDF22FA12052D 3B6A8D21E2E06788196B05A5AADD9EFA 85964ED61DD9FB9A31052520B6E6F8FCBBDE5658 0D7CA051BF4E8B9DA1CF098D63987D22 10AB5DD4DC4EF7693F2276F06327BD007F2E79E9 C3869DC350914122E6C76A703245F1F9 635242C3FB2CE6B421FDA109AE78172C9F48BE72 5DDF126F9A73EBB07ABB0C7FE0ECAEF3 F5F9FA63717994D2CA210F667EA74346D12DDF91 6A3B0857DBDD20B4F625FA2C5CBCE2DD 40385C1EAA39C7904F2E5FCD841118E49DE6C653 87C543D6BD2939521D2906AF1596E4F3 3FF3B4F820683FC380E9C024920E34135DFBF85A 24762D35C905884D419D03708CE49313 61A226EDE6D712971D8B2FCB46210FC473191412 8DB48859199CC084E543B29524820559 6D46E701AEAACB518409F967FCC49305398A705B 288438DD51F0D797A3007ACA3CCA8762 F72DBFCC9E4DADD263277D7C7612B1A9FA112868 FBC1C2C1CFA8DA6D503C26E07F27AE92 222578B00A819B51C32934AF5337A7730B726580 71368BFE21B7B92E5DD651EE7AB3563F A93D3983E8910EE0B22B0F3D4BEFB412F42AD1A0 5D7F0708B79354AC8048565F6EBBB120 DF1EFC34F80573366022150C7C8DD8770D8E9D92 3F16B922D9003F1792E096E6673E7CDB C30B54233E99E0D9B358BC4243E0FB9CD1F58706 C5F6CA5DDA882B51BA342BB58DB81BDB 0F859F0AB47978055DCEA420A192D8C51B1C5AD9 93A904B38E2BC3C7CB357AECB9CF5A1C 61F74CD390BF4DB7D580345D6A578C989A87249D 46B79C4CF8EE45C2EA83896B4AB56B1D DF52F7B2E65E362F294A87156B9939AC79F5AB08 B6C790E14847D7A974E9DAA93951CE0C 75F5D9AA3AFA6537A2DE9673AD8DB12E25DEE937 7BF1C986038A147B1E20EC8B6B8A0504 5C55F1D005384B6F7D08B9677ACE904799BA4E06 B2FDB71283E0C21E5C440B884640E8AD 9303F92BA942187191CDAE824643E2F2E9D8668E 01A4761AA26D4572079B744086C90F10 24 EEF3407304CCE63F0CF62CE4FD95CFD5CC18F1A9 D7023CBFB29A63D6398DD4FF510CAF44 648D1118EB215B52EB9A7CB654E578027B5EC394 F8D7FF98AFBFF2E67BFE928188833A13 E5000E83A8CD7A5D38E40C5DEFC3327A13E61564 383D3F6CB79A75B72261FBBD5FC5FA63 20B58B7C43D8DAD8C42C86E2243ECAAE226E66AA 86EDB86CBA4AF77AF52CA7552F5F283A 64E8E39C1A8CBD63C26A1B9D79D955C9F04D2B42 2C563A426DC18EAF139CC6D58A1AC9FA 79143C3BFC52E3EAB963DC773B80C22474C7A6CE 54F8550783E052CB13D23DB290FF7369 DF12FD56146F72771FBB3D267F499AF33BCA8049 CDDE5F001FB656806DD14A2980A8A2A0 A73C7BFA1110FBCAD16CB2497E245819C76E1B8F 0F2C95CB838CC82A17E3CAA091BA8BE6 0D4968406C0FCC669D4A5318A804E0C784927554 7C0420860DC1C50673547CA50298EB32 2295BB616A5AFBF8DF240E35AFE12CAE39EEEAD6 E858F994649620BE67AF03E3709FDD72 36BF0FD53A43D71C23F95F818C56DED7C27C93B0 5B55BEF0EE757488CDD049EE678C3997 9439F448D80B247979D11946E9B4C7AE6E765E7E 1578A7888554B8FC0E813AF53ACD0D95 C941AF51DD793B687B573E7F29DBC0D5E363F976 D1942B57692E464A0973419D16E20820 7F8339A923F5B93113075AB40784CB99C5665367 4E48B96A77CE498338CD5DF7551931C9 79F978A20AF310D2EC74B4CC0836E22E473848FA 0AA095829B54F81215A182430F3D6BA2 010C511BA6386401D11165FBD3DDE3AB1E28BFC7 50FA960B822F153ABAF47CB7F70546B6 E21E6FF7E5D46E58731EFC4918A2A54A054275FE 75625F9E947D6043C742FEF5636789C4 804AAFD69FC35A1B334D68FFC6BDE16E94AE3590 5DED29812109D60A8794F4D2AC086654 A409C880BEBC37A265B6834EFFF7EEB97AC27C0F 44DA72BED95363DD559A4749B77F126E 1F61988DF7C63C02602E4F9D648EC99E5A35B8BC BA7BFAC781652EC63C66A4A5D4206924 6D391DE8B8A01761DBA1DB64B34D811CB5FBF55F EF2C1F47E451EE29DDAC7748C677F28C 79F0D2F7410683DD03C3CFAF947386E7F600B374 30D78A1807AA716395B0D08822BEF536 EDE8671B577FD109B321197134518CCC3BFAC8AB B1CBF4B59F4C7EADDE3AE520DCE2E991 7CE0B17A6DAECBB1DB4CB7C0A77DEB34B8F882D5 8CF580B5C749F978F54791B51EF736C6 0 0 6C3F1C
+$gus833<~Controls.509~>162<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$gus833<~Controls.509~>170<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Alexey'a<~Controls.281~>426 <~Controls.282~><~Game.2038~><~Controls.283~><~Game.2042~> D8D006
+$Alexey'a<~Controls.281~>427 <~Controls.282~><~Game.2038~><~Controls.283~><~Game.2042~> 0BCCAD
+$Alexey'a<~Controls.281~>425 <~Controls.282~><~Game.2040~><~Controls.283~><~Game.2042~> 187857
+<Alexey'a> fok DA5351
+$gus833<~Controls.372~>105 B0C81B
+$gus833<~Controls.345~>104 103 102 101 100 099 <~Controls.346~>13 15 10 11 14 12 null
+$gus833<~Controls.350~>104 103 102 101 100 099 null
+$Alexey'a<~Controls.345~>213 212 211 210 <~Controls.346~>1 1 1 2 null
+<Alexey'a> pass 618DE1
+$gus833<~HighlightLabel.81~>102<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 5AEAB1
+$gus833<~HighlightLabel.101~>263<~HighlightLabel.102~><~Game.2002~><~HighlightLabel.103~><~Game.2003~> B49BD0
+$gus833<~Controls.644~>102 <~Controls.645~><~Game.2035~> 54AD37
+$Alexey'a<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 5DB184
+$Alexey'a<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.1997~><~Scribe.144~> EEABB4
+<game> gus833<~Controls.1~> 6 1 null
+$gus833<~Controls.624~>222<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Alexey'a<~Scribe.141~>247 <~Scribe.142~><~Game.1911~><~Scribe.143~><~Game.1915~><~Scribe.144~> C0CA82
+$Alexey'a<~Scribe.141~>252 <~Scribe.142~><~Game.2014~><~Scribe.143~><~Game.2015~><~Scribe.144~> E6C83E
+$Alexey'a<~Controls.323~>247 3FA1C0
+$Alexey'a<~Controls.323~>247 890F22
+$Alexey'a<~Controls.323~>247 662CEC
+$Alexey'a<~Controls.644~>222 <~Controls.645~><~Game.2035~> 814882
+$Alexey'a<~Controls.819~> AC481E
+$gus833<~HighlightLabel.81~>099<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 40E110
+<Alexey'a> frm 3F5F4E
+<Alexey'a> random 94CC40
+$gus833<~Controls.281~>099 <~Controls.282~><~Game.2035~><~Controls.283~><~Game.2043~> F8AEFE
+$gus833<~Controls.637~>245<~Controls.638~><~Game.1998~><~Controls.639~><~Game.2036~> null
+$Alexey'a<~Scribe.141~>245 <~Scribe.142~><~Game.2036~><~Scribe.143~><~Game.1906~><~Scribe.144~> 665147
+$Alexey'a<~Scribe.141~>252 <~Scribe.142~><~Game.2015~><~Scribe.143~><~Game.2014~><~Scribe.144~> D30F21
+$Alexey'a<~Scribe.141~>240 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.1998~><~Scribe.144~> B7737B
+$Alexey'a<~Scribe.141~>241 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> 8841A9
+$Alexey'a<~Controls.644~>222 <~Controls.645~><~Game.2035~> 08F410
+$gus833<~HighlightLabel.81~>099<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> D4D71B
+$gus833<~Scribe.141~>039 036 029 028 027 026 <~Scribe.142~><~Game.1979~><~Scribe.143~><~Game.533~><~Scribe.144~> 63D2FF
+$gus833<~Scribe.141~>055 049 048 047 <~Scribe.142~><~Game.1968~><~Scribe.143~><~Game.1946~><~Scribe.144~> B9753D
+$gus833<~Controls.644~>099 <~Controls.645~><~Game.2035~> B74E2D
+$Alexey'a<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> F40C8C
+$Alexey'a<~Controls.323~>247 5FCCFB
+$Alexey'a<~Controls.644~>210 <~Controls.645~><~Game.2035~> 3B4790
+$gus833<~HighlightLabel.81~>101<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> ABC95A
+$gus833<~Scribe.141~>254 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1919~><~Scribe.144~> 879739
+$gus833<~Scribe.141~>362 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2037~><~Scribe.144~> A53F3A
+$gus833<~Controls.644~>101 362 <~Controls.645~><~Game.2035~> 058450
+$Alexey'a<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 56CB36
+$Alexey'a<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 74C584
+$Alexey'a<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 9AE7BD
+<game> gus833<~Controls.1~> 3 4 null
+$gus833<~HighlightLabel.81~>104<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 63AAA0
+$gus833<~Scribe.141~>039 036 029 028 027 026 <~Scribe.142~><~Game.533~><~Scribe.143~><~Game.1974~><~Scribe.144~> 1701B4
+$gus833<~Controls.644~>104 <~Controls.645~><~Game.2035~> 5BF37B
+$Alexey'a<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 35034E
+$Alexey'a<~Controls.790~>248<~Controls.791~><~Game.2015~><~Controls.792~><~Game.2016~> 4F3F17
+$Alexey'a<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 3AEED6
+<game> gus833<~Controls.1~> 3 5 null
+$gus833<~Controls.624~>217<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Alexey'a<~Scribe.141~>252 <~Scribe.142~><~Game.2014~><~Scribe.143~><~Game.2015~><~Scribe.144~> 1B6E93
+$Alexey'a<~Scribe.141~>247 <~Scribe.142~><~Game.1915~><~Scribe.143~><~Game.1917~><~Scribe.144~> 43CE54
+$Alexey'a<~Controls.323~>247 B0E0C1
+<gus833> moria 79EEF4
+$gus833<~Controls.624~>220<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2036~> null
+$Alexey'a<~Controls.644~>220 217 <~Controls.645~><~Game.2035~> EF097D
+$gus833<~Controls.276~>100<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> C74F44
+$gus833<~Scribe.141~>reveal 162 883994202E73672AED00E9AE0DA3CEBAE92B44C7 23 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2029~><~Scribe.144~> 589867
+$gus833<~Controls.644~>100 <~Controls.645~><~Game.2035~> FD5A51
+$Alexey'a<~Controls.726~>213 211 212 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> FE9D95
+$Alexey'a<~Controls.731~>210 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> ACCA03
+$gus833<~Controls.757~>103 105 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 8DC659
+<~Game.7~>2 null
+$gus833<~Controls.762~>100 104 101 362 099 102 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 0CA1C0
+$Alexey'a<~Controls.509~>136<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Alexey'a<~Controls.509~>111<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$gus833<~Controls.509~>203<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$gus833<~Controls.509~>199<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Alexey'a<~Scribe.141~>241 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.1998~><~Scribe.144~> D8516C
+$Alexey'a<~Scribe.141~>240 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> FA3A15
+<Alexey'a> fok 77230D
+$gus833<~Controls.372~>100 6D9E95
+$gus833<~Controls.345~>104 101 362 099 102 103 105 <~Controls.346~>12 14 11 14 15 15 14 null
+$gus833<~Controls.350~>104 101 362 099 102 103 105 null
+$Alexey'a<~Controls.345~>210 213 211 212 <~Controls.346~>3 3 1 1 null
+$Alexey'a<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 4D38A4
+$Alexey'a<~Controls.281~>211 <~Controls.282~><~Game.2035~><~Controls.283~><~Game.2042~> D5C4A9
+<Alexey'a> pass BE62E7
+$gus833<~HighlightLabel.81~>099<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> A8F03A
+$gus833<~Controls.509~>177<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$gus833<~Controls.644~>099 <~Controls.645~><~Game.2035~> 30A56B
+$Alexey'a<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 5979B2
+$Alexey'a<~Controls.323~>247 ADC470
+$Alexey'a<~Controls.644~>211 <~Controls.645~><~Game.2035~> 6ED6B8
+$gus833<~HighlightLabel.81~>105<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 0C834E
+$gus833<~Controls.509~>158<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$gus833<~Controls.644~>105 <~Controls.645~><~Game.2035~> 224A38
+$Alexey'a<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> E6C7AE
+$Alexey'a<~Scribe.141~>260 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> 5BBA76
+$Alexey'a<~Controls.644~>213 <~Controls.645~><~Game.2035~> B79A12
+$gus833<~HighlightLabel.81~>101<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 38AAD1
+$gus833<~Scribe.141~>reveal 158 2EE87458242BB318D7FFBCF0E2B68445781FE4CD 0 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2030~><~Scribe.144~> 5066E1
+$gus833<~Controls.644~>101 <~Controls.645~><~Game.2035~> 59599C
+$Alexey'a<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 164EAF
+$Alexey'a<~Scribe.141~>256 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> DDA7B3
+$Alexey'a<~Controls.644~>210 <~Controls.645~><~Game.2035~> 00C79F
+$gus833<~HighlightLabel.81~>104<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 8A05EA
+$gus833<~Scribe.141~>001 <~Scribe.142~><~Game.1910~><~Scribe.143~><~Game.1917~><~Scribe.144~> 347B6F
+$gus833<~Scribe.141~>039 038 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1974~><~Scribe.143~><~Game.1976~><~Scribe.144~> AE5B79
+$gus833<~Controls.644~>104 <~Controls.645~><~Game.2035~> 5A2158
+$Alexey'a<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 53FB59
+$Alexey'a<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> B8EF56
+$Alexey'a<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> CBE65B
+<game> gus833<~Controls.1~> 2 2 1 null
+<game> gus833<~Controls.1~> 4 6 null
+$gus833<~Controls.624~>226<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Alexey'a<~Scribe.141~>252 <~Scribe.142~><~Game.2015~><~Scribe.143~><~Game.2017~><~Scribe.144~> 57AF94
+$Alexey'a<~Controls.644~>226 <~Controls.645~><~Game.2035~> 4E7B7E
+$gus833<~Controls.276~>362<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 300ABC
+$gus833<~Scribe.141~>001 008 007 <~Scribe.142~><~Game.1917~><~Scribe.143~><~Game.1927~><~Scribe.144~> A2C296
+$gus833<~Scribe.141~>039 038 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1976~><~Scribe.143~><~Game.1972~><~Scribe.144~> 9393EA
+$gus833<~Controls.644~>362 <~Controls.645~><~Game.2035~> 2C03C1
+$Alexey'a<~Controls.726~>212 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 85A2EF
+$Alexey'a<~Controls.731~>210 213 211 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 06E7D7
+$gus833<~Controls.757~>102 103 100 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 55079F
+<~Game.7~>3 null
+$gus833<~Controls.762~>362 104 101 105 099 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> A41313
+$Alexey'a<~Controls.509~>139<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Alexey'a<~Controls.509~>156<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$gus833<~Controls.509~>202<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$gus833<~Controls.509~>171<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Alexey'a<~Scribe.141~>247 <~Scribe.142~><~Game.1917~><~Scribe.143~><~Game.1927~><~Scribe.144~> A83480
+$Alexey'a<~Scribe.141~>248 <~Scribe.142~><~Game.2015~><~Scribe.143~><~Game.2014~><~Scribe.144~> 8E6284
+$gus833<~Scribe.141~>162 <~Scribe.142~><~Game.2029~><~Scribe.143~><~Game.2036~><~Scribe.144~> 4C61D9
+<Alexey'a> fo 7E47A5
+<gus833> using balrog 6888A9
+$gus833<~Controls.624~>219<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$gus833<~Controls.644~>162 219 <~Controls.645~><~Game.2035~> 23456B
+$gus833<~Controls.372~>362 01C31B
+<Alexey'a> fo 9015D6
+$gus833<~Controls.345~>104 101 105 099 102 103 100 <~Controls.346~>10 15 12 10 12 15 13 null
+$gus833<~Controls.350~>104 101 105 099 102 103 100 null
+$Alexey'a<~Controls.345~>210 213 211 212 <~Controls.346~>3 3 0 1 null
+$Alexey'a<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> CC05B7
+$Alexey'a<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> FE1E15
+$Alexey'a<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 5C6847
+<game> gus833<~Controls.1~> 3 6 4 null
+<game> gus833<~Controls.1~> 4 null
+$gus833<~Controls.624~>225<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Alexey'a<~Scribe.141~>240 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2037~><~Scribe.144~> 68F69C
+$Alexey'a<~Scribe.141~>241 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> 71CFAA
+$Alexey'a<~Controls.644~>225 240 <~Controls.645~><~Game.2035~> F85EF6
+<gus833> wwsat 0996B8
+$gus833<~Controls.452~>123<~Controls.453~><~Controls.45~><~Controls.454~><~Game.2039~> null
+$gus833<~HighlightLabel.81~>099<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 912D80
+$gus833<~HighlightLabel.101~>262<~HighlightLabel.102~><~Game.2002~><~HighlightLabel.103~><~Game.2003~> 6EEEB1
+$gus833<~Controls.644~>099 <~Controls.645~><~Game.2035~> 9B8339
+<Alexey'a> pass 0CBFA3
+$gus833<~HighlightLabel.81~>105<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 4D4969
+$gus833<~Scribe.141~>039 038 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1972~><~Scribe.143~><~Game.1975~><~Scribe.144~> 0F2A86
+$gus833<~Scribe.141~>040 035 015 014 013 012 011 <~Scribe.142~><~Game.1956~><~Scribe.143~><~Game.1953~><~Scribe.144~> 4C7B39
+$gus833<~Controls.644~>105 <~Controls.645~><~Game.2035~> DB17C9
+$Alexey'a<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 9214F5
+$Alexey'a<~Scribe.141~>240 <~Scribe.142~><~Game.2039~><~Scribe.143~><~Game.1921~><~Scribe.144~> B10C2D
+$Alexey'a<~Controls.323~>240 5F2422
+$Alexey'a<~Scribe.141~>359 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.2037~><~Scribe.144~> 990EA3
+$Alexey'a<~Controls.644~>211 359 <~Controls.645~><~Game.2035~> 3899B1
+$gus833<~HighlightLabel.81~>102<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 75809E
+$gus833<~Scribe.141~>040 035 015 014 013 012 011 <~Scribe.142~><~Game.1953~><~Scribe.143~><~Game.1927~><~Scribe.144~> 0BB4C2
+$gus833<~Scribe.141~>039 038 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1975~><~Scribe.143~><~Game.1966~><~Scribe.144~> 916A4C
+$gus833<~Controls.644~>102 <~Controls.645~><~Game.2035~> 8EC68F
+$Alexey'a<~Scribe.141~>425 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 235A85
+$Alexey'a<~Scribe.141~>256 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> 233575
+$Alexey'a<~Controls.644~>425 <~Controls.645~><~Game.2035~> AD2E18
+$gus833<~HighlightLabel.81~>100<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> B85AA3
+$gus833<~Scribe.141~>039 038 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1966~><~Scribe.143~><~Game.1957~><~Scribe.144~> DAE19B
+$gus833<~Controls.644~>100 <~Controls.645~><~Game.2035~> B59F8F
+$gus833<~Controls.323~>258 263D6E
+$Alexey'a<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> D88417
+$Alexey'a<~CardBuffet.9~>reveal 156 F8F4ED599F0CB21FD605F2ABA82251FB83721EF2 12<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> 49333A
+$Alexey'a<~Scribe.141~>270 276 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1920~><~Scribe.144~> 4E493F
+$Alexey'a<~Controls.644~>210 156 <~Controls.645~><~Game.2035~> 00E43D
+$gus833<~Controls.276~>104<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 8D7DC1
+$gus833<~Scribe.141~>261 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> 041715
+$gus833<~Controls.644~>104 <~Controls.645~><~Game.2035~> B299B2
+$Alexey'a<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 94A241
+$Alexey'a<~Scribe.141~>258 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> 69F1DB
+$Alexey'a<~Controls.644~>213 <~Controls.645~><~Game.2035~> 8261AF
+$Alexey'a<~Controls.726~>212 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 81DAA7
+$Alexey'a<~Controls.731~>213 210 211 359 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 6CE039
+$gus833<~Controls.757~>101 103 362 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 90C82C
+<~Game.7~>4 null
+$gus833<~Controls.762~>104 100 102 105 099 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 1FA70F
+$Alexey'a<~Controls.509~>133<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Alexey'a<~Controls.509~>146<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$gus833<~Controls.509~>174<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$gus833<~Controls.509~>184<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Alexey'a<~Scribe.141~>247 <~Scribe.142~><~Game.1927~><~Scribe.143~><~Game.1928~><~Scribe.144~> 2607E9
+$Alexey'a<~Scribe.141~>248 <~Scribe.142~><~Game.2015~><~Scribe.143~><~Game.2014~><~Scribe.144~> 1D1939
+$gus833<~Controls.296~>202 <~Controls.297~><~Controls.46~> B4F740
+$Alexey'a<~Scribe.141~>252 <~Scribe.142~><~Game.2017~><~Scribe.143~><~Game.2016~><~Scribe.144~> BD54AD
+$Alexey'a<~Scribe.141~>158 <~Scribe.142~><~Game.2030~><~Scribe.143~><~Game.2036~><~Scribe.144~> 44A24B
+$Alexey'a<~Controls.644~>158 <~Controls.645~><~Game.2035~> 00E8C8
+$gus833<~Controls.296~>171 <~Controls.297~><~Controls.46~> 6CBB16
+<Alexey'a> fo C919C7
+$gus833<~Controls.372~>104 B3492D
+$gus833<~Controls.345~>100 102 105 099 101 103 362 <~Controls.346~>10 15 13 13 11 13 12 null
+$gus833<~Controls.350~>100 102 105 099 101 103 362 null
+$Alexey'a<~Controls.345~>213 210 211 359 212 <~Controls.346~>1 1 1 1 4 null
+$Alexey'a<~Scribe.141~>359 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 0AAEA9
+$Alexey'a<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 6D7FB8
+$Alexey'a<~Controls.795~>359<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 891B8B
+<game> gus833<~Controls.1~> 6 2 null
+$gus833<~Controls.624~>218<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Alexey'a> random A1C2C3
+$gus833<~Controls.637~>246<~Controls.638~><~Game.1998~><~Controls.639~><~Game.2036~> null
+$Alexey'a<~Scribe.141~>247 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.1930~><~Scribe.144~> 2F2821
+$Alexey'a<~Controls.323~>247 4279E3
+$Alexey'a<~Scribe.141~>246 <~Scribe.142~><~Game.2036~><~Scribe.143~><~Game.1928~><~Scribe.144~> 2E0D21
+$Alexey'a<~Scribe.141~>252 <~Scribe.142~><~Game.2016~><~Scribe.143~><~Game.2017~><~Scribe.144~> B59DEE
+$Alexey'a<~Controls.644~>218 <~Controls.645~><~Game.2035~> EF03B1
+$gus833<~HighlightLabel.81~>103<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> FAA65D
+<gus833> lorien 19FAB6
+$Alexey'a<~Scribe.141~>246 097 093 092 087 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.1992~><~Scribe.144~> 3AE9F8
+$gus833<~Scribe.141~>040 035 001 015 014 013 012 011 008 007 <~Scribe.142~><~Game.1927~><~Scribe.143~><~Game.1928~><~Scribe.144~> E7FC5E
+$Alexey'a<~Scribe.141~>256 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 5CF3F9
+$gus833<~Controls.644~>103 <~Controls.645~><~Game.2035~> 749FE6
+$Alexey'a<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 9E2668
+$Alexey'a<~Scribe.141~>266 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1954~><~Scribe.144~> EE133A
+$Alexey'a<~Controls.644~>212 <~Controls.645~><~Game.2035~> F1CCFD
+$gus833<~HighlightLabel.81~>099<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 4C6959
+<gus833> WLR 427CCE
+$Alexey'a<~Scribe.141~>098 266 094 088 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1991~><~Scribe.144~> 7F6186
+$gus833<~Scribe.141~>039 038 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1957~><~Scribe.143~><~Game.1954~><~Scribe.144~> 2E8F9A
+$gus833<~Controls.644~>099 <~Controls.645~><~Game.2035~> B53A7D
+<Alexey'a> oass 974A36
+$gus833<~HighlightLabel.81~>100<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> B7A3D8
+$gus833<~Scribe.141~>253 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1954~><~Scribe.144~> 7F0CDF
+$Alexey'a<~Controls.323~>210 CFF632
+$gus833<~Scribe.141~>361 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2037~><~Scribe.144~> DAE7EF
+$Alexey'a<~Controls.323~>259 257 9075B2
+$gus833<~Controls.644~>100 361 <~Controls.645~><~Game.2035~> 3ADC42
+$Alexey'a<~Controls.323~>260 261 DCFF4C
+$Alexey'a<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 8AC4E1
+$Alexey'a<~Controls.323~>247 0CD60E
+$Alexey'a<~Controls.644~>210 <~Controls.645~><~Game.2035~> BFB583
+$gus833<~HighlightLabel.81~>362<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 475F24
+$gus833<~Scribe.141~>040 011 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.1930~><~Scribe.144~> C1FEC6
+$gus833<~Scribe.141~>056 052 051 050 <~Scribe.142~><~Game.1986~><~Scribe.143~><~Game.1984~><~Scribe.144~> 931FB0
+$gus833<~Controls.644~>362 <~Controls.645~><~Game.2035~> D6F7BB
+$Alexey'a<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 5C84EC
+$Alexey'a<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 66AFDF
+$Alexey'a<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 076121
+<game> gus833<~Controls.1~> 3 6 null
+<game> gus833<~Controls.1~> 1 null
+$gus833<~Controls.624~>228<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Alexey'a> random 516084
+$gus833<~Controls.637~>241<~Controls.638~><~Game.1999~><~Controls.639~><~Game.2036~> null
+$Alexey'a<~Scribe.141~>243 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> 65078D
+$Alexey'a<~Controls.644~>241 228 <~Controls.645~><~Game.2035~> 68F335
+$gus833<~HighlightLabel.81~>101<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> B24BE9
+<gus833> WLR B24101
+$gus833<~Controls.840~>199 B2D867
+$Alexey'a<~Controls.840~>133 8C558D
+<auto> playchosen 991B2E
+<auto><~Controls.3~>reveal 133 6DF881DDBA6B0FCF35D8B00C2D33F2C82363BCA1 6<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 7EA694
+<auto><~Controls.866~>reveal 199 614EE455B24916FD298AF2CC662997F7F654F6A6 2<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> C62D75
+<auto> playchosen B8C1B1
+<game> gus833<~Controls.1~> 4 6 5 3 2 null
+<game> gus833<~Controls.1~> 5 2 5 2 null
+<gus833> 1 6E23B9
+<game> Alexey'a<~Controls.1~> 3 3 6 null
+<game> Alexey'a<~Controls.1~> 6 null
+<Alexey'a> 2 2D035F
+$gus833<~Scribe.141~>022 029 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.2036~><~Scribe.144~> 7EC3D7
+$Alexey'a<~Controls.304~>094 <~Controls.305~><~Game.1991~> 6FA038
+$Alexey'a<~Controls.313~>269 <~Controls.307~><~Controls.314~><~Game.1991~> 73196E
+<gus833> press 5FB2F3
+$gus833<~Controls.304~>036 <~Controls.305~><~Game.1954~> 387497
+$gus833<~Controls.313~>344 <~Controls.307~><~Controls.314~><~Game.1954~> 78C7BC
+$gus833<~Controls.509~>185<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$gus833<~Controls.662~>199 022 029 133 <~Controls.663~><~Game.2035~> 51676C
+$gus833<~Controls.840~>185 50EB79
+$Alexey'a<~Controls.840~>106 09DFD1
+<auto> playchosen 05B4C0
+<auto><~Controls.3~>reveal 106 4D0B3A13897BB8B56E24F1EF90658C6BF2FE3D64 6<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 5E24B6
+<auto><~Controls.866~>reveal 185 78E21973DB495A7525BCF4019F013AD92FDC88FB 11<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 80236D
+<auto> playchosen B75B05
+<game> gus833<~Controls.1~> 2 3 1 2 6 null
+<game> gus833<~Controls.1~> 1 6 5 2 null
+<gus833> 2 B57F60
+<game> Alexey'a<~Controls.1~> 1 2 5 null
+<game> Alexey'a<~Controls.1~> 4 null
+<Alexey'a> 1 65221C
+$Alexey'a<~Scribe.141~>266 <~Scribe.142~><~Game.1991~><~Scribe.143~><~Game.2037~><~Scribe.144~> 4DFC31
+$gus833<~Scribe.141~>027 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.2036~><~Scribe.144~> 5901A4
+$gus833<~Controls.644~>101 185 027 106 266 <~Controls.645~><~Game.2035~> B9F74D
+$Alexey'a<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 6A5617
+$Alexey'a<~Controls.790~>248<~Controls.791~><~Game.2015~><~Controls.792~><~Game.2016~> 0931D7
+$Alexey'a<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 0FEA2F
+<game> gus833<~Controls.1~> 5 2 null
+<game> gus833<~Controls.1~> 1 null
+$gus833<~Controls.624~>229<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Alexey'a<~Scribe.141~>243 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2036~><~Scribe.144~> F47482
+$Alexey'a<~Scribe.141~>242 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> 720E34
+$Alexey'a<~Scribe.141~>252 <~Scribe.142~><~Game.2017~><~Scribe.143~><~Game.2018~><~Scribe.144~> 2D1162
+$Alexey'a<~Controls.644~>243 229 <~Controls.645~><~Game.2035~> 7B9254
+$gus833<~Controls.276~>105<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 46FB4A
+$gus833<~CardBuffet.14~>reveal 174 5FF272DE0B71FF2781113CA4522F41C4639236B7 5<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 76FE7A
+$gus833<~Scribe.141~>037 <~Scribe.142~><~Game.1969~><~Scribe.143~><~Game.1954~><~Scribe.144~> A56982
+<gus833> rolling 09E990
+<game> gus833<~Controls.1~> 3 6 null
+$gus833<~Controls.624~>221<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<gus833> 2r F9D8EB
+<Alexey'a> no 44E67F
+<Alexey'a> its one E35568
+<gus833> 3 Cs in the box 2E7906
+<Alexey'a> or hm ED7E28
+<Alexey'a> ye o 22543A
+<gus833> I hit on 3s 65F9DE
+$Alexey'a<~Scribe.141~>242 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2037~><~Scribe.144~> 112540
+$Alexey'a<~Scribe.141~>244 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> 7167F1
+$Alexey'a<~Scribe.141~>247 <~Scribe.142~><~Game.1930~><~Scribe.143~><~Game.1942~><~Scribe.144~> AD2512
+$Alexey'a<~Controls.323~>247 08FEFE
+$Alexey'a<~Controls.644~>105 174 221 242 <~Controls.645~><~Game.2035~> 52B960
+$Alexey'a<~Controls.726~>211 213 359 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 578717
+$Alexey'a<~Controls.731~>210 212 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 0CCB69
+$gus833<~Controls.644~><~Controls.645~><~Game.2035~> 2FE9F0
+$gus833<~Controls.757~>102 104 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 31E013
+<~Game.7~>5 null
+$gus833<~Controls.762~>105 101 362 100 361 099 103 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 15C353
+$Alexey'a<~Controls.509~>149<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Alexey'a<~Controls.509~>153<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$gus833<~Controls.509~>165<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$gus833<~Controls.509~>189<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<Alexey'a> fo 4E8772
+$gus833<~Controls.372~>105 8B68FC
+$gus833<~Controls.345~>101 362 100 361 099 103 102 104 <~Controls.346~>13 10 15 13 13 10 15 13 null
+$gus833<~Controls.350~>101 362 100 361 099 103 102 104 null
+$Alexey'a<~Controls.345~>210 212 211 213 359 <~Controls.346~>1 3 4 1 3 null
+$Alexey'a<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> B330BC
+$Alexey'a<~Controls.323~>247 E7A670
+$Alexey'a<~Controls.644~>213 <~Controls.645~><~Game.2035~> 4C4CAA
+$gus833<~HighlightLabel.81~>099<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> C73ACD
+<gus833> WLR 0AEE00
+$gus833<~Controls.840~>189 8242CA
+<auto> playchosen 9F1C3F
+<auto><~Controls.866~>reveal 189 EEDE53F41D6F53E6CF1C899FEE2F9A8C692A0B4F 3<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 4E65D3
+$gus833<~Scribe.141~>028 344 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.2036~><~Scribe.144~> 9A565D
+<game> gus833<~Controls.1~> 2 4 1 2 2 null
+<game> gus833<~Controls.1~> 2 1 1 5 null
+<gus833> 1 A44625
+<game> Alexey'a<~Controls.1~> 3 2 null
+<game> Alexey'a<~Controls.1~> 1 null
+$Alexey'a<~Scribe.141~>269 <~Scribe.142~><~Game.1991~><~Scribe.143~><~Game.2037~><~Scribe.144~> DDB3C2
+$gus833<~Controls.509~>195<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$gus833<~Controls.644~>099 189 028 344 269 <~Controls.645~><~Game.2035~> 40C862
+$Alexey'a<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 45023F
+$Alexey'a<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 56B9C7
+$Alexey'a<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> E085BA
+<game> gus833<~Controls.1~> 2 6 5 null
+$gus833<~Controls.624~>216<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Alexey'a<~Scribe.141~>244 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2036~><~Scribe.144~> 5B47C7
+$Alexey'a<~Scribe.141~>364 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1999~><~Scribe.144~> 75E6EC
+$Alexey'a<~Controls.644~>244 216 <~Controls.645~><~Game.2035~> 4AA212
+$gus833<~HighlightLabel.81~>361<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> FCC028
+<gus833> WLR nc 699C7C
+<Alexey'a> nc BD2729
+<game> gus833<~Controls.1~> 1 1 1 3 3 null
+<game> gus833<~Controls.1~> 6 5 5 3 2 null
+<gus833> 1 E77584
+<game> Alexey'a<~Controls.1~> 1 2 null
+$Alexey'a<~Scribe.141~>098 088 <~Scribe.142~><~Game.1991~><~Scribe.143~><~Game.2036~><~Scribe.144~> 565F54
+$gus833<~Scribe.141~>423 <~Scribe.142~><~Game.27~><~Scribe.143~><~Game.29~><~Scribe.144~> 24A66B
+$gus833<~Controls.644~>361 098 088 <~Controls.645~><~Game.2035~> 67C6C1
+$Alexey'a<~Scribe.141~>359 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 63BFF8
+$Alexey'a<~Controls.790~>248<~Controls.791~><~Game.2015~><~Controls.792~><~Game.2016~> 71D8DB
+$Alexey'a<~Controls.795~>359<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> D6E4E8
+$Alexey'a<~Scribe.141~>249 <~Scribe.142~><~Game.2008~><~Scribe.143~><~Game.2011~><~Scribe.144~> FDA67E
+<game> gus833<~Controls.1~> 5 3 3 null
+$gus833<~Controls.624~>224<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Alexey'a<~Scribe.141~>247 <~Scribe.142~><~Game.1942~><~Scribe.143~><~Game.1964~><~Scribe.144~> FE6DC0
+$Alexey'a<~Scribe.141~>248 <~Scribe.142~><~Game.2016~><~Scribe.143~><~Game.2014~><~Scribe.144~> 64C591
+$Alexey'a<~Controls.323~>248 85C665
+$Alexey'a<~Controls.644~>224 <~Controls.645~><~Game.2035~> 9CEA5A
+$gus833<~HighlightLabel.81~>362<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 769DAC
+$gus833<~HighlightLabel.101~>261<~HighlightLabel.102~><~Game.2002~><~HighlightLabel.103~><~Game.2003~> D84F1E
+$gus833<~Controls.644~>362 <~Controls.645~><~Game.2035~> 96FB2D
+<Alexey'a> pass B54B84
+$gus833<~HighlightLabel.81~>101<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 79DE0A
+$gus833<~Scribe.141~>253 038 039 037 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1928~><~Scribe.144~> A2EE6B
+$gus833<~Scribe.141~>040 <~Scribe.142~><~Game.1930~><~Scribe.143~><~Game.1964~><~Scribe.144~> 6586E8
+$gus833<~Controls.644~>101 <~Controls.645~><~Game.2035~> 49093B
+$Alexey'a<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> D3F528
+$Alexey'a<~CardBuffet.9~>reveal 153 BAA8E1E67DD66961FF435A6DAF9431142E94CD99 21<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> 54CC0F
+$Alexey'a<~Scribe.141~>264 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1992~><~Scribe.144~> DEED24
+$Alexey'a<~Controls.509~>140<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Alexey'a<~Controls.644~>212 153 <~Controls.645~><~Game.2035~> 76E50E
+$gus833<~HighlightLabel.81~>104<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> C9EA7C
+<gus833> lorien B868A0
+$gus833<~Controls.840~>203 D1A6C1
+$Alexey'a<~Controls.840~>140 ACFC37
+<auto> playchosen 655668
+<auto><~Controls.3~>reveal 140 4812B5CB2E72DF192B8AAE24345B29431F222EC1 17<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 4000B5
+<auto><~Controls.866~>reveal 203 0CB0536F836C85B88D8263E46D0EEEBF23D783F7 16<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> EE6501
+<auto> playchosen 82FCB5
+<gus833> ff3 968758
+<game> gus833<~Controls.1~> 4 6 4 1 6 null
+<game> gus833<~Controls.1~> 3 5 null
+<gus833> 1 6FB324
+<game> Alexey'a<~Controls.1~> 4 null
+<game> Alexey'a<~Controls.1~> 6 null
+<Alexey'a> 1 AFF312
+$gus833<~Scribe.141~>007 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.2036~><~Scribe.144~> 023F71
+$Alexey'a<~Controls.304~>093 <~Controls.305~><~Game.1992~> C1C693
+$Alexey'a<~Controls.313~>088 <~Controls.308~><~Controls.314~><~Game.1992~> D33662
+<gus833> stop B8023D
+$gus833<~Controls.509~>182<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$gus833<~Controls.644~>104 203 007 140 <~Controls.645~><~Game.2035~> 1BCFA2
+$Alexey'a<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 4E3CB4
+$Alexey'a<~Scribe.141~>059 <~Scribe.142~><~Game.1973~><~Scribe.143~><~Game.1965~><~Scribe.144~> B4D33F
+$Alexey'a<~Scribe.141~>064 <~Scribe.142~><~Game.1902~><~Scribe.143~><~Game.1906~><~Scribe.144~> A1EDDD
+$Alexey'a<~Controls.644~>211 <~Controls.645~><~Game.2035~> 795979
+$Alexey'a<~Controls.644~><~Controls.645~><~Game.2035~> B61AA7
+$gus833<~Controls.276~>103<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 38B507
+$gus833<~CardBuffet.14~>reveal 195 F31F828625E26927AB564A0AD71DFC917359CA54 14<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 2226A4
+$gus833<~Scribe.141~>027 344 028 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1956~><~Scribe.144~> 3C068F
+$gus833<~Scribe.141~>343 029 022 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1922~><~Scribe.144~> 18C6E2
+$gus833<~Controls.644~>103 195 <~Controls.645~><~Game.2035~> 19D27F
+$Alexey'a<~Controls.726~>359 210 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> AF658C
+$Alexey'a<~Controls.731~>211 212 213 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 957D83
+$gus833<~Controls.757~>100 102 105 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 0A046A
+<~Game.7~>6 null
+$gus833<~Controls.762~>103 104 101 362 361 099 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 3AB813
+$Alexey'a<~Controls.509~>109<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Alexey'a<~Controls.509~>134<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$gus833<~Controls.509~>208<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$gus833<~Controls.509~>180<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$gus833<~Controls.296~>184 <~Controls.297~><~Controls.46~> 7BA18E
+$Alexey'a<~Controls.281~>109 <~Controls.282~><~Controls.45~><~Controls.283~><~Game.2039~> 660676
+<Alexey'a> fo C9C914
+$gus833<~Controls.372~>103 F49CB6
+$gus833<~Controls.345~>104 101 362 361 099 100 102 105 <~Controls.346~>10 11 14 13 11 12 11 14 null
+$gus833<~Controls.350~>104 101 362 361 099 100 102 105 null
+$Alexey'a<~Controls.345~>211 212 213 359 210 <~Controls.346~>0 3 1 2 4 null
+$Alexey'a<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 9C0A46
+$Alexey'a<~Controls.323~>247 50A6AC
+$Alexey'a<~Controls.644~>211 <~Controls.645~><~Game.2035~> 05EB43
+$gus833<~HighlightLabel.81~>100<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> EA5C33
+<gus833> lorien E701AE
+$gus833<~Controls.840~>180 2AF1A7
+$Alexey'a<~Controls.840~>134 A89C4D
+<auto> playchosen 8834C8
+<auto><~Controls.3~>reveal 134 FF99A2005CE121FE41DE68FCB72A070EC37B2FD2 9<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 605284
+<auto><~Controls.866~>reveal 180 7036F938D06F8B37632B1B596034A74E2CECAD2D 0<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 966C2F
+<auto> playchosen 6D4BA8
+<game> Alexey'a<~Controls.1~> 3 3 null
+<game> gus833<~Controls.1~> 5 4 4 1 4 null
+<game> gus833<~Controls.1~> 5 1 1 1 null
+<gus833> 1 1B2309
+<game> Alexey'a<~Controls.1~> 2 2 3 3 null
+<game> Alexey'a<~Controls.1~> 6 5 null
+<Alexey'a> 2 243315
+$Alexey'a<~Controls.304~>092 <~Controls.305~><~Game.1992~> 838136
+$Alexey'a<~Controls.313~>269 <~Controls.308~><~Controls.314~><~Game.1992~> 1574D8
+$gus833<~Scribe.141~>001 015 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.2036~><~Scribe.144~> 3DBA05
+<gus833> stop EBDAD6
+$gus833<~Controls.509~>172<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$gus833<~Controls.644~>100 180 001 015 134 <~Controls.645~><~Game.2035~> 924B40
+<Alexey'a> pasas C5D077
+$gus833<~HighlightLabel.81~>362<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> A036DF
+$gus833<~CardBuffet.14~>reveal 165 40B0AC534D09B0F797035BA317F02DA00F5AEC9D 3<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 88C9D9
+$gus833<~Scribe.141~>236 <~Scribe.142~><~Game.2046~><~Scribe.143~><~Game.2036~><~Scribe.144~> 886374
+$gus833<~Controls.644~>362 165 236 <~Controls.645~><~Game.2035~> 90DC49
+<Alexey'a> pass 7A285B
+$gus833<~HighlightLabel.81~>099<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 59E6A4
+$gus833<~Scribe.141~>027 344 028 <~Scribe.142~><~Game.1956~><~Scribe.143~><~Game.1953~><~Scribe.144~> 76736A
+$gus833<~Scribe.141~>054 053 <~Scribe.142~><~Game.1987~><~Scribe.143~><~Game.1984~><~Scribe.144~> 51DD1E
+$gus833<~Controls.644~>099 <~Controls.645~><~Game.2035~> ABC61D
+<Alexey'a> pass 28A711
+$gus833<~HighlightLabel.81~>102<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> F9F6DE
+$gus833<~Scribe.141~>056 054 053 052 051 050 <~Scribe.142~><~Game.1984~><~Scribe.143~><~Game.1973~><~Scribe.144~> 200BBB
+$gus833<~Scribe.141~>027 344 028 <~Scribe.142~><~Game.1953~><~Scribe.143~><~Game.1930~><~Scribe.144~> 5C7B43
+$gus833<~Controls.644~>102 <~Controls.645~><~Game.2035~> 62556C
+$gus833<~HighlightLabel.91~>257<~HighlightLabel.92~><~Game.2000~><~HighlightLabel.93~><~Game.2001~> B273EC
+$Alexey'a<~HighlightLabel.86~>359<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> F77B05
+$Alexey'a<~CardBuffet.9~>reveal 139 0A0EBC57B5FEC05865BBE0F382279FB08A52695F 7<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> E6D9A6
+$Alexey'a<~Controls.281~>233 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2045~> 0943F5
+$Alexey'a<~Controls.644~>359 139 <~Controls.645~><~Game.2035~> EF8EA2
+$gus833<~HighlightLabel.81~>101<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 1D9F06
+$gus833<~Scribe.141~>027 344 028 011 <~Scribe.142~><~Game.1930~><~Scribe.143~><~Game.1928~><~Scribe.144~> FB7B36
+$gus833<~Scribe.141~>055 057 049 048 047 045 044 <~Scribe.142~><~Game.1946~><~Scribe.143~><~Game.1932~><~Scribe.144~> F654B5
+$gus833<~Controls.644~>101 <~Controls.645~><~Game.2035~> F70D4E
+$Alexey'a<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> CF69ED
+$Alexey'a<~Controls.281~>210 <~Controls.282~><~Game.2035~><~Controls.283~><~Game.2042~> F94192
+$Alexey'a<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> C56CB5
+$Alexey'a<~CardBuffet.9~>reveal 111 9F68DD34519C7576DD947C40472055A302476711 8<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> B165AE
+$Alexey'a<~Scribe.141~>283 289 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1929~><~Scribe.144~> D68D6B
+$Alexey'a<~Controls.644~>212 111 <~Controls.645~><~Game.2035~> 7B1C92
+$gus833<~HighlightLabel.81~>104<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> EC471A
+$Alexey'a<~Scribe.141~>419 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1954~><~Scribe.144~> C77F55
+$gus833<~Scribe.141~>322 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1919~><~Scribe.144~> 700C77
+$gus833<~Controls.644~>104 <~Controls.645~><~Game.2035~> A216B4
+$Alexey'a<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 1E387A
+$Alexey'a<~Scribe.141~>283 289 073 072 <~Scribe.142~><~Game.1929~><~Scribe.143~><~Game.1925~><~Scribe.144~> 3FEA5C
+$Alexey'a<~Scribe.141~>245 064 <~Scribe.142~><~Game.1906~><~Scribe.143~><~Game.1912~><~Scribe.144~> 8BB7A6
+$Alexey'a<~Controls.644~>210 <~Controls.645~><~Game.2035~> 52645E
+$gus833<~HighlightLabel.81~>105<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> D20B23
+$gus833<~CardBuffet.14~>reveal 177 3CE14DA789AD03C2936DAE6D8F6908AF651E2DDD 17<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 802C91
+$gus833<~Scribe.141~>239 <~Scribe.142~><~Game.2046~><~Scribe.143~><~Game.2036~><~Scribe.144~> CF0CD2
+$gus833<~Controls.644~>105 177 239 <~Controls.645~><~Game.2035~> A8A578
+$Alexey'a<~Scribe.141~>427 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 2DC468
+$Alexey'a<~Controls.509~>115<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Alexey'a<~Controls.644~>427 <~Controls.645~><~Game.2035~> A14FCC
+$gus833<~Controls.276~>361<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 5FFFD6
+<gus833> lorien 35B242
+$gus833<~Controls.840~>182 0DE3D6
+$Alexey'a<~Controls.840~>115 EB72E2
+<auto> playchosen F6EED8
+<auto><~Controls.3~>reveal 115 53632C308385EE64F8F0D20CC786B8B2DF8F0FAE 5<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> A9195A
+<auto><~Controls.866~>reveal 182 089915DDD2F5122B1FA31ECA0A2D5C9455EFE3F8 12<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 25E4D9
+<auto> playchosen BE5E0C
+<game> gus833<~Controls.1~> 2 1 4 4 null
+<game> gus833<~Controls.1~> 2 6 3 4 null
+<gus833> 1 335D11
+<game> Alexey'a<~Controls.1~> 1 2 2 6 null
+<game> Alexey'a<~Controls.1~> 3 1 null
+<Alexey'a> 1 FE8687
+$gus833<~Scribe.141~>012 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.2036~><~Scribe.144~> 4BC80E
+$Alexey'a<~Controls.304~>264 <~Controls.305~><~Game.1992~> F9A1A2
+$Alexey'a<~Controls.313~>268 <~Controls.307~><~Controls.314~><~Game.1992~> 83BBB8
+<gus833> stop 5AC906
+$gus833<~Controls.509~>160<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$gus833<~Controls.644~>361 182 012 115 <~Controls.645~><~Game.2035~> 532A37
+$Alexey'a<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> FC7EDB
+$Alexey'a<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 7C91C1
+$Alexey'a<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> B0D176
+<game> gus833<~Controls.1~> 1 null
+<game> gus833<~Controls.1~> 5 null
+$Alexey'a<~Controls.726~>213 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> CD67B0
+$Alexey'a<~Controls.731~>210 212 359 211 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> BDF07F
+$gus833<~Controls.757~>103 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 60AA6C
+<~Game.7~>7 null
+$gus833<~Controls.762~>361 105 104 101 102 099 362 100 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 90361B
+$gus833<~Controls.509~>169<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$gus833<~Controls.509~>176<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Alexey'a<~Controls.509~>129<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Alexey'a<~Controls.509~>142<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Alexey'a<~Scribe.141~>247 <~Scribe.142~><~Game.1964~><~Scribe.143~><~Game.524~><~Scribe.144~> E30D6C
+$Alexey'a<~Controls.281~>222 239 233 236 221 220 219 <~Controls.282~><~Game.2045~><~Controls.283~><~Game.2044~> E173D6
+<Alexey'a> fo 0A6762
+$gus833<~Controls.372~>361 A41906
+$gus833<~Controls.345~>105 104 101 102 099 362 100 103 <~Controls.346~>11 14 13 13 15 13 13 11 null
+$gus833<~Controls.350~>105 104 101 102 099 362 100 103 null
+$Alexey'a<~Controls.345~>210 212 359 211 213 <~Controls.346~>3 0 1 2 1 null
+$Alexey'a<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 82A9E1
+$Alexey'a<~Controls.790~>247<~Controls.791~><~Game.524~><~Controls.792~><~Game.525~> FD4C84
+$Alexey'a<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> A23F72
+$gus833<~Controls.624~>239<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Alexey'a<~Scribe.141~>248 <~Scribe.142~><~Game.2015~><~Scribe.143~><~Game.2014~><~Scribe.144~> 4A609E
+$Alexey'a<~Scribe.141~>247 <~Scribe.142~><~Game.525~><~Scribe.143~><~Game.524~><~Scribe.144~> 842E55
+$Alexey'a<~Scribe.141~>252 <~Scribe.142~><~Game.2018~><~Scribe.143~><~Game.2019~><~Scribe.144~> 8AD913
+$Alexey'a<~Controls.323~>247 737CFE
+$Alexey'a<~Scribe.141~>239 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.524~><~Scribe.144~> 2CECA3
+$Alexey'a<~Controls.644~><~Controls.645~><~Game.2035~> 969457
+$gus833<~HighlightLabel.81~>101<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 1A2CDA
+$gus833<~CardBuffet.14~>reveal 208 5BE7F4C474FD6250D1E0286F1291857577ED39FB 14<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 58B2F7
+$gus833<~Scribe.141~>252 <~Scribe.142~><~Game.2019~><~Scribe.143~><~Game.2020~><~Scribe.144~> BE772B
+$gus833<~Controls.644~>101 208 <~Controls.645~><~Game.2035~> 978483
+$Alexey'a<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> B70F51
+$Alexey'a<~Controls.323~>247 A5E00D
+$Alexey'a<~Controls.644~>213 <~Controls.645~><~Game.2035~> 84290E
+$gus833<~HighlightLabel.81~>102<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 1BEE99
+$gus833<~CardBuffet.14~>reveal 169 AC7B4A0092F98521924F9619E508660C4BF920E2 9<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 872D30
+$gus833<~Controls.281~>237 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2044~> 77EE37
+$gus833<~Controls.644~>102 169 <~Controls.645~><~Game.2035~> 541213
+<Alexey'a> pass 6B911B
+$gus833<~HighlightLabel.81~>362<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> B77BD1
+<gus833> lorien 669CE5
+$gus833<~Controls.840~>160 A88FD3
+$Alexey'a<~Controls.840~>142 413654
+<auto> playchosen 9C582F
+<auto><~Controls.3~>reveal 142 939EBC31B8E79D0025385C821391DFDBED076C1D 12<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 76FDB7
+<auto><~Controls.866~>reveal 160 2DB6478F146216FEFB5E9333293BBF6F5D5D28E2 2<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 362DB6
+<auto> playchosen AC4CAB
+<game> gus833<~Controls.1~> 1 5 1 4 5 null
+<game> gus833<~Controls.1~> 5 2 1 4 2 null
+<gus833> 0 5753A0
+<game> Alexey'a<~Controls.1~> 1 2 1 2 null
+<game> Alexey'a<~Controls.1~> 5 null
+<Alexey'a> 1 309091
+$gus833<~Scribe.141~>013 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.2036~><~Scribe.144~> E59C29
+<gus833> stop C9092F
+$gus833<~Controls.509~>173<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$gus833<~Controls.644~>362 160 013 142 <~Controls.645~><~Game.2035~> FBCCFB
+<Alexey'a> pass 35B7E8
+$gus833<~HighlightLabel.81~>100<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 0B9AFB
+<gus833> lorien 538E20
+$gus833<~Controls.840~>173 2AAB3E
+<auto> playchosen B0EE59
+<auto><~Controls.866~>reveal 173 8CC26BD5F2AA14B2BE893D0B3CCA5F258590B807 21<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 8A1646
+<game> gus833<~Controls.1~> 5 1 5 3 6 null
+<game> gus833<~Controls.1~> 1 6 null
+<gus833> 4 BDDDEB
+<game> Alexey'a<~Controls.1~> 3 1 2 5 null
+<game> Alexey'a<~Controls.1~> 6 5 null
+<Alexey'a> 3 80992F
+$Alexey'a<~Scribe.141~>246 097 268 269 088 087 <~Scribe.142~><~Game.1992~><~Scribe.143~><~Game.2037~><~Scribe.144~> B771C6
+$gus833<~Scribe.141~>014 344 027 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.2036~><~Scribe.144~> 93EF2A
+$gus833<~Scribe.141~>423 <~Scribe.142~><~Game.29~><~Scribe.143~><~Game.31~><~Scribe.144~> B6CF9F
+$gus833<~Controls.509~>191<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$gus833<~Controls.644~>100 173 014 344 027 246 097 268 269 088 087 <~Controls.645~><~Game.2035~> 0902D1
+$Alexey'a<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 5346FB
+$Alexey'a<~Controls.509~>154<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Alexey'a<~Controls.644~>211 <~Controls.645~><~Game.2035~> 89A2D1
+$gus833<~HighlightLabel.81~>103<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> B7BE74
+$gus833<~Scribe.141~>255 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1969~><~Scribe.144~> C6905C
+$gus833<~Scribe.141~>255 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1969~><~Scribe.144~> 2C9EA6
+$gus833<~Scribe.141~>360 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2037~><~Scribe.144~> 693C37
+$gus833<~Controls.644~>103 360 <~Controls.645~><~Game.2035~> 8906A2
+$Alexey'a<~Scribe.141~>359 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 1C5490
+$Alexey'a<~CardBuffet.9~>reveal 154 B813C6BE52570145FA86F31D92D29D7E5E1C64D0 18<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> 30BBA1
+$Alexey'a<~Controls.281~>234 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2044~> 5343AC
+$Alexey'a<~Controls.644~>359 154 <~Controls.645~><~Game.2035~> A24290
+$gus833<~HighlightLabel.81~>105<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> D39083
+<gus833> erebor F6B062
+$Alexey'a<~Scribe.141~>062 312 061 059 060 <~Scribe.142~><~Game.1965~><~Scribe.143~><~Game.1988~><~Scribe.144~> FAC159
+$gus833<~Scribe.141~>056 054 053 052 051 050 <~Scribe.142~><~Game.1973~><~Scribe.143~><~Game.1965~><~Scribe.144~> ED4CCD
+$gus833<~Scribe.141~>420 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1973~><~Scribe.144~> 0DAF51
+$Alexey'a<~Scribe.141~>257 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> 6210FB
+$gus833<~HighlightLabel.96~>258<~HighlightLabel.97~><~Game.2001~><~HighlightLabel.98~><~Game.2002~> 341E7B
+$gus833<~Scribe.141~>258 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2001~><~Scribe.144~> 738EF4
+$gus833<~Controls.644~>105 <~Controls.645~><~Game.2035~> 600386
+$Alexey'a<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 5DA69E
+$Alexey'a<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 37D90D
+$Alexey'a<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> B854AD
+$Alexey'a<~Scribe.141~>260 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> F5A2C2
+$Alexey'a<~Controls.644~>210 <~Controls.645~><~Game.2035~> 512179
+$gus833<~Controls.276~>104<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 73AA88
+$gus833<~CardBuffet.14~>reveal 170 7D04EA5D7F0527B19C0A66009B4969907BE93BAC 21<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> DF61F8
+$gus833<~Scribe.141~>326 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1965~><~Scribe.144~> 32152B
+$gus833<~Controls.644~>104 170 <~Controls.645~><~Game.2035~> 33008F
+$Alexey'a<~Controls.726~>212 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 1D4C12
+$Alexey'a<~Controls.731~>210 359 211 213 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 964FDF
+$gus833<~Controls.757~>099 361 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> BFC89E
+<~Game.7~>8 null
+$gus833<~Controls.762~>104 105 103 360 100 362 102 101 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 62DA97
+$Alexey'a<~Controls.509~>128<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Alexey'a<~Controls.509~>150<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$gus833<~Controls.509~>194<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$gus833<~Controls.509~>178<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<Alexey'a> tok 0DC86A
+$gus833<~Controls.372~>104 2A39A9
+$gus833<~Controls.345~>105 103 360 100 362 102 101 099 361 <~Controls.346~>10 12 13 12 15 12 11 12 10 null
+$gus833<~Controls.350~>105 103 360 100 362 102 101 099 361 null
+$Alexey'a<~Controls.345~>210 359 211 213 212 <~Controls.346~>2 0 0 2 4 null
+$Alexey'a<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> CC5686
+$Alexey'a<~Controls.790~>247<~Controls.791~><~Game.524~><~Controls.792~><~Game.525~> 980AD1
+$Alexey'a<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 31F6A6
+$gus833<~Controls.624~>221<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Alexey'a<~Scribe.141~>252 <~Scribe.142~><~Game.2020~><~Scribe.143~><~Game.2022~><~Scribe.144~> 146841
+$Alexey'a<~Controls.323~>247 1F6F94
+$Alexey'a<~Scribe.141~>221 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.525~><~Scribe.144~> D4A8D7
+$Alexey'a<~Controls.644~><~Controls.645~><~Game.2035~> 5BB071
+$gus833<~HighlightLabel.81~>360<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 8685B9
+$gus833<~Scribe.141~>253 037 039 038 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.1965~><~Scribe.144~> B99F73
+$gus833<~Scribe.141~>040 <~Scribe.142~><~Game.1964~><~Scribe.143~><~Game.1932~><~Scribe.144~> FF570F
+$gus833<~Scribe.141~>255 <~Scribe.142~><~Game.1969~><~Scribe.143~><~Game.1955~><~Scribe.144~> D37B02
+$gus833<~Scribe.141~>255 <~Scribe.142~><~Game.1969~><~Scribe.143~><~Game.1938~><~Scribe.144~> D7A76D
+$gus833<~Scribe.141~>255 <~Scribe.142~><~Game.1969~><~Scribe.143~><~Game.1932~><~Scribe.144~> 276980
+$gus833<~Controls.644~>360 <~Controls.645~><~Game.2035~> 59AEC5
+$Alexey'a<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 9E5929
+$Alexey'a<~CardBuffet.9~>reveal 150 70FD60D4AFACA094A1B2C81ACED916E9CDE3AFB0 19<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> 9556E8
+$Alexey'a<~Scribe.141~>309 315 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1988~><~Scribe.144~> 74188A
+$Alexey'a<~Controls.644~>213 150 <~Controls.645~><~Game.2035~> 9D9E2C
+$gus833<~HighlightLabel.81~>100<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 2EE530
+$gus833<~Scribe.141~>025 024 021 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1962~><~Scribe.144~> 0BA905
+$gus833<~Scribe.141~>255 040 055 057 049 048 047 045 044 043 042 041 <~Scribe.142~><~Game.1932~><~Scribe.143~><~Game.1938~><~Scribe.144~> 6C835E
+$gus833<~Controls.644~>100 <~Controls.645~><~Game.2035~> E8C0EA
+$Alexey'a<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 144F01
+$Alexey'a<~Controls.281~>212 <~Controls.282~><~Game.2035~><~Controls.283~><~Game.2042~> 60DCEA
+$Alexey'a<~HighlightLabel.86~>359<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 7A3442
+$Alexey'a<~Controls.323~>247 C89EEF
+$Alexey'a<~Controls.644~>359 <~Controls.645~><~Game.2035~> 1CABCA
+$gus833<~HighlightLabel.81~>102<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> A08F0B
+$gus833<~Scribe.141~>025 024 021 <~Scribe.142~><~Game.1962~><~Scribe.143~><~Game.1965~><~Scribe.144~> ECDC6F
+$gus833<~Scribe.141~>032 031 030 <~Scribe.142~><~Game.1977~><~Scribe.143~><~Game.1969~><~Scribe.144~> 560519
+$gus833<~Controls.644~>102 <~Controls.645~><~Game.2035~> 1E2747
+<Alexey'a> pass 807949
+$gus833<~HighlightLabel.81~>099<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 3E8EA4
+<gus833> erebor E7D462
+$gus833<~Controls.840~>194 D28B3C
+$Alexey'a<~Controls.840~>146 2AA01A
+<auto> playchosen F9E809
+<auto><~Controls.3~>reveal 146 5E5D31B8BEE063EFCEA6CAB9403AF87672FB7E16 20<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 5108A1
+<auto><~Controls.866~>reveal 194 BF6C8E91E8EF1E0D951E5DAE4A3F2C7A6E2A79E9 8<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> CDC571
+<auto> playchosen DD5582
+<game> Alexey'a<~Controls.1~> 6 2 5 null
+<Alexey'a> 2 5136CB
+$gus833<~Scribe.141~>021 024 <~Scribe.142~><~Game.1965~><~Scribe.143~><~Game.2036~><~Scribe.144~> 891B9D
+$gus833<~Scribe.141~>021 024 <~Scribe.142~><~Game.1965~><~Scribe.143~><~Game.2036~><~Scribe.144~> 3676DD
+<game> gus833<~Controls.1~> 4 1 1 3 2 null
+<game> gus833<~Controls.1~> 2 2 1 1 5 null
+<gus833> 0 496CA8
+<game> Alexey'a<~Controls.1~> 5 2 4 3 1 null
+<Alexey'a> 1 890CD2
+$gus833<~Scribe.141~>025 <~Scribe.142~><~Game.1965~><~Scribe.143~><~Game.2036~><~Scribe.144~> 50454B
+<gus833> stop CAF88E
+$gus833<~Controls.509~>179<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$gus833<~Controls.644~>099 194 025 021 024 146 <~Controls.645~><~Game.2035~> BCEE24
+<Alexey'a> pass 585E76
+$gus833<~HighlightLabel.81~>103<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> C73C4C
+$gus833<~Scribe.141~>257 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 83A495
+<gus833> erebor DDDA7F
+$gus833<~Controls.840~>179 AA5DC6
+$Alexey'a<~Controls.840~>129 34C1DD
+<auto> playchosen BE1213
+<auto><~Controls.3~>reveal 129 2D91EE45245D9CD18B151173366BB0AE708EBFFC 22<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> CD86E6
+<auto><~Controls.866~>reveal 179 2CB2307D225838C300CFDD4FCC4B386E472BDBF4 19<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> D533B4
+<auto> playchosen 304911
+<game> gus833<~Controls.1~> 4 6 3 3 1 null
+<game> gus833<~Controls.1~> 1 5 3 5 null
+<gus833> 3 9D4951
+<game> Alexey'a<~Controls.1~> 6 3 3 5 1 null
+<game> Alexey'a<~Controls.1~> 4 4 null
+<Alexey'a> 2 F16A94
+$gus833<~Scribe.141~>051 050 <~Scribe.142~><~Game.1965~><~Scribe.143~><~Game.2036~><~Scribe.144~> 548090
+$Alexey'a<~Scribe.141~>312 <~Scribe.142~><~Game.1988~><~Scribe.143~><~Game.2037~><~Scribe.144~> DFA102
+$Alexey'a<~Controls.304~>061 <~Controls.305~><~Game.1988~> BA6355
+$Alexey'a<~Controls.313~>317 <~Controls.307~><~Controls.314~><~Game.1988~> A74341
+<gus833> stop E20DFA
+$gus833<~Controls.509~>167<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$gus833<~Controls.644~>103 179 051 050 129 312 <~Controls.645~><~Game.2035~> F5C49E
+<Alexey'a> pass E0535D
+$gus833<~HighlightLabel.81~>101<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 0BC027
+$Alexey'a<~Scribe.141~>418 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1928~><~Scribe.144~> 2426B2
+<gus833> pel nc CEA8E2
+<Alexey'a> nc B01BF1
+<game> gus833<~Controls.1~> 6 3 3 3 5 null
+<game> Alexey'a<~Controls.1~> 2 null
+<game> gus833<~Controls.1~> 3 1 3 null
+$Alexey'a<~Scribe.141~>078 <~Scribe.142~><~Game.1931~><~Scribe.143~><~Game.2037~><~Scribe.144~> 523E42
+$gus833<~Scribe.141~>255 040 055 057 049 048 047 045 044 043 042 041 <~Scribe.142~><~Game.1938~><~Scribe.143~><~Game.1931~><~Scribe.144~> 8AA1D6
+$gus833<~Scribe.141~>423 <~Scribe.142~><~Game.31~><~Scribe.143~><~Game.32~><~Scribe.144~> 1AEDD5
+$gus833<~Controls.644~>101 078 <~Controls.645~><~Game.2035~> D2EE07
+$Alexey'a<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> E78F7F
+$Alexey'a<~Controls.509~>126<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Alexey'a<~Controls.644~>210 <~Controls.645~><~Game.2035~> BD2B09
+$gus833<~HighlightLabel.81~>361<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> CA0CC5
+$gus833<~Scribe.141~>346 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1987~><~Scribe.144~> 2BA2A3
+$gus833<~Controls.644~>361 <~Controls.645~><~Game.2035~> 816F89
+$Alexey'a<~Scribe.141~>426 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 59E0C7
+$Alexey'a<~Scribe.141~>258 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> 5FC46B
+$Alexey'a<~Controls.644~>426 <~Controls.645~><~Game.2035~> 7191BE
+$gus833<~Controls.276~>105<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 78322E
+$gus833<~Scribe.141~>356 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1932~><~Scribe.144~> C4D39B
+$gus833<~Scribe.141~>012 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1917~><~Scribe.144~> 9C4355
+$gus833<~Controls.644~>105 <~Controls.645~><~Game.2035~> 8C46FD
+$Alexey'a<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> C39520
+$Alexey'a<~Scribe.141~>258 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 8DA433
+$Alexey'a<~Controls.644~>212 <~Controls.645~><~Game.2035~> 865A67
+$Alexey'a<~Controls.726~>211 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 07F7E4
+$Alexey'a<~Controls.731~>212 210 359 213 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 807AA5
+$gus833<~Controls.757~>362 104 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 4C10B2
+<~Game.7~>9 null
+$gus833<~Controls.762~>105 361 101 103 099 102 100 360 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> DD761C
+$gus833<~Controls.509~>200<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Alexey'a<~Controls.509~>117<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Alexey'a<~Controls.509~>147<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$gus833<~Controls.509~>164<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<Alexey'a> fo 2EFC8B
+$gus833<~Controls.296~>172 <~Controls.297~><~Controls.46~> 289530
+$gus833<~Controls.372~>105 89FDAC
+$gus833<~Controls.345~>361 101 103 099 102 100 360 362 104 <~Controls.346~>13 14 11 14 12 10 15 13 11 null
+$gus833<~Controls.350~>361 101 103 099 102 100 360 362 104 null
+$Alexey'a<~Controls.345~>212 210 359 213 211 <~Controls.346~>4 0 2 2 0 null
+$Alexey'a<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 4BC0F0
+$Alexey'a<~CardBuffet.9~>reveal 136 55F9FE19C95D6D5C77721A3DF8F547F3D38DEC7C 4<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> C9217A
+<game> Alexey'a<~Controls.1~> 1 6 1 null
+$gus833<~Scribe.141~>003 <~Scribe.142~><~Game.1919~><~Scribe.143~><~Game.2037~><~Scribe.144~> 730186
+$Alexey'a<~Scribe.141~>reveal 117 D0EC0E1C1E3254182F58168F306F6FB45C5AE026 10 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2029~><~Scribe.144~> 1804BA
+$Alexey'a<~Controls.644~>211 136 003 <~Controls.645~><~Game.2035~> 1BE11E
+$gus833<~HighlightLabel.81~>102<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 556113
+<gus833> dale from wk nc DE6724
+<Alexey'a> nc A2D7F0
+<game> gus833<~Controls.1~> 6 4 1 1 4 null
+<game> Alexey'a<~Controls.1~> 5 1 null
+<Alexey'a> 1 FED5FE
+$Alexey'a<~Scribe.141~>068 066 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.2037~><~Scribe.144~> D82F5C
+$gus833<~Controls.304~>056 <~Controls.305~><~Game.1965~> C33D2C
+$gus833<~Controls.313~>051 <~Controls.307~><~Controls.314~><~Game.1965~> E711B4
+$gus833<~Scribe.141~>054 <~Scribe.142~><~Game.1965~><~Scribe.143~><~Game.1970~><~Scribe.144~> 77756F
+$gus833<~Scribe.141~>423 <~Scribe.142~><~Game.32~><~Scribe.143~><~Game.33~><~Scribe.144~> AB46E5
+$gus833<~Controls.644~>102 068 066 <~Controls.645~><~Game.2035~> C47FF8
+$Alexey'a<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> E1AE5E
+$Alexey'a<~Controls.790~>247<~Controls.791~><~Game.525~><~Controls.792~><~Game.528~> 02A747
+$Alexey'a<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 10854F
+$gus833<~Controls.624~>236<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Alexey'a<~Scribe.141~>252 <~Scribe.142~><~Game.2022~><~Scribe.143~><~Game.2024~><~Scribe.144~> B7296C
+$Alexey'a<~Scribe.141~>247 <~Scribe.142~><~Game.528~><~Scribe.143~><~Game.525~><~Scribe.144~> A74122
+$Alexey'a<~Controls.323~>247 79266A
+$Alexey'a<~Scribe.141~>236 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.1977~><~Scribe.144~> 9BEADB
+$Alexey'a<~Controls.644~><~Controls.645~><~Game.2035~> C4350A
+$gus833<~HighlightLabel.81~>099<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 6B7F3C
+$gus833<~CardBuffet.14~>reveal 167 24F37A1A12B4155051282A47B63FE6BC77B63B5C 7<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 3789C6
+$gus833<~Scribe.141~>252 <~Scribe.142~><~Game.2024~><~Scribe.143~><~Game.2025~><~Scribe.144~> D2F021
+$gus833<~Controls.644~>099 167 <~Controls.645~><~Game.2035~> F0FD76
+$Alexey'a<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 7C7244
+$Alexey'a<~Controls.281~>213 <~Controls.282~><~Game.2035~><~Controls.283~><~Game.2042~> 3F7559
+$Alexey'a<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> C706D1
+$Alexey'a<~Scribe.141~>250 <~Scribe.142~><~Game.2009~><~Scribe.143~><~Game.2012~><~Scribe.144~> C92FC2
+$Alexey'a<~Controls.323~>247 940C15
+$Alexey'a<~Controls.644~>212 <~Controls.645~><~Game.2035~> 028738
+$Alexey'a<~Controls.281~>212 <~Controls.282~><~Game.2039~><~Controls.283~><~Game.2042~> 1FC252
+$Alexey'a<~Controls.281~>359 <~Controls.282~><~Game.2042~><~Controls.283~><~Game.2038~> 2F9A64
+$Alexey'a<~Controls.281~>359 <~Controls.282~><~Game.2038~><~Controls.283~><~Game.2039~> 3FEBDE
+$gus833<~HighlightLabel.81~>103<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 8612CC
+$gus833<~Scribe.141~>032 031 030 020 018 017 016 <~Scribe.142~><~Game.1969~><~Scribe.143~><~Game.1964~><~Scribe.144~> 45D9A0
+$gus833<~Scribe.141~>346 <~Scribe.142~><~Game.1987~><~Scribe.143~><~Game.1980~><~Scribe.144~> 89296C
+$gus833<~Controls.644~>103 <~Controls.645~><~Game.2035~> 8A2B85
+<Alexey'a> pass D90B2E
+$gus833<~HighlightLabel.81~>104<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 140C59
+$gus833<~Scribe.141~>346 <~Scribe.142~><~Game.1980~><~Scribe.143~><~Game.1970~><~Scribe.144~> B91156
+$gus833<~Scribe.141~>026 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1970~><~Scribe.144~> 377AD1
+$gus833<~Controls.644~>104 <~Controls.645~><~Game.2035~> A03F03
+<Alexey'a> pa AE614C
+$gus833<~HighlightLabel.81~>100<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 714C21
+$gus833<~Controls.323~>255 DF1718
+$gus833<~Scribe.141~>255 040 055 057 049 048 047 045 044 043 <~Scribe.142~><~Game.1931~><~Scribe.143~><~Game.1935~><~Scribe.144~> DF2C5C
+$gus833<~Scribe.141~>346 054 026 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.1965~><~Scribe.144~> 39F977
+$gus833<~Scribe.141~>417 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1970~><~Scribe.144~> 182EA3
+$gus833<~Controls.644~>100 <~Controls.645~><~Game.2035~> 622C82
+$Alexey'a<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 251190
+$Alexey'a<~Scribe.141~>275 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1944~><~Scribe.144~> 37153D
+$Alexey'a<~Controls.644~>212 <~Controls.645~><~Game.2035~> 20A92D
+$gus833<~HighlightLabel.81~>101<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 1F4D5A
+$gus833<~Scribe.141~>reveal 176 038C5825E9FA946E9A4BB2C732053159EF571917 4 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2032~><~Scribe.144~> 70DCDD
+<gus833> erebor 98CF54
+$gus833<~CardBuffet.14~>reveal 164 5F78FA16658CEC5754CF175A563AA3D3561F4A48 6<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 5146E7
+<game> gus833<~Controls.1~> 2 2 4 3 4 null
+<game> gus833<~Controls.1~> 6 2 3 null
+<gus833> 3 E7FA0F
+<game> Alexey'a<~Controls.1~> 3 6 4 5 null
+<Alexey'a> 4 8C3D5F
+$gus833<~Scribe.141~>326 346 <~Scribe.142~><~Game.1965~><~Scribe.143~><~Game.2036~><~Scribe.144~> 74D7FB
+$Alexey'a<~Scribe.141~>315 317 <~Scribe.142~><~Game.1988~><~Scribe.143~><~Game.2037~><~Scribe.144~> 57AF6A
+$gus833<~Scribe.141~>176 <~Scribe.142~><~Game.2032~><~Scribe.143~><~Game.2033~><~Scribe.144~> 06E3F4
+$gus833<~Controls.509~>187<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$gus833<~Controls.662~>164 326 346 315 317 <~Controls.663~><~Game.2035~> 75CD6E
+<gus833> nc D75B4B
+<Alexey'a> nc BD8940
+<game> gus833<~Controls.1~> 1 4 4 5 6 null
+<game> gus833<~Controls.1~> 1 2 1 6 null
+<gus833> 2 EA0EB2
+<game> Alexey'a<~Controls.1~> 4 3 null
+<game> Alexey'a<~Controls.1~> 5 2 null
+<Alexey'a> 1 9F7F41
+$gus833<~Scribe.141~>026 <~Scribe.142~><~Game.1965~><~Scribe.143~><~Game.2037~><~Scribe.144~> 5C4E3C
+$Alexey'a<~Scribe.141~>309 062 059 060 <~Scribe.142~><~Game.1988~><~Scribe.143~><~Game.2037~><~Scribe.144~> 963EB6
+$gus833<~Scribe.141~>176 <~Scribe.142~><~Game.2033~><~Scribe.143~><~Game.2036~><~Scribe.144~> 925BBD
+$gus833<~Scribe.141~>423 <~Scribe.142~><~Game.33~><~Scribe.143~><~Game.389~><~Scribe.144~> 321A71
+$gus833<~Controls.644~>101 176 309 062 026 059 060 <~Controls.645~><~Game.2035~> 8E3CF2
+<Alexey'a> pass C50792
+$gus833<~HighlightLabel.81~>362<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> BB8363
+<gus833> MT 44EFA4
+$Alexey'a<~Scribe.141~>085 275 084 083 082 081 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.1994~><~Scribe.144~> 2E4A6A
+$gus833<~Scribe.141~>255 040 055 057 049 048 047 045 044 043 <~Scribe.142~><~Game.1935~><~Scribe.143~><~Game.1944~><~Scribe.144~> 0AD7AB
+$gus833<~Scribe.141~>416 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1935~><~Scribe.144~> 2475DD
+$gus833<~Controls.644~>362 <~Controls.645~><~Game.2035~> 48B02E
+$Alexey'a<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> A5C2EE
+$Alexey'a<~CardBuffet.9~>reveal 147 35D89DCBC33243F6C81ED7AF99A97FA3544D8F71 14<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> 4088FE
+$Alexey'a<~Controls.819~> 907AB4
+<Alexey'a> hm no A69B88
+$Alexey'a<~CardBuffet.9~>reveal 126 65C72567789B002192CA9689BB8C6BE2AE5FAFA9 17<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> 22663C
+$Alexey'a<~Controls.281~>235 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2044~> 2831A2
+$Alexey'a<~Controls.644~>213 126 <~Controls.645~><~Game.2035~> 48FD28
+$gus833<~Controls.276~>361<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 42F49D
+$gus833<~Scribe.141~>253 038 039 037 <~Scribe.142~><~Game.1965~><~Scribe.143~><~Game.1944~><~Scribe.144~> F94A8C
+$gus833<~Scribe.141~>255 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.1964~><~Scribe.144~> 626492
+$gus833<~Controls.644~>361 <~Controls.645~><~Game.2035~> 7E1294
+$Alexey'a<~Controls.726~>210 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> E1DDFC
+$Alexey'a<~Controls.731~>213 212 359 211 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 125F30
+$gus833<~Controls.757~>360 105 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 2B50C1
+<~Game.7~>10 null
+$gus833<~Controls.762~>361 362 101 100 104 103 099 102 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> AC2D37
+$gus833<~Controls.509~>181<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$gus833<~Controls.509~>190<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Alexey'a<~Controls.509~>107<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Alexey'a<~Controls.509~>122<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+<Alexey'a> fo 873CAC
+$gus833<~Controls.372~>361 DDB8EE
+$gus833<~Controls.345~>362 101 100 104 103 099 102 360 105 <~Controls.346~>15 12 14 11 13 13 15 13 13 null
+$gus833<~Controls.350~>362 101 100 104 103 099 102 360 105 null
+$Alexey'a<~Controls.345~>213 212 359 211 210 <~Controls.346~>1 4 2 2 4 null
+$Alexey'a<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> FC0682
+$Alexey'a<~Controls.790~>247<~Controls.791~><~Game.525~><~Controls.792~><~Game.528~> 5F9249
+$Alexey'a<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 783499
+$gus833<~Controls.624~>237<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Alexey'a<~Scribe.141~>117 <~Scribe.142~><~Game.2029~><~Scribe.143~><~Game.2036~><~Scribe.144~> 41714E
+$Alexey'a<~Scribe.141~>237 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2036~><~Scribe.144~> FD3861
+$gus833<~Controls.624~>227<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<gus833> gg CFCAC4
+<Alexey'a> gg 435E07
+$Alexey'a<~Scribe.141~>117 237 <~Scribe.142~><~Game.2036~><~Scribe.143~><~Game.533~><~Scribe.144~> E9D86F
+$Alexey'a<~Scribe.141~>117 237 <~Scribe.142~><~Game.533~><~Scribe.143~><~Game.2036~><~Scribe.144~> BE6603
+<Alexey'a> I will make a photo 340085
+<Alexey'a> thanks, bye! 70501A
+<gus833> haha you should, that was a crazy mordor track CA950C
+<gus833> cya 63A74B

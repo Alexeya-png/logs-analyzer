@@ -1,0 +1,1075 @@
+<auto> silent null
+<auto><~Scribe.141~>363 397 398 402 401 400 399 403 404 376 375 374 373 377 378 <~Scribe.142~><~Game.2038~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>365 366 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 367 368 369 370 371 372 <~Scribe.142~><~Game.2040~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>230 231 <~Scribe.142~><~Game.2044~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>155 152 <~Scribe.142~><~Game.2004~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>137 151 <~Scribe.142~><~Game.2005~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>161 198 <~Scribe.142~><~Game.2006~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>163 188 <~Scribe.142~><~Game.2007~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Controls.323~>364 null
+<auto> noisy null
+<auto> silent null
+<auto><~Scribe.141~>312 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1965~><~Scribe.144~> null
+<auto> noisy null
+<~Game.7~>1 null
+<auto> silent null
+<auto><~Scribe.141~>363 397 398 402 401 400 399 403 404 376 375 374 373 377 378 <~Scribe.142~><~Game.2038~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>365 366 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 367 368 369 370 371 372 <~Scribe.142~><~Game.2040~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>230 231 <~Scribe.142~><~Game.2044~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>155 152 <~Scribe.142~><~Game.2004~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>137 151 <~Scribe.142~><~Game.2005~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>161 198 <~Scribe.142~><~Game.2006~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>163 188 <~Scribe.142~><~Game.2007~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Controls.323~>364 null
+<auto> noisy null
+$base silent null
+$TEST<~Scribe.141~>312 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1965~><~Scribe.144~> null
+$base noisy null
+<game> Thingchilla<~Controls.408~>[WOTR-Gandalf2 wotr base2] null
+<~Talker.31~> null
+<Thingchilla> Hi! 
+<Supa> Hello, how's it going 
+<Thingchilla> good thanks, how are you? 
+<Supa> Doing great, cheers 
+<Supa> Any preference how we play this? 
+<Thingchilla> should we roll and bid? 
+<Thingchilla> unless you have a preference? 
+<Supa> since we play each other twice with same rules, probably no need to bid 
+<Thingchilla> true, shall we agree 2 tokens for free? 
+<Supa> so we can choose or roll who plays what first, and just select tokens if any (opponent gets the same next game) 
+<Supa> sure, sounds great 
+<Supa> want to pick your side or roll? 
+<Thingchilla> roll sounds good? 
+<Supa> 1-3 I am FP 
+<game> Supa<~Controls.1~> 6 null
+<Supa> ok, I start as Shadow 
+<Thingchilla> gl hf 
+$Thingchilla<~Controls.281~>427 426 <~Controls.282~><~Game.2038~><~Controls.283~><~Game.2042~> 
+$Thingchilla<~Controls.464~>D7A06DA97EB76DE12FEDBE216ECF71DC624C6816 6E0AE4539B085B22533F994DD5BA0367 24 1211FC874550883E210DF4D4748996E82B1A3CBB 6AB294F4B13CA8927CAB829740908FE7 ECEE3ADD6AE39A09CC5B30AB42109C0E0BF42F2F 0C75474A4F70F02C09227DC27A2C4F74 A1AE882A509CE238E948821F546A1FDDF3BD6488 8EBD5E891BC1011A5152189589CB98BA AD8D56896F5FB83E9CE88CBB62962654EE74A037 AC5340918D82A29167087ACAF3D36224 6CFA08E3A8CF1575BC23F9BA19427151CC7020C6 AB375BFCA0836B3CC392DD3095750335 F3D2FDE84E25111F306817A5E6F230BE5C8B349F 9CBAE009C67B145A215EF1AAB2E14AA6 216195A54AE099CE2BD51774783F2DA966B520B5 E156C09A1BD3E5CEA9EB17CB4E708001 A68CA62217FDC0361BE5734A5CDC1802CB747442 F00C6A06DD3982D64F853F48BD467C2F F382CC88EA7E0403E0FA44FB51E4B2B968C05143 5748D3691CC36DA67C54564976539CFC 6A4522528D959AE35E55DC96E0B911BEDDF2F4B6 FF9076F0AD76DF9EEEBE969C2CB3EC99 3729CED7BBBE40F89B1ACC480888C75C6715450A B48CC6A3648EC5CFDB2D42AD1FD3C8D9 14E93C65AEC6177EBA93DF353253014F94BB153F E414117E81D2B3115CA31E1BAEE4BBF4 F46065E312239AE1D9E19507FF7C49A2F5DFA9F8 A66457CA6AC9F6F109C26D8D3176BC90 5320017009A4F7791DF4DD53AA4E88922DCEC5B2 FEA26C7F9AAE7D5DE02A5AED0545482A EB1ACC91B221B13E749851FBCEAA59416C9079F1 5F4DFC01D964F8AA6A5542FCE79CA2C9 7AC09937DA5AB4B638D5531C3976AC3D79B6CC8A 70462E13ADD7A530204616F785D8C89F FA5BCF0F4BC2FC28DCF4125336E8557B4117C6B6 128DB630108022790AC76F0B52D7D513 0729E8369FD8396D66A2D94F0B3D5A66AC28C1FE A2DF7A1B62004EE3A8066313997CC65B A16056FAB468250FE2DB60945E1588E5F7FB7E51 7BCFD8EBA00B5AAF16C17FC4D58B1EB0 AD1F82215A21D30D89F536BA22D66EEBF3AE53AD BE083B22D60B844D6A57590B3F760ED2 BE88F1A0E6D138E644169833D91E0E0622428E1A 54D25498D23B1E0560796E21A7EDAF1C B1C7EB1783AA59F241A97235560B8B7359F97541 340A47771A28A4833945AF5D8750F8EC C8C9A2F1163E3B52A3FF26A78F95B656F0F1D69F E12162411FCBE18EDF016B4A54435D5E 0DB54705DCD4DD5FBA2001CDA3938253B8CA13E9 36DF6C37B1B8F3614CD75C0C170B194D 24 454BCAC5FCC8884F03D9C25001A928502356E8C6 65E58F91B50C5A4E2D2921203C7DC137 B9CE892D689E9081111DFC2CD9F897EC5929889F 3C4A82171611BF27C277D34BAA98BD01 C87532921E5563822B534B2C4C8C287C76108DA1 AABB930AF9CEAD1507EB2EE4131C531C 224A4D42A4FE12B1418D08AA46061F492ACB1826 82F9F44234FF836118EC891D8CADC62D 6DF61CC89707CAB6FECDBD877130034585B632B1 7EA76710FF0DAE2BD170A7A35F679EB2 5CAD6983DB0181653D47472AB8A2FF0C6883CB9E 85BB8A59EC25F308B4DDDE9520DEBF25 5C04318B4769C89B027EE30841AFB160DA7B998A 300C899C147682FA0FA2C5E1FEF31F26 6CD8F46A250D8C925B30D27C5AC87A9405124A9A 8AC3439C9227D2105EF293CB5A0D4C95 4393547FD5AB40BF4C64BBBCF4315EA927EA598F 17BA6A7635B67315ED4430E39D7A795E 853EEE211E0E38CDD973D9DEAA23F3823C4E9D37 17FE90A570A0088AC1746335462B4123 4B12C144AAD771E2DBAD3BB298003C330B488C06 0B0B6C9E95A2BD0DB8AE71E441FEFA6E 0F0426C213C6375DF147024A66E528FBF2FD5FF1 7875509D42F1612EEF8C72887F430DDD A821F175B45301E8B9C25B5722FEEC99A218D0D4 EA0EE7301B2793E163048578C242BA36 5936E2E9008F43DEAD316D6724FC8AF102CEEF25 3BC641B5B9D9CD64DA08A200B8DB3E6B F9EDAF0FB630D18A975D43B2CE0D850019DD3522 15C82767E109BE4B030B9B464B93B236 95E50A157CD7B3A5593AB03C82DAF265268D709C B4A3E4DEF8E229C2DCB4FF5937A24AB2 5AF111AA10E74FA8CBC13A95C59507FFAF072DF2 F0775E84B67D84DD53887860DCD8A618 15086F591C01C7588F3A55F2EC45737A0C49EA32 7A6CF3171A9ADDA03044DAA8556CE80B F7EA207F9FE295CA5BABF5A59D25BEAD328EEB63 65FBDE6C9D84BE9731331075C800C03E 934028DBE34CE2C81B0CB2ED372BACB04AF24ED9 E8CEEB5EAA9AD3A876C939ACFF84A1B6 E780EBE406150A2905487B145D407315279FDA2A 62373F5E4C2245AB1F343A3537B321F9 C714957642E69FFDA8143C2324DFC62487563021 9D7D575D2969990833BFBE2C384B6A72 E59496A8A3200380D95AF7FA04259BBDE1E60D9E 569526BFAE5E2524C335AB5AA559EFAB 5EEB3C615E4034BF9349FDF14583A134F02917BE FCF3C6198B1DB0AF4EA0297895206182 0 0 346C14
+<Supa> made a reminder on discord in case we don't have time to play another in a row 
+<Supa> gl hf! 
+<Thingchilla> yes, thank you 15E573
+$Supa<~Controls.479~>ADF906096D3C43D3599C57CFF66B3D08DA778FA3 9828178E6CFF36A2301FB0905A6F2964 24 A90AA7FF8893E66A567012D3600E7E72207E69A9 6DD5D8E79A0125DF53D3AE4551DFF0DF A8B8E358132CF7E9B80A3F23872DC0A3B4BABEB8 72F4C8177179530389532EE22C5F8188 61E75A67161E494D92CFB2B5BAE6062543FD442F E554AD9D1F5F9FAF9B8432D34E05FADA 18417AA38EF3D5036033440191854166EDF7AA16 1226B4E23C2B20937A5467C894C4B404 0B0D0D4A6F660293AB7F7C674972B6A7FF95C6F6 1B002B5C41AAA6B1A9FA0A31EEAE0D9D 060186CA924317CA858B614121ECBADCA30D9B86 FB3497633B139166DB5A9102314DC32A 6A713D6BAA3FD7B8CF2F5F0C3D8FF77F584D8296 C8AD135FBB553DDCDB6D48BB2A206464 CA6B5DF87821C88C4B18D309BFA4F027C6E6A6A4 38D858E810D37D37ABD45F95F59EEA95 0A4DFBF7E75EF0527077979F8D5A25E931C702A3 65681784B7F603CCF0F933C08F46EA05 34479FF9997B7B05354302B1C66C8901E397A58D D4F296E61262F7458D65DF48AA8EC5DF 9DE3499085BE38CC681DB7F9272C5F3530319D5E B3A215B2589F27B58C261B16C0D78D67 66C16382631F20EC5608604395CE49F8DF9AB4BB 6290768FCD8FB1EA4577A1186BA6ABBC 67F74CBD86E4D6B34C99E1559A02C41F08D49B65 347CA0BE3209D131B9FFD30EF2BF7E73 EE4D862BB8571846082E81DCB1B98C06320B5CB2 75F1C6097D562A5B3E5A991A26FC0AE9 3E7C323222A1E8378171D97905D1E8D9AD4CC2D8 AF15F4F1CD8F5E8E61BE7BF16FE0BF8F 7992D9389B3C92744B70B2623C0C78EFFA5ACBCE 29A8C90397FD78CB07F64CCB2158B60E 35EAD6B2AA85CED6AED6E27249A43F9ED22F0926 B0F5D35D25FBF253D50032F1141EA1F6 F3255CFB9CC0E9C245791C4877601828DE915B28 99C43166410CEFECD1093B2072AB61EE 023A7FDAA2066BDE772B3F874B9C767119E6463F 057D00982D1A23994993D2EDD2BFFC85 F03460BD0978863AC4359416D30ADD6953B74D48 66112CD2D50BF5C3F3FC983B86D6C6A6 7136BF963D069EBCF255EB8F7C1DCFB78E0903CB 426B360D472DCC0F55C8EF29301D52BC B330145690A5EF1DD08A1C35EDCEDF59DA90200E 3760823C621ACDF2673FCA1E9BBF2CE8 B939226074EB0D67288F0A6908C95D6096D7D408 3E73EA0DCD205DDE75618F87C79C17A4 3504B0635C5466A4DC3DC82B7B78F2865E6E063D 33E62B682B4D25E24A3A334345B94A40 24 724911DA6B27941172BBC8CA4A52EE7302A97A95 94DF32EA8C971C128A076CCBC502DE5E 12FEBDEF9A94DA52ED592811E2E30C34BF7F2B5E 88A8DC3A26E3A3A35FD04993ED38C26F D094725ADC8B28AC5F1019E2203ACF14DDAFE6F4 234791EE44C535DF5853BDDC6B0F1FDB 42C812AB469F70C110687A6C4476C59C91AF4FDC E8F865E67D47D7058D6E05D84DDDA8E7 519A7CCECE04BAEF82787262E09C5C922736975E 8F518ED7291996F20666C8F58F6DD100 4542C63C4170152F289DFC6C45833A44A1E30CBF 0702FAA911E433145DAC1051F5C4DC22 E5D12E15F5F07831F0FB0A20A52081FF44E1F420 BD8B595E65B8E5D0A111BB3F1BF11B4A 95B58CBF799A10D06AC8053177502BD155BC26F4 1E64A47EF2C309297D7C5ED8CA341D8C 30D5B9B1D056D72DAE9D96038A7EAAA767259922 5B4CDFD493C8249D989193628C25C24E DF7CAC97DE3E5C0521E3C1A2E3C8AC8F52B6EC41 6BE1895AE8059CCA3FED04A4818E2107 700DD4134F02A3CB14C13B172E6ED8ACF865CB9E 55A80664468AB7A841D31628732C2442 7B3568672171DA3627513815AB38ED6634241E6B AF1AC1D6ED1EC4C71A797F7328972800 C5423B56F32F4E3337C35C06FDA7B408F5AC2818 617709638043EBDD534E176FF8EBEBC4 4C52DBE0FF32AD9260EEC64F2567EDA16E3C7FEA AE5BD6EBB1ECCA6B28E7BAB79E0DBA1A BA57E8DEC6AED62D0B4CF2807BE09609CF22204B 7568186B3BFA3D6D6A6D8E52528DC1B4 33D0A16562C6D23B0D2B80EDB035BDC131907A07 B3774C291598612CA7BB8C0F16919435 173C29FBECB751490A1FDA4D8DF3C085B65D5B17 4B26BD3EE4FEF22487864A96504BA1D5 96C84D644948B42B2BA0C58ADC5328C03B972FE6 09B6AC44B047E4E77838784498D7017F A0C43E95EFDA9167EEC17D6B0AC2CBEFD68B4578 E48BAC58DA46BE818D633321D390AC49 EF827BBED7D6787FB632CCA60BE1B5CA23EFCC11 83CEF71C4DA250A5A3EDE2CD80340BC2 C8DC8129A4A9A07E014269DC6EACB7295E6E60DD 02E9FAF9F49690D6C55A678B516790CD A29423C4D0D7F3BAD8A24ACCD3525E419CC4BDE8 F5F589576B219ACAD1D91AC3FD6E48EA 7D48B8601173E440D37E7CEB1BCF402E17459764 AC56E4DBF87DCEE05BF7B28C5435DB98 AE9132A6DD8DD2911E6718C84DAE7726532A6133 B8FAC38BBC3346E9D01AD00E93E842F9 0 0 841FA6
+$Supa<~Controls.509~>203<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Supa<~Controls.509~>197<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Thingchilla<~Controls.509~>141<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Thingchilla<~Controls.509~>120<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+<Thingchilla> fsp okay 7BA524
+<Supa> 0e 6B8AD0
+$Supa<~Controls.345~>105 104 103 102 101 100 099 <~Controls.346~>12 15 15 14 15 13 12 null
+$Supa<~Controls.350~>105 104 103 102 101 100 099 null
+$Thingchilla<~Controls.345~>213 212 211 210 <~Controls.346~>2 0 1 4 null
+$Thingchilla<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> A3D3E3
+$Thingchilla<~Controls.840~>120 61189D
+<auto><~Controls.861~>reveal 120 43AD962B6CC1B5FC1F4FB1267248DB96CE2CE9E2 5<~Controls.862~><~Controls.45~><~Controls.863~><~Game.2037~> DADF67
+$Thingchilla<~Scribe.141~>120 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2029~><~Scribe.144~> 8064BC
+$Thingchilla<~Scribe.141~>258 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> F63B39
+<Thingchilla> gandalf E71FA3
+$Thingchilla<~Controls.509~>145<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Thingchilla<~Controls.644~>213 <~Controls.645~><~Game.2035~> DDE97A
+$Supa<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 144F74
+$Supa<~Scribe.141~>039 036 029 028 027 026 <~Scribe.142~><~Game.1979~><~Scribe.143~><~Game.1977~><~Scribe.144~> 03BDD7
+$Supa<~Controls.644~>100 <~Controls.645~><~Game.2035~> 326F2F
+$Thingchilla<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 1C4498
+$Thingchilla<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> D33F27
+$Thingchilla<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> FC8CFA
+<game> Supa<~Controls.1~> 4 1 4 null
+$Supa<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 2E67CE
+$Supa<~Scribe.141~>039 036 029 028 027 026 <~Scribe.142~><~Game.1977~><~Scribe.143~><~Game.1974~><~Scribe.144~> 00FD46
+$Supa<~Scribe.141~>055 049 048 047 <~Scribe.142~><~Game.1968~><~Scribe.143~><~Game.1946~><~Scribe.144~> BC6FA3
+$Supa<~Controls.644~>099 <~Controls.645~><~Game.2035~> BFBCDD
+$Thingchilla<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 7754F6
+$Thingchilla<~Controls.790~>248<~Controls.791~><~Game.2015~><~Controls.792~><~Game.2016~> 05B97D
+$Thingchilla<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> D26A59
+<game> Supa<~Controls.1~> 2 2 2 null
+$Supa<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 0E5A61
+$Supa<~Scribe.141~>039 038 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1974~><~Scribe.143~><~Game.1976~><~Scribe.144~> F8698F
+$Supa<~Scribe.141~>055 057 049 048 047 046 045 <~Scribe.142~><~Game.1946~><~Scribe.143~><~Game.1932~><~Scribe.144~> 5190F8
+$Supa<~Controls.644~>105 <~Controls.645~><~Game.2035~> C47551
+$Thingchilla<~Scribe.141~>426 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 7202EE
+$Thingchilla<~Scribe.141~>260 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> 0430DF
+$Thingchilla<~Controls.644~>426 <~Controls.645~><~Game.2035~> B5866E
+$Supa<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> EC9099
+$Supa<~Controls.509~>187<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Supa<~Controls.644~>102 <~Controls.645~><~Game.2035~> B60782
+$Thingchilla<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 40325E
+$Thingchilla<~Scribe.141~>065 <~Scribe.142~><~Game.1941~><~Scribe.143~><~Game.1957~><~Scribe.144~> 839FE1
+$Thingchilla<~Scribe.141~>059 <~Scribe.142~><~Game.1973~><~Scribe.143~><~Game.1965~><~Scribe.144~> 9AA977
+$Thingchilla<~Controls.644~>210 <~Controls.645~><~Game.2035~> F12F8E
+<Thingchilla> pass 156DA6
+$Thingchilla<~Controls.726~>212 211 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 567969
+$Thingchilla<~Controls.731~>210 213 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 00BC92
+$Supa<~Controls.757~>104 103 101 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 1EF593
+<~Game.7~>2 null
+$Supa<~Controls.762~>102 105 099 100 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 26E2D8
+$Thingchilla<~Controls.509~>139<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Thingchilla<~Controls.509~>140<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Supa<~Controls.509~>160<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Supa<~Controls.509~>159<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<Thingchilla> fsp okay 97C4F9
+$Supa<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> AFD3B7
+<Supa> 1e BE0566
+$Supa<~Controls.345~>102 105 099 100 104 103 <~Controls.346~>13 10 12 11 13 15 null
+$Supa<~Controls.350~>102 105 099 100 104 103 null
+$Thingchilla<~Controls.345~>210 213 212 211 <~Controls.346~>4 1 1 4 null
+<Thingchilla> pass 23CF47
+$Supa<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> FA3F0B
+$Supa<~Scribe.141~>263 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 265ED0
+$Supa<~Controls.644~>105 <~Controls.645~><~Game.2035~> FD6592
+$Thingchilla<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 03313E
+$Thingchilla<~Scribe.141~>074 070 <~Scribe.142~><~Game.1918~><~Scribe.143~><~Game.1925~><~Scribe.144~> C552FD
+$Thingchilla<~Scribe.141~>073 072 <~Scribe.142~><~Game.1929~><~Scribe.143~><~Game.1925~><~Scribe.144~> EC7ABB
+$Thingchilla<~Controls.644~>211 <~Controls.645~><~Game.2035~> 868E4E
+$Supa<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 8C8BBF
+$Supa<~Scribe.141~>039 038 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1976~><~Scribe.143~><~Game.1972~><~Scribe.144~> 87A96F
+$Supa<~Scribe.141~>007 008 <~Scribe.142~><~Game.1917~><~Scribe.143~><~Game.1927~><~Scribe.144~> B4D543
+$Supa<~Controls.644~>099 <~Controls.645~><~Game.2035~> 4D06D7
+$Thingchilla<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 40A9CC
+$Thingchilla<~Controls.790~>248<~Controls.791~><~Game.2016~><~Controls.792~><~Game.2017~> 2A1574
+$Thingchilla<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 4B2D3D
+<game> Supa<~Controls.1~> 3 1 null
+$Supa<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 757B2B
+$Supa<~Scribe.141~>039 038 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1972~><~Scribe.143~><~Game.1975~><~Scribe.144~> D5C2BA
+$Supa<~Controls.644~>104 <~Controls.645~><~Game.2035~> 15706F
+$Thingchilla<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 99B32C
+$Thingchilla<~Controls.790~>248<~Controls.791~><~Game.2017~><~Controls.792~><~Game.2018~> 9A0E3E
+$Thingchilla<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 98EF89
+<game> Supa<~Controls.1~> 3 1 null
+$Supa<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 19DB86
+$Supa<~Scribe.141~>039 038 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1975~><~Scribe.143~><~Game.1966~><~Scribe.144~> DBADF9
+$Supa<~Controls.644~>102 <~Controls.645~><~Game.2035~> 4BF3A4
+$Thingchilla<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 535F50
+$Thingchilla<~Scribe.141~>258 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> FE3D27
+$Thingchilla<~Controls.644~>210 <~Controls.645~><~Game.2035~> 9A1B8B
+$Supa<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> B2C818
+$Supa<~Scribe.141~>254 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1919~><~Scribe.144~> 1F71D3
+$Supa<~Scribe.141~>360 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2036~><~Scribe.144~> 417BE0
+$Supa<~Controls.644~>100 360 <~Controls.645~><~Game.2035~> 5102D9
+<Thingchilla> pass 074ABE
+$Supa<~Controls.757~>103 101 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 5EBA32
+$Supa<~Controls.762~>100 360 102 104 099 105 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> FD4C33
+$Thingchilla<~Controls.726~>212 213 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> DF5C55
+<~Game.7~>3 null
+$Thingchilla<~Controls.731~>210 211 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> E86867
+$Thingchilla<~Controls.509~>112<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Thingchilla<~Controls.509~>114<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Supa<~Controls.509~>194<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Supa<~Controls.509~>170<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<Thingchilla> fsp okay 0391BD
+$Supa<~Controls.296~>203 <~Controls.297~><~Controls.46~> 04817A
+<Supa> 1e 2010EC
+$Supa<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> 7C5375
+$Supa<~Controls.345~>100 360 102 104 099 105 101 <~Controls.346~>13 13 15 14 11 13 15 null
+$Supa<~Controls.350~>100 360 102 104 099 105 101 null
+$Thingchilla<~Controls.345~>210 211 212 213 <~Controls.346~>0 2 1 3 null
+<Thingchilla> pass FA8499
+$Supa<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 1C1FD6
+$Supa<~Scribe.141~>262 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 76D609
+$Supa<~Controls.644~>099 <~Controls.645~><~Game.2035~> 91A562
+$Thingchilla<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 086699
+$Thingchilla<~Controls.790~>248<~Controls.791~><~Game.2018~><~Controls.792~><~Game.2019~> 5F0636
+$Thingchilla<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> FBA3CC
+<game> Supa<~Controls.1~> 3 2 5 null
+$Supa<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 385054
+<Supa> Dale 33034E
+$Supa<~Scribe.141~>258 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 363800
+$Supa<~Controls.323~>258 F49049
+$Supa<~Controls.840~>197 E2B50A
+$Thingchilla<~Controls.840~>145 6214EF
+<auto> playchosen 8DAC0A
+<auto><~Controls.3~>reveal 145 456DDA1066A265F783D2F41D06A6E87E03DC8430 1<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 31B1BE
+<auto><~Controls.866~>reveal 197 51317336A04560FA5B42D2711E23E4B6EA157E42 11<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> CE52F1
+<auto> playchosen 08C9BA
+<game> Supa<~Controls.1~> 3 1 5 3 6 null
+<Supa> 1 068778
+<game> Thingchilla<~Controls.1~> 4 null
+<game> Thingchilla<~Controls.1~> 1 null
+<Thingchilla> 0 1338F3
+$Supa<~Scribe.141~>021 <~Scribe.142~><~Game.1966~><~Scribe.143~><~Game.2036~><~Scribe.144~> 56755B
+$Thingchilla<~Controls.296~>068 066 <~Controls.297~><~Game.1970~> 72A2D4
+<Supa> you got 1 from confusion 673900
+$Supa<~Scribe.141~>039 038 036 029 028 027 026 025 024 023 022 <~Scribe.142~><~Game.1966~><~Scribe.143~><~Game.1970~><~Scribe.144~> 4CF6ED
+$Supa<~Scribe.141~>423 <~Scribe.142~><~Game.27~><~Scribe.143~><~Game.28~><~Scribe.144~> B94757
+$Supa<~Controls.644~>105 197 021 145 <~Controls.645~><~Game.2035~> D750A9
+<Thingchilla> thank you 31B53F
+<Thingchilla> wait no 90D118
+<Thingchilla> you used swarm of bats ADA1B7
+<Supa> perfect point 227F10
+<Supa> lmao A4C4D1
+$Supa<~Scribe.141~>342 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1970~><~Scribe.144~> BAB9BF
+$Thingchilla<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 49AFE8
+$Thingchilla<~Scribe.141~>074 073 072 070 <~Scribe.142~><~Game.1925~><~Scribe.143~><~Game.1923~><~Scribe.144~> 817ECD
+<Supa> elephant's memory 95C45E
+$Thingchilla<~Scribe.141~>065 <~Scribe.142~><~Game.1957~><~Scribe.143~><~Game.1954~><~Scribe.144~> 3CE8CD
+$Thingchilla<~Controls.644~>210 <~Controls.645~><~Game.2035~> 419EC7
+$Supa<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 78EEB8
+<Thingchilla> it happens all the time in this game lol E2F5B6
+$Supa<~Scribe.141~>reveal 187 052B819DEC6D96F1E36FB072A5ABD806A93E1C7B 1 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2036~><~Scribe.144~> 06004A
+$Supa<~CardBuffet.3~>187 <~CardBuffet.4~><~Game.2036~><~CardBuffet.5~><~Controls.46~> E7D4DC
+<Supa> missclick 78E4B9
+<Supa> oh well 0169D2
+$Supa<~Scribe.141~>reveal 159 38C03229B92DCE04CE1CF58494CC40C2E9A07AB3 14 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2036~><~Scribe.144~> 656EF4
+$Supa<~Scribe.141~>343 341 340 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1956~><~Scribe.144~> 3B0E94
+$Supa<~Scribe.141~>339 338 337 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1922~><~Scribe.144~> C7F1E2
+$Supa<~Controls.644~>104 159 <~Controls.645~><~Game.2035~> 35B4D3
+<Thingchilla> I'll pretend i never saw anything.. A4DCD0
+$Thingchilla<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 8A8109
+$Thingchilla<~Scribe.141~>256 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> 85DB81
+$Thingchilla<~Controls.644~>213 <~Controls.645~><~Game.2035~> ADB4E4
+$Supa<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 3B4579
+$Supa<~Scribe.141~>040 035 343 341 340 015 014 013 012 <~Scribe.142~><~Game.1956~><~Scribe.143~><~Game.1953~><~Scribe.144~> 3A180F
+$Supa<~Controls.644~>360 <~Controls.645~><~Game.2035~> 61BFA8
+$Thingchilla<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 74299F
+$Thingchilla<~Controls.840~>140 8A6F94
+<auto><~Controls.861~>reveal 140 DB4389B600E28E34D92EE933EC7EB049CD4DA8A0 23<~Controls.862~><~Controls.45~><~Controls.863~><~Game.2037~> 5576F6
+$Thingchilla<~Scribe.141~>256 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> 6CFF3F
+$Thingchilla<~Scribe.141~>140 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2030~><~Scribe.144~> 1B1642
+$Thingchilla<~Controls.509~>118<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Thingchilla<~Controls.644~>211 <~Controls.645~><~Game.2035~> 89E03F
+$Supa<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 95EBD4
+$Supa<~Controls.296~>160 <~Controls.297~><~Controls.46~> 31AD02
+$Supa<~Controls.296~>187 <~Controls.297~><~Controls.46~> 7A2772
+$Supa<~Scribe.141~>140 <~Scribe.142~><~Game.2030~><~Scribe.143~><~Game.2036~><~Scribe.144~> B376C3
+$Supa<~Controls.644~>100 140 <~Controls.645~><~Game.2035~> CEADF2
+<Thingchilla> army card? CD906D
+<Thingchilla> just checking 106114
+<Supa> yeah DA7F81
+<Thingchilla> good good 7A9CE8
+<Thingchilla> pass B9DB5F
+$Thingchilla<~Controls.726~>212 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> E43001
+$Thingchilla<~Controls.731~>211 213 210 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 89DFB4
+$Supa<~Controls.757~>102 101 103 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 1897FC
+<~Game.7~>4 null
+$Supa<~Controls.762~>100 360 104 105 099 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> CE8385
+$Thingchilla<~Controls.509~>142<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Thingchilla<~Controls.509~>134<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Supa<~Controls.509~>174<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Supa<~Controls.509~>185<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Thingchilla<~Controls.296~>141 <~Controls.297~><~Controls.45~> 967E54
+<Thingchilla> fsp okay 3064E7
+$Supa<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> EB6F7B
+$Supa<~Scribe.141~>103 <~Scribe.142~><~Game.2035~><~Scribe.143~><~Game.1997~><~Scribe.144~> EA508B
+<Supa> 1e 70960A
+$Supa<~Controls.345~>100 360 104 105 099 102 101 <~Controls.346~>11 10 12 14 12 11 10 null
+$Supa<~Controls.350~>100 360 104 105 099 102 101 null
+$Thingchilla<~Controls.345~>211 213 210 212 <~Controls.346~>1 3 0 2 null
+<Thingchilla> pass EC0770
+$Supa<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> B24DB5
+$Supa<~Scribe.141~>040 035 343 341 340 015 014 013 012 <~Scribe.142~><~Game.1953~><~Scribe.143~><~Game.1927~><~Scribe.144~> 826784
+<Supa> hmm EC6733
+<Thingchilla> tricky choice C5AD2D
+$Supa<~Scribe.141~>022 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.1957~><~Scribe.144~> 3D69BC
+$Supa<~Controls.644~>104 <~Controls.645~><~Game.2035~> A17B34
+<Thingchilla> hmmm C3787C
+<Thingchilla> pass FA9510
+$Supa<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 0C27ED
+$Supa<~Scribe.141~>022 <~Scribe.142~><~Game.1957~><~Scribe.143~><~Game.1941~><~Scribe.144~> 0B0D23
+$Supa<~Scribe.141~>056 052 051 050 <~Scribe.142~><~Game.1986~><~Scribe.143~><~Game.1984~><~Scribe.144~> 979EA3
+$Supa<~Controls.644~>099 <~Controls.645~><~Game.2035~> 9E4A04
+<Thingchilla> pass 2D0FD5
+$Supa<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 5BE8F5
+$Supa<~Scribe.141~>253 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1970~><~Scribe.144~> 6C2B42
+$Supa<~Controls.323~>259 257 F2F9CF
+$Supa<~Controls.323~>260 6731B3
+$Supa<~Scribe.141~>361 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2036~><~Scribe.144~> 069F90
+$Supa<~Controls.644~>360 361 <~Controls.645~><~Game.2035~> 6DBD5A
+$Thingchilla<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> FE077F
+$Thingchilla<~Controls.790~>248<~Controls.791~><~Game.2019~><~Controls.792~><~Game.2020~> 68823F
+$Thingchilla<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> A00F9C
+<game> Supa<~Controls.1~> 5 null
+$Supa<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 6BF2FE
+<Supa> WLR 10EFAF
+$Supa<~Scribe.141~>256 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> C78732
+$Thingchilla<~Scribe.141~>098 094 088 065 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1991~><~Scribe.144~> 65197D
+$Supa<~Scribe.141~>253 039 038 036 342 029 028 027 026 025 024 023 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.1954~><~Scribe.144~> 6CE856
+$Supa<~Scribe.141~>416 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1970~><~Scribe.144~> F07B70
+$Supa<~Controls.644~>100 <~Controls.645~><~Game.2035~> 46955E
+$Thingchilla<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 1A55BF
+$Thingchilla<~Scribe.141~>266 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1928~><~Scribe.144~> 1027EC
+$Thingchilla<~Controls.644~>213 <~Controls.645~><~Game.2035~> 3AA1AF
+$Supa<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 9FA6DE
+<Supa> Lorien 31DC93
+$Thingchilla<~Scribe.141~>097 266 093 092 087 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.1992~><~Scribe.144~> 483F10
+$Supa<~Scribe.141~>040 035 343 341 340 015 014 013 012 007 008 <~Scribe.142~><~Game.1927~><~Scribe.143~><~Game.1928~><~Scribe.144~> 8384DD
+$Supa<~Controls.644~>102 <~Controls.645~><~Game.2035~> 904998
+$Thingchilla<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 45188E
+$Thingchilla<~Controls.840~>118 0E1809
+<auto><~Controls.861~>reveal 118 D964C5A440941A1BACA0A307409E2D308A3863DD 2<~Controls.862~><~Controls.45~><~Controls.863~><~Game.2037~> 0D54E2
+$Thingchilla<~Scribe.141~>267 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1991~><~Scribe.144~> 8471CC
+$Thingchilla<~Controls.509~>110<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+<Thingchilla> no gandalf A5A575
+$Thingchilla<~Controls.644~>212 118 <~Controls.645~><~Game.2035~> 8E3984
+$Supa<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 7A1317
+$Supa<~Scribe.141~>reveal 174 220F7D50616B35F1ECBC352177EF136EADE459DA 16 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2034~><~Scribe.144~> 7B7452
+<Supa> WLR 0D6E7A
+<Supa> r1, no card for FP C91557
+$Supa<~Scribe.141~>reveal 185 7E35CC14FE9369F25D3D215B088C656D5B7AA0FC 19 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2036~><~Scribe.144~> BD2238
+<game> Supa<~Controls.1~> 3 4 5 2 2 null
+<game> Supa<~Controls.1~> 4 2 3 null
+<Supa> 3 F23771
+<game> Thingchilla<~Controls.1~> 5 2 3 5 null
+<game> Thingchilla<~Controls.1~> 6 null
+<Thingchilla> 4 DA41E6
+$Supa<~Scribe.141~>026 025 024 023 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.2036~><~Scribe.144~> 913177
+$Supa<~Scribe.141~>174 <~Scribe.142~><~Game.2034~><~Scribe.143~><~Game.2033~><~Scribe.144~> C706DA
+$Thingchilla<~Controls.296~>094 <~Controls.297~><~Game.1991~> F34346
+$Thingchilla<~Controls.296~>088 <~Controls.297~><~Game.1991~> 52EFA7
+<Supa> r2 0B7F81
+$Supa<~Controls.509~>190<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Supa<~Controls.662~>185 026 025 024 023 <~Controls.663~><~Game.2035~> 21C568
+$Supa<~Controls.840~>190 822AF9
+<Thingchilla> nc F42BDD
+$Supa<~Scribe.141~>reveal 190 5CD24331543E0CA660E2CE826597E5EA6BB11AD5 17 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2036~><~Scribe.144~> C9E508
+<game> Supa<~Controls.1~> 3 2 5 1 5 null
+<game> Supa<~Controls.1~> 3 1 5 null
+<Supa> 3 8A3FFD
+<game> Thingchilla<~Controls.1~> 6 3 null
+<game> Thingchilla<~Controls.1~> 5 null
+<Thingchilla> 2 DEB8B6
+$Thingchilla<~Controls.296~>098 267 065 <~Controls.297~><~Game.1991~> E9573F
+$Thingchilla<~Scribe.141~>423 <~Scribe.142~><~Game.28~><~Scribe.143~><~Game.30~><~Scribe.144~> EBC88F
+$Supa<~Scribe.141~>029 028 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.2036~><~Scribe.144~> 9DF0D3
+$Supa<~Scribe.141~>174 <~Scribe.142~><~Game.2033~><~Scribe.143~><~Game.2037~><~Scribe.144~> F72E34
+$Supa<~Controls.644~>105 190 029 028 174 <~Controls.645~><~Game.2035~> 9C7265
+$Thingchilla<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> E3D390
+$Thingchilla<~Controls.790~>248<~Controls.791~><~Game.2020~><~Controls.792~><~Game.2021~> CEF83A
+$Thingchilla<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> C0302F
+<game> Supa<~Controls.1~> 4 null
+$Supa<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> CAFD3E
+$Supa<~Scribe.141~>261 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> 312582
+$Supa<~Controls.644~>101 <~Controls.645~><~Game.2035~> 5CD021
+<Thingchilla> pass F3CCFB
+$Thingchilla<~Controls.726~>210 211 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 65EA24
+$Thingchilla<~Controls.731~>212 213 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> CAF04C
+$Supa<~Controls.757~>103 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> B0C1CF
+<~Game.7~>5 null
+$Supa<~Controls.762~>101 105 102 100 360 361 099 104 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> E9EF7C
+$Supa<~Controls.509~>168<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Supa<~Controls.509~>192<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Thingchilla<~Controls.509~>128<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Thingchilla<~Controls.509~>156<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Thingchilla<~Controls.296~>139 <~Controls.297~><~Controls.45~> 2E1150
+$Thingchilla<~Controls.296~>128 <~Controls.297~><~Controls.45~> 5DD62C
+<Thingchilla> fsp okay F02E36
+$Supa<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> 04096B
+<Supa> 1e 304E71
+$Supa<~Controls.345~>101 105 102 100 360 361 099 104 <~Controls.346~>14 14 12 10 10 10 10 10 null
+$Supa<~Controls.350~>101 105 102 100 360 361 099 104 null
+<Supa> oh my god... AD8767
+<Thingchilla> oh my 56363D
+<Supa> feel like conceding :D 99440C
+<Supa> haha 6EF30A
+<Thingchilla> the fellowship has been so lucky C71F17
+<Thingchilla> it's not over yet though 5BDE57
+<Supa> it feels like every other game with sp goes like this 91170D
+<Supa> then I see some with 80%+ wr 255834
+<Thingchilla> i played as sp yesterday and got turn 4 saruman AF7D95
+<Supa> same 98C387
+<Supa> for me it's I either get everything I want 50854C
+<Thingchilla> i was +5 on eyes and +4 on palantirs by then 2B1F9C
+<Supa> or it's 0 movement or 0 muster 6F2D31
+$Thingchilla<~Controls.345~>212 213 210 211 <~Controls.346~>2 2 2 4 null
+<Supa> well that helps B69BF4
+<Thingchilla> well at least i get that lol 6A5746
+<Thingchilla> pass F9A6AC
+$Supa<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 043C2B
+$Supa<~Scribe.141~>261 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 0FB2AE
+$Supa<~Controls.644~>099 <~Controls.645~><~Game.2035~> DCB5CF
+<Thingchilla> pass C976CC
+$Supa<~Scribe.141~>361 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> FEC1B5
+$Supa<~Scribe.141~>345 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1987~><~Scribe.144~> E3E8B8
+$Supa<~Controls.644~>361 <~Controls.645~><~Game.2035~> 1ED495
+<Thingchilla> pass 69E2E7
+$Supa<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 3A94A7
+$Supa<~Scribe.141~>330 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1910~><~Scribe.144~> AFB490
+$Supa<~Scribe.141~>329 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1914~><~Scribe.144~> D53842
+$Supa<~Scribe.141~>331 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1919~><~Scribe.144~> 0BAFB8
+$Supa<~Controls.644~>104 <~Controls.645~><~Game.2035~> 541BEA
+<Thingchilla> pass 8FCF40
+$Supa<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 918FA0
+$Supa<~Controls.304~>005 331 <~Controls.305~><~Game.1919~> 67906A
+$Supa<~Controls.313~>325 326 <~Controls.309~><~Controls.314~><~Game.1919~> 7D9F5E
+$Supa<~Controls.644~>360 <~Controls.645~><~Game.2035~> B65C63
+$Thingchilla<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 27C4D7
+$Thingchilla<~Controls.840~>112 3B4749
+<auto><~Controls.3~>reveal 112 CDE38DFDAB9F2E5C113E0739301EDB6E6109D25A 9<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> CA18F7
+$Thingchilla<~Controls.281~>232 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2045~> 4761E0
+$Thingchilla<~Controls.509~>154<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Thingchilla<~Controls.644~>210 112 <~Controls.645~><~Game.2035~> F69EC5
+<Supa> on the bright side gandalf is still alive 8CB906
+<Thingchilla> yes, my hand has been full all game 74DEC2
+$Supa<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> AEF6E5
+$Supa<~Scribe.141~>reveal 192 7DE035F57ACF0DBE75A1D145A049EB3896769AD6 20 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2036~><~Scribe.144~> EA6472
+$Supa<~Controls.304~>341 343 <~Controls.305~><~Game.1928~> 905025
+$Supa<~Controls.313~>335 336 <~Controls.309~><~Controls.314~><~Game.1928~> A5F5E8
+$Supa<~Controls.644~>101 192 <~Controls.645~><~Game.2035~> FED915
+<Thingchilla> hmm 77587F
+$Thingchilla<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 9DB44D
+$Thingchilla<~Controls.840~>156 3F857D
+<auto><~Controls.861~>reveal 156 12D1A916CD4CAC5FDFCF75F741317B9E22354114 18<~Controls.862~><~Controls.45~><~Controls.863~><~Game.2037~> C9444B
+$Thingchilla<~Scribe.141~>285 287 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1923~><~Scribe.144~> 031303
+$Thingchilla<~Controls.509~>138<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Thingchilla<~Controls.644~>213 156 <~Controls.645~><~Game.2035~> E0B98D
+$Supa<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 70CFF5
+$Supa<~Scribe.141~>345 054 053 <~Scribe.142~><~Game.1987~><~Scribe.143~><~Game.1984~><~Scribe.144~> 3ED86C
+$Supa<~Scribe.141~>253 039 038 036 342 027 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1970~><~Scribe.144~> 2836EE
+$Supa<~Scribe.141~>411 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1954~><~Scribe.144~> 2E5244
+$Supa<~Controls.644~>102 <~Controls.645~><~Game.2035~> 25633B
+$Thingchilla<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 172DAF
+$Thingchilla<~Controls.281~>211 <~Controls.282~><~Game.2035~><~Controls.283~><~Game.2042~> DC8C98
+$Thingchilla<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 0A3ED2
+$Thingchilla<~Controls.840~>138 430C41
+<auto><~Controls.861~>reveal 138 00DD57C5AAC9874DCD237AF6586005A23CF80AEA 21<~Controls.862~><~Controls.45~><~Controls.863~><~Game.2037~> E843C8
+$Thingchilla<~Scribe.141~>264 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1992~><~Scribe.144~> CB96AC
+<Thingchilla> these card draws are crazy 12688C
+$Thingchilla<~Controls.509~>122<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+<Thingchilla> no gandalf 020CC1
+$Thingchilla<~Controls.644~>212 138 <~Controls.645~><~Game.2035~> 0EF676
+$Supa<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 423C4C
+$Supa<~Controls.509~>208<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Supa<~Controls.644~>105 <~Controls.645~><~Game.2035~> C36C08
+$Thingchilla<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 475F79
+$Thingchilla<~Controls.366~>251<~Controls.367~><~Game.2010~><~Controls.368~><~Game.2011~> 803993
+$Thingchilla<~Controls.790~>248<~Controls.791~><~Game.2021~><~Controls.792~><~Game.2022~> 7FD3ED
+$Thingchilla<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 5FE08F
+<game> Supa<~Controls.1~> 1 null
+$Supa<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 9DAFCF
+$Supa<~Scribe.141~>251 <~Scribe.142~><~Game.2011~><~Scribe.143~><~Game.2036~><~Scribe.144~> 743E46
+$Supa<~Scribe.141~>345 056 054 053 052 051 050 <~Scribe.142~><~Game.1984~><~Scribe.143~><~Game.1973~><~Scribe.144~> 014D7C
+$Thingchilla<~Scribe.141~>257 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> BC036B
+$Supa<~Scribe.141~>257 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> CB76B6
+<Supa> hmm D26715
+$Supa<~Scribe.141~>253 039 038 036 342 027 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.1973~><~Scribe.144~> 7F090E
+$Supa<~Controls.644~>100 251 <~Controls.645~><~Game.2035~> 8442EF
+<Thingchilla> pass CE4F3B
+$Thingchilla<~Controls.726~>211 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 717338
+$Thingchilla<~Controls.731~>212 213 210 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 65E68E
+$Supa<~Controls.757~>103 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> B7E783
+<~Game.7~>6 null
+$Supa<~Controls.762~>100 105 102 101 360 104 361 099 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 0BEDD4
+$Thingchilla<~Controls.509~>107<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Supa<~Controls.509~>182<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Thingchilla<~Controls.509~>146<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Supa<~Controls.509~>189<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Thingchilla<~Controls.296~>110 <~Controls.297~><~Controls.45~> 9CE253
+$Thingchilla<~Controls.296~>134 <~Controls.297~><~Controls.45~> 3F0E72
+<Thingchilla> fsp okay AFD4A8
+<Supa> 1e 327EA9
+$Supa<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> B6E4F9
+$Supa<~Controls.345~>100 105 102 101 360 104 361 099 <~Controls.346~>10 11 15 10 12 11 14 13 null
+$Supa<~Controls.350~>100 105 102 101 360 104 361 099 null
+$Thingchilla<~Controls.345~>212 213 210 211 <~Controls.346~>2 1 1 1 null
+<Thingchilla> pass 3DD87E
+$Supa<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 81E56A
+<Supa> Erebor 906C2E
+$Supa<~Scribe.141~>257 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> 763EB1
+$Thingchilla<~Scribe.141~>062 312 061 059 060 <~Scribe.142~><~Game.1965~><~Scribe.143~><~Game.1988~><~Scribe.144~> 859B10
+$Supa<~Scribe.141~>253 039 038 345 056 036 054 053 052 051 050 342 027 <~Scribe.142~><~Game.1973~><~Scribe.143~><~Game.1965~><~Scribe.144~> 9F7DFE
+$Supa<~Scribe.141~>418 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1973~><~Scribe.144~> A43869
+$Supa<~Controls.644~>360 <~Controls.645~><~Game.2035~> 31076B
+<Thingchilla> pass FDFFCB
+$Supa<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 1F5EDE
+<Supa> Erebor E9D4A2
+$Supa<~Controls.840~>194 62F0F0
+$Thingchilla<~Controls.840~>146 2EA091
+<auto> playchosen 92BBB7
+<auto><~Controls.3~>reveal 146 A81A8E090A12CE86D9BD9764D733431A0EFBBB4B 8<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> FBA18B
+<auto><~Controls.866~>reveal 194 AE36558190AE5C45BA4DC3AFA9A7A8674DDAFE1E 10<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> AA88E8
+<auto> playchosen 1A45AE
+<Supa> ff2 865D54
+<game> Supa<~Controls.1~> 4 1 4 null
+<game> Supa<~Controls.1~> 1 2 1 null
+<Supa> 0 AC9446
+<game> Thingchilla<~Controls.1~> 5 6 5 1 null
+<game> Thingchilla<~Controls.1~> 6 null
+<Thingchilla> 4!?!?!? C4D093
+$Supa<~Scribe.141~>051 050 342 027 <~Scribe.142~><~Game.1965~><~Scribe.143~><~Game.2036~><~Scribe.144~> 0B5CF5
+$Supa<~Scribe.141~>051 050 342 027 <~Scribe.142~><~Game.2036~><~Scribe.143~><~Game.1965~><~Scribe.144~> 2C2348
+$Supa<~Scribe.141~>036 342 027 <~Scribe.142~><~Game.1965~><~Scribe.143~><~Game.2036~><~Scribe.144~> B104C2
+<Supa> stop, draw 5F5407
+$Supa<~Controls.509~>166<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Supa<~Controls.644~>104 194 036 342 027 146 <~Controls.645~><~Game.2035~> CCB9E1
+$Thingchilla<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 1219E2
+$Thingchilla<~Controls.790~>248<~Controls.791~><~Game.2022~><~Controls.792~><~Game.2023~> 2B209B
+$Thingchilla<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 9FAEAE
+<game> Supa<~Controls.1~> 6 4 null
+$Supa<~Controls.624~>218<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Supa> finally :D 7902F2
+<Thingchilla> wooooaaahhh 72937D
+$Thingchilla<~Scribe.141~>247 <~Scribe.142~><~Game.1911~><~Scribe.143~><~Game.1915~><~Scribe.144~> 5385D8
+$Thingchilla<~Scribe.141~>247 <~Scribe.142~><~Game.1915~><~Scribe.143~><~Game.1912~><~Scribe.144~> 3A6E9B
+$Thingchilla<~Scribe.141~>247 <~Scribe.142~><~Game.1912~><~Scribe.143~><~Game.1917~><~Scribe.144~> 0A73EE
+$Thingchilla<~Scribe.141~>247 <~Scribe.142~><~Game.1917~><~Scribe.143~><~Game.1927~><~Scribe.144~> 6DB385
+$Thingchilla<~Scribe.141~>247 <~Scribe.142~><~Game.1927~><~Scribe.143~><~Game.1953~><~Scribe.144~> AE7324
+$Thingchilla<~Scribe.141~>247 <~Scribe.142~><~Game.1953~><~Scribe.143~><~Game.1951~><~Scribe.144~> C9242D
+$Thingchilla<~Scribe.141~>247 <~Scribe.142~><~Game.1951~><~Scribe.143~><~Game.1960~><~Scribe.144~> C1EB92
+$Thingchilla<~Scribe.141~>247 <~Scribe.142~><~Game.1960~><~Scribe.143~><~Game.1972~><~Scribe.144~> 0BC37F
+$Thingchilla<~Scribe.141~>247 <~Scribe.142~><~Game.1972~><~Scribe.143~><~Game.1976~><~Scribe.144~> 39D46D
+$Thingchilla<~Controls.323~>247 4A1581
+$Thingchilla<~Scribe.141~>240 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2037~><~Scribe.144~> C85C13
+$Thingchilla<~Scribe.141~>241 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> FC0A0D
+$Supa<~Scribe.141~>218 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2036~><~Scribe.144~> 44990E
+$Supa<~Scribe.141~>240 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2036~><~Scribe.144~> 8EE534
+$Supa<~Controls.624~>217<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Thingchilla<~Scribe.141~>252 <~Scribe.142~><~Game.2014~><~Scribe.143~><~Game.2015~><~Scribe.144~> A4F6B0
+$Thingchilla<~Controls.644~>218 240 217 <~Controls.645~><~Game.2035~> 1210DA
+$Supa<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 6BB5A7
+$Supa<~Scribe.141~>319 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1969~><~Scribe.144~> 52CD33
+$Supa<~Scribe.141~>320 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1917~><~Scribe.144~> 4C76EF
+$Supa<~Controls.644~>101 <~Controls.645~><~Game.2035~> 593EF4
+$Thingchilla<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 6B020E
+$Thingchilla<~Controls.323~>247 0655BE
+$Thingchilla<~Controls.644~>211 <~Controls.645~><~Game.2035~> 6E258A
+$Supa<~Scribe.141~>361 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> BC1770
+$Supa<~Scribe.141~>reveal 182 507D526C222C533AD6F1DFCD2289AF854F4577C8 2 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2036~><~Scribe.144~> A8A16A
+$Supa<~Scribe.141~>037 <~Scribe.142~><~Game.1969~><~Scribe.143~><~Game.1976~><~Scribe.144~> 22A01E
+$Supa<~Scribe.141~>319 <~Scribe.142~><~Game.1969~><~Scribe.143~><~Game.1965~><~Scribe.144~> 913DB1
+$Supa<~Scribe.141~>320 <~Scribe.142~><~Game.1917~><~Scribe.143~><~Game.1965~><~Scribe.144~> 986A6E
+$Supa<~Scribe.141~>040 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.1965~><~Scribe.144~> 840CE8
+$Supa<~Scribe.141~>182 <~Scribe.142~><~Game.2036~><~Scribe.143~><~Game.2034~><~Scribe.144~> 20374A
+$Supa<~Scribe.141~>253 038 039 319 320 040 <~Scribe.142~><~Game.1965~><~Scribe.143~><~Game.1919~><~Scribe.144~> 50FDDD
+$Supa<~Scribe.141~>253 038 039 319 320 040 <~Scribe.142~><~Game.1919~><~Scribe.143~><~Game.1928~><~Scribe.144~> D316EF
+<Supa> hmm D3C50B
+$Supa<~Scribe.141~>253 038 039 319 320 040 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.1965~><~Scribe.144~> EF9940
+<Supa> have to try it C1F32C
+<Supa> Erebor DC192C
+$Supa<~Controls.840~>208 DF48A4
+$Thingchilla<~Controls.840~>122 D89552
+<auto> playchosen F12386
+<auto><~Controls.3~>reveal 122 D3F051892BB5438609964473B88642F5FEE294E7 20<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 974BAE
+<auto><~Controls.866~>reveal 208 A61DF53C6CCB17E275674BFFCF30697CF055E8F2 19<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 7D883F
+<auto> playchosen E57D73
+<Thingchilla> pre 61FF05
+<game> Thingchilla<~Controls.1~> 1 4 null
+<Thingchilla> 0 1B1D66
+<Supa> ff1 8C2ECD
+<game> Supa<~Controls.1~> 4 3 2 1 3 null
+<game> Supa<~Controls.1~> 3 1 4 1 2 null
+<Supa> 0 AABF8E
+<game> Thingchilla<~Controls.1~> 2 1 3 1 null
+<game> Thingchilla<~Controls.1~> 2 null
+<Thingchilla> 0 AF5C3C
+<Thingchilla> very friendly 71CC32
+<Supa> 0 hits A8B921
+<Supa> stop, draw 1C73FD
+$Supa<~Controls.509~>179<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Supa<~Controls.644~>361 208 122 <~Controls.645~><~Game.2035~> 2C19B8
+<Thingchilla> pass C929CD
+$Supa<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 022499
+$Supa<~Scribe.141~>182 <~Scribe.142~><~Game.2034~><~Scribe.143~><~Game.2036~><~Scribe.144~> E6235A
+$Supa<~Controls.296~>182 <~Controls.297~><~Game.2036~> 48A1AB
+<Supa> Erebor E3C4D5
+$Supa<~Controls.840~>179 6D7255
+<Thingchilla> nc 70B675
+$Supa<~Scribe.141~>reveal 179 71705A1FCD99E6E858F7419D0406F709E6BE59E9 14 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2036~><~Scribe.144~> 971C96
+<Supa> ff1 B18A02
+<game> Supa<~Controls.1~> 3 4 3 1 4 null
+<game> Supa<~Controls.1~> 2 1 1 3 1 null
+<Supa> 0 85A599
+<Supa> wtf... FB757A
+<Thingchilla> wow C7E9D0
+<game> Thingchilla<~Controls.1~> 1 3 1 3 null
+<game> Thingchilla<~Controls.1~> 1 null
+<Thingchilla> wow 9B768F
+<Supa> at least they are not being butchered 4B0693
+<Thingchilla> no hits on 32 rolls 35CBF9
+<Supa> yeah 893806
+<Supa> stop, draw 1A61C6
+$Supa<~Controls.509~>204<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Supa<~Controls.644~>105 179 <~Controls.645~><~Game.2035~> 12D8A0
+$Thingchilla<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> AD5500
+$Thingchilla<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> D5C56D
+$Thingchilla<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 38CC71
+<game> Supa<~Controls.1~> 6 3 null
+<game> Supa<~Controls.1~> 2 null
+$Supa<~Controls.624~>227<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Thingchilla> random F35BF6
+$Supa<~Controls.637~>242<~Controls.638~><~Game.1998~><~Controls.639~><~Game.2036~> null
+$Thingchilla<~Scribe.141~>252 <~Scribe.142~><~Game.2015~><~Scribe.143~><~Game.2016~><~Scribe.144~> 3AE895
+$Thingchilla<~Controls.644~>242 227 <~Controls.645~><~Game.2035~> 08F023
+$Supa<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 8C04B4
+$Supa<~Scribe.141~>reveal 204 88EF5F21E3BF01A98421B65750BFE8280CC7727E 20 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2036~><~Scribe.144~> 06407A
+<Supa> Erebor ECBB09
+<game> Supa<~Controls.1~> 3 2 1 1 5 null
+<Supa> 1 D90711
+<Supa> !! BA667F
+$Thingchilla<~Controls.304~>312 <~Controls.305~><~Game.1988~> D9D055
+$Thingchilla<~Controls.313~>317 <~Controls.307~><~Controls.314~><~Game.1988~> 3168B6
+<Thingchilla> very sad :( 81EBE2
+$Supa<~Controls.644~>099 204 <~Controls.645~><~Game.2035~> 2FD092
+<Thingchilla> i thought they'd live forever ED1E3E
+$Thingchilla<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> D672D0
+$Thingchilla<~Controls.840~>142 91AFAC
+<auto><~Controls.3~>reveal 142 7F6038B2B782E4676A01389329FE292D11EB4D40 7<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> CC7677
+$Thingchilla<~Controls.281~>233 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2045~> C40946
+$Thingchilla<~Controls.644~>212 142 <~Controls.645~><~Game.2035~> 460CB3
+$Supa<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 058309
+$Supa<~Scribe.141~>036 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1922~><~Scribe.144~> 7B38F5
+$Supa<~Controls.644~>100 <~Controls.645~><~Game.2035~> 5FC760
+<Thingchilla> pass 16E942
+$Supa<~Controls.757~>102 103 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> FAAF5E
+$Supa<~Controls.762~>100 099 105 361 101 104 360 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> E2E230
+$Thingchilla<~Controls.726~>210 213 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 435835
+<~Game.7~>7 null
+$Thingchilla<~Controls.731~>212 211 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 753A76
+$Thingchilla<~Controls.509~>144<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Thingchilla<~Controls.509~>130<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Supa<~Controls.509~>191<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Supa<~Controls.509~>205<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<Thingchilla> declare 2D427D
+$Thingchilla<~Scribe.141~>247 <~Scribe.142~><~Game.1976~><~Scribe.143~><~Game.1974~><~Scribe.144~> 2A8C10
+$Thingchilla<~Scribe.141~>247 <~Scribe.142~><~Game.1974~><~Scribe.143~><~Game.524~><~Scribe.144~> 529C3C
+$Thingchilla<~Scribe.141~>248 <~Scribe.142~><~Game.2015~><~Scribe.143~><~Game.2014~><~Scribe.144~> 848EE5
+$Supa<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> 67F4AB
+$Thingchilla<~Controls.281~>232 233 <~Controls.282~><~Game.2045~><~Controls.283~><~Game.2044~> 1E1D5A
+<Supa> 1e 7B3FAA
+$Supa<~Controls.345~>100 099 105 361 101 104 360 102 <~Controls.346~>13 10 15 11 14 15 11 14 null
+$Supa<~Controls.350~>100 099 105 361 101 104 360 102 null
+$Thingchilla<~Controls.345~>212 211 210 213 <~Controls.346~>0 4 3 4 null
+<Thingchilla> Yay gandalf! B0758E
+$Thingchilla<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> A44D1A
+$Thingchilla<~Scribe.141~>240 <~Scribe.142~><~Game.2039~><~Scribe.143~><~Game.1921~><~Scribe.144~> 11A971
+$Thingchilla<~Scribe.141~>358 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.2037~><~Scribe.144~> 672FF1
+$Thingchilla<~Controls.323~>240 6D1F89
+$Thingchilla<~Controls.644~>212 358 <~Controls.645~><~Game.2035~> CE3CA1
+$Supa<~Scribe.141~>361 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 8DBB52
+<Supa> Erebor D15538
+$Supa<~Controls.840~>166 969C27
+<Thingchilla> nc B1CE21
+$Supa<~Scribe.141~>reveal 166 8FC5D44D9DD5A33045FEF86580CF218370AE2B94 12 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2036~><~Scribe.144~> AD630F
+<game> Supa<~Controls.1~> 3 1 5 4 1 null
+<game> Supa<~Controls.1~> 3 1 2 2 2 null
+<Supa> 0 63BFCF
+<game> Thingchilla<~Controls.1~> 3 5 1 5 null
+<Supa> I can't roll a 6 66DFCD
+<Thingchilla> 2 9A0F4C
+<Supa> I have rolled 3 sixes whole game 074281
+<Supa> :D 101F31
+<Thingchilla> you're down 11 on 6s 6299CE
+<Thingchilla> that's ridiculous 196C74
+$Supa<~Scribe.141~>053 052 <~Scribe.142~><~Game.1965~><~Scribe.143~><~Game.2036~><~Scribe.144~> 2B5CA5
+<Supa> press, draw B85867
+$Supa<~Controls.304~>345 <~Controls.305~><~Game.1965~> 7BC384
+$Supa<~Controls.313~>357 <~Controls.307~><~Controls.314~><~Game.1965~> CE0D4D
+$Supa<~Controls.509~>165<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Supa<~Controls.662~>166 053 052 <~Controls.663~><~Game.2035~> 619729
+$Supa<~Controls.840~>165 FB1E52
+<Thingchilla> nc BAF207
+$Supa<~Scribe.141~>reveal 165 76863FAA95FC46F011EC33F169DBE9E104F57460 15 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2036~><~Scribe.144~> 568D48
+<Supa> ff2 5F504B
+<game> Supa<~Controls.1~> 4 3 3 2 3 null
+<game> Supa<~Controls.1~> 4 2 5 5 5 null
+<Supa> no B66A47
+<Supa> fecking 6D3A81
+<Thingchilla> what 536F36
+<Supa> way 10027E
+<Supa> this cannot be 590453
+<game> Thingchilla<~Controls.1~> 4 3 5 4 null
+<game> Thingchilla<~Controls.1~> 4 null
+<Thingchilla> 1 E220D1
+<Supa> ok erebor, you win 8F09D4
+$Supa<~Controls.304~>056 <~Controls.305~><~Game.1965~> 4CE67A
+$Supa<~Controls.313~>053 <~Controls.307~><~Controls.314~><~Game.1965~> 883196
+$Supa<~Controls.662~>165 <~Controls.663~><~Game.2035~> 48E46C
+<Supa> so many dice wasted 041DEA
+<Thingchilla> 1 dead in erebor after like 5 or 6 rounds of combat and a bunch of cards 6A4269
+<Thingchilla> i've never seen anywhere hold so well 6813DA
+$Supa<~Controls.644~>361 <~Controls.645~><~Game.2035~> 7F6409
+<Thingchilla> pass 25536E
+$Supa<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> E0A381
+$Supa<~Scribe.141~>253 040 320 319 039 038 <~Scribe.142~><~Game.1965~><~Scribe.143~><~Game.1928~><~Scribe.144~> 2106C4
+$Supa<~Scribe.141~>037 <~Scribe.142~><~Game.1976~><~Scribe.143~><~Game.1922~><~Scribe.144~> CF2907
+$Supa<~Controls.644~>100 <~Controls.645~><~Game.2035~> 6DE671
+<Thingchilla> pass 1D0901
+$Supa<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 010872
+$Supa<~Scribe.141~>255 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1922~><~Scribe.144~> 45731E
+$Supa<~Scribe.141~>362 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2036~><~Scribe.144~> 9BC0E0
+$Supa<~Controls.644~>099 362 <~Controls.645~><~Game.2035~> 6B1860
+$Thingchilla<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 3282E0
+$Thingchilla<~Scribe.141~>260 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> BE18FF
+$Thingchilla<~Controls.644~>210 <~Controls.645~><~Game.2035~> C5CC77
+$Supa<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> C31F16
+$Supa<~Scribe.141~>255 037 036 339 338 337 010 009 <~Scribe.142~><~Game.1922~><~Scribe.143~><~Game.1903~><~Scribe.144~> 0BEF9E
+$Supa<~Scribe.141~>330 001 <~Scribe.142~><~Game.1910~><~Scribe.143~><~Game.1912~><~Scribe.144~> 9DD666
+$Supa<~Controls.644~>360 <~Controls.645~><~Game.2035~> 75EDAE
+$Thingchilla<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> AFCEB1
+$Thingchilla<~Scribe.141~>269 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1911~><~Scribe.144~> CFC50A
+$Thingchilla<~Scribe.141~>272 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1920~><~Scribe.144~> 3CC7C6
+$Thingchilla<~Controls.644~>213 <~Controls.645~><~Game.2035~> 20647B
+$Supa<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> E5C678
+$Supa<~Controls.509~>169<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Supa<~Controls.644~>102 <~Controls.645~><~Game.2035~> EE7554
+$Thingchilla<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 93D002
+$Thingchilla<~Scribe.141~>273 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1920~><~Scribe.144~> 131A89
+$Thingchilla<~Controls.644~>211 <~Controls.645~><~Game.2035~> F031C1
+$Supa<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 137FB3
+$Supa<~Scribe.141~>257 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> CB20F2
+$Supa<~Controls.296~>168 <~Controls.297~><~Controls.46~> 3C443E
+$Supa<~Controls.296~>189 <~Controls.297~><~Controls.46~> 4DBF20
+$Supa<~Scribe.141~>120 <~Scribe.142~><~Game.2029~><~Scribe.143~><~Game.2036~><~Scribe.144~> F5EF06
+$Supa<~Controls.644~>101 120 <~Controls.645~><~Game.2035~> 0435CC
+<Thingchilla> pass 00B69C
+$Thingchilla<~Controls.731~>211 213 210 212 358 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> A5DA5C
+$Supa<~Controls.757~>105 104 103 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> D6649D
+<~Game.7~>8 null
+$Supa<~Controls.762~>101 102 360 099 362 100 361 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 489854
+$Supa<~Controls.509~>181<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Supa<~Controls.509~>164<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<Thingchilla> oh wait i forgot to move lol 984B65
+<Supa> 1 corruption 67C1CE
+<Supa> yea 6DE438
+$Thingchilla<~Scribe.141~>252 <~Scribe.142~><~Game.2016~><~Scribe.143~><~Game.2017~><~Scribe.144~> 4C0CD4
+<Thingchilla> i should have used a ring 5E3E9B
+<Thingchilla> oh well A2C10C
+<Thingchilla> fsp okay 9A4982
+$Thingchilla<~Controls.509~>136<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Thingchilla<~Controls.509~>153<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Thingchilla<~Controls.296~>130 <~Controls.297~><~Controls.45~> 949D23
+<Supa> I think I need to do 0e 76CD6F
+$Supa<~Controls.345~>101 102 360 099 362 100 361 105 104 103 <~Controls.346~>14 11 15 10 13 13 14 12 14 10 null
+$Supa<~Controls.350~>101 102 360 099 362 100 361 105 104 103 null
+$Thingchilla<~Controls.345~>211 213 210 212 358 <~Controls.346~>1 3 3 0 3 null
+$Thingchilla<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 75B2D4
+$Thingchilla<~Controls.790~>247<~Controls.791~><~Game.524~><~Controls.792~><~Game.525~> 5C8A17
+$Thingchilla<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 627831
+$Supa<~Controls.624~>215<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Thingchilla<~Controls.323~>247 6C1D05
+<Thingchilla> lovely 282F62
+$Thingchilla<~Controls.644~>215 <~Controls.645~><~Game.2035~> 9A716F
+$Supa<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> F36BFC
+$Supa<~Scribe.141~>324 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1914~><~Scribe.144~> 8AF115
+$Supa<~Controls.644~>103 <~Controls.645~><~Game.2035~> BBBA0E
+$Thingchilla<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 023C50
+$Thingchilla<~Controls.323~>247 DEC308
+$Thingchilla<~Controls.644~>358 <~Controls.645~><~Game.2035~> 9BF2B9
+$Supa<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 759578
+$Supa<~Scribe.141~>reveal 205 D975FB7924739750B0D75AE8770B9D2441D97170 12 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2036~><~Scribe.144~> FB5DB4
+$Supa<~Scribe.141~>331 332 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1885~><~Scribe.144~> A0633E
+$Supa<~Scribe.141~>324 329 000 <~Scribe.142~><~Game.1914~><~Scribe.143~><~Game.1885~><~Scribe.144~> BACB1F
+$Supa<~Controls.644~>101 205 <~Controls.645~><~Game.2035~> ACB5E8
+<Thingchilla> pass BAC058
+$Supa<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 15963E
+$Supa<~Controls.323~>255 6707DB
+$Supa<~Scribe.141~>324 329 000 331 332 <~Scribe.142~><~Game.1885~><~Scribe.143~><~Game.1884~><~Scribe.144~> BB70D8
+$Supa<~Scribe.141~>255 037 036 339 338 337 010 009 <~Scribe.142~><~Game.1903~><~Scribe.143~><~Game.1901~><~Scribe.144~> 171D88
+$Supa<~Controls.644~>099 <~Controls.645~><~Game.2035~> 4B3B8E
+$Thingchilla<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 61EA5B
+<Thingchilla> hmmmmmm 70A542
+$Thingchilla<~Scribe.141~>265 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1911~><~Scribe.144~> 0DF8A8
+$Thingchilla<~Scribe.141~>265 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1990~><~Scribe.144~> CAE050
+$Thingchilla<~Scribe.141~>265 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1911~><~Scribe.144~> 382586
+$Thingchilla<~Controls.644~>210 <~Controls.645~><~Game.2035~> 43D8B8
+$Supa<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 704460
+$Supa<~Scribe.141~>324 329 000 331 332 <~Scribe.142~><~Game.1884~><~Scribe.143~><~Game.1889~><~Scribe.144~> 758F35
+$Supa<~Scribe.141~>255 037 036 339 338 337 010 009 <~Scribe.142~><~Game.1901~><~Scribe.143~><~Game.1908~><~Scribe.144~> C51DF3
+$Supa<~Controls.644~>105 <~Controls.645~><~Game.2035~> E03BA8
+$Thingchilla<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 552740
+$Thingchilla<~Controls.366~>250<~Controls.367~><~Game.2009~><~Controls.368~><~Game.2011~> 22B2C3
+$Thingchilla<~Scribe.141~>058 <~Scribe.142~><~Game.1891~><~Scribe.143~><~Game.1887~><~Scribe.144~> FA5A84
+$Thingchilla<~Scribe.141~>067 <~Scribe.142~><~Game.1899~><~Scribe.143~><~Game.1897~><~Scribe.144~> CF4E62
+$Thingchilla<~Controls.644~>213 <~Controls.645~><~Game.2035~> 3A3E49
+$Supa<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> A24CA3
+<Supa> Gray Havens D3F934
+<Supa> Grey E4BA9D
+$Thingchilla<~Scribe.141~>095 089 086 058 <~Scribe.142~><~Game.1887~><~Scribe.143~><~Game.1989~><~Scribe.144~> 7464F6
+$Supa<~Scribe.141~>324 329 000 331 332 <~Scribe.142~><~Game.1889~><~Scribe.143~><~Game.1887~><~Scribe.144~> 23A9B9
+$Supa<~Controls.644~>100 <~Controls.645~><~Game.2035~> EA3B6E
+<Thingchilla> pass 39CD14
+$Supa<~Scribe.141~>362 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 238739
+<Supa> Lorien 63EA4A
+$Supa<~Controls.840~>181 13B9F9
+$Thingchilla<~Controls.840~>153 0D89D0
+<auto> playchosen 5A9ADB
+<auto><~Controls.3~>reveal 153 65C4F415139790CBC404CE35CEB4041EAF4C3C35 0<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> E24C0D
+<auto><~Controls.866~>reveal 181 869E98FD155363E5F000D1324E2182A9F96C23EC 21<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 4213B3
+<auto> playchosen 9B9FD1
+<Supa> ff2 A6AB0E
+<game> Supa<~Controls.1~> 4 5 1 1 3 null
+<game> Supa<~Controls.1~> 4 6 5 6 null
+<Supa> 3 AD885F
+<Thingchilla> 6s!!! 175BBB
+<Supa> yea :D 3D92E8
+<game> Thingchilla<~Controls.1~> 4 3 2 3 3 null
+<game> Thingchilla<~Controls.1~> 4 null
+<Thingchilla> 0+2 1DB60D
+$Supa<~Scribe.141~>007 008 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.2036~><~Scribe.144~> 0FE68C
+$Thingchilla<~Controls.296~>264 087 <~Controls.297~><~Game.1992~> 70FCBF
+<Supa> press, draw 9DF76B
+$Supa<~Controls.304~>335 <~Controls.305~><~Game.1928~> 0FBBA9
+$Supa<~Controls.313~>342 <~Controls.307~><~Controls.314~><~Game.1928~> 7B2F13
+$Supa<~Controls.509~>167<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Supa<~Controls.662~>181 007 008 153 <~Controls.663~><~Game.2035~> FD9DF4
+$Supa<~Controls.840~>169 B50A04
+$Thingchilla<~Controls.840~>114 DADCA2
+<auto> playchosen E7C044
+<auto><~Controls.3~>reveal 114 31124C63CB6485E0716392AF58E25FD2B8D25C8E 12<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 6EC5C2
+<auto><~Controls.866~>reveal 169 A80EBF9E9147A3A954ED38C74E491F013A0DCF55 18<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 719EFA
+<auto> playchosen 48A62E
+<Supa> ff1 A6F29A
+<game> Supa<~Controls.1~> 3 2 6 5 3 null
+<game> Supa<~Controls.1~> 4 1 5 6 null
+<Supa> 3-1 5665F0
+<game> Thingchilla<~Controls.1~> 1 3 4 null
+<game> Thingchilla<~Controls.1~> 1 null
+<Thingchilla> lorien are so useless :( F3A80C
+<Supa> hehe 68C7BD
+$Thingchilla<~Controls.296~>266 <~Controls.297~><~Game.1992~> 10B097
+<Supa> press 25117B
+$Supa<~Controls.304~>336 <~Controls.305~><~Game.1928~> 623260
+$Supa<~Controls.313~>007 <~Controls.307~><~Controls.314~><~Game.1928~> EDDCCA
+$Supa<~Controls.662~>169 114 <~Controls.663~><~Game.2035~> 7900E9
+$Supa<~Controls.840~>170 3C3EE5
+<Thingchilla> nc 747AA6
+$Supa<~Scribe.141~>reveal 170 BAB2C4E9CD0B8CC1F37DC93FAD0168E7ED0C4BC9 5 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2036~><~Scribe.144~> BD3432
+$Supa<~Scribe.141~>013 012 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.2036~><~Scribe.144~> 28FA41
+<Supa> sack 2 E5DFF0
+<game> Supa<~Controls.1~> 1 2 5 1 1 null
+<game> Supa<~Controls.1~> 5 1 2 4 null
+<Supa> 1 91E613
+<Supa> :/ 83E3DB
+<game> Thingchilla<~Controls.1~> 2 2 null
+<game> Thingchilla<~Controls.1~> 6 null
+<Thingchilla> 1 B0A57E
+$Supa<~Scribe.141~>014 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.2036~><~Scribe.144~> C2616F
+$Thingchilla<~Controls.304~>093 <~Controls.305~><~Game.1992~> 9C9866
+$Thingchilla<~Controls.313~>087 <~Controls.308~><~Controls.314~><~Game.1992~> B5A0CB
+<Supa> stop E574D1
+$Supa<~Controls.662~>170 014 013 012 <~Controls.663~><~Game.2035~> 8CCDD3
+$Supa<~Controls.644~>362 <~Controls.645~><~Game.2035~> 10A1A0
+<Thingchilla> pass 6CC538
+$Supa<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> A5A15D
+<Supa> Lorien ED8689
+$Supa<~Controls.840~>191 19DA23
+<Thingchilla> nc 5EC710
+$Supa<~Scribe.141~>reveal 191 2CC769D1D76271021FF5301932B3F7468F26B234 13 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2036~><~Scribe.144~> 8034CC
+<game> Supa<~Controls.1~> 6 2 5 6 5 null
+<game> Supa<~Controls.1~> 5 3 6 null
+<Supa> 3+ leader CE572A
+<game> Thingchilla<~Controls.1~> 3 6 null
+<game> Thingchilla<~Controls.1~> 6 null
+<Thingchilla> 2 535064
+$Thingchilla<~Controls.296~>097 092 087 <~Controls.297~><~Game.1992~> 71B3E1
+<Supa> oh that was all C29540
+<Supa> looked at rivendell stronghold 0954A1
+$Supa<~Scribe.141~>035 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.2036~><~Scribe.144~> 51A69E
+<Thingchilla> the extra leader was not too relevant lol D7CE55
+$Supa<~Controls.509~>202<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Supa<~Controls.644~>102 191 035 <~Controls.645~><~Game.2035~> 2669D2
+<Thingchilla> pass 5DE83F
+$Supa<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 1BA858
+$Supa<~Scribe.141~>reveal 202 E75DD56096669F6816678FD1395EBC96B58F7C94 0 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2029~><~Scribe.144~> 2A6E3E
+$Supa<~Controls.644~>104 <~Controls.645~><~Game.2035~> F4DE39
+$Thingchilla<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> AC1226
+$Thingchilla<~Controls.790~>247<~Controls.791~><~Game.525~><~Controls.792~><~Game.528~> C57CEA
+$Thingchilla<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 42FB08
+$Supa<~Controls.624~>229<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Thingchilla> random A67EE4
+$Supa<~Controls.637~>243<~Controls.638~><~Game.1998~><~Controls.639~><~Game.2036~> null
+$Thingchilla<~Scribe.141~>252 <~Scribe.142~><~Game.2017~><~Scribe.143~><~Game.2018~><~Scribe.144~> 05C6F1
+$Supa<~Controls.452~>107<~Controls.453~><~Controls.45~><~Controls.454~><~Game.2039~> null
+$Supa<~Controls.644~>243 229 <~Controls.645~><~Game.2035~> 7A9458
+$Supa<~Scribe.141~>361 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 6E2276
+$Supa<~Scribe.141~>reveal 167 A35BFDA80AFBC1DB1779F06409DE0C8257F9510F 8 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2036~><~Scribe.144~> 9052C4
+$Supa<~Scribe.141~>253 039 319 320 040 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.1887~><~Scribe.144~> 8C2642
+$Supa<~Scribe.141~>038 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.1919~><~Scribe.144~> 201C37
+$Supa<~Scribe.141~>423 <~Scribe.142~><~Game.30~><~Scribe.143~><~Game.32~><~Scribe.144~> 657BA9
+$Supa<~Scribe.141~>038 <~Scribe.142~><~Game.1919~><~Scribe.143~><~Game.1932~><~Scribe.144~> D046ED
+$Supa<~Scribe.141~>038 <~Scribe.142~><~Game.1932~><~Scribe.143~><~Game.1887~><~Scribe.144~> C63384
+$Supa<~Scribe.141~>167 <~Scribe.142~><~Game.2036~><~Scribe.143~><~Game.2034~><~Scribe.144~> 436A0E
+<Supa> Grey Havens C0AAE6
+$Supa<~Controls.840~>164 ACF73F
+<Thingchilla> nc 2B9BC6
+$Supa<~Scribe.141~>reveal 164 73C61F21B00F797385A9F1811DCC18AA2DBFD569 0 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2036~><~Scribe.144~> B93069
+<game> Supa<~Controls.1~> 4 1 6 6 4 null
+<game> Supa<~Controls.1~> 4 3 2 null
+<Supa> 2 BEA7A7
+<game> Thingchilla<~Controls.1~> 3 6 2 null
+<game> Thingchilla<~Controls.1~> 4 null
+<Thingchilla> 1 70DD64
+$Thingchilla<~Controls.296~>089 <~Controls.297~><~Game.1989~> 3E2FBE
+$Supa<~Controls.296~>332 <~Controls.297~><~Game.1887~> B88F8C
+$Supa<~Controls.304~>324 <~Controls.305~><~Game.1887~> E3139F
+$Supa<~Controls.313~>332 <~Controls.307~><~Controls.314~><~Game.1887~> DEEB7B
+<Supa> press 0310D8
+$Supa<~Controls.509~>199<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<Supa> nc 0CAA0E
+<Thingchilla> nc 539211
+$Supa<~Controls.662~>164 <~Controls.663~><~Game.2035~> 55A29A
+<game> Supa<~Controls.1~> 1 2 2 3 null
+<game> Supa<~Controls.1~> 6 2 1 5 null
+<Supa> 1 505CEE
+<game> Thingchilla<~Controls.1~> 4 3 null
+<game> Thingchilla<~Controls.1~> 1 null
+<Thingchilla> 0 250C06
+$Supa<~Scribe.141~>167 <~Scribe.142~><~Game.2034~><~Scribe.143~><~Game.2036~><~Scribe.144~> B2EB10
+$Thingchilla<~Controls.296~>086 <~Controls.297~><~Game.1989~> 4732A6
+$Supa<~Controls.644~>361 167 <~Controls.645~><~Game.2035~> B33429
+$Thingchilla<~Scribe.141~>427 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 0A5D17
+$Thingchilla<~Controls.509~>150<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Thingchilla<~Controls.644~>427 <~Controls.645~><~Game.2035~> 0D6253
+$Thingchilla<~Controls.726~>211 212 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 2209A2
+$Thingchilla<~Controls.731~>213 210 358 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 88B7EE
+$Supa<~Controls.757~>360 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 61EDE0
+<~Game.7~>9 null
+$Supa<~Controls.762~>361 104 102 362 100 105 099 101 103 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 0CFC64
+$Supa<~Controls.509~>193<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Supa<~Controls.509~>178<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Thingchilla<~Controls.509~>135<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Thingchilla<~Controls.509~>131<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+<Thingchilla> fsp okay D9534C
+$Supa<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> 5E0620
+<Supa> 1e 7BEF5D
+$Supa<~Controls.345~>361 104 102 362 100 105 099 101 103 <~Controls.346~>12 10 11 13 10 13 10 11 15 null
+$Supa<~Controls.350~>361 104 102 362 100 105 099 101 103 null
+$Thingchilla<~Controls.345~>213 210 358 211 212 <~Controls.346~>4 1 0 4 1 null
+$Thingchilla<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 866A92
+$Thingchilla<~Controls.790~>247<~Controls.791~><~Game.528~><~Controls.792~><~Game.529~> 3CF30F
+$Thingchilla<~Controls.795~>358<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 81DE59
+$Supa<~Controls.624~>225<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Thingchilla> random D6A25B
+$Supa<~Controls.637~>246<~Controls.638~><~Game.1998~><~Controls.639~><~Game.2036~> null
+$Thingchilla<~Scribe.141~>252 <~Scribe.142~><~Game.2018~><~Scribe.143~><~Game.2019~><~Scribe.144~> B825BD
+$Supa<~Controls.452~>154<~Controls.453~><~Controls.45~><~Controls.454~><~Game.2039~> null
+$Thingchilla<~Controls.644~>246 225 <~Controls.645~><~Game.2035~> 986C9A
+$Supa<~Scribe.141~>362 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 121F32
+$Supa<~Scribe.141~>reveal 193 5FF6C45B6050E076789006B4C8A926C8476D6923 6 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2036~><~Scribe.144~> 8DC741
+$Supa<~Controls.276~>099<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 87370A
+$Supa<~Controls.819~> 10C7BC
+$Supa<~Scribe.141~>099 104 100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> 135A23
+$Supa<~Controls.644~>362 193 <~Controls.645~><~Game.2035~> E82BCF
+$Thingchilla<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 6E7884
+$Thingchilla<~Scribe.141~>313 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1891~><~Scribe.144~> E37F21
+$Thingchilla<~Controls.644~>213 <~Controls.645~><~Game.2035~> B850A3
+$Supa<~Scribe.141~>361 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 8F86E3
+<Supa> Grey Havens 043042
+$Supa<~Controls.840~>178 08F3B0
+<Thingchilla> nc 789FA6
+$Supa<~Scribe.141~>reveal 178 E50AC13C6CDC2DFEFCA076E2D3CB457C76A4CFFC 22 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2036~><~Scribe.144~> CC4606
+<game> Supa<~Controls.1~> 1 4 4 2 null
+<game> Supa<~Controls.1~> 4 5 2 5 null
+<Supa> 0 9A12D7
+<game> Thingchilla<~Controls.1~> 6 null
+<Thingchilla> 1 CF0AE4
+$Supa<~Controls.296~>331 <~Controls.297~><~Game.1887~> 6A4608
+$Supa<~Controls.644~>361 178 <~Controls.645~><~Game.2035~> F5403E
+$Thingchilla<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 74B3C4
+$Thingchilla<~Scribe.141~>310 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1891~><~Scribe.144~> 29A2B1
+$Thingchilla<~Scribe.141~>308 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1890~><~Scribe.144~> 4D4F89
+$Thingchilla<~Controls.644~>211 <~Controls.645~><~Game.2035~> 31BB04
+$Supa<~Controls.509~>186<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Supa<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 988CA2
+<Supa> Grey Havens 0445AF
+<Supa> nc D8C5E0
+<Thingchilla> nc 59D568
+<game> Supa<~Controls.1~> 6 5 5 null
+<Supa> 1 BC75F9
+<game> Thingchilla<~Controls.1~> 5 null
+<game> Thingchilla<~Controls.1~> 6 null
+<Thingchilla> oops 20F554
+<Thingchilla> 1 CB7722
+$Supa<~Controls.296~>000 <~Controls.297~><~Game.1887~> 7351E8
+$Thingchilla<~Controls.296~>095 058 <~Controls.297~><~Game.1989~> C1A827
+$Supa<~Scribe.141~>423 <~Scribe.142~><~Game.32~><~Scribe.143~><~Game.388~><~Scribe.144~> 2A896C
+$Supa<~Controls.644~>102 <~Controls.645~><~Game.2035~> 6DB39C
+$Thingchilla<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> E2746B
+$Thingchilla<~Controls.840~>144 54145F
+<auto><~Controls.3~>reveal 144 4BAAE4253DE8772B189497DED4751636389A5DF9 17<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 0AEB77
+$Thingchilla<~Controls.281~>235 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2044~> A20893
+$Thingchilla<~Controls.644~>212 144 <~Controls.645~><~Game.2035~> 8659BF
+$Supa<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> A9DDFE
+$Supa<~Scribe.141~>253 040 320 319 039 038 <~Scribe.142~><~Game.1887~><~Scribe.143~><~Game.1932~><~Scribe.144~> 87B174
+$Supa<~Scribe.141~>039 038 <~Scribe.142~><~Game.1932~><~Scribe.143~><~Game.1908~><~Scribe.144~> BB56B0
+$Supa<~Controls.644~>105 <~Controls.645~><~Game.2035~> 8F899A
+$Thingchilla<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 40185A
+$Thingchilla<~Controls.790~>247<~Controls.791~><~Game.529~><~Controls.792~><~Game.532~> E83F0E
+$Thingchilla<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 6F21BA
+$Supa<~Controls.624~>219<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Supa> yesss 97BB75
+<Thingchilla> nooooooooo EEC18D
+$Thingchilla<~Scribe.141~>241 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2037~><~Scribe.144~> 078B3B
+$Thingchilla<~Scribe.141~>252 <~Scribe.142~><~Game.2019~><~Scribe.143~><~Game.2022~><~Scribe.144~> 34A07D
+$Thingchilla<~Scribe.141~>244 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> D6C562
+$Thingchilla<~Controls.323~>247 8D75E9
+$Thingchilla<~Controls.644~>219 241 <~Controls.645~><~Game.2035~> A34A3C
+$Supa<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 2F8981
+$Supa<~Scribe.141~>253 040 320 319 055 057 049 048 047 046 045 043 042 041 <~Scribe.142~><~Game.1932~><~Scribe.143~><~Game.1938~><~Scribe.144~> 345783
+$Supa<~Scribe.141~>255 039 038 037 036 339 338 337 010 009 <~Scribe.142~><~Game.1908~><~Scribe.143~><~Game.1906~><~Scribe.144~> 81DF18
+$Supa<~Controls.644~>101 <~Controls.645~><~Game.2035~> 5465AC
+$Thingchilla<~Controls.726~>210 358 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> C9227D
+$Thingchilla<~Controls.731~>212 211 213 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> EC4D6D
+$Supa<~Controls.757~>099 104 100 103 360 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 04F64A
+<~Game.7~>10 null
+$Supa<~Controls.762~>101 105 102 361 362 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 692E60
+$Thingchilla<~Controls.509~>116<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Thingchilla<~Controls.509~>111<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Supa<~Controls.509~>177<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Supa<~Controls.509~>175<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<Thingchilla> fsp okay 4198B8
+$Supa<~Scribe.141~>103 360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> B14DB5
+<Supa> 2e D1AFF0
+$Supa<~Controls.345~>101 105 102 361 362 099 104 100 <~Controls.346~>14 14 10 11 13 10 13 13 null
+$Supa<~Controls.350~>101 105 102 361 362 099 104 100 null
+$Thingchilla<~Controls.345~>212 211 213 210 358 <~Controls.346~>1 4 3 4 4 null
+$Thingchilla<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 77A0EA
+$Thingchilla<~Controls.323~>247 D90DD1
+$Thingchilla<~Controls.644~>212 <~Controls.645~><~Game.2035~> E56BE8
+$Supa<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 5D8606
+$Supa<~Scribe.141~>reveal 177 D31D53C127CD2C8E928459713A897E40F7A4791E 9 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2036~><~Scribe.144~> 162825
+<Supa> first red tile 0DA81C
+<Supa> lmao C8ED74
+<Supa> 6 character cards remaining... 038972
+$Supa<~Controls.281~>237 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2044~> 100029
+<Supa> IT BETTER BE WORTH IT XD B23AD6
+$Supa<~Controls.644~>105 177 <~Controls.645~><~Game.2035~> 42B15F
+<Thingchilla> if i draw it when i move i'm going to be so annoyed lol B1DACA
+<Thingchilla> 1/13 chance C7A723
+<Supa> yeah 2BC8A4
+$Thingchilla<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 14B968
+$Thingchilla<~Controls.366~>249<~Controls.367~><~Game.2008~><~Controls.368~><~Game.2012~> 93F690
+$Thingchilla<~Controls.790~>247<~Controls.791~><~Game.532~><~Controls.792~><~Game.533~> 5E9B12
+$Thingchilla<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 9534F2
+$Supa<~Controls.624~>214<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Supa> gg xD AA5485
+<Thingchilla> gg wp D9768F
+<Supa> goddamn this was frustrating haha F4ED84
+<Supa> wp 5ECD3B
+<Thingchilla> the dice were just not in your favour 426160
+<Thingchilla> -12 on 6s is so unlucky 36326F
+<Supa> yeah I guess it's rare to win with those dice F6DADF
+<Supa> I still think if I could've won this 1330AF
+<Thingchilla> if you'd been able to actually take erebor things would have been much closer 625FF6
+<Supa> like was Erebor a wrong call either way, I think the odds were in my favor, but I could be wrong EAD09C
+<Supa> maybe I should've gone for elf stronghold+3 cities or stronghold+city earlier 4E93C5
+<Thingchilla> i think the odds were definitely in your favour F52A92
+<Thingchilla> you had like 15 hp or something against 6 06DB4C
+<Supa> yeah in general I think if I have double hp it should be easy B83141
+<Supa> but it happens a lot, sometimes there might be easier option available 18A5FE
+<Thingchilla> yeah, so that was definitely unlucky C692A9
+<Supa> just hard to predict what movement dice we get FFFD74
+<Supa> you had plenty of slow turns too CE07EC
+<Supa> -3 on movement 2ABADC
+<Thingchilla> yeah, i think the action dice were pretty balanced 0A7AFE
+<Thingchilla> just the combat dice 238CE1
+<Thingchilla> i had good cards early too 61148A
+<Supa> yea gandalf got some value A2F224
+<Thingchilla> thraduil and celeborn just in time 6553AA
+<Thingchilla> not that celeborn helped much lol 9BD8B2
+<Supa> I wish you'd drawn Dain Ironfoot 75149F
+<Supa> I wouldn't have even tried to take it then lol AA992B
+<Thingchilla> if only... 98158E
+<Thingchilla> well, thank you for the game 200738
+<Supa> yep cheers, I can't play another in a row unfortuantely 3AB14A
+<Thingchilla> i don't think i have time for the rematch right now 3B6579
+<Supa> this took a bit too long, only my fault :D CD2570
+<Thingchilla> it wasn't too long 398E7D
+<Thingchilla> and sometimes you need to stop and think 6BC3B5
+<Supa> yeah I mean I don't quite have enough time for another game, that's what I meant DAE45D
+<Thingchilla> oh yeah, that's what i meant too C070B1
+<Thingchilla> i have to go in 50 minutesish so it's not really enough time 9ACEE2
+<Supa> same C79F32
+<Thingchilla> iven if we were quick B9AB6E
+<Supa> ok cool, thanks for the match 1E6198
+<Supa> see you another time 26E0A1
+<Thingchilla> thank you too 547CAD
+<Thingchilla> see you B7FF7A
+<~Talker.22~> null

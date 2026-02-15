@@ -1,0 +1,934 @@
+<auto> silent null
+<auto><~Scribe.141~>363 397 398 402 401 400 399 403 404 376 375 374 373 377 378 <~Scribe.142~><~Game.2038~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>365 366 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 367 368 369 370 371 372 <~Scribe.142~><~Game.2040~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>230 231 <~Scribe.142~><~Game.2044~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>155 152 <~Scribe.142~><~Game.2004~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>137 151 <~Scribe.142~><~Game.2005~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>161 198 <~Scribe.142~><~Game.2006~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>163 188 <~Scribe.142~><~Game.2007~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Controls.323~>364 null
+<auto> noisy null
+<auto> silent null
+<auto><~Scribe.141~>312 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1965~><~Scribe.144~> null
+<auto> noisy null
+<~Game.7~>1 null
+<auto> silent null
+<auto><~Scribe.141~>363 397 398 402 401 400 399 403 404 376 375 374 373 377 378 <~Scribe.142~><~Game.2038~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>365 366 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 367 368 369 370 371 372 <~Scribe.142~><~Game.2040~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>230 231 <~Scribe.142~><~Game.2044~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>155 152 <~Scribe.142~><~Game.2004~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>137 151 <~Scribe.142~><~Game.2005~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>161 198 <~Scribe.142~><~Game.2006~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>163 188 <~Scribe.142~><~Game.2007~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Controls.323~>364 null
+<auto> noisy null
+$base silent null
+$TEST<~Scribe.141~>312 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1965~><~Scribe.144~> null
+$base noisy null
+<game> Bishop<~Controls.408~>[WOTR-Gandalf2 wotr base2] null
+<~Talker.31~> null
+<Stella_Rossa> hello 
+<Stella_Rossa> so League 
+<Stella_Rossa> you with FP 
+<Stella_Rossa> 1+1 
+<Stella_Rossa> gl hf 
+<Bishop> hi 
+$Stella_Rossa<~Controls.479~>1C3E11E43FC461E0E230057D8F764D40E80C958C B1CD088C7C19CF0A7AB16779DE573E26 24 07806618C8359EA376716834EA64BBC9D1E20ABC 8ACFFA253F42E1C3D5F5584AEF540E6A 10C51D3E893F4693F420189B581E8F74049AEFB1 3707A725E4C985BA1C29134B4EBCA2F4 22762DE36B00AF27D1A969E38303481855D9F95E 04CB3E7A5E6AD2A7A42883D3C9ECDB87 E89B6CD8EF69BEC978050045F3C648551D4B215C 79BBFB2BCC9A214FFA9E7A06C862E752 FEAEFCD3E960D8E2E2A3C0EAD10FD4FC3861460E DDC24B84A6F20E2603F936A5A2702478 9625E20B741DC7C4E419F7A0AAF44B8BAE16238C FF083F53330CFA5D6409800E2BA82B8C 3346029A61D995D706E9C53ED3113D35800B4CE1 33DFFA5A3E9AB0EF23FE821F91C9EAB6 35FC1AC08177B9E035AFF9D11861C3493C548CE0 9BE8A08408A5B7E68E8CB4D7684B90DC 355447C2337A61F703E06D66FBDF2E2F96DDFFF2 A7024AB38022B7745B774FB002D01E6C 97CF0C10F0EA043D32A1571BE66D9DE8A7D037D2 DEB1A835B15D0A7E10D3B229041C3206 EDBB539FA33779047FB39AAEBBEF868146F97287 DD16DF657BE1AA39A5AC3567356204D5 F4979329E7384CF99C32470B0CA97771F246E382 A0AF50A585DAD2FF67F63BF399F85BF0 248EE9844F208EE92CBC2A320731C41F78B2C74F 0069F8BF72240F871EDFB23BBECAF6A1 0CC7F67EF50ADD936F6F22879D9FD05F2E22D10A 7CC44FD45276481672F7D8B0541D8A82 2B5E736E89D60725777CD62DCC7D573F0399F53D 3B165C1A5A62CECE8AC998FF0377C2B9 698CE2A49768F66ADF629407E2E498CDDB77BCAD 511F438AD81CE64AF5C602DC79C218C6 182D4A674FD3BF398E8697C9A554E21B7A2CC1BB 41881831603E0ABFCDB0DD91C1FD0E01 B39F8C0D83494105AD47C8E61C468B66EB37C081 C2FFA97D4BF5276519DE12D7DB0AB81A 4B4C1F8C186C73FA0EDA6733719E45A7420B661C C601287F615AF9BC73042E8888759359 9565EB31CD8E84658E9AFD1BFE129F813D7431BE B78AE5C0D5DC6392EA667E506442FFF2 E793FD6C91CD4D4710474D9D473105B273852F84 033B497171F9BC6D298FE12F3A1B0F0A D6CD43EB36F86649AFB2B31DC11AF895AB10639F DAAEAEEA11B14631D8F41D26936CB91F 7C95801DA934C0F684865E89851E2B5AF377A7FA 360E9F9B557258064137367990484025 6913442A2528EE28C48F36450036ADE85296D159 1B19B40C916AC02236CD8367F922C529 24 C4B5A0A43DB7A5810615465AD64BD0356360E15A 1F34E93D08723457324FF21995BA5353 E6E9630ACAD89113BCF132A678E11A7B2311EED2 2D39526F5A076931BEBFA234BBC3A19B 814BDA354085CEF511D417775D60140DCBCF5A41 8510684A3A0ED8EA1676D0F629288696 06EDD1D016EA41CB51BD8B2F8FA3806EF083576B 065697356345A8770C8F47DC13F00365 37AE3B39C7D82AF4DA76E294852943FE31235CC6 AF8EBDD3CCA7C11A2B0857AD7F28F240 C472EAB2FDD90AB1DA2061E042F64734ACBBBB69 63B205811A2D2AAC1EE926CCCF5A0BB4 D9457D833C9AEFC7A2476547C4DAC2BF5ED08B2A EC0D5D3E559D89B0531FFDE99F69C456 00764AAF8B56934268DC6CC0FE3A7A476E7850F4 41C1C568DE6B6AE3DBEF819AD0E6F3B8 31A35E56D81198D3813A354E07424C62FA14EDED 0B5E5CD2A0CDB8849323BF10E5365005 FE22BA296245B81FF5BD3325D4A4421283D6043D 656A3A1C867E60A48851A3AF8D155CCA 1A3686FA4255617D50774979860D1EC7FE245A10 E3CBB7522CEAFC8F97EB84A0804FBEAC E9BC5CC370A95966AB0F229C5D068D448A058BB9 D65E29D5D8AB962554F1B6DB8EC57A49 977A7935AEB9FFCC5BB054372C4E25DB67A813C5 CD3D5B0FAB99A40E2D6DFBA3F40C5037 F7EE3744C56BCE71D230858C303AC560BAB8A78E 5D7DE9D113CF3527CE1FBE73F140DE76 0163CA90F9E3D99B5A151EC7D337DAFFDA9478F6 2560827F836A8DA9C5FDC37498D9701E 585F7A4CBDABECC3BC3A46A6AD41EED034245133 0C47496C66F2CF256963A266E79B8E21 16391793C9B681FF408CB9E6101E8AD91CC87510 CCE141D25095ED12F8221B1019F70F8B 26D59EBFDD623B5ED3A341E6177D9DE574CBBFA2 B4631F8676B9F390FFD0A8193863ADBB 78D96DD3A2A73778A85B847EED5DD32056DCBC43 A9C04B0B608FA328FEF2583EF594FC73 1AF80C001B5EFE6BF5E075E5A47A256FFD8133E7 6D36B7F0DC9BD2474BF4C7C1BB9AECE8 7A0249F1C1DA42BA058E4813BA75CC8F84B222A3 23A64032356DF5783605EDD801373E7A 63A2A5829427F09EA9DA78149A4245261735C2F8 12828B28A5EF83DD6D48A25DDF0B770C 98E3819E779EB27B2F9F3A326BE4CC7B367E7565 A95320D30715EAF9A2F2B78CE46BA388 855823EE68CE0D31B002967C2110F0E7A5BBF75D C21D01BBD0C3AE0D6A40276A26E423B5 0 0 8E80DF
+$Stella_Rossa<~Controls.509~>168<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Stella_Rossa<~Controls.509~>195<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<Bishop> i prefer 2 games withouttokens 
+<Stella_Rossa> we have already played the first one 1DE45E
+<Stella_Rossa> I was FP, 1+1 B1269D
+<Bishop> ok 
+<Stella_Rossa> so now we have to switch 547F0C
+<Bishop> 1 token 1 ring for me? 
+$Bishop<~Controls.464~>B3377684430DCA17DDB2267D253CA994007BAB09 D8F4E0BFA4D74D65D0A23E3D36976B64 24 5F4E3A23D8832A3A7B15BC5C157D38AD0283C2E2 C273A99A7E44FD7984DA58C10FC86148 961F4470C7541A83DC113B83EC3BA7EFE251B86E 8C408B1BC179E9A0A9DFF52D08817F5F CA15250416970E9B06A3D4A5566FAC8405B51747 E58D8249EFBF118495CFDA9DC20D6A12 0BD91CA8409D282FE40AF59B96BBEAF3A41EFDBD 24444311ACE17D4821DC56FDD27A912B FD7CC078155855E4DE1A205315FE53878E278030 8DCBC8FBB462E0E78BE9A332D9A75E1C 65F8DB10530365DBB606FA1422C8B2133DAFDB35 D3B6A1090FB2B0349DA618C6D1E66715 77FAF1F6049B2F46D059A2B18D14A7C2ED25FA38 DE11ED0183CB79A50E83A186A9BC7F97 F240DA99257F4602A0C1149D713763CE221B5EC4 CE5817574AFCECAE2728682E14979674 A27A2123A6E673EB9AC2BF4DA7918FC4227C416C 3E5BC1C705BF0F31A957E76F9E8BA16D 04041DE130136536D721A17B71610CBB63135B3E CC8F1B68F0E2D6F5ED54237F00744573 A39216E2F7AA3ED33595CA7AD28B4CE9AFE149CF D99BA4DB5672F0954D3C9DEBB4FB265B A54FE29BA06EC80B9647588017B434B83501D4D0 8D13E250460CA11EC2EC19E8CA72B5C0 FE10EA01DB83705B3CD6FC506FD4B0AE1F12EADF 1DB696A486A5B050CE67BB43FC794FFF 3B2C29532CDB1B3A3E734B7E11320AC36F3A9340 50AA69D0C7E4AD3F9CCB75D600DCFD49 ED5661063CC0A02BD1086A7EB1AA4DF72F6E58C2 3E7F26161A8E8EE9654BD7D71D28F2FB C36ED7B7F011B4BC9A799A2B707CC857831E1EC8 5BF5F5DCA2B1263414CAAC0401E2BB49 FF11EA967F5304B7383BD911DBDD4746C542F081 B3D36BDD8B9157AF2CFB8204D05A0087 5DA7D86EA162D6B822185FA309195447F1D2114C 764D46743A7372D3E92D9EB58087AE9C 5FC661A4DDB11A73BA783EE16563C29D4D95FE99 B7BB7FF6C5CF5AF2A52601D363686901 653DF3898860CCE24915C695D20022978524729E 70AF1BE4A597B62A7DAABD5E05D6784E 47415BF53C0CD2BD85F41E6CAF64D1D4184EDA0B C99F2456AA7D32C634A14FD137C73940 3904DC19F363FB654E2CC25BDD57CC67433D72F1 99B8DFFF2E7DCB2156F16DDF6B6404BF CC2250F82710E552C72DC230DF244916441241F9 2C8D90578D0F6EA0A07ACAB0437C0F36 112FCE02868F8AB25FFA006860CE0A97620E42FC 46B37EC0D4C44EF89FD2EC45632D3E96 24 E10F94E394B6D4D374B1741CC3E4AECBF62F0CFF 688A8BEAB733672196A7E90F8ED93D94 0CB92BB5322D6B8A3F11D377A8C2E6CE59E64863 51B3C69BC874BD32A4ED720CF0B527F9 08B8BD21447EAEDBCE1783003D73447A2D6B88B5 C7FB5312E69CCBF3263ADB21B88C3ACC 57EA8A95D1E114653420DDB5DE551EF152BDB1B7 96C2DD78F3EABFE25AF168ABEA837618 3AABC8100759AF57DECE8139852BC53277502BFB D917FB21C99CA5F6442AFCBC72FD2D93 0E6E17BC61CE23EE42666B9C503062B3632FAC6F 771DA1876D9F11B1D46CD4577BE43B3E 9AAD01ED60001D1FCDC40C7876929A12BCAA6FC5 F06B2B47858EEDD448AE71B701FCC0AA 914407301F63506E4D71CC8AAD2682F2F4F46C25 597FFF6807B7AEB2CF2F5EC7A4024FF5 A0652AEC7D1EAC4015F8BEBCDD084F655FF04223 A5708B603311EEC46E23655FBFBF813B 295FE6C9038760E6B472298383C1C830D5659F7C 257FA006C26531DE273B94DDB94D73C2 D13BEDD9B7D5C52C27DF71F8B8C74FDB8EA44749 512E2ED15F1205695786A44A9A357A7E 04568E120A215177396B1CE49AEA48AE9FA50172 C8FB6A30562189E95F414938E12F752C 651DC32B92CE97925A736177A8AC04F87D9CA419 95F1C3FE8BA88BB2877BA9AF949ED1CC 209F0F10A11ECAA1324C2C759D6C9365E11CB34E B398BC96ACA375731EB733AB9714B77D BDBF0B04AAB89F4A23C66F5BD0A99D155C64397B D30F7D6CAABDEE36E5E748F8417E936D 2C76685D4174C4C08BEEB12962DB74BBBB543643 5B4A640064BD6F9FAD732EDD2CBFE8BE 3C1781589A2D86A1A085CD1C157F8FC2723856E8 B2BBD0F0A589429E3D198D444CD9F5A2 009388DE54BB8177309E5D63E2980E1FF6ACABE8 BAF2B1AB50F8E9B57AE1BC6342F1E2E7 7C36A4E21904468BCCD9B0514D34CF45D7DD0A7F 9DE99958DADCDAB1C17E7C22F2C3B889 ADBC15651F7E3D9FD38FEDF054B65D59F6AEA0C0 CC0D2DA2F70913EE97BEB4EB5261E128 E7A488D2C8CE9420C916190101EBCF0411FD0838 45443CE6973AB21884F1CED585407956 200B936EEE5E5EDB9842106F896A16F69F8689FA 146EC466131684413B6D2F382701957B 15FC925EDCB21ECA7073C81CCE4CDB67484EAF8D 1B31C37FA3C3A9FEFE8CD328EA6D115E 984B0E17FDE2AFC0381A4CB1536948C64D9FEEA7 140989CE13C1840D40D424036194C860 0 0 FDB69A
+<Stella_Rossa> yes F0E2E0
+$Bishop<~Controls.281~>426 <~Controls.282~><~Game.2038~><~Controls.283~><~Game.2042~> CF37DA
+$Bishop<~Controls.281~>405 <~Controls.282~><~Game.2038~><~Controls.283~><~Game.2042~> 60B4CF
+<Bishop> gl hf A5DB56
+<Bishop> fsp ok 89B9F5
+<Stella_Rossa> 1e CF5FCD
+$Stella_Rossa<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> 891301
+$Stella_Rossa<~Controls.345~>105 104 103 102 101 100 <~Controls.346~>13 15 14 14 15 13 null
+$Stella_Rossa<~Controls.350~>105 104 103 102 101 100 null
+$Bishop<~Controls.345~>213 212 211 210 <~Controls.346~>2 0 1 1 null
+$Bishop<~Controls.509~>154<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Bishop<~Controls.509~>119<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+<Bishop> hum 29FB1F
+$Bishop<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 0986FD
+$Bishop<~Scribe.141~>241 242 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1915~><~Scribe.144~> 74CC4C
+$Bishop<~Scribe.141~>241 242 <~Scribe.142~><~Game.1915~><~Scribe.143~><~Game.1912~><~Scribe.144~> C5D984
+$Bishop<~Scribe.141~>241 242 <~Scribe.142~><~Game.1912~><~Scribe.143~><~Game.1910~><~Scribe.144~> 339C6E
+$Bishop<~Controls.644~>210 <~Controls.645~><~Game.2035~> 9BB244
+$Stella_Rossa<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> C9B168
+$Stella_Rossa<~Scribe.141~>reveal 168 90F53240C5977B6D1ACD30B53031D289719BC448 11 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 371E81
+$Stella_Rossa<~Controls.281~>238 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2045~> CACF15
+$Stella_Rossa<~Controls.644~>102 168 <~Controls.645~><~Game.2035~> D2C775
+$Bishop<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 0AAD0F
+$Bishop<~Scribe.141~>242 <~Scribe.142~><~Game.1910~><~Scribe.143~><~Game.1885~><~Scribe.144~> 283457
+$Bishop<~Scribe.141~>242 <~Scribe.142~><~Game.1885~><~Scribe.143~><~Game.1884~><~Scribe.144~> 1F3194
+$Bishop<~Scribe.141~>241 <~Scribe.142~><~Game.1910~><~Scribe.143~><~Game.1914~><~Scribe.144~> C6ADF5
+$Bishop<~Scribe.141~>241 <~Scribe.142~><~Game.1914~><~Scribe.143~><~Game.1916~><~Scribe.144~> D99494
+$Bishop<~Scribe.141~>241 <~Scribe.142~><~Game.1916~><~Scribe.143~><~Game.1905~><~Scribe.144~> 38776A
+$Bishop<~Controls.644~>211 <~Controls.645~><~Game.2035~> EB808C
+$Stella_Rossa<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 85DDD0
+$Stella_Rossa<~Scribe.141~>039 036 029 028 027 026 <~Scribe.142~><~Game.1979~><~Scribe.143~><~Game.1977~><~Scribe.144~> 2C0E14
+$Stella_Rossa<~Controls.644~>100 <~Controls.645~><~Game.2035~> F9D857
+$Bishop<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 5E93BE
+$Bishop<~Scribe.141~>249 <~Scribe.142~><~Game.2008~><~Scribe.143~><~Game.2037~><~Scribe.144~> 3533A9
+$Bishop<~Scribe.141~>241 <~Scribe.142~><~Game.1905~><~Scribe.143~><~Game.1907~><~Scribe.144~> 678800
+$Bishop<~Scribe.141~>241 <~Scribe.142~><~Game.1907~><~Scribe.143~><~Game.1909~><~Scribe.144~> 733B5D
+$Bishop<~Scribe.141~>241 <~Scribe.142~><~Game.1909~><~Scribe.143~><~Game.1920~><~Scribe.144~> 814DBE
+$Bishop<~Scribe.141~>242 <~Scribe.142~><~Game.1884~><~Scribe.143~><~Game.1890~><~Scribe.144~> DB5150
+$Bishop<~Controls.644~>213 249 <~Controls.645~><~Game.2035~> 5D3048
+$Stella_Rossa<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> DBC910
+$Bishop<~Controls.819~> 5E884B
+$Bishop<~Controls.819~> E187E2
+$Bishop<~Scribe.141~>249 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2011~><~Scribe.144~> 562227
+$Bishop<~Controls.644~>213 <~Controls.645~><~Game.2035~> 7C9C30
+$Stella_Rossa<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> E7B68C
+$Stella_Rossa<~Scribe.141~>038 025 024 023 022 021 <~Scribe.142~><~Game.1974~><~Scribe.143~><~Game.1976~><~Scribe.144~> 7A9D7C
+$Stella_Rossa<~Controls.644~>105 <~Controls.645~><~Game.2035~> 5CA4C5
+$Bishop<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 8FD015
+$Bishop<~Scribe.141~>358 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.2037~><~Scribe.144~> D3886B
+$Bishop<~Controls.323~>241 650CCE
+$Bishop<~Controls.644~>212 358 <~Controls.645~><~Game.2035~> 944702
+$Stella_Rossa<~Controls.323~>260 D4467A
+$Stella_Rossa<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 4C0E89
+$Stella_Rossa<~Scribe.141~>262 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 800F2F
+$Stella_Rossa<~Controls.644~>103 <~Controls.645~><~Game.2035~> 82ED58
+$Stella_Rossa<~Scribe.141~>249 <~Scribe.142~><~Game.2011~><~Scribe.143~><~Game.2037~><~Scribe.144~> 514A2B
+$Stella_Rossa<~Controls.644~>249 <~Controls.645~><~Game.2035~> E8CBA5
+$Bishop<~Controls.731~>212 358 213 211 210 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> B7628E
+$Bishop<~Controls.509~>157<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Stella_Rossa<~Controls.757~>104 101 099 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> A64497
+<~Game.7~>2 null
+$Stella_Rossa<~Controls.762~>103 105 100 102 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 655A17
+$Bishop<~Controls.509~>150<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Stella_Rossa<~Controls.509~>194<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Stella_Rossa<~Controls.509~>159<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<Bishop> fsp ok 3D258A
+$Stella_Rossa<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> 2E6ED6
+$Stella_Rossa<~Controls.345~>103 105 100 102 104 101 <~Controls.346~>15 14 14 12 10 10 null
+$Stella_Rossa<~Controls.350~>103 105 100 102 104 101 null
+$Bishop<~Controls.345~>212 358 213 211 210 <~Controls.346~>2 3 2 2 0 null
+$Bishop<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> D62EDB
+$Bishop<~CardBuffet.9~>reveal 119 E453CCF79324DEC149D5579E77917860188E3306 14<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> 102C78
+$Bishop<~Scribe.141~>272 273 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1944~><~Scribe.144~> CEA231
+$Bishop<~Controls.509~>114<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Bishop<~Controls.644~>211 119 <~Controls.645~><~Game.2035~> 87442A
+$Stella_Rossa<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 3304F9
+$Stella_Rossa<~Scribe.141~>263 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 185DF0
+$Stella_Rossa<~Controls.644~>101 <~Controls.645~><~Game.2035~> D26F13
+$Bishop<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 845BAB
+$Bishop<~CardBuffet.9~>reveal 150 6F78D4A67234C14C108A33346916AA9F0E287BFC 7<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> 2CC9C9
+$Bishop<~Scribe.141~>300 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1890~><~Scribe.144~> 3CD3F5
+$Bishop<~Scribe.141~>315 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1891~><~Scribe.144~> 7158E7
+$Bishop<~Controls.509~>121<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Bishop<~Controls.509~>120<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Bishop<~Controls.644~>213 150 <~Controls.645~><~Game.2035~> 0FF000
+$Stella_Rossa<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> EC7B6F
+$Stella_Rossa<~Scribe.141~>254 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1919~><~Scribe.144~> 7FFB24
+$Stella_Rossa<~Scribe.141~>360 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2037~><~Scribe.144~> 74950B
+$Stella_Rossa<~Controls.644~>104 360 <~Controls.645~><~Game.2035~> 71303F
+$Bishop<~Controls.271~>212<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 585400
+$Bishop<~CardBuffet.9~>reveal 114 74F1746F4D6A2E6445B5530B09015EDF572BEE4B 18<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> EB730E
+$Bishop<~Scribe.141~>283 289 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1923~><~Scribe.144~> 86096E
+$Bishop<~Controls.509~>118<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Bishop<~Controls.644~>212 114 <~Controls.645~><~Game.2035~> 43C014
+$Stella_Rossa<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 5BE984
+$Stella_Rossa<~Scribe.141~>reveal 159 913EAB0959F1EF759053F00DAEE0669F5E3DDECE 23 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 600917
+$Stella_Rossa<~Scribe.141~>324 325 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1919~><~Scribe.144~> B51E66
+$Stella_Rossa<~Scribe.141~>331 332 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1914~><~Scribe.144~> AF84AD
+$Stella_Rossa<~Scribe.141~>329 330 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1910~><~Scribe.144~> 8E4EF9
+$Stella_Rossa<~Controls.644~>100 159 <~Controls.645~><~Game.2035~> EE1E93
+$Bishop<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 6CFA48
+$Bishop<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> C5ABE2
+$Bishop<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> B87BD3
+<game> Stella_Rossa<~Controls.1~> 1 5 null
+$Stella_Rossa<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 6094B2
+$Stella_Rossa<~Scribe.141~>039 036 026 027 028 029 <~Scribe.142~><~Game.1977~><~Scribe.143~><~Game.1969~><~Scribe.144~> 57D045
+$Stella_Rossa<~Scribe.141~>055 049 048 047 <~Scribe.142~><~Game.1968~><~Scribe.143~><~Game.1946~><~Scribe.144~> 0C91F9
+$Stella_Rossa<~Controls.644~>102 <~Controls.645~><~Game.2035~> 5C4441
+$Bishop<~HighlightLabel.86~>358<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> A37046
+$Bishop<~Scribe.141~>260 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> DD851A
+$Bishop<~Controls.644~>358 <~Controls.645~><~Game.2035~> C78A32
+$Stella_Rossa<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 64E517
+$Stella_Rossa<~Controls.509~>181<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Stella_Rossa<~Controls.644~>105 <~Controls.645~><~Game.2035~> 0C9A1F
+$Bishop<~Controls.726~>210 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 8C9030
+$Bishop<~Controls.731~>358 212 213 211 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> D47B59
+$Stella_Rossa<~Controls.757~>103 099 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 5A43B6
+<~Game.7~>3 null
+$Stella_Rossa<~Controls.762~>105 102 100 104 360 101 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 6709AD
+$Stella_Rossa<~Controls.509~>158<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Stella_Rossa<~Controls.509~>199<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Bishop<~Controls.509~>126<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Bishop<~Controls.509~>143<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Bishop<~Controls.296~>154 <~Controls.297~><~Controls.45~> 4B04B8
+<Bishop> fsp ok 0C8B21
+$Stella_Rossa<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> FF1258
+$Stella_Rossa<~Controls.345~>105 102 100 104 360 101 103 <~Controls.346~>14 13 10 12 13 13 10 null
+$Stella_Rossa<~Controls.350~>105 102 100 104 360 101 103 null
+$Bishop<~Controls.345~>358 212 213 211 210 <~Controls.346~>4 1 4 0 0 null
+$Bishop<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 813F20
+$Bishop<~Controls.790~>248<~Controls.791~><~Game.2015~><~Controls.792~><~Game.2016~> DE01FC
+$Bishop<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 8D6DE9
+<game> Stella_Rossa<~Controls.1~> 2 null
+$Stella_Rossa<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 4E0EAD
+$Stella_Rossa<~Scribe.141~>reveal 181 2CD9418B501EF8753CC53795A3DB9F6A92E39C52 4 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2029~><~Scribe.144~> C603DB
+$Stella_Rossa<~Controls.644~>102 <~Controls.645~><~Game.2035~> 75AFBD
+$Bishop<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> CEAA14
+$Bishop<~Controls.790~>248<~Controls.791~><~Game.2016~><~Controls.792~><~Game.2017~> 401A04
+$Bishop<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> C71534
+<game> Stella_Rossa<~Controls.1~> 4 5 null
+<Stella_Rossa> sorry 0BC8FA
+<Stella_Rossa> safe 01862A
+$Stella_Rossa<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 80D444
+$Stella_Rossa<~Scribe.141~>038 025 024 023 022 021 <~Scribe.142~><~Game.1976~><~Scribe.143~><~Game.1964~><~Scribe.144~> 3A9584
+$Stella_Rossa<~Scribe.141~>039 037 036 026 027 028 029 020 019 018 017 016 <~Scribe.142~><~Game.1969~><~Scribe.143~><~Game.1955~><~Scribe.144~> 2A0D8E
+$Stella_Rossa<~Controls.644~>104 <~Controls.645~><~Game.2035~> B446CB
+<Bishop> pass 0E6724
+$Stella_Rossa<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 24A477
+$Stella_Rossa<~Scribe.141~>261 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> 84EA1F
+$Stella_Rossa<~Controls.644~>103 <~Controls.645~><~Game.2035~> 2ACA3C
+<Bishop> pass EE82C9
+$Stella_Rossa<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 868336
+<Stella_Rossa> Osg nc A251C1
+<Stella_Rossa> from IS 12C8C8
+<Stella_Rossa> SI FF145E
+$Stella_Rossa<~Scribe.141~>260 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 3004C0
+$Bishop<~Controls.840~>120 1CD43C
+<auto><~Controls.861~>reveal 120 2AAAB4D340D0C58FF1167DA564065842D7909429 15<~Controls.862~><~Controls.45~><~Controls.863~><~Game.2037~> 87A998
+$Bishop<~Scribe.141~>080 079 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.1931~><~Scribe.144~> 1BF032
+$Stella_Rossa<~Scribe.141~>039 037 036 026 027 028 029 020 019 018 017 016 <~Scribe.142~><~Game.1955~><~Scribe.143~><~Game.1943~><~Scribe.144~> 9389CB
+$Stella_Rossa<~Controls.644~>101 120 <~Controls.645~><~Game.2035~> FBB4BF
+$Bishop<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 2BE34A
+$Bishop<~Scribe.141~>279 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1931~><~Scribe.144~> 2FDE46
+$Bishop<~Scribe.141~>270 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1920~><~Scribe.144~> 4F63DC
+$Bishop<~Controls.644~>213 <~Controls.645~><~Game.2035~> 2FB5AA
+$Stella_Rossa<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 9886B6
+$Stella_Rossa<~Controls.819~> F0E6A9
+$Stella_Rossa<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 73EFCF
+$Stella_Rossa<~Scribe.141~>253 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1943~><~Scribe.144~> 5FB59C
+$Stella_Rossa<~Scribe.141~>361 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2037~><~Scribe.144~> EA9983
+$Stella_Rossa<~Controls.323~>257 258 259 3842F4
+$Stella_Rossa<~Controls.644~>100 361 <~Controls.645~><~Game.2035~> 800BE8
+$Bishop<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 4BE3E3
+$Bishop<~Scribe.141~>181 <~Scribe.142~><~Game.2029~><~Scribe.143~><~Game.2036~><~Scribe.144~> 9621D6
+$Bishop<~Controls.644~>210 181 <~Controls.645~><~Game.2035~> 4C72D6
+$Stella_Rossa<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 908788
+<Stella_Rossa> Pel A4E6B1
+$Stella_Rossa<~Controls.840~>195 0482AA
+$Bishop<~Controls.840~>118 02A965
+<auto> playchosen 1B9929
+<auto><~Controls.3~>reveal 118 6FF3F4EDEFCC86711F9B4411732554AB227E36DE 4<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 57C75E
+<auto><~Controls.866~>reveal 195 4FE21A4CD7BA838EB8E8A11BB723125DA6470AED 10<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 70F0A7
+<auto> playchosen D3BB65
+$Bishop<~Scribe.141~>279 080 079 078 <~Scribe.142~><~Game.1931~><~Scribe.143~><~Game.1924~><~Scribe.144~> 571526
+$Stella_Rossa<~Controls.509~>189<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Stella_Rossa<~Scribe.141~>020 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.1931~><~Scribe.144~> D9343B
+$Stella_Rossa<~Scribe.141~>423 <~Scribe.142~><~Game.27~><~Scribe.143~><~Game.28~><~Scribe.144~> 324C44
+$Stella_Rossa<~Controls.644~>360 195 118 <~Controls.645~><~Game.2035~> DD129B
+$Bishop<~HighlightLabel.86~>358<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> B57CA3
+$Bishop<~Scribe.141~>276 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1920~><~Scribe.144~> 3CD7F6
+$Bishop<~Controls.644~>358 <~Controls.645~><~Game.2035~> 099048
+$Stella_Rossa<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 05E576
+$Stella_Rossa<~Scribe.141~>reveal 199 D9C89415E9D6003B78B175208165EECAC05E92C2 12 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 14509D
+$Stella_Rossa<~Scribe.141~>329 330 001 <~Scribe.142~><~Game.1910~><~Scribe.143~><~Game.1912~><~Scribe.144~> 5DD094
+$Stella_Rossa<~Scribe.141~>331 <~Scribe.142~><~Game.1914~><~Scribe.143~><~Game.1912~><~Scribe.144~> A33B9D
+$Stella_Rossa<~Scribe.141~>327 328 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1912~><~Scribe.144~> 0801A7
+$Stella_Rossa<~Controls.644~>105 199 <~Controls.645~><~Game.2035~> 2E9440
+$Bishop<~Controls.726~>211 212 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> DB557A
+$Bishop<~Controls.731~>358 210 213 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 55EF73
+$Stella_Rossa<~Controls.757~>099 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> BAF65E
+<~Game.7~>4 null
+$Stella_Rossa<~Controls.762~>105 360 100 361 101 103 104 102 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 75B860
+$Stella_Rossa<~Controls.509~>162<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Stella_Rossa<~Controls.509~>196<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Bishop<~Controls.509~>135<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Bishop<~Controls.509~>138<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+<Bishop> fsp ok 803A2B
+$Stella_Rossa<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> 07F565
+$Stella_Rossa<~Controls.345~>105 360 100 361 101 103 104 102 <~Controls.346~>14 15 10 14 12 13 13 10 null
+$Stella_Rossa<~Controls.350~>105 360 100 361 101 103 104 102 null
+$Bishop<~Controls.345~>358 210 213 211 212 <~Controls.346~>4 1 3 1 1 null
+$Bishop<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> ECCD33
+$Bishop<~Controls.790~>248<~Controls.791~><~Game.2017~><~Controls.792~><~Game.2018~> 24B77F
+$Bishop<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 60F80D
+<game> Stella_Rossa<~Controls.1~> 1 5 null
+$Stella_Rossa<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 6BCF59
+<Stella_Rossa> MT 6FEDB0
+$Bishop<~Scribe.141~>272 085 273 084 083 082 081 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.1994~><~Scribe.144~> 1B0322
+$Stella_Rossa<~Scribe.141~>253 039 037 036 026 027 028 029 019 018 017 016 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.1944~><~Scribe.144~> 0EC9A7
+$Stella_Rossa<~Controls.644~>103 <~Controls.645~><~Game.2035~> 375701
+<Bishop> pass A04CA3
+$Stella_Rossa<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 7DF726
+$Stella_Rossa<~Scribe.141~>038 025 024 023 022 021 <~Scribe.142~><~Game.1964~><~Scribe.143~><~Game.1943~><~Scribe.144~> 310079
+$Stella_Rossa<~Scribe.141~>055 057 049 048 047 046 045 044 <~Scribe.142~><~Game.1946~><~Scribe.143~><~Game.1938~><~Scribe.144~> 1A8DD9
+$Stella_Rossa<~Controls.644~>101 <~Controls.645~><~Game.2035~> 84CA6A
+<Bishop> pass 05ADBE
+$Stella_Rossa<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 7C5CE2
+$Stella_Rossa<~Scribe.141~>261 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 3E32AB
+$Stella_Rossa<~Controls.644~>102 <~Controls.645~><~Game.2035~> 28711F
+$Bishop<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> D070BD
+$Bishop<~Controls.790~>248<~Controls.791~><~Game.2018~><~Controls.792~><~Game.2019~> F8ADE8
+$Bishop<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 7006E6
+<game> Stella_Rossa<~Controls.1~> 3 4 null
+<Stella_Rossa> ... 6BD324
+$Stella_Rossa<~Scribe.141~>361 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 977DCE
+$Stella_Rossa<~Scribe.141~>reveal 196 0888530FADD5AAD24BAAB179FF28ECB747ECA2B8 20 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> EF07CE
+$Stella_Rossa<~Controls.304~>018 019 <~Controls.305~><~Game.1944~> 583266
+$Stella_Rossa<~Controls.313~>335 336 <~Controls.309~><~Controls.314~><~Game.1944~> 7C6C27
+$Stella_Rossa<~Controls.644~>361 196 <~Controls.645~><~Game.2035~> 3C5B0B
+$Bishop<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> DB1526
+$Bishop<~Scribe.141~>277 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1935~><~Scribe.144~> 4BCBDA
+$Bishop<~Scribe.141~>271 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1920~><~Scribe.144~> 3382BB
+$Bishop<~Controls.644~>213 <~Controls.645~><~Game.2035~> CD8B58
+$Stella_Rossa<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> B7C4C3
+<Stella_Rossa> MT 66A887
+$Stella_Rossa<~Controls.840~>189 020218
+$Bishop<~Controls.840~>138 C73721
+<auto> playchosen BB260D
+<auto><~Controls.3~>reveal 138 CF8AAA212205A8C4F1EF8E87DC224AF05A1E5743 0<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> F2A0B6
+<auto><~Controls.866~>reveal 189 53447C6356860CA2D876E51014C91B29066E7BE7 13<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 70A8F0
+<auto> playchosen 0D1E02
+<game> Stella_Rossa<~Controls.1~> 4 5 4 5 6 null
+<game> Stella_Rossa<~Controls.1~> 1 4 null
+<Stella_Rossa> 3 2B289A
+<game> Bishop<~Controls.1~> 2 2 2 4 4 null
+<game> Bishop<~Controls.1~> 4 6 null
+<Bishop> 4 F8C754
+$Stella_Rossa<~Controls.281~>335 016 017 <~Controls.282~><~Game.1944~><~Controls.283~><~Game.2040~> 1CC7D3
+<Stella_Rossa> stop A1BC44
+$Stella_Rossa<~Controls.509~>180<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Stella_Rossa<~Controls.644~>104 189 138 <~Controls.645~><~Game.2035~> 3F2F03
+$Bishop<~Controls.304~>084 <~Controls.305~><~Game.1994~> 814246
+$Bishop<~Controls.313~>282 <~Controls.307~><~Controls.314~><~Game.1994~> 375152
+$Bishop<~Controls.296~>273 <~Controls.297~><~Game.1994~> 4ACFA4
+$Bishop<~Controls.271~>358<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 3FC1F9
+$Bishop<~Scribe.141~>274 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1920~><~Scribe.144~> 090FF8
+$Bishop<~Controls.644~>358 <~Controls.645~><~Game.2035~> 0D302F
+$Stella_Rossa<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 2EB74E
+$Stella_Rossa<~Scribe.141~>335 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1956~><~Scribe.144~> 35CBF9
+$Stella_Rossa<~Controls.644~>100 <~Controls.645~><~Game.2035~> D8047F
+$Bishop<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> EBD7F1
+$Bishop<~Controls.790~>248<~Controls.791~><~Game.2019~><~Controls.792~><~Game.2020~> 185A75
+$Bishop<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 04F48E
+<game> Stella_Rossa<~Controls.1~> 5 3 null
+$Stella_Rossa<~Controls.624~>216<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Bishop<~Scribe.141~>247 <~Scribe.142~><~Game.1911~><~Scribe.143~><~Game.1915~><~Scribe.144~> CF8A74
+$Bishop<~Scribe.141~>247 <~Scribe.142~><~Game.1915~><~Scribe.143~><~Game.1912~><~Scribe.144~> 88D455
+$Bishop<~Scribe.141~>247 <~Scribe.142~><~Game.1912~><~Scribe.143~><~Game.1917~><~Scribe.144~> 21472A
+$Bishop<~Scribe.141~>247 <~Scribe.142~><~Game.1917~><~Scribe.143~><~Game.1927~><~Scribe.144~> 952F3E
+$Bishop<~Scribe.141~>247 <~Scribe.142~><~Game.1927~><~Scribe.143~><~Game.1930~><~Scribe.144~> 790A63
+$Bishop<~Scribe.141~>247 <~Scribe.142~><~Game.1930~><~Scribe.143~><~Game.1937~><~Scribe.144~> 1DFB71
+$Bishop<~Controls.323~>247 586DCC
+$Stella_Rossa<~Scribe.141~>216 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2036~><~Scribe.144~> 362DB5
+$Bishop<~Scribe.141~>252 <~Scribe.142~><~Game.2014~><~Scribe.143~><~Game.2015~><~Scribe.144~> 09542E
+$Stella_Rossa<~Controls.624~>222<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Stella_Rossa<~Controls.644~>216 222 <~Controls.645~><~Game.2035~> B15002
+$Stella_Rossa<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 282B10
+$Stella_Rossa<~Scribe.141~>reveal 162 7DADF0321412F6EC2563A754D0744D6354E4A626 13 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 546BB0
+$Stella_Rossa<~Scribe.141~>252 <~Scribe.142~><~Game.2015~><~Scribe.143~><~Game.2017~><~Scribe.144~> 800727
+$Stella_Rossa<~Controls.644~>105 162 <~Controls.645~><~Game.2035~> 2A09B4
+$Bishop<~Controls.726~>211 212 210 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> F74197
+$Bishop<~Controls.731~>358 213 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 5DF323
+$Stella_Rossa<~Controls.757~>360 099 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> F3811D
+<~Game.7~>5 null
+$Stella_Rossa<~Controls.762~>105 100 104 361 102 101 103 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 26DABD
+$Stella_Rossa<~Controls.509~>193<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Stella_Rossa<~Controls.509~>178<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Bishop<~Controls.509~>117<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Bishop<~Controls.509~>147<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Bishop<~Controls.296~>126 <~Controls.297~><~Controls.45~> 7CD052
+<Bishop> fsp ok 16A4A7
+$Stella_Rossa<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> D3351C
+$Stella_Rossa<~Controls.345~>105 100 104 361 102 101 103 360 <~Controls.346~>10 14 14 13 13 13 10 15 null
+$Stella_Rossa<~Controls.350~>105 100 104 361 102 101 103 360 null
+$Bishop<~Controls.345~>358 213 211 212 210 <~Controls.346~>4 1 2 0 2 null
+$Bishop<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> C58A31
+$Bishop<~Scribe.141~>405 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2037~><~Scribe.144~> DE28D0
+$Bishop<~Controls.345~>211 <~Controls.346~>2 null
+$Bishop<~Controls.345~>211 <~Controls.346~>0 null
+$Bishop<~Controls.281~>211 <~Controls.282~><~Game.2035~><~Controls.283~><~Game.2042~> AF13B8
+$Stella_Rossa<~Controls.644~>405 <~Controls.645~><~Game.2035~> 27EFC3
+$Bishop<~Controls.644~><~Controls.645~><~Game.2035~> CE4F22
+$Bishop<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> E92C77
+$Bishop<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 1C6623
+$Bishop<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 860D95
+<Stella_Rossa> hid? A769C7
+$Stella_Rossa<~Controls.819~> CBC4DF
+$Bishop<~Controls.323~>247 8D2A5D
+$Bishop<~Controls.644~>211 <~Controls.645~><~Game.2035~> 5AABDA
+$Stella_Rossa<~Scribe.141~>361 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 5CF70D
+<Stella_Rossa> MT 228FCA
+$Stella_Rossa<~Controls.840~>180 C1629A
+$Bishop<~Controls.840~>147 A30F34
+<auto> playchosen 013CC3
+<auto><~Controls.3~>reveal 147 E1F5343429DC19A270F2CC26D225BDEB87A1DFFB 6<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> D92EB4
+<auto><~Controls.866~>reveal 180 B08A19CD8B20CE857D314C36500A010D9DB53B37 7<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> B376DF
+<auto> playchosen 172281
+<game> Stella_Rossa<~Controls.1~> 6 5 3 null
+<game> Stella_Rossa<~Controls.1~> 6 6 null
+<Stella_Rossa> 3 8D2BB7
+<game> Bishop<~Controls.1~> 6 6 1 5 null
+<game> Bishop<~Controls.1~> 4 null
+<Bishop> 3 83D9A1
+$Stella_Rossa<~Controls.281~>336 029 <~Controls.282~><~Game.1944~><~Controls.283~><~Game.2040~> 976284
+<Stella_Rossa> +1 85DC93
+$Bishop<~Scribe.141~>272 085 282 083 082 081 <~Scribe.142~><~Game.1994~><~Scribe.143~><~Game.2037~><~Scribe.144~> 77241B
+$Stella_Rossa<~Scribe.141~>423 <~Scribe.142~><~Game.28~><~Scribe.143~><~Game.30~><~Scribe.144~> DEDE66
+$Stella_Rossa<~Controls.509~>187<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Stella_Rossa<~Controls.644~>361 180 147 272 085 282 083 082 081 <~Controls.645~><~Game.2035~> 2D8D45
+$Bishop<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 6AECE6
+$Bishop<~CardBuffet.9~>reveal 121 F9CDA175FD2BE51FC068798EA79CAC61318C9AE8 8<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> 3C8BD2
+$Bishop<~Scribe.141~>285 286 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1929~><~Scribe.144~> 1AA1A2
+$Bishop<~Controls.509~>145<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Bishop<~Controls.644~>210 121 <~Controls.645~><~Game.2035~> 2759C4
+$Stella_Rossa<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 1C4DB6
+<Stella_Rossa> Loss from WK 8125BA
+<Stella_Rossa> nc C7F62B
+<Bishop> nc 83CAF9
+<game> Stella_Rossa<~Controls.1~> 5 1 3 1 null
+<Stella_Rossa> 1 951031
+<game> Bishop<~Controls.1~> 4 null
+$Bishop<~Scribe.141~>277 <~Scribe.142~><~Game.1935~><~Scribe.143~><~Game.2037~><~Scribe.144~> E2A101
+$Stella_Rossa<~Scribe.141~>026 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.1935~><~Scribe.144~> A4D9D9
+$Stella_Rossa<~Controls.644~>102 277 <~Controls.645~><~Game.2035~> CABC8B
+$Bishop<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 3E7B24
+$Bishop<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 8868FA
+$Bishop<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> BC1B33
+<game> Stella_Rossa<~Controls.1~> 1 6 null
+$Stella_Rossa<~Controls.624~>215<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Bishop<~Scribe.141~>247 <~Scribe.142~><~Game.1937~><~Scribe.143~><~Game.1948~><~Scribe.144~> 13DE49
+$Bishop<~Controls.323~>247 459A95
+$Bishop<~Controls.644~>215 <~Controls.645~><~Game.2035~> 8A2012
+$Stella_Rossa<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 83C126
+$Stella_Rossa<~Scribe.141~>336 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1956~><~Scribe.144~> 56F574
+$Stella_Rossa<~Controls.644~>104 <~Controls.645~><~Game.2035~> 8CC4FB
+$Stella_Rossa<~Controls.819~> 6D2107
+$Stella_Rossa<~Controls.819~> 441A49
+<Bishop> pass 953D1A
+$Stella_Rossa<~Controls.819~> 01B1B1
+$Stella_Rossa<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> F20770
+<Stella_Rossa> zwrong dice, sorry 7693BF
+$Stella_Rossa<~Controls.644~>103 <~Controls.645~><~Game.2035~> 55D9E2
+<Bishop> pass 37EF62
+$Stella_Rossa<~Scribe.141~>336 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1956~><~Scribe.144~> EE7B31
+$Stella_Rossa<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 45B11C
+$Stella_Rossa<~Scribe.141~>334 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1917~><~Scribe.144~> 30FF5E
+$Stella_Rossa<~Controls.644~>105 <~Controls.645~><~Game.2035~> 2919E6
+$Bishop<~HighlightLabel.86~>358<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> F3C447
+$Bishop<~Controls.819~> 5AEAA4
+<Bishop> pass 3262C4
+$Stella_Rossa<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> FC2BD6
+$Stella_Rossa<~Scribe.141~>reveal 194 A1EC34C31BF102F821916714AC0B85D6E8E7D479 21 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2036~><~Scribe.144~> 88907F
+<game> Stella_Rossa<~Controls.1~> 1 3 3 null
+$Stella_Rossa<~Controls.644~>100 194 <~Controls.645~><~Game.2035~> 90BFD6
+<Bishop> ???? FFD68E
+$Stella_Rossa<~Controls.819~> B81F62
+$Stella_Rossa<~CardBuffet.3~>194 <~CardBuffet.4~><~Game.2036~><~CardBuffet.5~><~Controls.46~> 165231
+$Stella_Rossa<~Scribe.141~>reveal 158 21661B62E0FAF3856FC8ED4A1203F335DB193207 22 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2036~><~Scribe.144~> 247D80
+$Stella_Rossa<~Controls.644~>100 158 <~Controls.645~><~Game.2035~> 017682
+$Stella_Rossa<~Controls.819~> C27428
+<Bishop> ok BAF1A6
+<Stella_Rossa> this one :-) C33998
+$Stella_Rossa<~Controls.644~>100 158 <~Controls.645~><~Game.2035~> D98A0A
+$Bishop<~HighlightLabel.86~>358<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> AB14E4
+$Bishop<~CardBuffet.9~>reveal 145 B5DE57DAFF92A70539CC530007CEB84BBF1101C1 2<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> 9606BE
+$Bishop<~Scribe.141~>267 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1954~><~Scribe.144~> D45FED
+$Bishop<~Controls.509~>111<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Bishop<~Controls.644~>358 145 <~Controls.645~><~Game.2035~> B4D135
+$Stella_Rossa<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> C82A40
+$Stella_Rossa<~Scribe.141~>reveal 187 0089DD3D3F055ABFF8BF5C741AF711C7127C2FA1 21 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> A76D6F
+$Stella_Rossa<~Scribe.141~>322 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1917~><~Scribe.144~> 68B55F
+$Stella_Rossa<~Controls.644~>104 187 <~Controls.645~><~Game.2035~> B16EB1
+$Bishop<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> A9ACF5
+$Bishop<~Controls.323~>247 B71F40
+$Bishop<~Controls.644~>212 <~Controls.645~><~Game.2035~> 878D2D
+$Stella_Rossa<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 80DA9F
+$Stella_Rossa<~Scribe.141~>253 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.1956~><~Scribe.144~> 67E000
+$Stella_Rossa<~Scribe.141~>039 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.1956~><~Scribe.144~> 87D213
+$Stella_Rossa<~Scribe.141~>038 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.1917~><~Scribe.144~> 3BEFB5
+$Stella_Rossa<~Controls.644~>101 <~Controls.645~><~Game.2035~> 9DAB49
+$Bishop<~Controls.726~>213 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 4DB727
+$Bishop<~Controls.731~>212 358 210 211 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 20B6C5
+$Stella_Rossa<~Controls.757~>360 099 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 6E9030
+<~Game.7~>6 null
+$Stella_Rossa<~Controls.762~>101 104 100 105 103 102 361 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> DCBC7C
+$Stella_Rossa<~Controls.509~>202<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Stella_Rossa<~Controls.509~>171<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Bishop<~Controls.509~>125<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Bishop<~Controls.509~>129<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Bishop<~Controls.296~>111 <~Controls.297~><~Controls.45~> AD1D16
+<Bishop> fsp ok C9A497
+$Stella_Rossa<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> 32DC0D
+$Stella_Rossa<~Controls.345~>101 104 100 105 103 102 361 360 <~Controls.346~>14 12 15 11 12 12 13 11 null
+$Stella_Rossa<~Controls.350~>101 104 100 105 103 102 361 360 null
+$Bishop<~Controls.345~>212 358 210 211 213 <~Controls.346~>3 1 2 4 0 null
+$Bishop<~HighlightLabel.86~>358<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 6A7EA9
+$Bishop<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> B3DA74
+$Bishop<~Controls.795~>358<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> AD7BA5
+<game> Stella_Rossa<~Controls.1~> 5 1 null
+$Stella_Rossa<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 541124
+$Stella_Rossa<~Scribe.141~>038 322 334 008 007 <~Scribe.142~><~Game.1917~><~Scribe.143~><~Game.1912~><~Scribe.144~> 77BF98
+$Stella_Rossa<~Scribe.141~>007 <~Scribe.142~><~Game.1912~><~Scribe.143~><~Game.1917~><~Scribe.144~> 595907
+$Stella_Rossa<~Scribe.141~>253 039 040 336 335 035 015 014 013 012 011 <~Scribe.142~><~Game.1956~><~Scribe.143~><~Game.1958~><~Scribe.144~> F95AF0
+$Stella_Rossa<~Controls.644~>104 <~Controls.645~><~Game.2035~> 60A6CE
+$Bishop<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 82F465
+$Bishop<~Scribe.141~>065 <~Scribe.142~><~Game.1941~><~Scribe.143~><~Game.1957~><~Scribe.144~> 6188B5
+$Bishop<~Scribe.141~>285 286 073 072 <~Scribe.142~><~Game.1929~><~Scribe.143~><~Game.1925~><~Scribe.144~> 197D19
+$Bishop<~Controls.644~>211 <~Controls.645~><~Game.2035~> 487898
+$Stella_Rossa<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 154AD2
+$Stella_Rossa<~Scribe.141~>038 322 334 327 328 331 329 330 001 008 <~Scribe.142~><~Game.1912~><~Scribe.143~><~Game.1908~><~Scribe.144~> 1DDF38
+$Stella_Rossa<~Scribe.141~>055 057 049 048 047 046 045 044 <~Scribe.142~><~Game.1938~><~Scribe.143~><~Game.1931~><~Scribe.144~> B9A7BC
+$Stella_Rossa<~Controls.644~>103 <~Controls.645~><~Game.2035~> 1E873D
+<Bishop> pass 2FD94F
+$Stella_Rossa<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 51CC91
+<Stella_Rossa> OFR BA1B30
+$Stella_Rossa<~Scribe.141~>258 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> B0F541
+$Stella_Rossa<~Controls.840~>171 0C3C6A
+<Bishop> nc D2F538
+$Stella_Rossa<~Scribe.141~>reveal 171 CEAEEBBDAACDBF089E681465E2A0BC2C280F8754 11 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2036~><~Scribe.144~> E3DDF5
+<game> Stella_Rossa<~Controls.1~> 5 2 3 5 6 null
+<game> Bishop<~Controls.1~> 3 null
+$Stella_Rossa<~Controls.509~>192<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Bishop<~Scribe.141~>065 <~Scribe.142~><~Game.1957~><~Scribe.143~><~Game.2037~><~Scribe.144~> FCB755
+$Stella_Rossa<~Scribe.141~>253 039 040 336 335 035 015 014 013 012 011 <~Scribe.142~><~Game.1958~><~Scribe.143~><~Game.1957~><~Scribe.144~> 047578
+$Stella_Rossa<~Controls.644~>102 171 065 <~Controls.645~><~Game.2035~> 1822FC
+<Bishop> 1 min 37985C
+<Stella_Rossa> k 8A0D95
+<Bishop> ready A08F16
+<Stella_Rossa> k 4167FE
+$Bishop<~Scribe.141~>256 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> 8E2D52
+$Bishop<~Scribe.141~>256 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2000~><~Scribe.144~> 20AC4A
+<Bishop> psorry 3979F5
+<Bishop> pass 5C14BB
+<Stella_Rossa> np DE1131
+$Stella_Rossa<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 6960F1
+<Stella_Rossa> Riv 9275BE
+$Stella_Rossa<~Scribe.141~>256 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> CD3949
+$Bishop<~Scribe.141~>096 091 090 <~Scribe.142~><~Game.1911~><~Scribe.143~><~Game.1990~><~Scribe.144~> 88DD89
+$Stella_Rossa<~Scribe.141~>038 322 334 327 328 331 329 330 001 008 <~Scribe.142~><~Game.1908~><~Scribe.143~><~Game.1911~><~Scribe.144~> EC3728
+$Stella_Rossa<~Controls.644~>105 <~Controls.645~><~Game.2035~> E161FF
+$Bishop<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 831132
+$Bishop<~CardBuffet.9~>reveal 129 B7CB31E52B33DD0C5919BCF242D0F72D35035CA8 11<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> 9CA092
+$Bishop<~Scribe.141~>266 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1990~><~Scribe.144~> C9CC25
+$Bishop<~Controls.509~>146<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Bishop<~Controls.509~>140<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Bishop<~Controls.296~>157 <~Controls.297~><~Controls.45~> 4FF077
+$Bishop<~Controls.644~>210 129 <~Controls.645~><~Game.2035~> 2DC5CC
+$Stella_Rossa<~Scribe.141~>361 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> A09A76
+$Stella_Rossa<~Controls.281~>361 <~Controls.282~><~Game.2035~><~Controls.283~><~Game.2043~> BEF906
+$Stella_Rossa<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> D6CE60
+<Stella_Rossa> WR 0C53DD
+$Stella_Rossa<~Scribe.141~>256 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> 162F1D
+$Bishop<~Scribe.141~>098 267 094 088 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1991~><~Scribe.144~> 7185A9
+$Stella_Rossa<~Scribe.141~>253 039 040 336 335 035 015 014 013 012 011 <~Scribe.142~><~Game.1957~><~Scribe.143~><~Game.1954~><~Scribe.144~> B033C4
+$Stella_Rossa<~Controls.644~>360 <~Controls.645~><~Game.2035~> 4D83DF
+$Bishop<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> C3D7A8
+$Bishop<~Scribe.141~>250 <~Scribe.142~><~Game.2009~><~Scribe.143~><~Game.2037~><~Scribe.144~> 56BBC7
+$Bishop<~Controls.790~>248<~Controls.791~><~Game.2015~><~Controls.792~><~Game.2016~> 513664
+$Bishop<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 8F2FEF
+$Stella_Rossa<~Scribe.141~>250 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2011~><~Scribe.144~> F35DAE
+<game> Stella_Rossa<~Controls.1~> 6 5 null
+$Stella_Rossa<~Controls.624~>223<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Bishop<~Scribe.141~>240 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2037~><~Scribe.144~> 5B5988
+$Bishop<~Scribe.141~>243 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> 48B06E
+$Bishop<~Controls.644~>223 240 <~Controls.645~><~Game.2035~> B432E6
+$Stella_Rossa<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> C878AE
+$Stella_Rossa<~Scribe.141~>reveal 178 5CD2D967784457DDDBE3BB045317BCC0848D4252 5 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> E699C6
+$Stella_Rossa<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2036~><~Scribe.144~> A4C166
+$Stella_Rossa<~Controls.644~>101 213 178 <~Controls.645~><~Game.2035~> 33D02F
+<Bishop> pass 26917B
+$Stella_Rossa<~Scribe.141~>361 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 1D8E3E
+$Stella_Rossa<~Scribe.141~>reveal 193 7E1EEED7273C390171039F66474EABF4D702FEB2 18 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2036~><~Scribe.144~> 898C4E
+$Stella_Rossa<~Controls.624~>226<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Stella_Rossa<~Controls.637~>246<~Controls.638~><~Game.1998~><~Controls.639~><~Game.2037~> null
+$Bishop<~Scribe.141~>252 <~Scribe.142~><~Game.2017~><~Scribe.143~><~Game.2018~><~Scribe.144~> 07566C
+$Bishop<~Scribe.141~>246 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.1937~><~Scribe.144~> CA65C6
+$Bishop<~Scribe.141~>246 <~Scribe.142~><~Game.1937~><~Scribe.143~><~Game.1925~><~Scribe.144~> CE0A82
+$Bishop<~Scribe.141~>246 <~Scribe.142~><~Game.1925~><~Scribe.143~><~Game.1923~><~Scribe.144~> E1C7BA
+$Stella_Rossa<~Controls.644~>361 193 226 <~Controls.645~><~Game.2035~> 4ED8C3
+$Bishop<~Controls.726~>212 358 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 4238A1
+$Bishop<~Controls.731~>213 210 211 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> CAFC32
+$Stella_Rossa<~Controls.757~>100 099 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 40F428
+<~Game.7~>7 null
+$Stella_Rossa<~Controls.762~>361 101 360 105 102 103 104 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 61E39D
+$Stella_Rossa<~Controls.509~>203<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Stella_Rossa<~Controls.509~>206<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Bishop<~Controls.509~>112<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Bishop<~Controls.509~>153<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Bishop<~Controls.296~>112 <~Controls.297~><~Controls.45~> 15D7F0
+$Bishop<~Controls.296~>140 <~Controls.297~><~Controls.45~> 545672
+$Bishop<~Scribe.141~>247 <~Scribe.142~><~Game.1948~><~Scribe.143~><~Game.1967~><~Scribe.144~> BFC668
+$Bishop<~Scribe.141~>247 <~Scribe.142~><~Game.1967~><~Scribe.143~><~Game.1976~><~Scribe.144~> 951D2B
+$Bishop<~Controls.323~>247 F2C4C7
+$Bishop<~Controls.323~>247 E0F41C
+<Bishop> fsp ok 6E1280
+$Stella_Rossa<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> BFAD27
+$Stella_Rossa<~Controls.345~>361 101 360 105 102 103 104 100 <~Controls.346~>11 15 14 13 14 12 13 15 null
+$Stella_Rossa<~Controls.350~>361 101 360 105 102 103 104 100 null
+$Bishop<~Controls.345~>213 210 211 212 358 <~Controls.346~>0 3 4 2 1 null
+$Bishop<~HighlightLabel.86~>358<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> A5F672
+$Bishop<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 45A29A
+$Bishop<~Controls.795~>358<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> B4F3B7
+<game> Stella_Rossa<~Controls.1~> 2 2 4 null
+$Stella_Rossa<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 24C91E
+$Stella_Rossa<~Scribe.141~>reveal 194 A1EC34C31BF102F821916714AC0B85D6E8E7D479 21 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> D80E52
+$Stella_Rossa<~Scribe.141~>247 <~Scribe.142~><~Game.1976~><~Scribe.143~><~Game.1972~><~Scribe.144~> 0FA5EC
+$Stella_Rossa<~Controls.644~>360 194 <~Controls.645~><~Game.2035~> D2E713
+$Bishop<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 81DE18
+$Bishop<~CardBuffet.9~>reveal 153 8DD94D49048E68CA5B807A3DAEE41F8D597B260B 10<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> E7B379
+$Bishop<~Scribe.141~>304 303 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1970~><~Scribe.144~> 3006CB
+$Bishop<~Controls.509~>110<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Bishop<~Controls.644~>212 153 <~Controls.645~><~Game.2035~> B50BCA
+$Stella_Rossa<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 510B90
+<Stella_Rossa> WR 55D227
+$Stella_Rossa<~Controls.840~>206 7C4A1F
+$Stella_Rossa<~Scribe.141~>256 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 23F04C
+$Bishop<~Controls.840~>110 1C5948
+<auto> playchosen 66E226
+<auto><~Controls.3~>reveal 110 6394EFB4206830C1490A2DBB90591EB8E81DC89E 13<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 914C21
+<auto><~Controls.866~>reveal 206 AD964EF9F157462C1F388BD4B79EF5C9F7702251 6<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 3CD86C
+<auto> playchosen 7F9FDD
+<game> Stella_Rossa<~Controls.1~> 3 2 5 5 4 null
+<game> Stella_Rossa<~Controls.1~> 2 4 null
+<Stella_Rossa> 4 271320
+<game> Bishop<~Controls.1~> 2 2 3 null
+<game> Bishop<~Controls.1~> 6 null
+<Bishop> 3 B54B4E
+$Stella_Rossa<~Scribe.141~>336 011 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.2036~><~Scribe.144~> ABC30E
+$Bishop<~Controls.296~>094 <~Controls.297~><~Game.1991~> 462F46
+$Bishop<~Controls.304~>267 <~Controls.305~><~Game.1991~> 764223
+$Bishop<~Controls.313~>269 <~Controls.307~><~Controls.314~><~Game.1991~> 68BEE6
+<Stella_Rossa> press 5CBAB4
+<Stella_Rossa> 1 more 550AA6
+<Stella_Rossa> 4 hits DFB10B
+$Bishop<~Scribe.141~>088 <~Scribe.142~><~Game.1991~><~Scribe.143~><~Game.2037~><~Scribe.144~> CABF26
+$Stella_Rossa<~Controls.304~>035 <~Controls.305~><~Game.1954~> E2DEAF
+$Stella_Rossa<~Controls.313~>029 <~Controls.307~><~Controls.314~><~Game.1954~> 183817
+$Stella_Rossa<~Controls.509~>190<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Stella_Rossa<~Controls.662~>206 336 011 110 088 <~Controls.663~><~Game.2035~> 4CD1DC
+<Stella_Rossa> nc 80CEAD
+<Bishop> nc F491B6
+<game> Stella_Rossa<~Controls.1~> 1 5 1 2 3 null
+<game> Stella_Rossa<~Controls.1~> 2 6 6 5 3 null
+<Stella_Rossa> 2 CADAD6
+<game> Bishop<~Controls.1~> 5 null
+$Stella_Rossa<~Scribe.141~>423 <~Scribe.142~><~Game.30~><~Scribe.143~><~Game.32~><~Scribe.144~> 5A0D7E
+$Stella_Rossa<~Scribe.141~>012 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.2037~><~Scribe.144~> 4E97D3
+$Stella_Rossa<~Controls.644~>104 012 <~Controls.645~><~Game.2035~> B17DDD
+$Stella_Rossa<~Scribe.141~>098 269 <~Scribe.142~><~Game.1991~><~Scribe.143~><~Game.2037~><~Scribe.144~> 2E1220
+$Stella_Rossa<~Controls.644~>098 269 <~Controls.645~><~Game.2035~> BAE093
+<Bishop> pass 9388C5
+$Stella_Rossa<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 6C899C
+$Stella_Rossa<~Scribe.141~>253 040 039 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1911~><~Scribe.144~> 26547C
+$Stella_Rossa<~Scribe.141~>040 <~Scribe.142~><~Game.1911~><~Scribe.143~><~Game.1954~><~Scribe.144~> 4A8C65
+$Stella_Rossa<~Controls.644~>105 <~Controls.645~><~Game.2035~> 462841
+$Bishop<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 8A43BE
+$Bishop<~CardBuffet.9~>reveal 146 69014D74DB1C3A43B3668F7DFFF868A784E7294E 23<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> FBADBA
+$Bishop<~Scribe.141~>146 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2029~><~Scribe.144~> E61092
+$Bishop<~Controls.644~>211 <~Controls.645~><~Game.2035~> FEEF7B
+$Stella_Rossa<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 61A86B
+$Stella_Rossa<~Controls.296~>203 <~Controls.297~><~Controls.46~> E00895
+$Stella_Rossa<~Controls.296~>192 <~Controls.297~><~Controls.46~> 8F01F8
+$Stella_Rossa<~Scribe.141~>146 <~Scribe.142~><~Game.2029~><~Scribe.143~><~Game.2036~><~Scribe.144~> 80B2AD
+$Stella_Rossa<~Controls.644~>103 146 <~Controls.645~><~Game.2035~> 0D353C
+$Bishop<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 5CCA9B
+$Bishop<~Scribe.141~>251 <~Scribe.142~><~Game.2010~><~Scribe.143~><~Game.2037~><~Scribe.144~> 75B7D0
+$Bishop<~Controls.790~>248<~Controls.791~><~Game.2015~><~Controls.792~><~Game.2016~> AF361D
+$Bishop<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 23C1F8
+$Bishop<~Scribe.141~>251 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2012~><~Scribe.144~> 4C382A
+$Stella_Rossa<~Scribe.141~>251 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2012~><~Scribe.144~> 8D04F7
+<game> Stella_Rossa<~Controls.1~> 2 3 5 null
+$Stella_Rossa<~Controls.624~>224<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Bishop<~Scribe.141~>252 <~Scribe.142~><~Game.2018~><~Scribe.143~><~Game.2019~><~Scribe.144~> 6C899F
+$Bishop<~Controls.644~>224 <~Controls.645~><~Game.2035~> D1B9AB
+$Stella_Rossa<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 58FA39
+$Stella_Rossa<~Scribe.141~>reveal 202 4444438E7CD7CAD48A6B9023C4B90544DA060EBE 15 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2036~><~Scribe.144~> AC1AC9
+$Stella_Rossa<~Controls.624~>214<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Stella_Rossa<~Scribe.141~>214 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2036~><~Scribe.144~> 9FBD92
+$Bishop<~Scribe.141~>247 <~Scribe.142~><~Game.1972~><~Scribe.143~><~Game.1974~><~Scribe.144~> 3AB357
+$Bishop<~Controls.323~>247 35AC4E
+$Stella_Rossa<~Controls.624~>220<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Stella_Rossa<~Controls.644~>102 202 214 220 <~Controls.645~><~Game.2035~> 99C8AA
+$Bishop<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 0CC51B
+$Bishop<~Scribe.141~>359 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.2037~><~Scribe.144~> 2F2C6A
+$Bishop<~Scribe.141~>240 <~Scribe.142~><~Game.2039~><~Scribe.143~><~Game.1921~><~Scribe.144~> 89A3B2
+$Bishop<~Controls.323~>240 F8CE3F
+$Bishop<~Controls.644~>213 359 <~Controls.645~><~Game.2035~> 8D80E0
+$Stella_Rossa<~Scribe.141~>361 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> D9E078
+<Stella_Rossa> Riv FEC0F2
+$Stella_Rossa<~Controls.840~>190 B154CF
+$Bishop<~Controls.840~>143 A4F10A
+<auto> playchosen 0581F9
+<auto><~Controls.3~>reveal 143 A2F1FC09DFCBDE187CC2E378A2AF790F7A13C48B 22<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> A88843
+<auto><~Controls.866~>reveal 190 EC6948A195109F25846DC9B2F8DD98AE37A03FC1 0<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> C9968B
+<auto> playchosen C80BAB
+<game> Stella_Rossa<~Controls.1~> 1 4 1 6 5 null
+<game> Stella_Rossa<~Controls.1~> 1 3 2 2 null
+<Stella_Rossa> 1 A4A617
+<game> Bishop<~Controls.1~> 6 1 1 null
+<game> Bishop<~Controls.1~> 6 null
+<Bishop> 2 AD99E2
+$Stella_Rossa<~Controls.281~>329 330 <~Controls.282~><~Game.1911~><~Controls.283~><~Game.2040~> D45D52
+$Bishop<~Controls.304~>090 <~Controls.305~><~Game.1990~> 7E2BBA
+$Bishop<~Controls.313~>269 <~Controls.308~><~Controls.314~><~Game.1990~> C6B3BB
+<Stella_Rossa> stop 8EA737
+$Stella_Rossa<~Controls.509~>185<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Stella_Rossa<~Controls.644~>361 190 143 <~Controls.645~><~Game.2035~> 3BB1D1
+$Stella_Rossa<~Controls.757~>101 100 099 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> FE82B8
+$Stella_Rossa<~Controls.762~>361 102 103 105 104 360 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 9443A3
+$Stella_Rossa<~Controls.509~>204<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Stella_Rossa<~Controls.509~>176<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Bishop<~Controls.726~>210 358 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> F7D922
+<~Game.7~>8 null
+$Bishop<~Controls.731~>213 359 211 212 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 6A364E
+$Bishop<~Controls.509~>133<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Bishop<~Controls.509~>113<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Bishop<~Scribe.141~>247 <~Scribe.142~><~Game.1974~><~Scribe.143~><~Game.524~><~Scribe.144~> 4549D1
+$Stella_Rossa<~Controls.281~>222 220 238 <~Controls.282~><~Game.2045~><~Controls.283~><~Game.2044~> 292F97
+<Bishop> fsp ok 6A63C5
+$Stella_Rossa<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> 327574
+$Stella_Rossa<~Controls.345~>361 102 103 105 104 360 101 100 <~Controls.346~>13 13 10 12 15 15 13 14 null
+$Stella_Rossa<~Controls.350~>361 102 103 105 104 360 101 100 null
+$Bishop<~Controls.345~>213 359 211 212 210 358 <~Controls.346~>1 2 0 0 1 2 null
+$Bishop<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 549E6B
+$Bishop<~Controls.323~>247 4B8F37
+$Bishop<~Controls.644~>213 <~Controls.645~><~Game.2035~> C33815
+$Stella_Rossa<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 042D35
+<Stella_Rossa> Riv 5C3032
+$Stella_Rossa<~Controls.840~>176 C654A6
+$Bishop<~Controls.840~>113 360A2F
+<auto> playchosen 6B1160
+<auto><~Controls.3~>reveal 113 0BC73730EB47672416B79169BAB2779342B61115 5<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 20ABE5
+<auto><~Controls.866~>reveal 176 43E8E5E087A51A6C5EE857E24E5825E68E9D0BF5 3<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 555EFD
+<auto> playchosen 9F1E9E
+<Stella_Rossa> no sac EF5BBF
+<game> Stella_Rossa<~Controls.1~> 4 6 4 5 4 null
+<game> Stella_Rossa<~Controls.1~> 1 6 4 3 null
+<Stella_Rossa> 2 E683EC
+<game> Bishop<~Controls.1~> 4 2 5 null
+<game> Bishop<~Controls.1~> 2 null
+$Stella_Rossa<~Controls.281~>001 <~Controls.282~><~Game.1911~><~Controls.283~><~Game.2040~> 6AD395
+<Bishop> 1 45F56B
+<Stella_Rossa> press 23C020
+$Bishop<~Controls.304~>266 091 <~Controls.305~><~Game.1990~> C26A36
+$Bishop<~Controls.313~>268 088 <~Controls.309~>(1)/casualties(1)<~Controls.314~><~Game.1990~> C6301F
+$Stella_Rossa<~Controls.304~>334 <~Controls.305~><~Game.1911~> 9344EB
+$Stella_Rossa<~Controls.313~>012 <~Controls.307~><~Controls.314~><~Game.1911~> 74DE15
+$Stella_Rossa<~Controls.509~>184<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Stella_Rossa<~Controls.662~>176 113 <~Controls.663~><~Game.2035~> C862EA
+$Stella_Rossa<~Controls.840~>204 EAAD2F
+<Bishop> nc C73A4F
+$Stella_Rossa<~Scribe.141~>reveal 204 24EA8C115231FF6032088F4C66AE652FBCF14103 14 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2036~><~Scribe.144~> 7F7884
+<game> Stella_Rossa<~Controls.1~> 2 5 6 2 4 null
+<game> Stella_Rossa<~Controls.1~> 6 1 5 1 null
+<Stella_Rossa> 3 496630
+<game> Bishop<~Controls.1~> 3 3 3 null
+<game> Bishop<~Controls.1~> 5 null
+<Bishop> 1 9CD377
+$Stella_Rossa<~Controls.281~>327 <~Controls.282~><~Game.1911~><~Controls.283~><~Game.2040~> D4EEF9
+$Stella_Rossa<~Controls.644~>102 204 <~Controls.645~><~Game.2035~> 815F0A
+$Bishop<~Scribe.141~>096 268 088 269 <~Scribe.142~><~Game.1990~><~Scribe.143~><~Game.2037~><~Scribe.144~> 68B4E4
+$Bishop<~Controls.644~>096 268 088 269 <~Controls.645~><~Game.2035~> BBE3AB
+$Stella_Rossa<~Scribe.141~>423 <~Scribe.142~><~Game.32~><~Scribe.143~><~Game.388~><~Scribe.144~> A824D0
+$Bishop<~HighlightLabel.86~>358<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 9462B2
+$Bishop<~CardBuffet.9~>reveal 133 9929D83EC928D44788E4FAAD38842E4D7F22D75E 20<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> D503C9
+$Bishop<~Controls.624~>225<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2036~> null
+$Stella_Rossa<~Scribe.141~>225 <~Scribe.142~><~Game.2036~><~Scribe.143~><~Game.2032~><~Scribe.144~> AD383B
+$Bishop<~Scribe.141~>225 <~Scribe.142~><~Game.2036~><~Scribe.143~><~Game.2034~><~Scribe.144~> AC4D7D
+$Bishop<~Controls.624~>218<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2036~> null
+$Stella_Rossa<~Scribe.141~>218 <~Scribe.142~><~Game.2036~><~Scribe.143~><~Game.2033~><~Scribe.144~> D61D3C
+$Bishop<~Scribe.141~>218 <~Scribe.142~><~Game.2036~><~Scribe.143~><~Game.2033~><~Scribe.144~> 8D5B0B
+$Bishop<~Controls.624~>228<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2036~> null
+$Stella_Rossa<~Controls.281~>228 <~Controls.282~><~Game.2036~><~Controls.283~><~Game.2044~> 8E78C2
+$Stella_Rossa<~Controls.281~>225 <~Controls.282~><~Game.2034~><~Controls.283~><~Game.2044~> BC95D3
+$Stella_Rossa<~Controls.281~>218 <~Controls.282~><~Game.2033~><~Controls.283~><~Game.2044~> 13A0A7
+$Stella_Rossa<~Controls.644~>358 133 <~Controls.645~><~Game.2035~> 588000
+$Bishop<~Controls.644~><~Controls.645~><~Game.2035~> F44352
+$Stella_Rossa<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> C9EDE7
+$Stella_Rossa<~Scribe.141~>346 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1986~><~Scribe.144~> BB35A6
+$Stella_Rossa<~Controls.644~>103 <~Controls.645~><~Game.2035~> 64F087
+$Bishop<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> D1709A
+$Bishop<~Controls.790~>247<~Controls.791~><~Game.524~><~Controls.792~><~Game.525~> 5A5C92
+$Bishop<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> E72E45
+$Stella_Rossa<~Controls.624~>217<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Bishop> random C9B82B
+<Bishop> you D002D3
+$Stella_Rossa<~Controls.637~>245<~Controls.638~><~Game.1998~><~Controls.639~><~Game.2036~> null
+$Stella_Rossa<~Controls.644~>245 217 <~Controls.645~><~Game.2035~> FC1203
+$Bishop<~Controls.323~>247 0EE615
+$Stella_Rossa<~Controls.323~>247 2EDB27
+$Bishop<~Controls.644~><~Controls.645~><~Game.2035~> 0E7CF9
+$Bishop<~Controls.323~>247 417768
+$Stella_Rossa<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 01AC22
+$Stella_Rossa<~Controls.819~> 89364A
+$Stella_Rossa<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> E32068
+$Stella_Rossa<~Scribe.141~>253 038 039 <~Scribe.142~><~Game.1911~><~Scribe.143~><~Game.1954~><~Scribe.144~> AE0847
+$Stella_Rossa<~Controls.644~>101 <~Controls.645~><~Game.2035~> 273DEA
+$Bishop<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> F4457E
+$Bishop<~Controls.323~>247 045847
+$Bishop<~Controls.644~>212 <~Controls.645~><~Game.2035~> 1AA5D7
+$Stella_Rossa<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> B81F84
+$Stella_Rossa<~Scribe.141~>reveal 184 0614E98E47D96527445506533484A564BC249E0A 2 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 9EC67C
+$Stella_Rossa<~Scribe.141~>346 056 052 051 050 <~Scribe.142~><~Game.1986~><~Scribe.143~><~Game.1984~><~Scribe.144~> FB74B3
+$Stella_Rossa<~Scribe.141~>054 053 <~Scribe.142~><~Game.1987~><~Scribe.143~><~Game.1984~><~Scribe.144~> 8B493D
+$Stella_Rossa<~Scribe.141~>253 038 039 040 335 029 015 014 013 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1962~><~Scribe.144~> 45AB1B
+$Stella_Rossa<~Scribe.141~>013 <~Scribe.142~><~Game.1962~><~Scribe.143~><~Game.1954~><~Scribe.144~> DA6BEB
+$Stella_Rossa<~Scribe.141~>037 036 027 028 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.1943~><~Scribe.144~> 136C27
+$Stella_Rossa<~Scribe.141~>027 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.1944~><~Scribe.144~> B17E6B
+$Stella_Rossa<~Controls.644~>100 184 <~Controls.645~><~Game.2035~> 812380
+$Bishop<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> A8F265
+$Bishop<~Controls.819~> 5E0133
+$Bishop<~HighlightLabel.86~>359<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 632977
+$Bishop<~CardBuffet.9~>reveal 135 81681CD35F462AF661CFBA61F06B562FA61B71A8 17<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> C9E9CB
+$Bishop<~Controls.281~>235 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2044~> 74CFBD
+$Bishop<~Controls.644~>359 135 <~Controls.645~><~Game.2035~> E2B12B
+$Stella_Rossa<~Scribe.141~>361 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 5A4C24
+<Stella_Rossa> Erebor C7E450
+$Stella_Rossa<~Scribe.141~>257 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> 2A9551
+$Bishop<~Scribe.141~>062 312 061 060 <~Scribe.142~><~Game.1965~><~Scribe.143~><~Game.1988~><~Scribe.144~> E84643
+$Stella_Rossa<~Scribe.141~>253 038 039 040 335 029 015 014 <~Scribe.142~><~Game.1962~><~Scribe.143~><~Game.1965~><~Scribe.144~> CE3F79
+$Stella_Rossa<~Controls.644~>361 <~Controls.645~><~Game.2035~> 3C8363
+$Bishop<~Controls.271~>211<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 189E9F
+$Bishop<~Controls.790~>247<~Controls.791~><~Game.525~><~Controls.792~><~Game.528~> 6B3303
+$Bishop<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 996018
+$Stella_Rossa<~Controls.624~>220<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Stella_Rossa> 4r 43AF39
+$Bishop<~Scribe.141~>243 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2037~><~Scribe.144~> 143D0A
+$Bishop<~Scribe.141~>252 <~Scribe.142~><~Game.2019~><~Scribe.143~><~Game.2021~><~Scribe.144~> AC1254
+$Bishop<~Scribe.141~>244 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> 56D19F
+$Bishop<~Controls.323~>247 BECB15
+$Bishop<~Controls.644~>220 243 <~Controls.645~><~Game.2035~> F64595
+$Stella_Rossa<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 164999
+<Stella_Rossa> Iron HIlls from East Rhun FAE09C
+<Stella_Rossa> nc 3FF474
+<Bishop> nc 7D3CDF
+$Stella_Rossa<~Scribe.141~>257 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> A6C414
+<game> Stella_Rossa<~Controls.1~> 1 2 5 6 3 null
+<Stella_Rossa> 2 10DC2B
+<game> Bishop<~Controls.1~> 1 null
+$Stella_Rossa<~Scribe.141~>257 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> B19BA9
+$Bishop<~Scribe.141~>059 <~Scribe.142~><~Game.1973~><~Scribe.143~><~Game.2037~><~Scribe.144~> 742081
+$Stella_Rossa<~Scribe.141~>346 056 054 053 052 051 050 <~Scribe.142~><~Game.1984~><~Scribe.143~><~Game.1973~><~Scribe.144~> 11B54A
+$Stella_Rossa<~Controls.644~>105 059 <~Controls.645~><~Game.2035~> 6045BD
+$Bishop<~Controls.726~>211 210 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> C6AF9A
+$Bishop<~Controls.731~>359 212 358 213 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> F27A4D
+$Stella_Rossa<~Controls.757~>104 360 099 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 6E668D
+<~Game.7~>9 null
+$Stella_Rossa<~Controls.762~>105 361 100 101 103 102 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> CA2C64
+$Bishop<~Controls.509~>142<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Bishop<~Controls.509~>106<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Stella_Rossa<~Controls.509~>174<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Stella_Rossa<~Controls.509~>175<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<Bishop> fsp ok E49196
+$Stella_Rossa<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> 7BA237
+$Stella_Rossa<~Controls.345~>105 361 100 101 103 102 104 360 <~Controls.346~>14 13 10 10 14 12 10 10 null
+$Stella_Rossa<~Controls.350~>105 361 100 101 103 102 104 360 null
+$Bishop<~Controls.345~>359 212 358 213 211 210 <~Controls.346~>2 0 1 0 1 4 null
+<Bishop> i need a pasue 5 min C65674
+<Stella_Rossa> wow B0F916
+<Stella_Rossa> right now? 8F971A
+<Stella_Rossa> ok 35280D
+<Bishop> no 28C2AE
+<Bishop> ready DD3A59
+<Bishop> we finish 1C4015
+<Stella_Rossa> k FB23D7
+<Stella_Rossa> your turn A10ADB
+$Bishop<~HighlightLabel.86~>358<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> CFBA42
+$Bishop<~Controls.323~>247 0ADF39
+$Bishop<~Controls.644~>358 <~Controls.645~><~Game.2035~> BBD648
+$Stella_Rossa<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> F88805
+$Stella_Rossa<~Controls.509~>165<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Stella_Rossa<~Controls.644~>105 <~Controls.645~><~Game.2035~> 6E921E
+$Bishop<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 238F4C
+$Bishop<~Controls.790~>247<~Controls.791~><~Game.528~><~Controls.792~><~Game.529~> 64D0C2
+$Bishop<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> DABCFA
+$Stella_Rossa<~Controls.624~>229<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Bishop<~Scribe.141~>244 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2037~><~Scribe.144~> 617650
+$Bishop<~Scribe.141~>252 <~Scribe.142~><~Game.2021~><~Scribe.143~><~Game.2022~><~Scribe.144~> EFC703
+$Bishop<~Controls.644~>229 244 <~Controls.645~><~Game.2035~> EDDB4A
+$Stella_Rossa<~Scribe.141~>364 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1999~><~Scribe.144~> BD664E
+$Stella_Rossa<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 86F804
+$Stella_Rossa<~Scribe.141~>255 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1969~><~Scribe.144~> D44A11
+$Stella_Rossa<~Scribe.141~>362 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2037~><~Scribe.144~> 8C0B5A
+$Stella_Rossa<~Controls.644~>101 362 <~Controls.645~><~Game.2035~> 9BDD30
+$Bishop<~HighlightLabel.86~>359<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 78BB55
+$Bishop<~CardBuffet.9~>reveal 125 154042457C3FA16EEAF97709D83CE94615EC144B 2<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> 604CD3
+$Bishop<~Scribe.141~>252 <~Scribe.142~><~Game.2022~><~Scribe.143~><~Game.2021~><~Scribe.144~> 197EE9
+$Stella_Rossa<~Scribe.141~>125 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2036~><~Scribe.144~> CAA8A2
+$Bishop<~Scribe.141~>247 <~Scribe.142~><~Game.529~><~Scribe.143~><~Game.532~><~Scribe.144~> 7E88D1
+$Stella_Rossa<~Controls.624~>219<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Stella_Rossa> 2r 8FD688
+$Bishop<~Controls.323~>247 3B525B
+$Bishop<~Scribe.141~>252 <~Scribe.142~><~Game.2021~><~Scribe.143~><~Game.2023~><~Scribe.144~> DEB31D
+$Bishop<~Controls.644~>359 125 219 <~Controls.645~><~Game.2035~> 36E33E
+$Stella_Rossa<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 98DAA6
+$Stella_Rossa<~Scribe.141~>251 <~Scribe.142~><~Game.2012~><~Scribe.143~><~Game.2037~><~Scribe.144~> A8134D
+$Stella_Rossa<~Scribe.141~>360 <~Scribe.142~><~Game.2035~><~Scribe.143~><~Game.1997~><~Scribe.144~> F2D495
+$Stella_Rossa<~Controls.644~>251 <~Controls.645~><~Game.2035~> AB400A
+<Stella_Rossa> still my turn 3C0630
+$Bishop<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 436E6D
+$Bishop<~Controls.819~> 60E9AF
+<Bishop> yep 55C05D
+<Stella_Rossa> still my turn when I play a ring 278D49
+<Stella_Rossa> ty BA7CCC
+$Stella_Rossa<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> F162FE
+$Stella_Rossa<~Scribe.141~>346 056 054 053 052 051 050 <~Scribe.142~><~Game.1973~><~Scribe.143~><~Game.1965~><~Scribe.144~> D46CEE
+$Stella_Rossa<~Scribe.141~>054 <~Scribe.142~><~Game.1965~><~Scribe.143~><~Game.1973~><~Scribe.144~> B05748
+$Stella_Rossa<~Scribe.141~>037 036 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.1931~><~Scribe.144~> 2DF7D1
+$Stella_Rossa<~Controls.644~>102 <~Controls.645~><~Game.2035~> 20214E
+$Bishop<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 8612AB
+$Bishop<~Controls.323~>212 C77FD8
+$Bishop<~Controls.323~>247 B83E40
+$Bishop<~Controls.644~>212 <~Controls.645~><~Game.2035~> 40D9C1
+$Stella_Rossa<~Scribe.141~>361 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 2D99D6
+<Stella_Rossa> Erebpr 632DBB
+$Stella_Rossa<~Controls.840~>185 3D77A5
+$Bishop<~Controls.840~>106 EFBFB1
+<auto> playchosen B82AD2
+<auto><~Controls.3~>reveal 106 287F27AD746104527B1E7A584A8EE8DBB339F802 16<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 4B1D7D
+<auto><~Controls.866~>reveal 185 B6AB6736583D2B8079904A051C03AA5D67EB6B8E 1<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 3F7097
+<auto> playchosen 1F518A
+<game> Stella_Rossa<~Controls.1~> 4 1 4 5 4 null
+<game> Stella_Rossa<~Controls.1~> 3 3 2 3 null
+<Stella_Rossa> 1 D240E3
+<game> Bishop<~Controls.1~> 4 3 4 null
+<game> Bishop<~Controls.1~> 2 null
+<Stella_Rossa> +1 A195B9
+<Stella_Rossa> press 16F02E
+$Bishop<~Controls.304~>312 061 <~Controls.305~><~Game.1988~> 7B755F
+$Bishop<~Controls.313~>317 059 <~Controls.309~>(1)/casualties(1)<~Controls.314~><~Game.1988~> EEFB7C
+$Stella_Rossa<~Controls.304~>335 <~Controls.305~><~Game.1965~> 76BCC6
+$Stella_Rossa<~Controls.313~>011 <~Controls.307~><~Controls.314~><~Game.1965~> 67F74C
+$Stella_Rossa<~Controls.509~>164<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Stella_Rossa<~Controls.662~>185 106 <~Controls.663~><~Game.2035~> 087E13
+$Stella_Rossa<~Controls.840~>175 5359F6
+<Bishop> nc 9EACE6
+$Stella_Rossa<~Scribe.141~>reveal 175 CBC7A242F4FA0E7F0F478B7AE8E3DBF74F44CA2D 9 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2036~><~Scribe.144~> 2D11E2
+<game> Stella_Rossa<~Controls.1~> 3 6 4 1 5 null
+<game> Stella_Rossa<~Controls.1~> 6 3 2 null
+<Stella_Rossa> 3 BE75F4
+<game> Bishop<~Controls.1~> 4 6 5 null
+<game> Bishop<~Controls.1~> 6 null
+<Bishop> 3 34C777
+$Bishop<~Scribe.141~>062 317 059 060 <~Scribe.142~><~Game.1988~><~Scribe.143~><~Game.2036~><~Scribe.144~> CA06BF
+$Stella_Rossa<~Controls.281~>346 050 <~Controls.282~><~Game.1965~><~Controls.283~><~Game.2040~> DE0182
+$Stella_Rossa<~Scribe.141~>423 <~Scribe.142~><~Game.388~><~Scribe.143~><~Game.391~><~Scribe.144~> 78493C
+$Stella_Rossa<~Controls.644~>361 175 062 317 059 060 <~Controls.645~><~Game.2035~> C49A2A
+$Bishop<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 88E57D
+$Bishop<~Controls.790~>247<~Controls.791~><~Game.532~><~Controls.792~><~Game.533~> 6F5C31
+$Bishop<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 0948FE
+$Stella_Rossa<~Controls.624~>227<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Stella_Rossa> gg E3B7AE
+$Bishop<~Scribe.141~>252 <~Scribe.142~><~Game.2023~><~Scribe.143~><~Game.2025~><~Scribe.144~> 0AECB0
+$Bishop<~Controls.323~>247 ECBE32
+<Bishop> gg 20F10B
+<Stella_Rossa> ty for the game 6D3A3F
+<Bishop> colse 7040EB
+<Stella_Rossa> bye DF2B53
+<~Talker.22~> null

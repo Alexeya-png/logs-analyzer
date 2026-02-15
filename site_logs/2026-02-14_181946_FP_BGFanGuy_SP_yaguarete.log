@@ -1,0 +1,1255 @@
+<auto> silent null
+<auto><~Scribe.141~>363 397 398 402 401 400 399 403 404 376 375 374 373 377 378 <~Scribe.142~><~Game.2038~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>365 366 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 367 368 369 370 371 372 <~Scribe.142~><~Game.2040~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>230 231 <~Scribe.142~><~Game.2044~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>155 152 <~Scribe.142~><~Game.2004~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>137 151 <~Scribe.142~><~Game.2005~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>161 198 <~Scribe.142~><~Game.2006~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>163 188 <~Scribe.142~><~Game.2007~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Controls.323~>364 null
+<auto> noisy null
+<auto> silent null
+<auto><~Scribe.141~>312 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1965~><~Scribe.144~> null
+<auto> noisy null
+<~Game.7~>1 null
+<auto> silent null
+<auto><~Scribe.141~>363 397 398 402 401 400 399 403 404 376 375 374 373 377 378 <~Scribe.142~><~Game.2038~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>365 366 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 367 368 369 370 371 372 <~Scribe.142~><~Game.2040~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>230 231 <~Scribe.142~><~Game.2044~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>155 152 <~Scribe.142~><~Game.2004~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>137 151 <~Scribe.142~><~Game.2005~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>161 198 <~Scribe.142~><~Game.2006~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>163 188 <~Scribe.142~><~Game.2007~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Controls.323~>364 null
+<auto> noisy null
+$base silent null
+$TEST<~Scribe.141~>312 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1965~><~Scribe.144~> null
+$base noisy null
+<game> BGFanGuy<~Controls.408~>[WOTR-Gandalf2 wotr base2] null
+<~Talker.31~> null
+<BGFanGuy> hi 
+<BGFanGuy> you here? 
+<Yaguar> I am 
+<Yaguar> Can you read me? 
+<BGFanGuy> yes. so odd. 
+<BGFanGuy> client seems fiddly at the beginning but seems good now 
+<Yaguar> Finally! 
+<BGFanGuy> high roll for side is good with me. 
+<BGFanGuy> any action tokens? 1 for FP? 
+<BGFanGuy> or you happy as is 
+<Yaguar> Let's do it with no tokens 
+<BGFanGuy> ok, high roll picks 
+<game> BGFanGuy<~Controls.1~> 5 null
+<Yaguar> As the designer designed it, lol 
+<game> Yaguar<~Controls.1~> 1 null
+<BGFanGuy> ok, then, I'd prefer free. 
+<Yaguar> Very well 
+$BGFanGuy<~Controls.464~>5ABD92E6AD90A152BB4D6753C10A512C0AB2CB3D FF1F2F0D06B23D0D9A5AE6A9598C922F 24 F7BEC3BD2624D524F1438FABA59BF512C7C59E03 5042186E5472D910624FBB4C470C428F CA902B80BC5CC4250CFA55244D3593F81E7F6F1E B84846C66CB02D6A1643842F7FBAECC7 50058ED53A31F40A12DA463357527C01789C0E3A 5D661C6F254B3F287B46F207B6EFE948 87E9786B594CADD9AC2B986738E913D3394D22DF EEB97FF4273A68A2152ECBA4244A2886 3855B056A2DAA7036A65810B4877A93366A2AC56 9F19D7279D033DECCD674C0854FC632B A786C4738911352C2A4AEF972398EA1615F8DAD1 711B6D3C29596795CD0633CA3BB572C2 AE9CB1D5AA371564599545D2238A9D15F8F2AED0 B6DDB312181059EDAE29DE9D8C75DD18 552DA7163C62309E886AAD9FEF8C9769DB7035BD D453DE31D6E839C1D51EAF484AE6B1CB FC02FF1A10B55774F86ADCA3BEAAF9CD71D1F9A9 481B3B8CA4D9A56919EB1C699E04FAEC 7EEE0E28DAED1BFA6AA430C693D8483688AA0D53 EE1CF9B687D0F8D4A916274EEA36E27D B49B2535A57323E7F059D816984B655C4C8AC357 7E7EBEE9832040152DE42D131D1F8398 A56F3FA00864322F2F41FE793B56418E55321BFB 59A8FED9090EB9552A56F4EB48BEC54D 7B26FB3101AFBE581F2CF4235CEBF0DBEDFF8831 86638451AD2E472EAAA6F25971BD2DF4 8EA8174358F81B3790E20F5A0B06B5D8D9540675 F65371731B90C43A1B15661DA7EFBE84 50571A0EB6157C8B37F60D6CFC5A7807C4B9C06C 0F5344BF4BDAB803772EF5735661F098 A8F953C608EDF87074F46045CD95CE617A375F5E 676E8C8AF4E02375A5F38D5ADC88F028 4B2A9BA05110E14776278AA9D45E91B5306CAF61 D08E06683D58DBD91E8295725C6CA3A1 26396696C69CACC66388679DE55C73A1D2976ACA 940B4092BAA0C20DD422D721D1D0FCB6 4712F7C621B9E9BE109FCD7C3E883862408CC35C 01AEB84096DE1E024EE31AF365C6E536 A77F5672EB898D277CACC7E95EA6C064918716A0 27E922E50BD0B8E4171D2AF10226FE63 AA8CC549072CE46175B6F7184BCA59F68C4FAEC7 DF4909C31A17A10F598F8A2129D47F2B BCCE5D998FEC670C82771C13BFE7C01ADFB9B888 10630C8378EA8223C4EE9EBD03DD9217 7139A8ADD1AC45FDDE733D020C79CBA7ECAEA22A 2DBA5C2CC761BC4CB30F66CAB5BDBEBC D91458608610BF76CAE68A3259510D0C6C101DE8 017848F705D13223910E0017F86E16AF 24 A7934B2EE73B6B7FFF00B1967A6530C4D386E68B AEE1EC5A49E74CF9791AB3FAE70482BF 471BAB8897CD6F63774D0686DD482BE0FE56B631 F2DD977AAB84E3DE1CC69FCA1BF86164 C1818C640D87B8D75D050EBA1523B2F256CD48BF AC0A661D847B9564E702EF77F46BF51F CF948D267A6A71F1FDAF88B7AE20AB7E97E7F4F5 9E266ED8D7B0F909652A42073906AE63 66DC24A4EFF2DF90746FBF4B8E0CA10786A93529 74D392410E50EEA8E1B9CF2BE32B319F E380B7F9FDAC0FF5A0FADDD725F66672308DB642 05F41F5BE805FB884FA41DBA35B76FB5 15B739E55420F405C03FF52C9E815DA46972202D D82AE9EEB176A7AA6B5EF479107B3A27 5106B45113393115C6CAE41B754B34DA9DA72420 E83CF306B463065B2209341B84274BA2 B3F207E5894D52499B4CD473859B7DB4A93CD15C AB5C0AE2EE33C9FE315EE757AA631EE3 B9F66DA12913C65F68673985725EC3D7C667B9AE 50A143B803D436F90C438625B03075A0 66B802DA0678BE37F741DA4A3F8E0F92B24F88AE 482E88EE75219C89002614EA34EA2086 0B0C7E20CEB7F44D2E0125B69AB1058A796DC616 08CF2C4D13557BD09B89E405D6771EAB DEEBF567D460EF9BF367F55E92B8D6EDFBC44F11 0C0B81C4AF2023F84B62925A08843AD2 CBA524819F87DB624064E3C4FF2608212CE20768 1EF66CDF1374ADC1442A5D6127CCC19D C6814C3E830E5535D3F9D2BA714DF649AE2935D3 D840E557341DF1B2A7CFE898CFDD5D7B 5D3CF8016FCDD90DD093F921B13DABD7223AEDE9 664D7137A8B7F082E0E08BB26AD56FCE DC65AD6F2F1A47D2D88107E2D2421AC2494B402B 904C776F559F048C4F9B29B40AF23FFA 0CA9D3A5216B3E7373AD96101E157A19806953A8 F7A6BE0D6ADAA4542AC04BE3781272AB 9E2B7749E9206A43D04DB6831204A3E50256A440 9E36D9D1932E9334A0530A8B8D6F9CBE B7A3D5DA682F9C3267FF6BC1B3153ABC5606D4A9 AC14286468D574BB42AA8DB6BF27DF91 7D67672BCE10BC14DB407C7B337F295406349021 6FFF383F2584EE7A9E68D99FFE6F3076 3E629E74B3FB476B2592ACF59D88A4665F9BA4E1 A49C853CA0BA4CD82C59558CC07DFA6B 97E32BE871CA79E6716B19ADBC0E94F9A6F0D53D F51B6EE6778DED6B6E3C73F85A7EE5CA D59D8B94023C372D60F792414721B8A99F027BD3 C2FDDC36885F408652F71E88922F79E7 0 0 481EA2
+$BGFanGuy<~Controls.509~>109<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$BGFanGuy<~Controls.509~>131<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Yaguar<~Controls.479~>8B081E371D76630F2665D67B732F7652319E8452 F9EECCF0DC0635819B1EFB4DF844E6C8 24 539BA9E9471ACAE409DD8440CE6BB9424412C8AF D86F755B8859BEBFB5DAEED3F719EB09 64595E610583C9A9784DDFD86ED7D8BC1DF2E808 A60D331D813E31090A4A302FA3143E5C 97ED361D46C378C883B3D5EC857801CA556228E7 26C16B17C834FE7F648609E057C482E0 40D5D349C33D0E9A2419D80ED6341069DA276185 E26C11908B153A159469C147B99863A3 9830E71F97D695267236D3AD091F8A1834F68B2A 832879E1EF9E661EEFBA5A801B74BEBB 44C3D8E262B8AAD2DC8F7E4C537C2D5DA0705D1D 636D0B0B1067F2A8F93F145E24801D7B A76D118EABAFDF5274226683205FC86EDD33428C 60F8F122457B962160A40C9AAF28D644 1AECA2FDB66426D89D3ED8E9B5E1767F21C5B8C6 F374E1C5A82F582B2B6D28C4F2606271 9664D7DBAA282BD1609BF3C73E3DD38A678AD47C 80456A0DD5E25999336B87A1E3962626 5B497E048C7C3D84C5F77791D99AE45468033478 EEFC1C60F0B90D40D160BA9FD6F81870 2866D089491CCBF2CE2CA1F1346245FB7E6B3609 7A5D847EED9809DAD8CEC08A6AF1E44F C94AD659D673EE2314CA1448EC4280DE05FD538A C8F0BF7D0BDBEB2AC51CE277A6FD6FFA FEC6A6E4110201B56B5B714705212C9B78269362 3B8DA739A08FB4433590F4085E4153F7 452B3C9BF05B433BCEDF634088C5020AF695F5A3 855C110E1C3FEFB797C7D7ADDB7D2F42 B9F27AA7C72BF56011A89A93041EDB766FF55F9F 8137590E477C455E21AC0F34BA4EF749 234E5476C139B9FC637DCBC89B8DBBC6E67CBC2E 3F6BE144CDC5D211070FC8D114D1A5E4 0DE7DAC19A403A4DBA52BC7D4D3423B8446F9004 603B32DFFC7B16C8EA655869DF1896BC 01DF2005D59E876689C3954092567D48DFC81020 A4B5DE3FCBEEE8298E5AE237931812B1 1133D78A223A35D86E6A82A13D4B2E5B75D92639 C1AAAA421DC8A4F0D0211DA410DFF553 9386C97257D6CBFF9F1744530098F9864EEB5557 76E0D62A47560654D6CD0ACDBE4FAE74 0916112C8DFF2F293870F619CFB9B4C1523FAE25 DED035A4CF7A565D870F749AF5B8A843 11697AD8F07F9E49D01F14C53B00ED2224DD4034 098BFC7676418F813E1BDAED9FECBA6A F1B5BDD54174D9E6F4829F3F7943CAD233550E6D C888686179638442B9A455A11CBF61C5 214CC8A1ED4B406D99A370851E11E436FD9FE0AA C88D8C62123BFA165726D5ED65102E99 24 0F589BC90F230AE15285A3BAB8931A3F06313303 E1E3235C44EB398F82E79BBA73C39619 8EC3EE2E840BCE7ECC0D7B5B821035C14EAECEF1 B0886C9FD8BF59AF69760610E147E814 9696C476D65F39D35D45DBEFBEA8E89DF0CC5A42 6220FEDFA2095D26F288B036D0997038 7E3766ED322E819AF1A0AD7F84F36A685FC2B6B5 D2C19C6008FBBE41EF7863ED0ADC90E2 1C01196AB95A56B4E4791DF8F49D11D7407E013D D6EF6386C44830E48FCFF30269F04BD8 2C8339B454362B5D4C24463B0BEEB4FE111A1D2C D6539777E89287041694A7A879B27BEB 034D8479CA7672675444B9D04FE9ABB4EC0723D8 9D0D2CFA22DA603BD05126155CB84C15 228A90E21FD711E8FEAAA53765E169D6AD426B08 73ACF6734185E81A43098FDAEEBD3A48 C34502513ECFF89194D21B4ABAD12E7A02B13B0E 6B259718F8BA12A9A3805F63281EC633 45E6FFBA312AE09DA46E2C111577D0D88F45E182 F85AFDE8E01348918AA79BD4C9FEBCF4 EFFACC71432C7BDBEAD6174CCBFE5C77DC50185E C609F6F2C3E89CFBE8015B7F321279AD A714A3C936500D901F90D84675446BDAEF376467 C72ED91517C1386D374ECDB391131DDC 703BE3738ED2BA28EA9FFC77BA39B0C9B1CB3289 8B3A70A1C7A5E76BF3DA263B4261EBF7 4FA516DBB046E3D21702F20409B5179C396F30C3 D4A5BB2E395C279E493FF8BF7159810C DB8C98D5EBA8659933C627B1302468CE16259E73 69BBA4AC8CCD9ED50E6B7CB4035D5938 A2543D9C8F5F984DFCDD52A338C7A12BEAF648A9 2AAB216E211E0E6CF241A3BFB69CAFCD C04F31C43DE4B0E678FCB5A7B3DBC64DEA399600 643A1F115D39AAEEF4354EC386140468 2DDDC30CD3BD617DDC604E327EB7C4CF836AF7C1 66A5E4E6ACD5BE991895973B52593647 AAA123E93764D65BDA442687F7F0E56D3658830F 5486DB84C8349E3A587E540FBF1CDE41 531C10B2D3FEA2336F7C02C24C11E0E6E5AD0F78 3AD5EEC83A2496D0D7B18C285C8B4D5D CEB9B4DFBB2B7253E67A0025C696AB4F8FB0E5CE 635551B42002169B5CB0A2FF07E9D8B0 6CAF57741A5D1E268423B0117BDB8E48DC5423B3 EB03AD6B31CAA913FDDD99108E0FD16D 97B25FF0F393F0D1981542D2B6E6EF91A7515B46 935BC2A1FE6E2ACA1A9C8F4E98B3545C 2EEF546507EE0A6F364B5F7FA130B876761DC2DF D48197FA7A03C4E88D8E57A1C693F6A0 0 0 C2013B
+$Yaguar<~Controls.509~>194<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Yaguar<~Controls.509~>186<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<BGFanGuy> I've played a couple times but happy for you to correct anything I mess up 5FD62A
+<BGFanGuy> fsp good DF1736
+<Yaguar> Ok BF3987
+<BGFanGuy> (I've played the game a lot, just only used Java a couple times) 3E349D
+<Yaguar> So, I assign eyes, right? 346A32
+<BGFanGuy> yes 02B9F1
+<BGFanGuy> unless you want to assign 0 eyes (:-)  ) 130855
+$Yaguar<~Controls.281~>105 104 103 102 101 100 099 <~Controls.282~><~Game.2043~><~Controls.283~><~Game.2043~> 0B5736
+<BGFanGuy> control E 00124C
+$Yaguar<~Controls.372~>105 70F40D
+<Yaguar> Thx F1091D
+<Yaguar> It's 1 E4A623
+<BGFanGuy> ok 69967C
+<BGFanGuy> then select all your dice, and Control R to roll them all 83525A
+$BGFanGuy<~Controls.345~>213 212 211 210 <~Controls.346~>3 0 1 3 null
+<Yaguar> That was you doing ctrl R? CF3848
+<BGFanGuy> yes, I rolled my blue ones. 5E76E0
+$Yaguar<~Controls.345~>104 103 102 101 100 099 <~Controls.346~>14 12 11 10 13 11 null
+$Yaguar<~Controls.350~>104 103 102 101 100 099 null
+<Yaguar> I see 7F867E
+<BGFanGuy> nice, can't ask for a better roll than that! FA02F7
+<BGFanGuy> pass 14D3EF
+<Yaguar> Ok, I want to advance Isengard 0E62C3
+<BGFanGuy> so double click on your muster die E816C9
+$Yaguar<~HighlightLabel.81~>101<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 82F512
+<BGFanGuy> and then move isenguard to at war BF5879
+$Yaguar<~HighlightLabel.101~>263<~HighlightLabel.102~><~Game.2002~><~HighlightLabel.103~><~Game.2003~> 192B3C
+<BGFanGuy> and then click that muster die and hit ESC CD017E
+$Yaguar<~Controls.644~>101 <~Controls.645~><~Game.2035~> EEA983
+<Yaguar> Thx! 5D0C1D
+<BGFanGuy> pass 4266B4
+<BGFanGuy> and I think we agreed this is hobbit league game, yes? 67F381
+<Yaguar> Yes ADDDA9
+<BGFanGuy> ok, pass C59B71
+$Yaguar<~Controls.276~>102<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 7C1396
+<Yaguar> Saruman 6988C6
+<BGFanGuy> ok, so go under Shadow and get him out of your Force pool and put him in Orthanc 3D590F
+<BGFanGuy> by left clicking on him, and then when done, click your hyubrid dice and hit ESC 5163A4
+$BGFanGuy<~Scribe.141~>362 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2037~><~Scribe.144~> 35F1B0
+<BGFanGuy> and I did the same thing for his dice so that will go in for next turn 1E358B
+<BGFanGuy> you good? 196C05
+<Yaguar> I'm having trouble putting Saruman 5A6482
+$BGFanGuy<~Scribe.141~>254 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1919~><~Scribe.144~> BBA3A4
+<BGFanGuy> I put him there for you 920AE0
+<Yaguar> Thx 87671D
+<BGFanGuy> sure. So lick on your hybrid dice in the main window, and hit ESC C69880
+<Yaguar> Next muster I see 07A275
+$Yaguar<~Controls.644~>102 362 <~Controls.645~><~Game.2035~> 6D92E1
+$BGFanGuy<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> EC9D49
+$BGFanGuy<~Scribe.141~>260 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> 2DBA45
+$BGFanGuy<~Controls.644~>213 <~Controls.645~><~Game.2035~> AC9513
+$Yaguar<~HighlightLabel.81~>103<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 015A68
+$Yaguar<~Scribe.141~>039 036 029 028 027 026 <~Scribe.142~><~Game.1979~><~Scribe.143~><~Game.1977~><~Scribe.144~> 4B4349
+$Yaguar<~Scribe.141~>034 033 <~Scribe.142~><~Game.1971~><~Scribe.143~><~Game.1977~><~Scribe.144~> 660976
+$Yaguar<~Controls.644~>103 <~Controls.645~><~Game.2035~> 600A62
+$BGFanGuy<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 3AC09E
+$BGFanGuy<~Scribe.141~>256 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> 6A736C
+$BGFanGuy<~Controls.644~>210 <~Controls.645~><~Game.2035~> FD3C42
+$Yaguar<~HighlightLabel.81~>104<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> F2206C
+$Yaguar<~Controls.509~>165<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Yaguar<~Controls.644~>104 <~Controls.645~><~Game.2035~> 4E3A9B
+$BGFanGuy<~Controls.271~>211<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> F00641
+$BGFanGuy<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> FE8424
+$BGFanGuy<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> B8E88B
+<Yaguar> Do I roll 1d6? EC9F09
+<BGFanGuy> so Control 1 to roll for hunt EBB8CC
+<BGFanGuy> yes D10782
+<game> Yaguar<~Controls.1~> 1 null
+<Yaguar> Good 52EFBD
+<BGFanGuy> safe 107FAD
+$Yaguar<~HighlightLabel.81~>100<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 46C4F1
+$Yaguar<~CardBuffet.14~>reveal 165 F4FD141EFAD6F973A7FF01D43E073D6E6BCA5AB1 19<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 4413E4
+$Yaguar<~Scribe.141~>165 <~Scribe.142~><~Game.2036~><~Scribe.143~><~Game.2034~><~Scribe.144~> 9D89D4
+$Yaguar<~Controls.644~>100 <~Controls.645~><~Game.2035~> 35FE2E
+$BGFanGuy<~Controls.271~>212<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 226482
+$BGFanGuy<~Controls.790~>248<~Controls.791~><~Game.2015~><~Controls.792~><~Game.2016~> 504F14
+$BGFanGuy<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 22CCC0
+<BGFanGuy> if you want to use flocks, you say it, otherwise Control 1 to hit on 5 and 6 5E4350
+<Yaguar> I'll just roll 202CB4
+<game> Yaguar<~Controls.1~> 1 null
+$Yaguar<~Controls.296~>100 <~Controls.297~><~Game.2035~> 9CBFFE
+<Yaguar> That's my third 1 ion a row! E4D2E2
+<BGFanGuy> Hobbits are loving it DC583F
+$Yaguar<~Controls.276~>099<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> F330C9
+$Yaguar<~Scribe.141~>036 028 029 033 034 <~Scribe.142~><~Game.1977~><~Scribe.143~><~Game.1969~><~Scribe.144~> C59406
+$Yaguar<~Scribe.141~>055 049 048 047 <~Scribe.142~><~Game.1968~><~Scribe.143~><~Game.1946~><~Scribe.144~> 5A4D33
+$Yaguar<~Controls.644~>099 <~Controls.645~><~Game.2035~> DC180C
+<BGFanGuy> turn 2 35690F
+<BGFanGuy> Control 0 to recover your dice and draw cards then 028DF7
+$BGFanGuy<~Controls.726~>212 211 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 56DA7A
+$BGFanGuy<~Controls.731~>210 213 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> CBFE24
+$BGFanGuy<~Controls.509~>123<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Yaguar<~Controls.757~>105 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 2E8926
+<~Game.7~>2 null
+$Yaguar<~Controls.762~>099 100 104 103 102 362 101 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> BE7AA0
+$BGFanGuy<~Controls.509~>143<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+<BGFanGuy> fsp ok 630E94
+$Yaguar<~Controls.509~>179<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Yaguar<~Controls.509~>178<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Yaguar<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> D09D3D
+<Yaguar> 1 5E6DC2
+<BGFanGuy> ? it's a new turn, you allocate eyes 30273E
+$Yaguar<~Controls.281~>099 <~Controls.282~><~Game.1997~><~Controls.283~><~Game.2043~> 7361BE
+$Yaguar<~Controls.281~>099 <~Controls.282~><~Game.2043~><~Controls.283~><~Game.2043~> 1C85C8
+<BGFanGuy> so control E 65A879
+$Yaguar<~Controls.372~>099 41E5A4
+$BGFanGuy<~Controls.345~>210 213 212 211 <~Controls.346~>3 4 0 4 null
+$Yaguar<~Controls.345~>100 104 103 102 362 101 105 <~Controls.346~>10 15 15 14 14 15 11 null
+$Yaguar<~Controls.350~>100 104 103 102 362 101 105 null
+<BGFanGuy> wow, not great rolls for either of us... D86699
+$BGFanGuy<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> DAB86E
+$BGFanGuy<~Scribe.141~>065 <~Scribe.142~><~Game.1941~><~Scribe.143~><~Game.1957~><~Scribe.144~> 71E19B
+$BGFanGuy<~Scribe.141~>073 072 <~Scribe.142~><~Game.1929~><~Scribe.143~><~Game.1925~><~Scribe.144~> 471981
+$BGFanGuy<~Controls.644~>213 <~Controls.645~><~Game.2035~> 8AB46E
+$Yaguar<~Controls.276~>102<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 2300F9
+$Yaguar<~CardBuffet.14~>reveal 179 61B9CE72E6BBFC727003CBFDB670E968AC255817 1<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 83C63B
+$Yaguar<~Scribe.141~>179 <~Scribe.142~><~Game.2036~><~Scribe.143~><~Game.2033~><~Scribe.144~> 36FB5D
+$Yaguar<~Controls.644~>102 <~Controls.645~><~Game.2035~> DC27FC
+$BGFanGuy<~Controls.271~>210<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> AD7886
+$BGFanGuy<~Scribe.141~>256 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> 194F47
+$BGFanGuy<~Controls.644~>210 <~Controls.645~><~Game.2035~> 4398E9
+$Yaguar<~Controls.276~>105<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 76C6D1
+$Yaguar<~Scribe.141~>037 036 028 029 033 034 020 019 018 017 016 <~Scribe.142~><~Game.1969~><~Scribe.143~><~Game.1964~><~Scribe.144~> 1689CB
+$Yaguar<~Scribe.141~>039 027 026 032 031 030 <~Scribe.142~><~Game.1977~><~Scribe.143~><~Game.1969~><~Scribe.144~> 2E2AD4
+$Yaguar<~Controls.644~>105 <~Controls.645~><~Game.2035~> 651800
+$BGFanGuy<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> C75B92
+$BGFanGuy<~Controls.366~>251<~Controls.367~><~Game.2010~><~Controls.368~><~Game.2011~> F756EA
+$BGFanGuy changes 211  to C CA65B3
+$BGFanGuy<~Controls.790~>248<~Controls.791~><~Game.2016~><~Controls.792~><~Game.2017~> 258E32
+$BGFanGuy<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> AA91D9
+<Yaguar> Yeah, I'll use flocks D67930
+<BGFanGuy> figured 12436E
+<Yaguar> Just remove it? 3F0009
+<BGFanGuy> yes, and control-4 to roll 4 F1773A
+$Yaguar<~Controls.644~><~Controls.645~><~Game.2035~> 2B7BFF
+<game> Yaguar<~Controls.1~> 4 2 2 1 null
+<BGFanGuy> wow! 4DF5D4
+$BGFanGuy<~Controls.296~>165 <~Controls.297~><~Game.2034~> 724CE4
+<Yaguar> Well', at least it wasn't pure 1s E7DC58
+$Yaguar<~Controls.276~>362<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> CD95B3
+$Yaguar<~Controls.509~>176<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Yaguar<~Controls.644~>362 <~Controls.645~><~Game.2035~> AE9CBE
+$BGFanGuy<~Controls.271~>212<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 04201B
+$BGFanGuy<~Scribe.141~>reveal 109 4977830A9717EF5783CA0231391353EC3A3F6CA9 15 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2034~><~Scribe.144~> 9B5FAF
+$BGFanGuy<~Controls.509~>134<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$BGFanGuy<~Controls.644~>212 <~Controls.645~><~Game.2035~> 3DC401
+$Yaguar<~Controls.276~>100<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 874191
+$Yaguar<~Scribe.141~>260 256 262 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> E36CDB
+$Yaguar<~Controls.644~>100 <~Controls.645~><~Game.2035~> D8D935
+<Yaguar> turn 3 FDE97C
+$BGFanGuy<~Controls.726~>211 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> AECB2E
+$BGFanGuy<~Controls.731~>212 210 213 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> DB2746
+$BGFanGuy<~Controls.509~>133<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$BGFanGuy<~Controls.509~>106<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+<BGFanGuy> fsp good 67F469
+$Yaguar<~Controls.757~>104 103 101 099 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 1380F2
+<~Game.7~>3 null
+$Yaguar<~Controls.762~>100 362 105 102 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> EFD3AE
+$Yaguar<~Controls.372~>100 8D0E2E
+<Yaguar> 1 0C159D
+$BGFanGuy<~Controls.345~>212 210 213 211 <~Controls.346~>3 0 3 2 null
+$Yaguar<~Controls.509~>202<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Yaguar<~Controls.509~>185<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<Yaguar> I cannot do ctrol R B4DE0E
+<BGFanGuy> click on all the dice first? 3CAD4A
+$Yaguar<~Controls.345~>362 105 102 104 103 101 099 <~Controls.346~>10 13 12 15 12 13 14 null
+$Yaguar<~Controls.350~>362 105 102 104 103 101 099 null
+<Yaguar> Right 0AFA83
+<BGFanGuy> i think maybe you accidentally moved gondor and elves to war and not just sauron? 9B10F4
+$BGFanGuy<~Scribe.141~>256 <~Scribe.142~><~Game.2003~><~Scribe.143~><~Game.2002~><~Scribe.144~> 00788C
+$BGFanGuy<~Scribe.141~>260 <~Scribe.142~><~Game.2003~><~Scribe.143~><~Game.2002~><~Scribe.144~> D95336
+<BGFanGuy> pass BC3AA4
+$Yaguar<~Controls.276~>102<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> C6FC7E
+$Yaguar<~Scribe.141~>037 036 028 029 033 034 020 019 018 017 016 <~Scribe.142~><~Game.1964~><~Scribe.143~><~Game.1959~><~Scribe.144~> 66B6E4
+$Yaguar<~Scribe.141~>039 027 026 032 031 030 <~Scribe.142~><~Game.1969~><~Scribe.143~><~Game.1964~><~Scribe.144~> 637D4B
+$Yaguar<~Controls.644~>102 <~Controls.645~><~Game.2035~> 7F6C85
+<BGFanGuy> pass 1B397D
+$Yaguar<~Controls.276~>099<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> CFDC7E
+$Yaguar<~CardBuffet.14~>reveal 185 79D7C738684D2E1F47F5B91178DF5EA112015711 16<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 59CB14
+$Yaguar<~Scribe.141~>352 353 354 355 356 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1977~><~Scribe.144~> 3A09FF
+$Yaguar<~Scribe.141~>340 341 342 343 344 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1971~><~Scribe.144~> D41710
+$Yaguar<~Controls.644~>099 185 <~Controls.645~><~Game.2035~> A68C59
+<BGFanGuy> i don't think you can play that - S&E not at war 4A4490
+<Yaguar> Oh, you're right 63544D
+<BGFanGuy> control Z = undo 59276C
+$Yaguar<~Controls.819~> 707270
+$Yaguar<~Controls.819~> 829579
+$Yaguar<~Controls.819~> 725EFB
+$Yaguar<~Controls.819~> ED8193
+$Yaguar<~CardBuffet.14~>reveal 202 25F669F512D12A91A414BC956A5879CC9B161557 0<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> C35440
+$Yaguar<~Scribe.141~>202 <~Scribe.142~><~Game.2036~><~Scribe.143~><~Game.2032~><~Scribe.144~> B509F5
+$Yaguar<~Controls.644~>099 <~Controls.645~><~Game.2035~> 7B55F0
+$BGFanGuy<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 55228D
+$BGFanGuy<~Scribe.141~>256 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 380FAC
+$BGFanGuy<~Controls.644~>213 <~Controls.645~><~Game.2035~> 0721A5
+$Yaguar<~Controls.276~>362<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> BC6B2E
+$Yaguar<~Scribe.141~>261 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> 7E2B3F
+$Yaguar<~Controls.644~>362 <~Controls.645~><~Game.2035~> 5AF869
+$BGFanGuy<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 187C99
+$BGFanGuy<~Scribe.141~>267 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1928~><~Scribe.144~> DEA7FB
+$BGFanGuy<~Controls.644~>212 <~Controls.645~><~Game.2035~> 5A78F0
+$Yaguar<~Controls.276~>105<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 743996
+<Yaguar> How do I use a ring? BD1CCA
+<BGFanGuy> control U and then 48586F
+<Yaguar> Can I change the knife for a muster? C78E71
+<BGFanGuy> click on your dice and under shadow, change to Muster C51354
+$Yaguar<~Controls.819~> BDD364
+$Yaguar<~Controls.366~>251<~Controls.367~><~Game.2011~><~Controls.368~><~Game.2041~> 94B3DF
+<BGFanGuy> to Change Dice result 1E738B
+$Yaguar changes 101  to M 736A36
+$Yaguar<~HighlightLabel.81~>101<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 83E703
+$Yaguar<~Scribe.141~>260 261 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> D8DD1C
+$Yaguar<~Controls.644~>101 <~Controls.645~><~Game.2035~> 91F603
+$BGFanGuy<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 39FB9D
+$BGFanGuy<~Controls.790~>248<~Controls.791~><~Game.2017~><~Controls.792~><~Game.2018~> 57339E
+$BGFanGuy<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 8327B9
+<game> Yaguar<~Controls.1~> 2 1 null
+<Yaguar> Incredible! E79992
+<BGFanGuy> hunting is getting better! (not) 53EA44
+<Yaguar> I should've pick fellowship! lol 34E637
+<BGFanGuy> still a ways in front of us... CDDC3E
+$Yaguar<~Controls.276~>103<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 052D84
+$Yaguar<~Scribe.141~>037 036 028 029 033 034 020 019 018 017 016 <~Scribe.142~><~Game.1959~><~Scribe.143~><~Game.1942~><~Scribe.144~> 5E13A0
+$Yaguar<~Scribe.141~>055 057 049 048 047 046 045 044 <~Scribe.142~><~Game.1946~><~Scribe.143~><~Game.1938~><~Scribe.144~> 1081E4
+$Yaguar<~Controls.644~>103 <~Controls.645~><~Game.2035~> 039F8A
+<Yaguar> Oh, you have put Gondor at war, but it wasn't active, right? 23A1FB
+<BGFanGuy> yes, you are right they should go back EDDDF9
+$BGFanGuy<~Scribe.141~>260 <~Scribe.142~><~Game.2003~><~Scribe.143~><~Game.2002~><~Scribe.144~> A9DBA9
+<BGFanGuy> my apologies FD64AB
+$BGFanGuy<~Controls.323~>260 127C50
+<BGFanGuy> now they are active EAE4B9
+<Yaguar> Yes 97298A
+$BGFanGuy<~Controls.271~>211<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> C0A4C7
+$BGFanGuy<~Scribe.141~>reveal 134 1186D36A09FF8429907B3D684969449E8D9A214E 19 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> EDF756
+$BGFanGuy<~Scribe.141~>313 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1965~><~Scribe.144~> 20CA29
+$BGFanGuy<~Scribe.141~>311 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1965~><~Scribe.144~> F0E1C9
+$BGFanGuy<~Controls.509~>120<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$BGFanGuy<~Controls.644~>211 134 <~Controls.645~><~Game.2035~> 125D30
+$Yaguar<~Controls.276~>105<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> C3BAC0
+$Yaguar<~Controls.296~>105 <~Controls.297~><~Game.2035~> 48AFC1
+$Yaguar<~Controls.296~>105 <~Controls.297~><~Game.2035~> 414962
+$Yaguar<~Controls.819~> 104A5D
+$Yaguar<~Controls.819~> 37F933
+<Yaguar> I'll move thea nazgul 6661FC
+<BGFanGuy> ok 1D9D62
+$Yaguar<~Scribe.141~>038 <~Scribe.142~><~Game.1974~><~Scribe.143~><~Game.1942~><~Scribe.144~> 24E7E3
+$Yaguar<~Scribe.141~>039 <~Scribe.142~><~Game.1964~><~Scribe.143~><~Game.1942~><~Scribe.144~> 1A5ADA
+$Yaguar<~Scribe.141~>040 <~Scribe.142~><~Game.1956~><~Scribe.143~><~Game.1933~><~Scribe.144~> 2455E6
+$Yaguar<~Scribe.141~>040 <~Scribe.142~><~Game.1933~><~Scribe.143~><~Game.1942~><~Scribe.144~> 45B8C4
+$Yaguar<~Controls.644~>105 <~Controls.645~><~Game.2035~> 4E4DBC
+$BGFanGuy<~Controls.726~>210 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 4AB65C
+$BGFanGuy<~Controls.731~>211 212 213 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> B5C4B7
+<Yaguar> That's it 360C4E
+<BGFanGuy> ok 77155F
+$Yaguar<~Controls.757~>104 100 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 2D4E5A
+<~Game.7~>4 null
+$Yaguar<~Controls.762~>105 103 101 362 099 102 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> E0BBAC
+$BGFanGuy<~Controls.509~>157<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$BGFanGuy<~Controls.509~>140<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Yaguar<~Controls.509~>173<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Yaguar<~Controls.509~>206<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$BGFanGuy<~Controls.296~>123 <~Controls.297~><~Controls.45~> 52950F
+$BGFanGuy<~Controls.296~>140 <~Controls.297~><~Controls.45~> BD6BB5
+<BGFanGuy> declaring 54821F
+$BGFanGuy<~Scribe.141~>248 <~Scribe.142~><~Game.2018~><~Scribe.143~><~Game.2014~><~Scribe.144~> 844EAB
+$BGFanGuy<~Scribe.141~>247 096 091 090 <~Scribe.142~><~Game.1911~><~Scribe.143~><~Game.1915~><~Scribe.144~> C12756
+$BGFanGuy<~Scribe.141~>247 096 091 090 <~Scribe.142~><~Game.1915~><~Scribe.143~><~Game.1912~><~Scribe.144~> E66C37
+$BGFanGuy<~Controls.819~> A51727
+$BGFanGuy<~Controls.819~> 2EE30A
+$BGFanGuy<~Scribe.141~>247 <~Scribe.142~><~Game.1911~><~Scribe.143~><~Game.1915~><~Scribe.144~> 243D5D
+$BGFanGuy<~Scribe.141~>247 <~Scribe.142~><~Game.1915~><~Scribe.143~><~Game.1912~><~Scribe.144~> 4F1240
+$BGFanGuy<~Scribe.141~>247 <~Scribe.142~><~Game.1912~><~Scribe.143~><~Game.1917~><~Scribe.144~> E7311A
+$BGFanGuy<~Scribe.141~>247 <~Scribe.142~><~Game.1917~><~Scribe.143~><~Game.1927~><~Scribe.144~> EAE5C6
+<BGFanGuy> fsp good 2328F6
+<Yaguar> Give me a second, I have to discard a card 79D59F
+$Yaguar<~Controls.644~><~Controls.645~><~Game.2035~> C999E3
+$Yaguar<~Controls.644~><~Controls.645~><~Game.2035~> B0487F
+<Yaguar> How do I discard it? E5C98E
+<BGFanGuy> I think Delete? 6E8D2B
+<Yaguar> B517BB
+$Yaguar<~Controls.296~>206 <~Controls.297~><~Controls.46~> FFE516
+<BGFanGuy> (after clicking on it) A61573
+<Yaguar> Yeah D20137
+$Yaguar<~Controls.372~>105 90CE89
+$Yaguar<~Controls.372~>103 53BB1E
+<Yaguar> 2 B5EAFC
+$BGFanGuy<~Controls.345~>211 212 213 210 <~Controls.346~>0 4 1 4 null
+$Yaguar<~Controls.345~>101 362 099 102 104 100 <~Controls.346~>15 15 10 12 12 12 null
+$Yaguar<~Controls.350~>101 362 099 102 104 100 null
+$BGFanGuy<~Controls.271~>213<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> FD3E85
+$BGFanGuy<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 7BA2E5
+$BGFanGuy<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 085184
+<Yaguar> ctrl 4, right? 96FA57
+<BGFanGuy> yes 9F26F2
+<game> Yaguar<~Controls.1~> 6 4 4 4 null
+<BGFanGuy> well that's new 412D9A
+<Yaguar> First! 62427C
+<Yaguar> So, what now? EC9DFB
+<BGFanGuy> You hit Control H 6482D3
+<BGFanGuy> to draw hunt tile 258BEE
+$Yaguar<~Controls.624~>217<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$BGFanGuy<~Controls.323~>247 376055
+$BGFanGuy<~Scribe.141~>247 <~Scribe.142~><~Game.1927~><~Scribe.143~><~Game.1930~><~Scribe.144~> C1658D
+$BGFanGuy<~Scribe.141~>248 <~Scribe.142~><~Game.2014~><~Scribe.143~><~Game.2015~><~Scribe.144~> A00615
+$Yaguar<~Controls.644~>217 <~Controls.645~><~Game.2035~> A4C11F
+$BGFanGuy<~Controls.296~>217 <~Controls.297~><~Game.2037~> 8579F6
+$Yaguar<~Controls.276~>102<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> F064CA
+<Yaguar> Well, I attack minas tirith E51681
+<BGFanGuy> ok, withdraw 5E6933
+$BGFanGuy<~Scribe.141~>085 084 083 082 081 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.1994~><~Scribe.144~> C66EF3
+$Yaguar<~Scribe.141~>040 039 038 037 036 028 029 033 034 020 019 018 017 016 <~Scribe.142~><~Game.1942~><~Scribe.143~><~Game.1944~><~Scribe.144~> 256C62
+$BGFanGuy<~Scribe.141~>260 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 7C9BF4
+$Yaguar<~Controls.644~>102 <~Controls.645~><~Game.2035~> 0B77AB
+<Yaguar> sorry EB56E8
+$BGFanGuy<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> B88F8E
+$BGFanGuy<~Controls.323~>247 9F8835
+$BGFanGuy<~Controls.644~>211 <~Controls.645~><~Game.2035~> 7DCD4B
+$Yaguar<~Controls.276~>100<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> E7B5E1
+<Yaguar> Attack minas tirith 6878F1
+$BGFanGuy<~Controls.840~>120 C5E6CD
+$Yaguar<~Controls.840~>186 625606
+<auto> playchosen 4B17AF
+<auto><~Controls.888~>reveal 186 CA4EA967BAD6056E08E0D513F8E482870DC6497F 18<~Controls.889~><~Controls.46~><~Controls.890~><~Game.2036~> 1B2A55
+<auto><~Controls.861~>reveal 120 1C5D4F68682F4198498CFEB664E0D8C71498118A 6<~Controls.862~><~Controls.45~><~Controls.863~><~Game.2037~> 619BE9
+<auto> playchosen 832355
+<game> BGFanGuy<~Controls.1~> 6 1 2 6 null
+<game> BGFanGuy<~Controls.1~> 1 null
+<BGFanGuy> 2 hits CC765A
+$Yaguar<~Controls.296~>186 <~Controls.297~><~Controls.46~> 0AA8E3
+$Yaguar<~Controls.819~> 5C2CAD
+<Yaguar> I roll as the hunt with ctrol+5, right? D1ED95
+<BGFanGuy> yes, control 5 6D6E06
+<game> Yaguar<~Controls.1~> 2 3 1 6 5 null
+$BGFanGuy<~Controls.296~>120 <~Controls.297~><~Game.2037~> C2B1D9
+<BGFanGuy> and then reroll 4 7A6C77
+<game> Yaguar<~Controls.1~> 6 6 2 3 null
+<BGFanGuy> wow, hunting is touch but combat apparently isn't 6719EC
+<Yaguar> Hahaha C289E7
+<BGFanGuy> (tough, not touch) F7D46E
+$BGFanGuy<~Controls.296~>084 <~Controls.297~><~Game.1994~> 94D72C
+$BGFanGuy<~Controls.296~>083 <~Controls.297~><~Game.1994~> BCCE0F
+$Yaguar<~Controls.296~>029 028 <~Controls.297~><~Game.1944~> 79A8A0
+<BGFanGuy> press or stop? 1B97F9
+<Yaguar> Ok, i downgrade 1 elite and press B77033
+<BGFanGuy> ok 91621C
+$BGFanGuy<~Controls.840~>106 43D2EB
+<Yaguar> How do I downgrade it? B4483E
+$Yaguar<~Controls.281~>036 <~Controls.282~><~Game.1944~><~Controls.283~><~Game.2040~> E68712
+<BGFanGuy> you can click on the elite and hit Insert 7D632F
+$Yaguar<~Scribe.141~>028 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1944~><~Scribe.144~> ADE9C2
+<BGFanGuy> that downgrades it 3A03D1
+<Yaguar> I see 135C26
+<Yaguar> RIght E2575A
+<Yaguar> Let me see if I use a card 5D48E3
+<Yaguar> I think the attacker must choose first FCA9B9
+<BGFanGuy> that's right, sorry 536D23
+$Yaguar<~Controls.840~>176 9B8C68
+<auto> playchosen A41E15
+<auto><~Controls.888~>reveal 176 3EA92F46044E261669A0F09CA5A31829F0778C2C 9<~Controls.889~><~Controls.46~><~Controls.890~><~Game.2036~> ECE82D
+<auto><~Controls.861~>reveal 106 2961843165C44AD255A24C3385C0B8F5A2D0194D 1<~Controls.862~><~Controls.45~><~Controls.863~><~Game.2037~> AE7A42
+<auto> playchosen 869581
+<Yaguar> No, I cant use that card E6AA15
+$Yaguar<~Controls.819~> B4358D
+<BGFanGuy> nope EC805F
+<Yaguar> Sorry BBF5A6
+$Yaguar<~Controls.840~>173 7B5B2B
+<Yaguar> Let's go with that 58AA70
+$BGFanGuy<~Controls.840~>106 3489F6
+<auto> playchosen 701A90
+<auto><~Controls.3~>reveal 106 2961843165C44AD255A24C3385C0B8F5A2D0194D 1<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> C546BE
+<auto><~Controls.866~>reveal 173 453C3B5C0E4F88D36BD3ADD7153CC1BCA49DF9C7 10<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 8D3E7F
+<auto> playchosen 3625B5
+<game> BGFanGuy<~Controls.1~> 6 1 null
+<game> BGFanGuy<~Controls.1~> 4 null
+<BGFanGuy> 1 hit 21FDF2
+<game> Yaguar<~Controls.1~> 6 1 1 6 1 null
+<BGFanGuy> plus 3! 8CC582
+<Yaguar> Well...... 0A71B4
+<Yaguar> At least there are 2 6s A28F43
+$BGFanGuy<~Controls.296~>085 082 081 <~Controls.297~><~Game.1994~> 3B94BE
+$Yaguar<~Controls.296~>020 034 033 028 <~Controls.297~><~Game.1944~> E4DA17
+<BGFanGuy> nice CC4967
+<Yaguar> How do I flip the control token? B77F75
+$BGFanGuy<~Scribe.141~>423 422 <~Scribe.142~><~Game.27~><~Scribe.143~><~Game.29~><~Scribe.144~> AF6191
+$BGFanGuy<~Controls.819~> 87C530
+$BGFanGuy<~Scribe.141~>423 <~Scribe.142~><~Game.27~><~Scribe.143~><~Game.29~><~Scribe.144~> CA9EB3
+$BGFanGuy<~Controls.323~>040 039 038 037 019 018 017 016 B8D899
+$BGFanGuy<~Scribe.141~>419 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1944~><~Scribe.144~> E80AA9
+<BGFanGuy> i think you go in force pool, left click control token and right click it 82E448
+<Yaguar> Oh, I see 7046B3
+<BGFanGuy> where you want it (although I didn't know that unless just now) A3BEA2
+$Yaguar<~Controls.644~>100 173 106 <~Controls.645~><~Game.2035~> F99BBF
+$BGFanGuy<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 1C422D
+$BGFanGuy<~Scribe.141~>276 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1931~><~Scribe.144~> 3604BB
+$BGFanGuy<~Controls.644~>212 <~Controls.645~><~Game.2035~> 6EAD79
+$Yaguar<~Controls.276~>104<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> D3D325
+<Yaguar> Attack Pelargir 6211F9
+$Yaguar<~Controls.840~>176 E066D5
+<BGFanGuy> nc E041E1
+<auto><~Controls.866~>reveal 176 3EA92F46044E261669A0F09CA5A31829F0778C2C 9<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 973374
+<game> BGFanGuy<~Controls.1~> 5 1 null
+<game> Yaguar<~Controls.1~> 4 3 3 3 5 null
+<BGFanGuy> 1 hit 30D7F7
+<Yaguar> 1 23B358
+$BGFanGuy<~Controls.304~>276 <~Controls.305~><~Game.1931~> 754D03
+$BGFanGuy<~Controls.313~>082 <~Controls.308~><~Controls.314~><~Game.1931~> 530467
+$Yaguar<~Controls.296~>049 <~Controls.297~><~Game.1938~> CFA0AD
+<Yaguar> I press 164EFE
+$BGFanGuy<~Scribe.141~>082 078 <~Scribe.142~><~Game.1931~><~Scribe.143~><~Game.1943~><~Scribe.144~> C316E8
+$Yaguar<~Scribe.141~>055 057 048 047 046 045 044 <~Scribe.142~><~Game.1938~><~Scribe.143~><~Game.1931~><~Scribe.144~> 7B32EB
+$BGFanGuy<~Scribe.141~>423 <~Scribe.142~><~Game.29~><~Scribe.143~><~Game.30~><~Scribe.144~> A6313C
+$Yaguar<~Scribe.141~>416 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1931~><~Scribe.144~> 3D42E7
+$Yaguar<~Controls.644~>104 176 <~Controls.645~><~Game.2035~> 054E9E
+$BGFanGuy<~Controls.271~>210<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> B44AC4
+$BGFanGuy<~Scribe.141~>275 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1920~><~Scribe.144~> 6B3410
+$BGFanGuy<~Controls.644~>210 <~Controls.645~><~Game.2035~> 66B472
+$Yaguar<~Controls.276~>099<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 60947E
+$Yaguar<~Scribe.141~>321 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1956~><~Scribe.144~> FC3EB3
+$Yaguar<~Scribe.141~>015 <~Scribe.142~><~Game.1956~><~Scribe.143~><~Game.1969~><~Scribe.144~> 68C7CD
+$Yaguar<~Controls.644~>099 <~Controls.645~><~Game.2035~> E46623
+$BGFanGuy<~Controls.726~>213 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> AC290B
+$BGFanGuy<~Controls.731~>210 212 211 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> E0C164
+$BGFanGuy<~Controls.509~>132<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$BGFanGuy<~Controls.509~>110<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Yaguar<~Controls.757~>101 362 103 105 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 49871D
+<~Game.7~>5 null
+$Yaguar<~Controls.762~>099 104 100 102 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 073150
+$Yaguar<~Controls.509~>203<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Yaguar<~Controls.509~>189<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<BGFanGuy> fsp ok FAA3C5
+$Yaguar<~Controls.372~>099 043436
+$Yaguar<~Controls.372~>104 8422EB
+$BGFanGuy<~Controls.345~>210 212 211 213 <~Controls.346~>0 4 3 1 null
+<Yaguar> 2 7A05E6
+$Yaguar<~Controls.345~>100 102 101 362 103 105 <~Controls.346~>14 12 13 13 12 12 null
+$Yaguar<~Controls.350~>100 102 101 362 103 105 null
+$BGFanGuy<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> A2C2FD
+$BGFanGuy<~Scribe.141~>270 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1920~><~Scribe.144~> 69D0C0
+$BGFanGuy<~Scribe.141~>282 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1935~><~Scribe.144~> 97D65F
+$BGFanGuy<~Controls.644~>211 <~Controls.645~><~Game.2035~> 2D41A0
+$Yaguar<~Controls.644~><~Controls.645~><~Game.2035~> AEF126
+$Yaguar<~Controls.296~>189 <~Controls.297~><~Controls.46~> 515CA6
+$Yaguar<~Controls.296~>189 <~Controls.297~><~Controls.46~> 8F7BA1
+$Yaguar<~Controls.819~> 8773BD
+$Yaguar<~Controls.276~>103<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 7D9BF9
+$Yaguar<~Scribe.141~>043 042 041 <~Scribe.142~><~Game.1932~><~Scribe.143~><~Game.1938~><~Scribe.144~> 778EAA
+$Yaguar<~Scribe.141~>015 <~Scribe.142~><~Game.1969~><~Scribe.143~><~Game.1955~><~Scribe.144~> 8B26B8
+$Yaguar<~Controls.819~> 626789
+$Yaguar<~Scribe.141~>025 024 023 022 021 <~Scribe.142~><~Game.1974~><~Scribe.143~><~Game.1977~><~Scribe.144~> 984715
+<Yaguar> That's it 455C30
+$Yaguar<~Controls.644~>103 <~Controls.645~><~Game.2035~> 397E02
+<BGFanGuy> pass A17741
+$Yaguar<~Controls.276~>100<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> CBD147
+$Yaguar<~CardBuffet.14~>reveal 185 79D7C738684D2E1F47F5B91178DF5EA112015711 16<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 3E4AD8
+$Yaguar<~Scribe.141~>029 028 033 034 020 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1971~><~Scribe.144~> 0F9D77
+$Yaguar<~Scribe.141~>353 352 357 351 049 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1977~><~Scribe.144~> 2C7FB0
+$Yaguar<~Controls.644~>100 185 <~Controls.645~><~Game.2035~> F6BDC4
+<BGFanGuy> pass E5520C
+$Yaguar<~Controls.276~>105<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 54EDE4
+$Yaguar<~Scribe.141~>015 <~Scribe.142~><~Game.1969~><~Scribe.143~><~Game.1964~><~Scribe.144~> 729AAC
+$Yaguar<~Scribe.141~>353 352 357 351 049 025 024 023 022 021 <~Scribe.142~><~Game.1977~><~Scribe.143~><~Game.1969~><~Scribe.144~> 61B31C
+$Yaguar<~Controls.644~>105 <~Controls.645~><~Game.2035~> B7434F
+$BGFanGuy<~Controls.271~>213<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 35BE1A
+$BGFanGuy<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 261B08
+$BGFanGuy<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 3BDCFC
+<game> Yaguar<~Controls.1~> 2 6 null
+<BGFanGuy> ugh 586852
+$Yaguar<~Controls.624~>226<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<BGFanGuy> apparently you just needed to get warmed up... C29D5E
+<Yaguar> Now I can say the game works (? 270133
+$BGFanGuy<~Controls.296~>240 <~Controls.297~><~Game.1999~> 51187A
+$BGFanGuy<~Scribe.141~>241 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> 50AC6A
+<BGFanGuy> hah! 91D62A
+$BGFanGuy<~Controls.296~>226 <~Controls.297~><~Game.2037~> 944CDB
+<Yaguar> I can discard horn of gondor as an effect of worn with sorrow and toil B2661A
+<BGFanGuy> yes CEEFCC
+$BGFanGuy<~Controls.296~>109 <~Controls.297~><~Game.2034~> 977C2A
+$Yaguar<~Controls.276~>362<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 62F6A5
+$Yaguar<~Scribe.141~>reveal 194 A20B606106EA65921969384F3716D95471F1EC04 5 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 326E2E
+$Yaguar<~Scribe.141~>321 <~Scribe.142~><~Game.1956~><~Scribe.143~><~Game.1930~><~Scribe.144~> 9674BA
+$Yaguar<~Scribe.141~>038 039 040 037 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.1964~><~Scribe.144~> 405E2D
+<Yaguar> And hunt 293A8C
+<BGFanGuy> yes CFC4C7
+$Yaguar<~Controls.624~>225<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2036~> null
+<Yaguar> No, I should roll, right? 8E17ED
+<BGFanGuy> you roll for the hunt, not hunt tile, i think? CEDB74
+<BGFanGuy> yes that is right 4CEC5B
+<BGFanGuy> so undo the 2 89811B
+$Yaguar<~Controls.819~> B3478A
+<game> Yaguar<~Controls.1~> 5 5 null
+<Yaguar> Do we take the 2 or take a new tile? 5796F9
+<BGFanGuy> i think take a new tile 7BBC8B
+$Yaguar<~Controls.624~>221<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2036~> null
+<BGFanGuy> so it didn't matter :-) 520A86
+$BGFanGuy<~Scribe.141~>252 <~Scribe.142~><~Game.2014~><~Scribe.143~><~Game.2016~><~Scribe.144~> 85A463
+$BGFanGuy<~Controls.323~>247 443D15
+$BGFanGuy<~Scribe.141~>247 <~Scribe.142~><~Game.1930~><~Scribe.143~><~Game.1937~><~Scribe.144~> 4327C4
+<BGFanGuy> (except for the reveal...) F17000
+<Yaguar> Yeah C10019
+<Yaguar> What about the tile, do the game we should save it for the Mordor path? 399DDA
+<Yaguar> do the game know* C05FD0
+<BGFanGuy> yes, it will go in the hunt used and then we create the hunt box E01AF2
+<BGFanGuy> when it's time EA85E6
+$Yaguar<~Controls.644~>362 221 194 <~Controls.645~><~Game.2035~> 0200CE
+<BGFanGuy> I have 2 corruption right? I think the counters are backwards? 0 on track, 2 corruption? 447F65
+$BGFanGuy<~Scribe.141~>252 <~Scribe.142~><~Game.2016~><~Scribe.143~><~Game.2014~><~Scribe.144~> D04B04
+$BGFanGuy<~Scribe.141~>248 252 <~Scribe.142~><~Game.2014~><~Scribe.143~><~Game.2016~><~Scribe.144~> 63740E
+$BGFanGuy<~Scribe.141~>252 <~Scribe.142~><~Game.2016~><~Scribe.143~><~Game.2014~><~Scribe.144~> BD6FB7
+$BGFanGuy<~Scribe.141~>252 <~Scribe.142~><~Game.2014~><~Scribe.143~><~Game.2016~><~Scribe.144~> 87DBA4
+$BGFanGuy<~Scribe.141~>248 252 <~Scribe.142~><~Game.2016~><~Scribe.143~><~Game.2014~><~Scribe.144~> 4A9135
+$BGFanGuy<~Scribe.141~>252 <~Scribe.142~><~Game.2014~><~Scribe.143~><~Game.2016~><~Scribe.144~> 1E6B3A
+<BGFanGuy> I had it right... 24C412
+<Yaguar> Yes, lol EEAC07
+$BGFanGuy<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 8137E2
+$BGFanGuy<~Scribe.141~>274 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1935~><~Scribe.144~> 69C178
+$BGFanGuy<~Controls.644~>212 <~Controls.645~><~Game.2035~> 2A6731
+$Yaguar<~Controls.276~>101<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> A4FE9C
+<Yaguar> Osgiliath from N Ithilien C04A37
+<Yaguar> nc D2A420
+$BGFanGuy<~Controls.840~>143 75DC85
+<auto> playchosen 30ABE8
+$BGFanGuy<~Scribe.141~>reveal 143 4B45269EF1D9CE84D283AA901B6EE00C6FF7888C 3 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> 1082CA
+<auto><~Controls.861~>reveal 143 4B45269EF1D9CE84D283AA901B6EE00C6FF7888C 3<~Controls.862~><~Controls.45~><~Controls.863~><~Game.2037~> 7A1C96
+$BGFanGuy<~Scribe.141~>082 078 080 079 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.1942~><~Scribe.144~> 396CB4
+$Yaguar<~Scribe.141~>038 039 040 037 015 027 026 032 031 030 <~Scribe.142~><~Game.1964~><~Scribe.143~><~Game.1943~><~Scribe.144~> F2745C
+$Yaguar<~Controls.644~>101 143 <~Controls.645~><~Game.2035~> 4D2174
+$BGFanGuy<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> B20504
+$BGFanGuy<~Scribe.141~>240 <~Scribe.142~><~Game.2039~><~Scribe.143~><~Game.1921~><~Scribe.144~> 0B4416
+$BGFanGuy<~Scribe.141~>359 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.2037~><~Scribe.144~> FEE51F
+$BGFanGuy<~Controls.323~>240 411CCA
+$BGFanGuy<~Controls.644~>210 359 <~Controls.645~><~Game.2035~> 98C44F
+$Yaguar<~Controls.276~>102<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 576034
+<Yaguar> Lossarnach from osg CF42F9
+<Yaguar> nc E89981
+<BGFanGuy> nc 3840B8
+<game> Yaguar<~Controls.1~> 3 2 3 6 2 null
+<game> BGFanGuy<~Controls.1~> 6 null
+<game> BGFanGuy<~Controls.1~> 2 null
+<game> Yaguar<~Controls.1~> 1 6 2 1 null
+<Yaguar> 2 hits 6F10FB
+$BGFanGuy<~Controls.296~>274 <~Controls.297~><~Game.1935~> FBE77C
+<BGFanGuy> 2 hits 2B7DA8
+<BGFanGuy> sorry, 1 hit B601D2
+$Yaguar<~Controls.296~>015 <~Controls.297~><~Game.1943~> 56C9AD
+<Yaguar> press B0A278
+<Yaguar> nc D70541
+<BGFanGuy> nc 807D44
+<game> BGFanGuy<~Controls.1~> 6 null
+<game> Yaguar<~Controls.1~> 5 4 4 5 5 null
+<BGFanGuy> guy with a slingshot in a field gets lucky... 1BDF2D
+$BGFanGuy<~Controls.296~>282 <~Controls.297~><~Game.1935~> 282547
+<Yaguar> Brave that one 2ED881
+$Yaguar<~Controls.296~>027 <~Controls.297~><~Game.1943~> 91AFF8
+$Yaguar<~Scribe.141~>038 039 040 037 026 032 031 030 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.1935~><~Scribe.144~> FF68DC
+$BGFanGuy<~Scribe.141~>415 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1935~><~Scribe.144~> C9490B
+$Yaguar<~Controls.644~>102 <~Controls.645~><~Game.2035~> CD0C53
+$BGFanGuy<~Controls.726~>213 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 448B44
+$BGFanGuy<~Controls.731~>210 359 212 211 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 701666
+$Yaguar<~Controls.757~>104 099 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 59650A
+<~Game.7~>6 null
+$Yaguar<~Controls.762~>102 101 362 105 100 103 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 5D89B2
+$BGFanGuy<~Controls.509~>116<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$BGFanGuy<~Controls.509~>145<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Yaguar<~Controls.509~>174<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Yaguar<~Controls.509~>175<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Yaguar<~Controls.372~>102 AC0D62
+$Yaguar<~Controls.372~>101 90E46E
+<Yaguar> 2 B82F4E
+$BGFanGuy<~Controls.345~>210 359 212 211 213 <~Controls.346~>2 3 1 4 4 null
+$Yaguar<~Controls.345~>362 105 100 103 104 099 <~Controls.346~>13 12 15 11 15 13 null
+$Yaguar<~Controls.350~>362 105 100 103 104 099 null
+$BGFanGuy<~Controls.296~>116 <~Controls.297~><~Controls.45~> 61E07F
+$BGFanGuy<~Controls.271~>212<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 0DF742
+$BGFanGuy<~Controls.323~>247 62CF4F
+$BGFanGuy<~Controls.644~>212 <~Controls.645~><~Game.2035~> BB724D
+$Yaguar<~Controls.276~>105<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> E513A4
+$Yaguar<~Scribe.141~>043 042 041 <~Scribe.142~><~Game.1938~><~Scribe.143~><~Game.1931~><~Scribe.144~> 0E725E
+$Yaguar<~Scribe.141~>038 039 040 037 026 032 031 030 <~Scribe.142~><~Game.1935~><~Scribe.143~><~Game.1944~><~Scribe.144~> F4DE88
+$Yaguar<~Controls.644~>105 <~Controls.645~><~Game.2035~> 92ABA7
+$BGFanGuy<~HighlightLabel.86~>359<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 3497DC
+$BGFanGuy<~Scribe.141~>271 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1920~><~Scribe.144~> CE97A1
+$BGFanGuy<~Scribe.141~>269 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1928~><~Scribe.144~> 032F52
+$BGFanGuy<~Controls.644~>359 <~Controls.645~><~Game.2035~> B2DBB3
+$Yaguar<~Controls.276~>103<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> DEA753
+$Yaguar<~Scribe.141~>253 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1944~><~Scribe.144~> 766F47
+$Yaguar<~Controls.323~>258 E19A04
+$Yaguar<~Controls.323~>257 EF3D1F
+$Yaguar<~Controls.644~>103 <~Controls.645~><~Game.2035~> 74898D
+$BGFanGuy<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 49B7C3
+$BGFanGuy<~Scribe.141~>reveal 132 748E2869AFBEB7CEC8EC2412182145FB4722F88F 17 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> CF94AF
+$BGFanGuy<~Controls.281~>235 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2045~> EFD7F8
+$BGFanGuy<~Controls.644~>210 132 <~Controls.645~><~Game.2035~> C38B18
+$Yaguar<~Controls.276~>362<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 6F54D2
+<Yaguar> Druadan forest from Minas tirith BAC02B
+<Yaguar> nc 8E3C7F
+<BGFanGuy> nc 0F65B2
+<game> BGFanGuy<~Controls.1~> 1 1 1 1 null
+<game> Yaguar<~Controls.1~> 1 6 2 4 1 null
+<game> Yaguar<~Controls.1~> 2 1 5 5 null
+<Yaguar> 3 htis 236A7A
+$BGFanGuy<~Controls.296~>078 080 082 <~Controls.297~><~Game.1942~> 9FAF8A
+<Yaguar> Don't press E0E788
+<BGFanGuy> ok 40688A
+$BGFanGuy<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 8CBE18
+$BGFanGuy<~Controls.819~> 9016AB
+$Yaguar<~Controls.644~>362 <~Controls.645~><~Game.2035~> 3450E0
+$BGFanGuy<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 73104B
+$BGFanGuy<~Controls.366~>250<~Controls.367~><~Game.2009~><~Controls.368~><~Game.2011~> AE9E55
+$BGFanGuy changes 211  to C 455262
+$BGFanGuy<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 9F6219
+$BGFanGuy<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 05DF6F
+<game> Yaguar<~Controls.1~> 2 3 1 3 null
+<BGFanGuy> that's what we like to see... 75BC45
+<Yaguar> ;) F5B425
+$Yaguar<~Controls.276~>099<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 2845A2
+<Yaguar> Again, Druadan forest 0D1B20
+<Yaguar> Nc 4C0E60
+<BGFanGuy> nc 5F581F
+<game> Yaguar<~Controls.1~> 3 3 5 5 3 null
+<game> BGFanGuy<~Controls.1~> 6 null
+$Yaguar<~Controls.296~>030 <~Controls.297~><~Game.1944~> DFD8EF
+$BGFanGuy<~Controls.296~>079 <~Controls.297~><~Game.1942~> 4AC011
+$Yaguar<~Scribe.141~>253 038 039 040 037 026 032 031 019 018 017 016 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.1942~><~Scribe.144~> 53109F
+$Yaguar<~Controls.819~> E33610
+$Yaguar<~Scribe.141~>253 037 038 039 040 031 032 018 026 019 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.1942~><~Scribe.144~> B5CDD9
+$Yaguar<~Controls.644~>099 <~Controls.645~><~Game.2035~> 77C1D4
+$BGFanGuy<~Controls.271~>213<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 7D36EC
+$BGFanGuy<~Scribe.141~>272 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1920~><~Scribe.144~> A9C635
+$BGFanGuy<~Scribe.141~>268 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1928~><~Scribe.144~> 759EDC
+$BGFanGuy<~Controls.644~>213 <~Controls.645~><~Game.2035~> E03254
+$BGFanGuy<~Controls.726~>211 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> DE8D13
+$BGFanGuy<~Controls.731~>213 210 359 212 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 7670A3
+$BGFanGuy<~Controls.509~>117<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$BGFanGuy<~Controls.509~>119<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Yaguar<~Controls.757~>100 104 101 102 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 3A676B
+<~Game.7~>7 null
+$Yaguar<~Controls.762~>099 362 103 105 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 6E1B7B
+$Yaguar<~Controls.509~>166<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Yaguar<~Controls.509~>159<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<Yaguar> Have to discard 409DAF
+<BGFanGuy> me too 931086
+$BGFanGuy<~Controls.296~>119 <~Controls.297~><~Controls.45~> 41373D
+$Yaguar<~Controls.296~>166 <~Controls.297~><~Controls.46~> B6F917
+<Yaguar> Done 40A3CC
+<BGFanGuy> fsp ok 951B61
+$Yaguar<~Controls.372~>099 FF9A19
+$Yaguar<~Controls.372~>362 0AEEF1
+<Yaguar> 2 BAB069
+$BGFanGuy<~Controls.345~>213 210 359 212 211 <~Controls.346~>1 1 1 1 1 null
+<BGFanGuy> wow 8B657B
+$Yaguar<~Controls.345~>103 105 100 104 101 102 <~Controls.346~>14 11 12 11 13 14 null
+$Yaguar<~Controls.350~>103 105 100 104 101 102 null
+<Yaguar> All character dice! 2E9356
+$BGFanGuy<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 5C21BE
+$BGFanGuy<~Controls.790~>248<~Controls.791~><~Game.2015~><~Controls.792~><~Game.2016~> E7EEC0
+$BGFanGuy<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 933906
+<game> Yaguar<~Controls.1~> 6 3 null
+$Yaguar<~Controls.624~>216<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<BGFanGuy> thinking 101814
+<Yaguar> :) 16E61F
+<BGFanGuy> Can I move into Edoras or no, because I'm revealed? BCB274
+<Yaguar> Let me check 2988DB
+<Yaguar> Nop 5F2B32
+$BGFanGuy<~Scribe.141~>247 <~Scribe.142~><~Game.1937~><~Scribe.143~><~Game.1967~><~Scribe.144~> 4A2BF6
+$BGFanGuy<~Controls.323~>247 E20F2E
+$BGFanGuy<~Controls.296~>216 <~Controls.297~><~Game.2037~> CEE62A
+<BGFanGuy> ok C9E5B7
+<Yaguar> No city nor...fortress? 4C7F30
+<BGFanGuy> no 8D7B20
+<Yaguar> And the 1 corruption 18EE08
+$BGFanGuy<~Scribe.141~>252 <~Scribe.142~><~Game.2016~><~Scribe.143~><~Game.2017~><~Scribe.144~> CA4CB8
+<BGFanGuy> yes, sorry B8770C
+<Yaguar> (I mean, I don't know how its' the original english... fortress or other word?) 7B085D
+<BGFanGuy> stronghold C999FE
+<Yaguar> That's right 8F5998
+<Yaguar> No city nor stronghold C80D89
+<Yaguar> Ok 231EDF
+$Yaguar<~Controls.276~>100<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> D5CC18
+$Yaguar<~Scribe.141~>055 057 043 042 041 048 047 046 045 044 <~Scribe.142~><~Game.1931~><~Scribe.143~><~Game.1924~><~Scribe.144~> F97852
+$Yaguar<~Scribe.141~>353 352 357 351 049 025 024 023 022 021 <~Scribe.142~><~Game.1969~><~Scribe.143~><~Game.1964~><~Scribe.144~> 35DA81
+$Yaguar<~Controls.644~>100 <~Controls.645~><~Game.2035~> 2EAA64
+$BGFanGuy<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> B9464F
+$BGFanGuy<~Controls.323~>247 C9D412
+$BGFanGuy<~Controls.644~>210 <~Controls.645~><~Game.2035~> 81A3AB
+$Yaguar<~Controls.276~>105<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> E51B7F
+<Yaguar> dol amroth 535033
+$BGFanGuy<~Scribe.141~>272 271 270 275 077 076 075 <~Scribe.142~><~Game.1920~><~Scribe.143~><~Game.1995~><~Scribe.144~> 426F02
+$Yaguar<~Scribe.141~>055 057 043 042 041 048 047 046 045 044 <~Scribe.142~><~Game.1924~><~Scribe.143~><~Game.1920~><~Scribe.144~> DC8137
+$Yaguar<~Controls.644~>105 <~Controls.645~><~Game.2035~> C600DF
+$Yaguar<~Scribe.141~>413 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1924~><~Scribe.144~> D6EDFD
+$BGFanGuy<~HighlightLabel.86~>359<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 7A6974
+$BGFanGuy<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> F801EF
+$BGFanGuy<~Controls.795~>359<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 2AAD65
+<game> Yaguar<~Controls.1~> 4 6 null
+$Yaguar<~Controls.624~>222<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<BGFanGuy> well that's definitely a bummer B01152
+<Yaguar> 3? 62D204
+<BGFanGuy> no, 1 because you only rolled 1 6 6381B5
+<Yaguar> Oh, right 99C975
+<Yaguar> Yes, yes, yes FD64DD
+$BGFanGuy<~Scribe.141~>252 <~Scribe.142~><~Game.2017~><~Scribe.143~><~Game.2018~><~Scribe.144~> 0AD6F9
+$BGFanGuy<~Scribe.141~>247 <~Scribe.142~><~Game.1967~><~Scribe.143~><~Game.1976~><~Scribe.144~> 9D4670
+$BGFanGuy<~Controls.323~>247 ADAB23
+$BGFanGuy<~Controls.296~>222 <~Controls.297~><~Game.2037~> 1899FF
+$Yaguar<~Controls.276~>101<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 4505FC
+$Yaguar<~Scribe.141~>253 038 037 <~Scribe.142~><~Game.1942~><~Scribe.143~><~Game.1920~><~Scribe.144~> AE98C0
+$Yaguar<~Scribe.141~>039 <~Scribe.142~><~Game.1942~><~Scribe.143~><~Game.1920~><~Scribe.144~> A04F24
+$Yaguar<~Scribe.141~>321 <~Scribe.142~><~Game.1930~><~Scribe.143~><~Game.1956~><~Scribe.144~> 02AFF1
+$Yaguar<~Scribe.141~>321 <~Scribe.142~><~Game.1956~><~Scribe.143~><~Game.1976~><~Scribe.144~> D77567
+$Yaguar<~Controls.644~>101 <~Controls.645~><~Game.2035~> 7D529D
+$BGFanGuy<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 5F6A6F
+$BGFanGuy<~Controls.323~>247 321 446E19
+$BGFanGuy<~Controls.644~>212 <~Controls.645~><~Game.2035~> CC17C1
+$Yaguar<~Controls.276~>103<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> E6B9E2
+$Yaguar<~CardBuffet.14~>reveal 174 EC5E46C2DCB0A436FF49315B4E2B951A82779385 16<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> A02E82
+$Yaguar<~Controls.840~>186 16CB86
+<auto><~Controls.866~>reveal 186 CA4EA967BAD6056E08E0D513F8E482870DC6497F 18<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 30473F
+<BGFanGuy> are you playing a card too? 7174EB
+<BGFanGuy> for bottom half? 3BA5A7
+<Yaguar> Yes 6E42FC
+<BGFanGuy> nc obviously E13209
+<Yaguar> 38C220
+<Yaguar> The second one stuck behind 9CDE3F
+<Yaguar> The combat card F29533
+<BGFanGuy> hmmm. can you kill grond to show it? B72CBB
+$Yaguar<~Controls.296~>186 174 <~Controls.297~><~Game.2036~> C3F583
+$Yaguar<~Controls.819~> EBB10C
+$Yaguar<~Controls.819~> 20366F
+$Yaguar<~CardBuffet.14~>reveal 174 EC5E46C2DCB0A436FF49315B4E2B951A82779385 16<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> FB377A
+$Yaguar<~Controls.296~>174 <~Controls.297~><~Game.2036~> FC99BF
+$Yaguar<~CardBuffet.14~>reveal 186 CA4EA967BAD6056E08E0D513F8E482870DC6497F 18<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 446CEA
+<BGFanGuy> ok 0FB362
+<game> BGFanGuy<~Controls.1~> 6 6 4 2 null
+<game> BGFanGuy<~Controls.1~> 2 null
+<BGFanGuy> 2 hits 3D4ED6
+<game> Yaguar<~Controls.1~> 6 4 2 4 4 null
+<game> Yaguar<~Controls.1~> 5 6 6 4 null
+<Yaguar> 3 hits 8023AF
+<BGFanGuy> wow, that was brutal 225B42
+<BGFanGuy> but with great host it's 4? 3A8987
+$Yaguar<~Controls.296~>041 042 <~Controls.297~><~Game.1920~> 7C7C2A
+<Yaguar> I have 8 left, so yes, I think 312432
+<game> BGFanGuy<~Controls.1~> 4 4 null
+<game> BGFanGuy<~Controls.1~> 3 null
+<BGFanGuy> sorry, i forgot how much leadership I had, but it didn't matter 67FAE0
+$BGFanGuy<~Controls.296~>275 077 076 <~Controls.297~><~Game.1995~> E08872
+<Yaguar> ALright 6D7A20
+<Yaguar> nc B883D6
+<Yaguar> Oh, wait E21067
+<Yaguar> Should I draw a card as Withc King is in combat? C34D3B
+<BGFanGuy> yes 6FA0C4
+$Yaguar<~Controls.509~>180<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<BGFanGuy> still no card? BB64BF
+<Yaguar> Ok, press, nc 23B50A
+<BGFanGuy> did you downgrade already? A17895
+<Yaguar> Nop, the card I played with the palantir was Grond 8D7D86
+<BGFanGuy> oh right 10F1E7
+<game> BGFanGuy<~Controls.1~> 6 null
+<BGFanGuy> 1 hit 534F5E
+<game> Yaguar<~Controls.1~> 5 4 3 6 6 null
+$BGFanGuy<~Controls.296~>272 271 270 075 <~Controls.297~><~Game.1995~> 9A5397
+$Yaguar<~Controls.296~>044 <~Controls.297~><~Game.1920~> 626766
+$Yaguar<~Scribe.141~>420 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1920~><~Scribe.144~> 947288
+$Yaguar<~Scribe.141~>423 <~Scribe.142~><~Game.30~><~Scribe.143~><~Game.32~><~Scribe.144~> DF8C06
+$Yaguar<~Controls.644~>103 186 <~Controls.645~><~Game.2035~> B89D09
+<BGFanGuy> pass 160539
+$Yaguar<~Controls.276~>104<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 955395
+$Yaguar<~Scribe.141~>353 352 357 351 049 025 024 023 022 021 <~Scribe.142~><~Game.1964~><~Scribe.143~><~Game.1967~><~Scribe.144~> 34E5A8
+$Yaguar<~Scribe.141~>040 031 032 018 026 019 <~Scribe.142~><~Game.1942~><~Scribe.143~><~Game.1933~><~Scribe.144~> AB730D
+$Yaguar<~Scribe.141~>418 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1933~><~Scribe.144~> 889C66
+$Yaguar<~Controls.644~>104 <~Controls.645~><~Game.2035~> BF516C
+$BGFanGuy<~Controls.271~>211<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> A48197
+$BGFanGuy<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 9657D5
+$BGFanGuy<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 66282E
+<Yaguar> 4 right? 6134AB
+<BGFanGuy> 2 dice hit on 4 D5C2B8
+<Yaguar> Nop, 2 0740CC
+<Yaguar> Thats right C53035
+<game> Yaguar<~Controls.1~> 4 1 null
+$Yaguar<~Controls.624~>214<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$BGFanGuy<~Scribe.141~>247 321 <~Scribe.142~><~Game.1976~><~Scribe.143~><~Game.1974~><~Scribe.144~> 46D74A
+$BGFanGuy<~Controls.819~> 9FF836
+$BGFanGuy<~Scribe.141~>247 <~Scribe.142~><~Game.1976~><~Scribe.143~><~Game.1974~><~Scribe.144~> 501569
+$BGFanGuy<~Controls.323~>247 1C98D5
+$BGFanGuy<~Controls.296~>214 <~Controls.297~><~Game.2037~> DFF149
+<Yaguar> I draw another tile, right? 051AB2
+<BGFanGuy> yes 23CDB1
+$Yaguar<~Controls.624~>224<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$BGFanGuy<~Scribe.141~>252 <~Scribe.142~><~Game.2018~><~Scribe.143~><~Game.2019~><~Scribe.144~> B2FC47
+$BGFanGuy<~Controls.296~>224 <~Controls.297~><~Game.2037~> DF9C60
+$Yaguar<~Controls.276~>102<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> A9F719
+$Yaguar<~Controls.509~>197<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Yaguar<~Controls.644~>102 <~Controls.645~><~Game.2035~> 52888D
+$BGFanGuy<~Controls.726~>211 359 213 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> CDD9B8
+$BGFanGuy<~Controls.731~>212 210 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 694F15
+$Yaguar<~Controls.757~>362 099 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 236582
+<~Game.7~>8 null
+$Yaguar<~Controls.762~>102 104 103 101 105 100 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> AC63F0
+$BGFanGuy<~Controls.509~>154<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$BGFanGuy<~Controls.509~>130<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Yaguar<~Controls.509~>200<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Yaguar<~Controls.509~>205<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$BGFanGuy<~Controls.296~>110 <~Controls.297~><~Controls.45~> ADA59B
+$Yaguar<~Controls.296~>205 <~Controls.297~><~Controls.46~> A2505F
+$Yaguar<~Controls.296~>180 <~Controls.297~><~Controls.46~> 00DBA6
+$BGFanGuy<~Controls.296~>145 <~Controls.297~><~Controls.45~> 0178AD
+<BGFanGuy> fsp good D726C5
+$BGFanGuy<~Scribe.141~>247 <~Scribe.142~><~Game.1974~><~Scribe.143~><~Game.524~><~Scribe.144~> 7ECCD0
+<BGFanGuy> declaring in mordor 125628
+<Yaguar> Yep, the hunt is reset automatically? E248D4
+$BGFanGuy<~Controls.281~>222 <~Controls.282~><~Game.2045~><~Controls.283~><~Game.2044~> 884C6F
+$BGFanGuy<~Controls.281~>235 <~Controls.282~><~Game.2045~><~Controls.283~><~Game.2044~> 7ADDF4
+$BGFanGuy<~Controls.281~>221 <~Controls.282~><~Game.2045~><~Controls.283~><~Game.2044~> 94C7BA
+<Yaguar> Oh, it's manually, okok 63691E
+$Yaguar<~Controls.372~>102 0C63EA
+$Yaguar<~Controls.372~>104 054544
+<BGFanGuy> hunt pool is manual, yes 475EFC
+$Yaguar<~Controls.372~>103 B04D0D
+<Yaguar> 3 0EDD93
+<BGFanGuy> fsp ok C39AF8
+$BGFanGuy<~Controls.345~>212 210 211 359 213 <~Controls.346~>2 0 2 4 1 null
+$Yaguar<~Controls.345~>101 105 100 362 099 <~Controls.346~>13 11 11 12 10 null
+$Yaguar<~Controls.350~>101 105 100 362 099 null
+$BGFanGuy<~HighlightLabel.86~>359<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 93A46F
+$BGFanGuy<~Controls.323~>247 AD4949
+$BGFanGuy<~Controls.644~>359 <~Controls.645~><~Game.2035~> 5969D4
+<Yaguar> Oh, I see. it was Strider's power E37279
+<BGFanGuy> yes 70AB24
+$Yaguar<~Controls.276~>362<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> A99984
+$Yaguar<~Controls.819~> 5E8D87
+$Yaguar<~Controls.276~>099<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> D411A0
+<Yaguar> I use Saruman mustering B8E4ED
+$Yaguar<~Controls.281~>002 003 <~Controls.282~><~Game.1919~><~Controls.283~><~Game.2040~> C71F44
+<BGFanGuy> ok D9A194
+$Yaguar<~Scribe.141~>323 326 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1919~><~Scribe.144~> 5068D0
+$Yaguar<~Controls.644~>099 <~Controls.645~><~Game.2035~> D4D8E5
+$BGFanGuy<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> F26B69
+$BGFanGuy<~Scribe.141~>reveal 117 16CC13A4A101AE41A29937205673DA2397396DB0 10 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2031~><~Scribe.144~> F7D054
+$BGFanGuy<~Controls.644~>211 <~Controls.645~><~Game.2035~> C8429D
+$Yaguar<~Controls.276~>362<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 146CFE
+$Yaguar<~Scribe.141~>253 039 038 037 055 057 043 048 047 046 045 <~Scribe.142~><~Game.1920~><~Scribe.143~><~Game.1909~><~Scribe.144~> 5E0D16
+$Yaguar<~Scribe.141~>353 352 357 351 049 025 024 023 022 021 <~Scribe.142~><~Game.1967~><~Scribe.143~><~Game.1960~><~Scribe.144~> A6B8D7
+$Yaguar<~Controls.644~>362 <~Controls.645~><~Game.2035~> E3E7ED
+$BGFanGuy<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> EE4759
+$BGFanGuy<~Scribe.141~>reveal 154 1D44891D00AFFF23D5D13A1239C1BF4B733B8038 9 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> EB9365
+$BGFanGuy<~Controls.281~>232 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2044~> 7A5CCD
+$BGFanGuy<~Controls.644~>212 154 <~Controls.645~><~Game.2035~> 162C6D
+$Yaguar<~Controls.276~>101<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> C88760
+<Yaguar> Fords of Isen from Orthanc C5D7EF
+$Yaguar<~Controls.840~>178 36726F
+<BGFanGuy> nc EC6A52
+<game> Yaguar<~Controls.1~> 3 2 5 6 1 null
+<game> BGFanGuy<~Controls.1~> 3 4 null
+<game> BGFanGuy<~Controls.1~> 6 null
+<game> Yaguar<~Controls.1~> 2 2 3 5 null
+<BGFanGuy> 1 hit 96FE5C
+<Yaguar> 1 hit 3A4F02
+$BGFanGuy<~Controls.296~>070 <~Controls.297~><~Game.1918~> 0E324A
+$Yaguar<~Controls.296~>005 <~Controls.297~><~Game.1919~> EA0033
+<Yaguar> press 65DE29
+$BGFanGuy<~Scribe.141~>074 069 <~Scribe.142~><~Game.1918~><~Scribe.143~><~Game.1923~><~Scribe.144~> 6F5FFA
+$BGFanGuy<~Controls.819~> 389721
+$BGFanGuy<~Scribe.141~>074 069 <~Scribe.142~><~Game.1918~><~Scribe.143~><~Game.1923~><~Scribe.144~> 773663
+$Yaguar<~Scribe.141~>006 326 323 004 <~Scribe.142~><~Game.1919~><~Scribe.143~><~Game.1918~><~Scribe.144~> 8EBE38
+$Yaguar<~Controls.644~>101 <~Controls.645~><~Game.2035~> 33A009
+$Yaguar<~Controls.179~> 372663
+$BGFanGuy<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 72BE49
+$BGFanGuy<~Scribe.141~>073 072 <~Scribe.142~><~Game.1925~><~Scribe.143~><~Game.1923~><~Scribe.144~> 10B69A
+$BGFanGuy<~Scribe.141~>059 <~Scribe.142~><~Game.1973~><~Scribe.143~><~Game.1965~><~Scribe.144~> AE06C0
+$BGFanGuy<~Controls.644~>210 <~Controls.645~><~Game.2035~> 710948
+$Yaguar<~Controls.276~>105<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 3DEEBB
+$Yaguar<~Scribe.141~>353 352 357 351 049 025 024 023 022 021 <~Scribe.142~><~Game.1960~><~Scribe.143~><~Game.1951~><~Scribe.144~> 150A55
+$Yaguar<~Scribe.141~>040 031 032 018 026 019 <~Scribe.142~><~Game.1933~><~Scribe.143~><~Game.1929~><~Scribe.144~> 3CB159
+$Yaguar<~Scribe.141~>417 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1929~><~Scribe.144~> A6B339
+$Yaguar<~Controls.644~>105 <~Controls.645~><~Game.2035~> 6E1294
+<BGFanGuy> political token for rohan doesn't budge right? F4353B
+<BGFanGuy> because no attack in edoras? FB7324
+<BGFanGuy> only movement? BE1EC2
+<Yaguar> That's an interesting question 88A021
+<BGFanGuy> I believe that's correct AFF7D1
+$Yaguar<~Controls.296~>105 <~Controls.297~><~Game.2035~> 091179
+$Yaguar<~Controls.296~>105 <~Controls.297~><~Game.2035~> 2FE458
+<Yaguar> I didn't think about it 9860AC
+<Yaguar> Okok B3DCC4
+$BGFanGuy<~Scribe.141~>259 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> AEBFB4
+<BGFanGuy> actually, it does move down, but it doesn't become active 0A5492
+$BGFanGuy<~Scribe.141~>259 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> 8335E1
+<Yaguar> Ok 3710BF
+<Yaguar> That makes sense 30F485
+<BGFanGuy> and again for the attack on fords 6B0D15
+<BGFanGuy> but not yet at war ;-( 8AD563
+$BGFanGuy<~Controls.271~>213<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 61BCDE
+$BGFanGuy<~Scribe.141~>reveal 133 27785F5938C9D1F85474C26D52BBA1D919DBD564 4 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> 1CF137
+<BGFanGuy> bye saurman 83ABB4
+<Yaguar> Bye E0A839
+$BGFanGuy<~Scribe.141~>reveal 157 0FB545A6D01A67BDC76A4FFC50C3F9FE93E0FB22 18 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2036~><~Scribe.144~> D7405A
+$Yaguar<~Controls.281~>254 <~Controls.282~><~Game.1919~><~Controls.283~><~Game.2041~> 2A4628
+$BGFanGuy<~Controls.281~>234 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2044~> ED773C
+$BGFanGuy<~Controls.644~>213 157 133 <~Controls.645~><~Game.2035~> 8E8CD5
+$Yaguar<~Controls.276~>100<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 58A57C
+$Yaguar<~Scribe.141~>253 039 038 037 055 057 043 048 047 046 045 <~Scribe.142~><~Game.1909~><~Scribe.143~><~Game.1907~><~Scribe.144~> 6A026C
+$Yaguar<~Scribe.141~>353 352 357 351 049 025 024 023 022 021 <~Scribe.142~><~Game.1951~><~Scribe.143~><~Game.1930~><~Scribe.144~> 43417D
+$Yaguar<~Controls.296~>100 <~Controls.297~><~Game.2035~> B75E82
+$Yaguar<~Controls.757~>103 104 102 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 9C8D6E
+$Yaguar<~Controls.762~>100 105 101 362 099 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 198631
+$BGFanGuy<~Controls.731~>213 210 212 211 359 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 46E805
+<~Game.7~>9 null
+$BGFanGuy<~Controls.509~>108<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Yaguar<~Controls.509~>169<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Yaguar<~Controls.509~>172<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$BGFanGuy<~Controls.509~>121<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+<BGFanGuy> fsp ok 9F212B
+$Yaguar<~Controls.296~>169 <~Controls.297~><~Controls.46~> 7B1FC5
+$Yaguar<~Controls.296~>200 <~Controls.297~><~Controls.46~> 7B1904
+$Yaguar<~Controls.372~>100 794BC3
+$Yaguar<~Controls.372~>105 74E445
+$BGFanGuy<~Controls.345~>213 210 212 211 359 <~Controls.346~>1 1 2 0 1 null
+$Yaguar<~Controls.345~>101 362 099 103 104 102 <~Controls.346~>11 14 15 11 13 12 null
+$Yaguar<~Controls.350~>101 362 099 103 104 102 null
+$BGFanGuy<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> C0482D
+$BGFanGuy<~Scribe.141~>reveal 121 5AB6B655BA1AA497B8907FDC3F9E127960E64CD6 18 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> 577613
+$BGFanGuy<~Scribe.141~>286 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1923~><~Scribe.144~> 939FE4
+$BGFanGuy<~Scribe.141~>284 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1923~><~Scribe.144~> 348A62
+$BGFanGuy<~Controls.644~>212 121 <~Controls.645~><~Game.2035~> D96317
+$Yaguar<~Controls.276~>102<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> D4AB00
+$Yaguar<~Scribe.141~>253 039 038 037 055 057 043 048 047 046 045 <~Scribe.142~><~Game.1907~><~Scribe.143~><~Game.1905~><~Scribe.144~> 648796
+$Yaguar<~Scribe.141~>035 014 013 012 011 <~Scribe.142~><~Game.1956~><~Scribe.143~><~Game.1953~><~Scribe.144~> 943522
+$Yaguar<~Controls.296~>102 <~Controls.297~><~Game.2035~> 7A5CF1
+$BGFanGuy<~HighlightLabel.86~>359<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> F555E2
+$BGFanGuy<~Controls.790~>247<~Controls.791~><~Game.524~><~Controls.792~><~Game.525~> 8F98AE
+$BGFanGuy<~Controls.795~>359<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 88A5E1
+$Yaguar<~Controls.624~>220<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$BGFanGuy<~Controls.296~>241 <~Controls.297~><~Game.1999~> E24B59
+$BGFanGuy<~Scribe.141~>244 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> 076335
+$BGFanGuy<~Controls.296~>220 <~Controls.297~><~Game.2037~> F947AC
+$Yaguar<~Controls.296~>179 <~Controls.297~><~Game.2033~> D345BF
+<Yaguar> May I remove the Mithril Coat? D58B26
+$BGFanGuy<~Controls.323~>247 37E9D7
+<BGFanGuy> yes A183D5
+$BGFanGuy<~Controls.296~>117 <~Controls.297~><~Game.2031~> CE6809
+<BGFanGuy> I'm really hating on worn with sorrow card... 234FA0
+<BGFanGuy> I forget how bad that card is for fellowship 4698F4
+$Yaguar<~Controls.276~>101<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 864D90
+$Yaguar<~Scribe.141~>253 039 038 037 055 057 043 048 047 046 045 <~Scribe.142~><~Game.1905~><~Scribe.143~><~Game.1918~><~Scribe.144~> A32D89
+$Yaguar<~Scribe.141~>004 <~Scribe.142~><~Game.1918~><~Scribe.143~><~Game.1905~><~Scribe.144~> 99C8C1
+$Yaguar<~Scribe.141~>035 014 013 012 011 <~Scribe.142~><~Game.1953~><~Scribe.143~><~Game.1927~><~Scribe.144~> 67DE0D
+$Yaguar<~Controls.644~>101 <~Controls.645~><~Game.2035~> 835A8B
+$BGFanGuy<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> A1ECE1
+$BGFanGuy<~Controls.323~>247 74651A
+$BGFanGuy<~Controls.644~>213 <~Controls.645~><~Game.2035~> D0D6B4
+$Yaguar<~Controls.276~>103<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> F79531
+<Yaguar> Helm's Deep 2B5ED7
+$BGFanGuy<~Scribe.141~>284 074 286 073 072 069 071 <~Scribe.142~><~Game.1923~><~Scribe.143~><~Game.1993~><~Scribe.144~> 9793CD
+$Yaguar<~Scribe.141~>253 039 038 037 006 326 323 055 057 043 048 047 046 045 <~Scribe.142~><~Game.1918~><~Scribe.143~><~Game.1923~><~Scribe.144~> 8FD2C3
+$BGFanGuy<~Scribe.141~>259 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> B918CD
+$Yaguar<~Controls.296~>178 <~Controls.297~><~Controls.46~> 1B5838
+$Yaguar<~Controls.296~>178 <~Controls.297~><~Controls.46~> 8D4E0A
+$Yaguar<~Controls.644~>103 <~Controls.645~><~Game.2035~> 4E465F
+$BGFanGuy<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 02EB27
+$BGFanGuy<~Controls.790~>247<~Controls.791~><~Game.525~><~Controls.792~><~Game.528~> 3D08A5
+$BGFanGuy<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> CBA085
+$Yaguar<~Controls.624~>225<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$BGFanGuy<~Controls.296~>244 <~Controls.297~><~Game.1999~> 29EF96
+<BGFanGuy> and control W for card 73A5A1
+$Yaguar<~Controls.452~>108<~Controls.453~><~Controls.45~><~Controls.454~><~Game.2039~> null
+$BGFanGuy<~Controls.296~>225 <~Controls.297~><~Game.2037~> C3FA35
+$Yaguar<~Controls.276~>104<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 58A7B9
+<Yaguar> Helms Deep B9AF30
+$Yaguar<~Controls.840~>197 0B1D6B
+<BGFanGuy> nc 471DD9
+<game> Yaguar<~Controls.1~> 1 3 4 5 2 null
+<game> BGFanGuy<~Controls.1~> 2 1 1 3 2 null
+<auto><~Controls.866~>reveal 197 7B4DB52CDE81AD50DC205A5D57EE58B847977C57 23<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> B1B423
+<game> BGFanGuy<~Controls.1~> 1 1 null
+<BGFanGuy> wow, that was awful 8B73D4
+<Yaguar> sorry 7CC99C
+<game> Yaguar<~Controls.1~> 1 2 5 1 2 null
+<Yaguar> 1 hit for the card D317CF
+<Yaguar> Awful 6B1518
+$BGFanGuy<~Controls.304~>286 <~Controls.305~><~Game.1993~> C1A61D
+$BGFanGuy<~Controls.313~>070 <~Controls.308~><~Controls.314~><~Game.1993~> CA5270
+$Yaguar<~Controls.281~>047 <~Controls.282~><~Game.1923~><~Controls.283~><~Game.2040~> 4D2748
+<Yaguar> Press 673AC5
+$Yaguar<~Controls.840~>175 BFC6EC
+<Yaguar> Sorruy EC6A58
+<BGFanGuy> nc 9F6542
+$Yaguar<~Scribe.141~>356 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1923~><~Scribe.144~> 9C8449
+<BGFanGuy> and didn't you need to downgrade an elite to a regular? 9F2A0C
+$Yaguar<~Controls.281~>006 <~Controls.282~><~Game.1923~><~Controls.283~><~Game.2040~> 658C67
+<BGFanGuy> so should be 5/4 77E83C
+$Yaguar<~Scribe.141~>003 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1923~><~Scribe.144~> 5AFD4A
+$BGFanGuy<~Controls.296~>130 <~Controls.297~><~Controls.45~> 6843A4
+$BGFanGuy<~Controls.819~> 54DC59
+<Yaguar> 6/4 A917FD
+<BGFanGuy> yes U are right 91D956
+<Yaguar> You didn't hit me, right? 436CCD
+<Yaguar> Okk 6D3B64
+$Yaguar<~Controls.296~>197 <~Controls.297~><~Game.2036~> 88691B
+<Yaguar> So, you nc? 1F3B4B
+<BGFanGuy> yes nc A294E3
+<auto><~Controls.866~>reveal 175 018E372ED17A0378C1F87961C82F55106B853014 4<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 8291C1
+<game> Yaguar<~Controls.1~> 5 3 6 4 3 null
+<game> Yaguar<~Controls.1~> 1 3 5 1 null
+<game> BGFanGuy<~Controls.1~> 2 6 2 1 1 null
+<game> BGFanGuy<~Controls.1~> 5 6 null
+<BGFanGuy> 3 hits BD95B2
+$Yaguar<~Controls.281~>003 356 <~Controls.282~><~Game.1923~><~Controls.283~><~Game.2040~> 84F764
+$BGFanGuy<~Controls.304~>073 <~Controls.305~><~Game.1993~> BFDCBD
+$BGFanGuy<~Controls.313~>295 <~Controls.307~><~Controls.314~><~Game.1993~> B22301
+$Yaguar<~Controls.281~>045 <~Controls.282~><~Game.1923~><~Controls.283~><~Game.2040~> 5F5264
+<Yaguar> Okl, now I'll inflict 4 hits to myself and roll 4 dice that hit with 4+ 00F194
+$Yaguar<~Controls.281~>323 326 <~Controls.282~><~Game.1923~><~Controls.283~><~Game.2040~> 8D70E1
+<BGFanGuy> ok 32BFAC
+<game> Yaguar<~Controls.1~> 1 3 2 6 null
+<Yaguar> 1, uffff 7F0366
+$BGFanGuy<~Controls.296~>295 <~Controls.297~><~Game.1993~> A41788
+<BGFanGuy> not their finest hour 962DDC
+$Yaguar<~Scribe.141~>253 039 038 037 055 057 043 048 046 <~Scribe.142~><~Game.1923~><~Scribe.143~><~Game.1993~><~Scribe.144~> 9263C2
+$Yaguar<~Controls.819~> 6656E1
+$Yaguar<~Controls.281~>057 <~Controls.282~><~Game.1923~><~Controls.283~><~Game.2040~> 99D7CF
+$Yaguar<~Scribe.141~>045 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1923~><~Scribe.144~> 5534AB
+<Yaguar> Press 55425D
+$Yaguar<~Controls.840~>172 20AB6A
+$Yaguar<~Controls.296~>175 <~Controls.297~><~Game.2036~> CADB77
+<BGFanGuy> nc 85A9D1
+<auto><~Controls.866~>reveal 172 DA20A1986372EE4565A609B4BA6D5AF29F8C6957 10<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 843DE8
+<game> BGFanGuy<~Controls.1~> 3 3 2 5 null
+<game> BGFanGuy<~Controls.1~> 1 1 null
+<game> Yaguar<~Controls.1~> 2 4 5 5 2 null
+<BGFanGuy> 3 hits 367A83
+<game> Yaguar<~Controls.1~> 6 4 null
+<Yaguar> 4 hits, right? 25DBDD
+<BGFanGuy> yes EB6378
+$BGFanGuy<~Controls.296~>284 074 070 072 069 071 <~Controls.297~><~Game.1993~> 1AF802
+$Yaguar<~Controls.296~>055 <~Controls.297~><~Game.1923~> 3C062D
+$Yaguar<~Controls.296~>045 <~Controls.297~><~Game.1923~> D0496F
+$Yaguar<~Controls.819~> EB399B
+$Yaguar<~Controls.819~> ABCFA3
+$Yaguar<~Controls.281~>055 045 <~Controls.282~><~Game.1923~><~Controls.283~><~Game.2040~> C0FCF4
+$Yaguar<~Controls.644~>104 172 <~Controls.645~><~Game.2035~> F7E43F
+$BGFanGuy<~Controls.271~>211<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> ED4DCC
+$BGFanGuy<~Scribe.141~>289 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1925~><~Scribe.144~> A309DC
+$BGFanGuy<~Controls.644~>211 <~Controls.645~><~Game.2035~> 45B20E
+$Yaguar<~Controls.366~>250<~Controls.367~><~Game.2011~><~Controls.368~><~Game.2041~> 4D12AD
+$Yaguar changes 362  to A 80C936
+$Yaguar<~Controls.276~>362<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> AE05A4
+<Yaguar> Lorien from Dimrill Dale E232FE
+$BGFanGuy<~Scribe.141~>242 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> 78CE5F
+$BGFanGuy<~Scribe.141~>097 267 093 092 268 269 087 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.1992~><~Scribe.144~> 455EC7
+$Yaguar<~Scribe.141~>035 014 013 012 011 <~Scribe.142~><~Game.1927~><~Scribe.143~><~Game.1928~><~Scribe.144~> 138F8A
+$Yaguar<~Controls.644~>362 <~Controls.645~><~Game.2035~> A84FEA
+$BGFanGuy<~Controls.726~>210 359 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 64B354
+$BGFanGuy<~Controls.731~>211 213 212 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> EBC6F9
+$Yaguar<~Scribe.141~>414 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1923~><~Scribe.144~> 0AC9A9
+$Yaguar<~Scribe.141~>423 <~Scribe.142~><~Game.32~><~Scribe.143~><~Game.389~><~Scribe.144~> 3BCD15
+$BGFanGuy<~Controls.509~>148<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$BGFanGuy<~Controls.509~>146<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Yaguar<~Controls.757~>099 105 100 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 241AA3
+<~Game.7~>10 null
+$Yaguar<~Controls.762~>362 104 103 101 102 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 0E149C
+$Yaguar<~Controls.509~>201<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Yaguar<~Controls.509~>207<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<BGFanGuy> fsp good 42CE92
+$Yaguar<~Controls.372~>362 76C8B0
+$Yaguar<~Controls.372~>104 DE44C7
+$Yaguar<~Controls.372~>103 F17BFD
+<Yaguar> 3 056FFD
+<BGFanGuy> ok 28C173
+$BGFanGuy<~Controls.345~>211 213 212 210 359 <~Controls.346~>0 4 4 2 2 null
+$Yaguar<~Controls.345~>101 102 099 105 100 <~Controls.346~>14 14 12 10 15 null
+$Yaguar<~Controls.350~>101 102 099 105 100 null
+$BGFanGuy<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 22E117
+$BGFanGuy<~Scribe.141~>reveal 130 767071475885801884D7A632A77DA13F70E0F664 9 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> 70310B
+$BGFanGuy<~Scribe.141~>289 <~Scribe.142~><~Game.1925~><~Scribe.143~><~Game.1943~><~Scribe.144~> DDE0EE
+$BGFanGuy<~Controls.644~>210 130 <~Controls.645~><~Game.2035~> 91573B
+<Yaguar> Ouch 933387
+<BGFanGuy> rohan hanging on by a thread... B7E2A3
+$Yaguar<~Controls.276~>101<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 267ADF
+$Yaguar<~CardBuffet.14~>reveal 207 DDBFD330ECAAB3C09A098D651422F0D9A14D9D93 20<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 8DF9C9
+$Yaguar<~Controls.281~>013 014 <~Controls.282~><~Game.1928~><~Controls.283~><~Game.2040~> 5E9FD2
+$Yaguar<~Scribe.141~>333 334 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1928~><~Scribe.144~> 84FECE
+$Yaguar<~Controls.644~>101 207 <~Controls.645~><~Game.2035~> 3D7479
+$BGFanGuy<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 8CD1AD
+$BGFanGuy<~Scribe.141~>289 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.1931~><~Scribe.144~> 18C859
+$BGFanGuy<~Scribe.141~>064 <~Scribe.142~><~Game.1902~><~Scribe.143~><~Game.1899~><~Scribe.144~> BD8280
+$BGFanGuy<~Controls.819~> 4FAA38
+$Yaguar<~Controls.276~>105<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 88CBF5
+$BGFanGuy<~Scribe.141~>068 066 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.1957~><~Scribe.144~> 88C62A
+$Yaguar<~Controls.819~> 158A17
+$Yaguar<~Controls.819~> 79F910
+$BGFanGuy<~Controls.644~>212 <~Controls.645~><~Game.2035~> E9E12E
+$BGFanGuy<~Scribe.141~>423 <~Scribe.142~><~Game.389~><~Scribe.143~><~Game.388~><~Scribe.144~> 8BA6B5
+$BGFanGuy<~Scribe.141~>068 066 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.1957~><~Scribe.144~> 4DBDA4
+$Yaguar<~Controls.281~>416 <~Controls.282~><~Game.1931~><~Controls.283~><~Game.2040~> 718CFC
+$Yaguar<~Controls.276~>105<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 12431C
+$Yaguar<~Scribe.141~>347 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1932~><~Scribe.144~> 66329B
+$Yaguar<~Controls.644~>105 <~Controls.645~><~Game.2035~> 6C4512
+$BGFanGuy<~HighlightLabel.86~>359<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 1BAC8F
+$BGFanGuy<~Scribe.141~>reveal 148 0C8CC1F1C11B3EE216620E236E62DDC9DB27A43E 23 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> ED2C38
+<game> BGFanGuy<~Controls.1~> 2 5 3 null
+$BGFanGuy<~Scribe.141~>252 <~Scribe.142~><~Game.2019~><~Scribe.143~><~Game.2018~><~Scribe.144~> CD1E16
+$BGFanGuy<~Controls.644~>359 148 <~Controls.645~><~Game.2035~> D015BA
+$Yaguar<~Controls.276~>099<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 4201D2
+$Yaguar<~Scribe.141~>353 352 357 351 049 025 024 023 022 021 <~Scribe.142~><~Game.1930~><~Scribe.143~><~Game.1928~><~Scribe.144~> 5426A5
+$Yaguar<~Controls.819~> F46903
+$Yaguar<~Scribe.141~>024 023 022 021 025 <~Scribe.142~><~Game.1930~><~Scribe.143~><~Game.1928~><~Scribe.144~> FE545A
+<BGFanGuy> I realized when I put lorien into siege, I have 1 too many elves, I need to put a regular back into force pool 73339E
+$BGFanGuy<~Controls.296~>268 <~Controls.297~><~Game.1992~> 261248
+$Yaguar<~Scribe.141~>040 031 032 018 026 019 <~Scribe.142~><~Game.1929~><~Scribe.143~><~Game.1933~><~Scribe.144~> 221EF1
+$Yaguar<~Controls.644~>099 <~Controls.645~><~Game.2035~> F24581
+<Yaguar> Ok 0095A0
+<BGFanGuy> although I'm not exactly sure how to put him back, but I'll figure it out 95093F
+<Yaguar> Right clikc on force pool 7A0F2D
+<Yaguar> Selecting the unit FB1104
+$BGFanGuy<~Controls.281~>268 <~Controls.282~><~Game.2039~><~Controls.283~><~Game.2038~> B14AEA
+<BGFanGuy> ah, that's it, thanks F81B08
+<Yaguar> :) 421BD9
+$BGFanGuy<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 84F7C0
+$BGFanGuy<~Scribe.141~>reveal 131 F0F4AA30E98680F58C2F8C2B9F76F2A953B0C0BF 20 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> 5D1CD4
+$BGFanGuy<~Scribe.141~>266 265 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1931~><~Scribe.144~> D4A9AF
+$BGFanGuy<~Controls.644~>213 131 <~Controls.645~><~Game.2035~> 18A6D4
+$Yaguar<~Controls.276~>102<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 468340
+$Yaguar<~Controls.509~>187<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Yaguar<~Controls.644~>102 <~Controls.645~><~Game.2035~> 22182E
+$BGFanGuy<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 31C271
+$BGFanGuy<~Controls.790~>247<~Controls.791~><~Game.528~><~Controls.792~><~Game.529~> 67DBF9
+$BGFanGuy<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 6589D3
+$Yaguar<~Controls.757~>100 103 104 362 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 84228E
+$Yaguar<~Controls.762~>102 099 105 101 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> AD4E2D
+$Yaguar<~Controls.509~>181<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Yaguar<~Controls.509~>192<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<BGFanGuy> i dont think you drew hunt tile right? i had a last will of west dice to move fellowship 29AE16
+$Yaguar<~Controls.819~> 0AA245
+$Yaguar<~Controls.819~> 0265AF
+$Yaguar<~Controls.819~> 2BCFF7
+$Yaguar<~Controls.819~> 7C0100
+<Yaguar> Oh, right 010342
+$Yaguar<~Controls.624~>229<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$BGFanGuy<~Controls.296~>242 <~Controls.297~><~Game.1999~> 05E1D8
+$BGFanGuy<~Scribe.141~>243 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> 98AB1E
+$BGFanGuy<~Scribe.141~>252 <~Scribe.142~><~Game.2018~><~Scribe.143~><~Game.2019~><~Scribe.144~> 2E51C4
+$BGFanGuy<~Controls.296~>229 <~Controls.297~><~Game.2037~> 8915FA
+$BGFanGuy<~Controls.726~>211 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 33463E
+<~Game.7~>11 null
+$BGFanGuy<~Controls.731~>213 359 212 210 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 1C6FA2
+$BGFanGuy<~Controls.509~>142<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$BGFanGuy<~Controls.509~>156<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Yaguar<~Controls.757~>362 104 103 100 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 95A21F
+$Yaguar<~Controls.762~>105 102 101 099 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 3BE9DC
+$Yaguar<~Controls.509~>193<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Yaguar<~Controls.509~>170<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Yaguar<~Controls.372~>105 E41D4F
+$Yaguar<~Controls.372~>102 4658A2
+$Yaguar<~Controls.372~>101 43E284
+$BGFanGuy<~Controls.345~>213 359 212 210 211 <~Controls.346~>1 0 1 1 3 null
+$Yaguar<~Controls.345~>099 362 104 103 100 <~Controls.346~>10 14 12 11 10 null
+$Yaguar<~Controls.350~>099 362 104 103 100 null
+$BGFanGuy<~HighlightLabel.86~>359<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 5FEB54
+$BGFanGuy<~Scribe.141~>reveal 142 B6FAC5DC5030EFD634A50DAD2A4FD1B9C7C42B1B 16 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> F09EDC
+$BGFanGuy<~Scribe.141~>240 <~Scribe.142~><~Game.1921~><~Scribe.143~><~Game.1928~><~Scribe.144~> 0EF500
+$BGFanGuy<~Controls.644~>359 142 <~Controls.645~><~Game.2035~> 350EBD
+$Yaguar<~Controls.276~>099<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 42F26A
+$Yaguar<~Scribe.141~>346 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1932~><~Scribe.144~> BD20CE
+$Yaguar<~Controls.644~>099 <~Controls.645~><~Game.2035~> 5C03CF
+$BGFanGuy<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> B6A69E
+$BGFanGuy<~Controls.790~>247<~Controls.791~><~Game.529~><~Controls.792~><~Game.532~> 5E4210
+$BGFanGuy<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> FFDB39
+$Yaguar<~Controls.624~>235<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<BGFanGuy> love me some rope! 0029C4
+$BGFanGuy<~Controls.296~>235 <~Controls.297~><~Game.2037~> F6B58E
+$Yaguar<~Controls.276~>100<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 98D908
+$Yaguar<~Scribe.141~>345 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1932~><~Scribe.144~> F1307D
+$Yaguar<~Controls.644~>100 <~Controls.645~><~Game.2035~> 6735C0
+$BGFanGuy<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> C2E570
+$BGFanGuy<~Controls.790~>247<~Controls.791~><~Game.532~><~Controls.792~><~Game.533~> 5399DA
+$BGFanGuy<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> A476D2
+$Yaguar<~Controls.624~>221<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<BGFanGuy> gg AA5C66
+<Yaguar> 9 589D21
+<Yaguar> GG 13C732
+<Yaguar> Crown that Rohan guy! 396B2C
+<BGFanGuy> thanks for playing. and the woses come through! have a great night. I think the winner reports back to the organizers re: league game. C3EC61
+<Yaguar> I have no idea how to report B83BD0
+<Yaguar> It was a great game FD07A9
+<Yaguar> Pleasure playing with you C76A56
+<BGFanGuy> i think that's the case. and it was a great game. 827FD3
+<BGFanGuy> i think for league, you and i are supposed to play again and now I play shadow? D91EF6
+<Yaguar> And thank you for helping me with the app 238EB4
+<BGFanGuy> and best 2 of 3? D9BD1A
+<Yaguar> Oh, okok. But it will be another day. I'm getting to bed 77BBDF
+<BGFanGuy> yes, me too. A9A7D7
+<BGFanGuy> DM regarding when we play 2nd game? 02E025
+<Yaguar> Yep ABA515
+<Yaguar> Have a good night! ACE3B7
+<BGFanGuy> https://docs.google.com/document/d/1TciOPSVft34LnJfzeIui3E_TnPQDSPjDmrBLPpbo6hM/edit?tab=t.0#heading=h.e0599zypxrrb CD7768
+<BGFanGuy> you too 4C45A3
+<Yaguar> I think it's just 2 games 1583C6
+<Yaguar> Then we can play a 3rd one but a friendly match A9E2CE
+<BGFanGuy> I think you are right - 157F5D
+<BGFanGuy> do we have to play a 2nd or it's optional? I'm getting confused A9CA60
+$Yaguar<~Controls.296~>221 <~Controls.297~><~Game.2037~> 7C557F
+<BGFanGuy> with tournament rules (which I've never been in) 50A77B
+<BGFanGuy> Each pair of players may play up to two games against one another. If you decide to use balancing methods such as tokens/dwarven rings, you must use those in your opposing match. You are strongly encouraged to play both sides with each opponen 253779

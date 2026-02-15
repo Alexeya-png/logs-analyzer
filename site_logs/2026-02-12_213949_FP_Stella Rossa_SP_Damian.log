@@ -1,0 +1,1097 @@
+<auto> silent null
+<auto><~Scribe.141~>363 397 398 402 401 400 399 403 404 376 375 374 373 377 378 <~Scribe.142~><~Game.2038~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>365 366 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 367 368 369 370 371 372 <~Scribe.142~><~Game.2040~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>230 231 <~Scribe.142~><~Game.2044~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>155 152 <~Scribe.142~><~Game.2004~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>137 151 <~Scribe.142~><~Game.2005~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>161 198 <~Scribe.142~><~Game.2006~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>163 188 <~Scribe.142~><~Game.2007~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Controls.323~>364 null
+<auto> noisy null
+<auto> silent null
+<auto><~Scribe.141~>312 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1965~><~Scribe.144~> null
+<auto> noisy null
+<~Game.7~>1 null
+<auto> silent null
+<auto><~Scribe.141~>363 397 398 402 401 400 399 403 404 376 375 374 373 377 378 <~Scribe.142~><~Game.2038~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>365 366 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 367 368 369 370 371 372 <~Scribe.142~><~Game.2040~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>230 231 <~Scribe.142~><~Game.2044~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>155 152 <~Scribe.142~><~Game.2004~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>137 151 <~Scribe.142~><~Game.2005~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>161 198 <~Scribe.142~><~Game.2006~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>163 188 <~Scribe.142~><~Game.2007~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Controls.323~>364 null
+<auto> noisy null
+$base silent null
+$TEST<~Scribe.141~>312 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1965~><~Scribe.144~> null
+$base noisy null
+<game> Stella_Rossa<~Controls.408~>[WOTR-Gandalf2 wotr base2] null
+<~Talker.20~> null
+<~Talker.31~> null
+<Damian> Hullo 
+<Stella_Rossa> hello 
+<Stella_Rossa> read about tokens and rings in the chat? 
+<Stella_Rossa> in discord? 
+<Damian> yh 
+<Stella_Rossa> ok, highest roll starts bidding 
+<Stella_Rossa> who accepts the bid get the Free People 
+<game> Stella_Rossa<~Controls.1~> 5 null
+<Damian> hm 
+<Damian> sorry wont let me rioll 
+<Stella_Rossa> from Dice menu roll a dice 
+<game> Damian<~Controls.1~> 5 null
+<Damian> mb 
+<game> Stella_Rossa<~Controls.1~> 3 null
+<game> Damian<~Controls.1~> 6 null
+<Stella_Rossa> ok, you bid first 
+<Damian> nothing 
+<Stella_Rossa> accept 
+<Stella_Rossa> I want to play FP 
+<Stella_Rossa> gl hf 
+<Damian> gl hf 
+$Stella_Rossa<~Controls.464~>E002BCD01A8693B8DD5437C681F36037437C5B99 9976A561BA4E0D98D20E083F4A7F31BA 24 26EDD4CDC5E3CEC31DF6C2EB4A0B3661DD9ABAC2 7066CBE6E6D99923AC9F9DEDE31FC01A 12AFC93DCBE6B5EFCCE1B9B79A4F349683532C46 2FF47C42452747AA2218E5DF269275D7 E6B37277F3421A9C5888DFBC8EEDBE4F529A0521 D677A75F410FE10E2D18C1C0AD4C3D22 B7410B5EC0E39A596B60A09827C1868075872C66 2EC2F35209C1A4A7689CC8C3A9FC1AC6 64ACF427B61DB0A35AC2C5833D6847E10EC2B7DF 0DF97A2083A3D7F0F3FD8F36F2515637 CEF5BB2A78935B9D16FAEF01257B451A0D1DEC42 D873367281D1367C9B8CA7345FF88E46 086633C23A05DBD32682BEC971619B02FBE375EF 4A5CF27A32A565BB3727E75057520655 A82D7B8CA14161DDBBEA5A36D3D842742C41C825 7317C3CFDA06F55A5476308EA8C83107 9E896B021060556727991BB56421AE621BD96DD1 02BB7953C572043714AD474897C381B0 09D073D7D0239F3EFD69433B67759166EDAE0335 C61294D479EA18CD52F4FC3C37A1766D DFD5F2FFDD5F0DA5CF6C5BC81EECC3EF46E3756D 71FAE8EA2A45D52F0AE4DEACFE3CDE08 349C08F99A4A9090F388F5DDBA93CA4264D9199F 9F0F1A2F7293025CF8AE501B94DCA923 DC8C4F0C7E05471494143D1E848AFD4823BE54A8 1600E08E418A0ECA7EE46406EE95757D 6223EE8EE74BF44288E8BF99CBEC169ACBE0E2B9 4FF8D646112911CFCAEC87999B82D7DB CEC01B325C58E695D72D84A7E2FAC829F02F7CC2 35F6C4B05E0FCAE338A313E15D541EA9 72E0BAEE4E9D7DE1B7A5BC0286B088AE64B45EF9 2B04AC64553519FAF4B29702FB1E8C8D 483E13341C45DC3F4E0FE1C8981EDD35639760D1 54A0962FCBFB7D61E39938FC556B93A9 A676BA024F808D87142D0E5885EE369B04C953E6 0DD42CAD70C76244C3754117B9E769B1 64FC9128FE61091E130452E6F9DE0FEC3AF3D38E BEBF0435449BAAE190FF229D7449A58B 440D3E150D70B4647DF49BBAEF7EB854D0CF59B0 D29E89A2486659632959DC2CAA33CCA2 BC0A77A3DB3062F2F624801F6120BCB5E645B7A3 038880E279F8869B339170DF6A370E4E 45BD70C6208D0F9B97A443B9FB51DA8F3CF203F4 DA6DE243F9D2573F3D01D6F6FC40F35C D19FA6E47FAC381F26771DAE1A327371F37ADFCD 7623372F8F47B61B25EAFA397D06044E A8887AC98CE4E282D6744558C89D00A06494041B 8B691508519B399CB9F24C24AD4B723E 24 F9D115E451699B30F78F3B65722FA12A5A97BC23 AD4728C49F205029A06CE755070FE179 9FF337260DA0730710B3B5244E1F9B0343459867 CE355AE2537C9CEA7B83660512F4D95A B94710BD53E837227FBD46EA6FD4DE7247302C8A 05DACA57368AC55C46BA9BC3F77E7E17 889B1C56A318C881650E6AEB0EC918B5851DA525 905E3C37B594FB99045B427E52F5D827 16B1E4032B23F1BCD883557A367367F63171EB42 1CA4F106D4D36CD99BBC980F4CF81945 91061B3EF840A5A2F1BBC4175DFA637B3BEA4219 43D4C62861670E5FFC82ADA7E92B4D00 D131654C1B1D6C41A2D7CC171A45B1CE8A829507 5518E26C6D40BE29863D7E379E7FE09C 4C8624CC4F7F1DE0BD25ECD69CAE6F3D75035973 5A78F2E8F8AD1525AC07F79F26ECFE0C CEF32A47E0468AC37CB1B4802C04645068636A1B 5726CFC8EB808B75D40FB98595BA788C CA09826BB45DAA2511D8B95F3DA0296894D467CD D0B9A9D14AFBFFCB82288838ADA800A0 9DAA459021E77315FF85E01D1A13747C55201E8E 8E1F2A53A9FEBB28B5C79D686F7E2603 73DD0B7CB0711A38D1F1FF830D252451F7DE0AB5 A241F3D9DF2D90689118225FF5E8ECF4 84C83D51F7CD0B8C5212EF88B26D00021D53422E A9AB7B01F9F557A83D03F2EF7EAE6112 06BFACED3C038B40CF8ED693D9CF935B126B932B 50AF15A071B2EF760E4FE35BCA8F7C95 5D03D643DBDC1CC743D2E8A82AB5887E96E88F63 1ACDB65BA060ECE2E442263AA86AFAFD 2D40107DEBD96F22C11B0EB993E79B46DBFEBAAD 6065C6A870965653D467763FCC712F57 AA0EE324EE8A749B659B5097182F901129E4036C 99F537B255B091600752C240E68D2402 426E4AD0A73C608C0762D04E4339616724F4A38F DB65B5A37D6AB357E1930C27EF3B0104 CCA37A3B48D47E0B7CB8C2ECB9079284C6CFE30F A22AE2F745591FF6653FC621C57C04C7 ADCACD25AE42E2D918A757D1C9D760FB408BD953 CF3E087EEFF47C30D799054EFAA96445 3383E878B6C2F1A6074CF2D424FDC0C5F110B4EC F2390CC0922C5666A2E5013AE8439712 74DBBA45989DB1C6D952D6F7332FEDE2EE833D36 CB0696CB51B417567C66673F080DFF55 F1FDF39C24E4DAB1B8095705A56D0041C0BDD6C4 0DFE2F64CF820B0BC703A522830610CB 964484BA4CC617BFCEC13FF1A4AB417BBB8659A0 6669F697E231791B3A2D87DB0922DE53 0 0 ABB9E8
+$Stella_Rossa<~Controls.509~>108<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Stella_Rossa<~Controls.509~>130<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Damian<~Controls.479~>F83D8AE850C27B1CA29C08F34A680FC64FC6440A 14EAC77BF919CCBCE5F7C30F0FE48CEA 24 9CE9E900F21193EF41DE19CD98636F9B520134CC E6413162BD426E8577729B808D27C05F CA41D24C9C52D0080DC80C00B90A9468BB4B11FA FA1E5AE70E2D304864CAC7D2980484D1 8F237DF38FD3AF652C26A0A9EA2F1545F1B1EA3F 34A30710BF054679863908CE0BA3F21C 446C2DA32ADB53BECABF895E0A8D535A4D57A0F3 119E98E3AB46D885504984433E0B14C2 B054C60B830AD19EDB997586B80DFC79DF8EDC05 3062A8D5E937DD67EE8D6C9F542CA00A 087C0D9276ACC15EF52CA6F835D7B4152C1BD320 13EFCA453ED06C8FAA6F4920D073AABF BD2921EB3E18B0909DA1D2F82B01BD1BECCE35CC 26733B18D3A88D0191A622D96ECAB6C0 B497756E6B0911FADEB08E624FE8D1817EC7F588 FF6962D027F83001564C30F9300A61D6 C221F16CE540E2A7124E95F851C787845471EDF8 E6DAA8E846C8FE5775A87053B641BD6B C2555933DB75DF351307FB698527BB21816436CA 987B62263BDCF2709B1A8CC8D2582835 C4447033FEDF9BFEBBD3FA45A63FAFD029DBD530 48BBF024C2F8DDB144C722A85BEAA5C6 C60CDD44C394835FA98B266B6D1E7A65B27F2005 E6F9DC544284E691A6EA35E241676160 85E9CCD5D27048631E2DDD63A7000EE05A03D1FB A26FC8C2F9B15EBDCDF518A0E2D6B5C2 B58B14750218F6BA59EDFD3D509939F2A5C7A541 B388F47A78ACF58906DA74A49BC8803D 3AD54474A78F7C4BC7AAAAA57CC167D04430E0E8 53B90EA15273AC248126AA55A04ABACD 0374C572E1C7BBF91F82FB0DD7E2F4BF64180E67 0E0E17F510604E4431DC842B10FA9471 0702098AA22E97D337F4BC7BAF434A2C528EDF49 3CFCE89D6786B802F71BFF1A438006B4 39D3982E343E2E1B20EE17B302606837DC2B1866 CC366294AC633A7CFE12FEA66611CA2D 45F62FDB93DE3203DF7FDBAFE27546593D13F964 428B9BD787910D5A68C9C6354AC0F390 468FC57331684DF1CAE38818AF876B320D6F5DFB 020B64D7E76F89D229B79ED678BB440E 05AFAF4FDDC64ABD579F7A7E795781EDBF561709 CE046FEE35FA927A3343E68B88C7DD1D 3578EB0706C58B55A5811B3903D399E22E81A3AC 8C92A9CDCB3B187FD39039A2B28AEE20 B7456C5D34099D05F77FC5CD7C9F078AAAB18296 4CBF34D6A7176A365A3F066FA57DD5F4 995637A64D2F3F1066262A7C040A56F284A7B845 8A89CD4B5B573E17FFFFCAB697950D83 24 F831A85248E1E7526EF2910674AECEEB3FDDCA64 AF453C4648354FE1042620CF9DFB8309 D5680DF50E7A672DA38C97E7F4195F7EFF26D9B4 DD24F9590BD62C711695F6903C65C145 BCBF3247D01D6FA2D34B0230868250A22D160246 ECE3CB1E36652859F9B16C3E3FE2F7AF A149287ED3D2DDD5819C6192FB3F3B4D6AB7AF58 AEE6085342C987E364396F63CA33BF72 B564E95401683BD1D4CFC9408F75B358B6A8D6AE 7A436E2BC422ACC12921565BAE005706 F5FA16D869A7908755E8E96770FCCA01DDFADA01 E882C7FEDF8AC4FF99E70BD6FF7AE71B 8B8A6E8AA0F4B776EECA0AF544AFED9340E585F4 D817A781F9C4493025F54F67E44AAE7B C26C50D6F254F4BFFA938869E3E646AE98FFF83D B9D3F00DB1D7166D48F48AB0ADD28E59 26826D95C852C39934212E034140DD19A15BE6A9 07DBE05B10C1BD40A443B60B2A205A7B 77009BB3FEBAADCE3D507C96EB66C1C4A76DF425 15DEEEC2FEB9F6B86BE645223A1F94FC EC23E128CD63895A2EAD546309A4D6F16303AD7B 0C9AA5B8F6BCFB6D00971690A2E1C0F9 1CBB420EB27FFA70EBEC64967FF319C3105E5248 33E6823EFD4389C9DDDF577E1F109E82 9E1C924702999EF1B8C16A29E07B0BA9FB06577B 70D17436CF715816B65E840FBDD859BC DB6E62BF937C94B7C0F46D0F0302CC1FFB08E15A 0E94CCDB5C1A761DDE95F8F169EE198C 95B93E4C9FECB38326B5B300A37520B853F225D0 C059C89C725E1D45EAEFDA8CC56D3ABC 3506A2036542973310EAAECDF6596541912F9062 E5276143BACEF32B93D90DF13BBBD5AC 2EA0565B9471DAFB6FDEA7E43DC5D5125FC8DA02 0C641A43E849F0B6E0150F2054AEA3EF 82E1A763BF0FDB2ADC72D571F51B1CDE7E1FB1A7 BBBE64612E0A150784B035D34A9E4FF1 EEF4C76206603D431B1486A9B8309B216C868ED4 6C86FE0EF195B8118432F2D8DB234A1C DB486F5CA2BA722215DDFF70869D1B47AD83ACDB D7A6D736BE87A0D91DFDCA6160A414DC 0A9A29B80B0DE1B302C1F287222128852421BB1E 76D89F127F61ECF3E3EE085E1DFA5111 62AE8A0AAE6F3BFC5CC5F1FFC3B1D1ECA8E53A01 46C48992E9DEFDF82DB7A6E5D9CDC8EF 6DD2D6F72481FEC4EC1CBEA33EF08164AE90A9E8 CA1F36ED387B6F52B07B57C0B17539CD EB78EB9113B0B804B25CB3AFE6FD1C4AD88ED02B 5405661A1E1E010B69B49F99296DB213 0 0 9A93FC
+$Damian<~Controls.509~>154<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+<Damian> oops 1DDF40
+<Damian> sorry 459CB0
+$Stella_Rossa<~Controls.819~> 5853E9
+<Stella_Rossa> it's ok F2C50D
+<Stella_Rossa> np 70006F
+<Damian> used to using the free peoples short command 04694E
+$Damian<~Controls.509~>191<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Damian<~Controls.509~>190<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<Stella_Rossa> fsp ok 8D1488
+$Damian<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> 41DD2F
+<Damian> 1 eye AD9528
+<Stella_Rossa> for netiquette Shadow rolls first 3274B8
+$Damian<~Controls.345~>104 103 102 101 100 099 <~Controls.346~>10 14 14 11 10 15 null
+$Damian<~Controls.350~>104 103 102 101 100 099 null
+$Stella_Rossa<~Controls.345~>213 212 211 210 <~Controls.346~>2 3 3 1 null
+<Stella_Rossa> pass 1FF6A5
+$Damian<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> DF3B0B
+$Damian<~Scribe.141~>263 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 2296AB
+$Damian<~Controls.644~>100 <~Controls.645~><~Game.2035~> F3244A
+$Stella_Rossa<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 83C79F
+$Stella_Rossa<~Scribe.141~>reveal 130 D8F67256C46B0071D6AD6F9EC010F05F3892F7E1 11 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> 84C4B6
+$Stella_Rossa<~Scribe.141~>267 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1911~><~Scribe.144~> ACEBEE
+$Stella_Rossa<~Controls.509~>129<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Stella_Rossa<~Controls.509~>140<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Stella_Rossa<~Controls.644~>213 130 <~Controls.645~><~Game.2035~> ED0C72
+$Damian<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 104622
+$Damian<~Scribe.141~>262 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> FA8027
+$Damian<~Controls.644~>104 <~Controls.645~><~Game.2035~> FDF7C5
+$Stella_Rossa<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> F16049
+$Stella_Rossa<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 414DA9
+$Stella_Rossa<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 37304C
+<Stella_Rossa> hunt 74BD0D
+<Damian> ill roll? A17C2E
+<Stella_Rossa> 2 dies E651F2
+<Stella_Rossa> you roll 06C5D7
+<game> Damian<~Controls.1~> 5 2 null
+<Stella_Rossa> safe 1E49A2
+<Damian> miss 5ECB7F
+$Damian<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> DDD344
+<Damian> draw character card F15C2C
+$Damian<~Controls.509~>174<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Damian<~Controls.644~>103 <~Controls.645~><~Game.2035~> D4E5C2
+<Stella_Rossa> do not need to say, just draw :-) DDA7F2
+$Stella_Rossa<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 9E27AD
+<Damian> gotcha CDB87A
+$Stella_Rossa<~Controls.366~>251<~Controls.367~><~Game.2010~><~Controls.368~><~Game.2011~> E706AA
+$Stella_Rossa<~Controls.790~>248<~Controls.791~><~Game.2015~><~Controls.792~><~Game.2016~> A6B44C
+$Stella_Rossa<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 9186CD
+<game> Damian<~Controls.1~> 6 4 null
+<Stella_Rossa> hit 5335A7
+<Damian> 1h 62CCC0
+<Stella_Rossa> draw a tile 4AB274
+<Stella_Rossa> from Shadow menu DC2111
+$Damian<~Controls.624~>218<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Stella_Rossa<~Scribe.141~>240 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2037~><~Scribe.144~> B1151B
+$Stella_Rossa<~Scribe.141~>241 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> D5A5B6
+$Stella_Rossa<~Scribe.141~>247 <~Scribe.142~><~Game.1911~><~Scribe.143~><~Game.1912~><~Scribe.144~> 4501C5
+$Stella_Rossa<~Controls.323~>247 27165F
+$Stella_Rossa<~Controls.644~>218 240 <~Controls.645~><~Game.2035~> E12E2A
+$Damian<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 8B824C
+$Damian<~Scribe.141~>reveal 174 6DE2B2CDC2FF88662BFC5E7A5ED4E1D43A2389BB 11 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 1E0A06
+$Damian<~Scribe.141~>238 <~Scribe.142~><~Game.2046~><~Scribe.143~><~Game.2036~><~Scribe.144~> 8D2581
+<Damian> put it there? 8C0168
+<Stella_Rossa> in hunt used 45D338
+$Damian<~Controls.281~>238 <~Controls.282~><~Game.2036~><~Controls.283~><~Game.2045~> F2244B
+$Damian<~Controls.644~>102 174 <~Controls.645~><~Game.2035~> 8E3142
+<Stella_Rossa> perfect C42B32
+$Stella_Rossa<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> D7ABFE
+$Stella_Rossa<~Controls.323~>247 8028DA
+$Stella_Rossa<~Controls.644~>212 <~Controls.645~><~Game.2035~> 6A5DC5
+$Damian<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 35EAC5
+$Damian<~Scribe.141~>254 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1919~><~Scribe.144~> AF41FF
+$Damian<~Controls.644~>101 <~Controls.645~><~Game.2035~> 1D06F2
+$Stella_Rossa<~Scribe.141~>360 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2037~><~Scribe.144~> 137FCA
+$Stella_Rossa<~Controls.644~>360 <~Controls.645~><~Game.2035~> 9F99F2
+$Stella_Rossa<~Controls.726~>211 210 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 4EC350
+$Stella_Rossa<~Controls.731~>212 213 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> FFA770
+$Damian<~Controls.757~>099 105 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> EA724C
+<~Game.7~>2 null
+$Damian<~Controls.762~>360 101 102 103 104 100 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 1247CD
+<Stella_Rossa> Recover Dice from Shadow menu EDE6E6
+<Stella_Rossa> ok 76041C
+$Stella_Rossa<~Controls.509~>149<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Stella_Rossa<~Controls.509~>119<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Damian<~Controls.509~>204<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Damian<~Controls.509~>197<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<Stella_Rossa> fsp ok 325603
+$Damian<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> 75B697
+<Damian> 1e 845500
+$Damian<~Controls.345~>101 102 103 104 100 099 105 <~Controls.346~>15 12 14 11 13 11 12 null
+$Damian<~Controls.350~>101 102 103 104 100 099 105 null
+$Stella_Rossa<~Controls.345~>212 213 211 210 <~Controls.346~>1 1 1 0 null
+$Stella_Rossa<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 59281B
+$Stella_Rossa<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 04F6FF
+$Stella_Rossa<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> EE833A
+<game> Damian<~Controls.1~> 1 5 null
+<Stella_Rossa> safe F38F91
+$Damian<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 2EF015
+$Damian<~Scribe.141~>reveal 204 8D701CAEC7005F95E3F95955CBCF651C88F1F116 23 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2029~><~Scribe.144~> D1A0D9
+<Stella_Rossa> nice A720F8
+$Damian<~Controls.644~>103 <~Controls.645~><~Game.2035~> 79A488
+$Stella_Rossa<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 633510
+$Stella_Rossa<~Controls.790~>248<~Controls.791~><~Game.2015~><~Controls.792~><~Game.2016~> 0C97CF
+$Stella_Rossa<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 69F5CA
+<game> Damian<~Controls.1~> 3 1 null
+<Stella_Rossa> safe 78DFB6
+<Damian> nice D3312D
+<Stella_Rossa> there is still the Balrog tough :-) 8F2183
+$Damian<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> C567D5
+$Damian<~Controls.281~>105 <~Controls.282~><~Game.2035~><~Controls.283~><~Game.2043~> 790358
+$Damian<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 63283B
+$Damian<~Scribe.141~>reveal 197 864D1AF375D3CFA99E44A01DA0F1F1A79168C3C8 0 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2030~><~Scribe.144~> A195DE
+$Damian<~Controls.644~>104 <~Controls.645~><~Game.2035~> B39681
+<Stella_Rossa> pass 361700
+$Damian<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 215CF5
+$Damian<~Controls.281~>099 <~Controls.282~><~Game.2035~><~Controls.283~><~Game.2043~> 4DEFFE
+$Damian<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 7DDBFC
+$Damian<~Scribe.141~>034 033 <~Scribe.142~><~Game.1971~><~Scribe.143~><~Game.1977~><~Scribe.144~> 79D8D2
+$Damian<~Scribe.141~>039 036 029 028 027 026 <~Scribe.142~><~Game.1979~><~Scribe.143~><~Game.1977~><~Scribe.144~> BB72D8
+$Damian<~Scribe.141~>039 036 029 028 027 026 <~Scribe.142~><~Game.1977~><~Scribe.143~><~Game.1979~><~Scribe.144~> 5AAF32
+$Damian<~Controls.819~> 8D27CD
+$Damian<~Controls.819~> A1BD38
+$Damian<~Controls.819~> A0F043
+$Damian<~Scribe.141~>039 036 029 028 027 026 <~Scribe.142~><~Game.1979~><~Scribe.143~><~Game.1977~><~Scribe.144~> 2C8137
+$Damian<~Scribe.141~>034 033 <~Scribe.142~><~Game.1971~><~Scribe.143~><~Game.1977~><~Scribe.144~> 31381F
+$Damian<~Controls.644~>105 <~Controls.645~><~Game.2035~> 34C0A1
+<Stella_Rossa> pass C60F05
+<Damian> sorry 7275BE
+<Stella_Rossa> np 2C62A5
+$Damian<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 35B0F4
+$Damian<~Scribe.141~>039 036 028 029 033 034 <~Scribe.142~><~Game.1977~><~Scribe.143~><~Game.1974~><~Scribe.144~> AECFF6
+$Damian<~Scribe.141~>027 026 032 031 030 <~Scribe.142~><~Game.1977~><~Scribe.143~><~Game.1969~><~Scribe.144~> CCD050
+$Damian<~Controls.644~>102 <~Controls.645~><~Game.2035~> 972E0E
+$Stella_Rossa<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 3F422C
+$Stella_Rossa<~Scribe.141~>358 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.2037~><~Scribe.144~> 4DA4AC
+$Stella_Rossa<~Scribe.141~>240 <~Scribe.142~><~Game.2039~><~Scribe.143~><~Game.1921~><~Scribe.144~> 8EF666
+$Stella_Rossa<~Controls.323~>240 24D9B0
+$Stella_Rossa<~Controls.644~>210 358 <~Controls.645~><~Game.2035~> F6B1C6
+$Damian<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> C67017
+$Damian<~Controls.304~>005 <~Controls.305~><~Game.1919~> 3312AE
+$Damian<~Controls.313~>326 <~Controls.309~><~Controls.314~><~Game.1919~> F34545
+$Damian<~Controls.304~>004 <~Controls.305~><~Game.1919~> 9EA858
+$Damian<~Controls.313~>325 <~Controls.309~><~Controls.314~><~Game.1919~> C3F6FD
+<Damian> thats correct right># 97091F
+<Damian> ? BA0240
+<Stella_Rossa> yes A58F19
+$Damian<~Controls.644~>099 <~Controls.645~><~Game.2035~> 782721
+$Stella_Rossa<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> B8DCDE
+$Stella_Rossa<~Scribe.141~>reveal 149 F404C37916342FFA5FC04F42A17DEBAD8423B1C9 7 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> ADE1D8
+$Stella_Rossa<~Controls.281~>233 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2045~> 9D6096
+$Stella_Rossa<~Controls.644~>212 149 <~Controls.645~><~Game.2035~> 57D895
+$Damian<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 3A8D92
+$Damian<~Scribe.141~>037 027 026 032 031 030 020 019 018 017 016 <~Scribe.142~><~Game.1969~><~Scribe.143~><~Game.1964~><~Scribe.144~> A58747
+$Damian<~Scribe.141~>037 027 026 032 031 030 020 019 018 017 016 <~Scribe.142~><~Game.1964~><~Scribe.143~><~Game.1969~><~Scribe.144~> BF278C
+$Damian<~Scribe.141~>039 038 036 028 029 033 034 025 024 023 022 021 <~Scribe.142~><~Game.1974~><~Scribe.143~><~Game.1976~><~Scribe.144~> E8CBEE
+$Damian<~Scribe.141~>021 <~Scribe.142~><~Game.1976~><~Scribe.143~><~Game.1974~><~Scribe.144~> F12B98
+$Damian<~Controls.644~>100 <~Controls.645~><~Game.2035~> FA9B5B
+$Stella_Rossa<~Controls.726~>213 211 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> E2BA26
+$Stella_Rossa<~Controls.731~>212 210 358 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 43C9F6
+$Damian<~Controls.757~>101 360 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> AE06DE
+<~Game.7~>3 null
+$Damian<~Controls.762~>100 099 102 105 104 103 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> B7B09D
+$Stella_Rossa<~Controls.509~>135<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Stella_Rossa<~Controls.509~>120<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Damian<~Controls.509~>181<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Damian<~Controls.509~>195<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<Stella_Rossa> declare FEAF7D
+$Stella_Rossa<~Scribe.141~>247 <~Scribe.142~><~Game.1912~><~Scribe.143~><~Game.1927~><~Scribe.144~> 4A9D8F
+$Stella_Rossa<~Scribe.141~>248 <~Scribe.142~><~Game.2016~><~Scribe.143~><~Game.2014~><~Scribe.144~> 6E71B9
+<Stella_Rossa> wanna use Balrog? D657D8
+<Damian> yus D9B045
+$Stella_Rossa<~Scribe.141~>204 <~Scribe.142~><~Game.2029~><~Scribe.143~><~Game.2036~><~Scribe.144~> C172D8
+$Stella_Rossa<~Scribe.141~>197 <~Scribe.142~><~Game.2030~><~Scribe.143~><~Game.2029~><~Scribe.144~> F5D352
+<Stella_Rossa> draw a tile 980420
+$Damian<~Controls.624~>221<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Stella_Rossa> unlucky 688C42
+$Stella_Rossa<~Controls.644~>204 221 <~Controls.645~><~Game.2035~> D8BBBF
+<Stella_Rossa> fsp ok CA83BF
+<Damian> no eye C61C15
+$Damian<~Controls.345~>100 099 102 105 104 103 101 360 <~Controls.346~>11 11 13 10 11 13 13 12 null
+$Damian<~Controls.350~>100 099 102 105 104 103 101 360 null
+<Damian> ooof B07F7B
+<Stella_Rossa> no no, at least 1 21212F
+<Damian> oh mb BE6649
+<Stella_Rossa> so when there is a mistake is the last on the right C16D34
+$Stella_Rossa<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> 2F99AA
+<Damian> my bad A4D726
+$Stella_Rossa<~Controls.345~>212 210 358 213 211 <~Controls.346~>1 4 1 4 4 null
+<Stella_Rossa> np 4AF22A
+$Stella_Rossa<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> A92CA6
+$Stella_Rossa<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 22E1E7
+$Stella_Rossa<~Controls.795~>358<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 98EFF1
+<game> Damian<~Controls.1~> 4 null
+<Damian> safe 185B0B
+$Damian<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 6A8AE9
+$Damian<~Scribe.141~>reveal 181 ACA2247F08A3EB11BC3C707D24696C56B3CA28AA 18 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> BF03BE
+$Stella_Rossa<~Scribe.141~>181 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2036~><~Scribe.144~> 51DCFC
+$Damian<~Controls.624~>219<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Stella_Rossa> unlucky again 578731
+<Stella_Rossa> sorry 650218
+$Stella_Rossa<~Controls.644~>101 181 219 <~Controls.645~><~Game.2035~> 7B04E5
+$Stella_Rossa<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 0D79A2
+<Damian> not ur fault aha 4A8C53
+$Stella_Rossa<~Scribe.141~>073 072 <~Scribe.142~><~Game.1929~><~Scribe.143~><~Game.1925~><~Scribe.144~> 3D1D55
+$Stella_Rossa<~Scribe.141~>065 <~Scribe.142~><~Game.1941~><~Scribe.143~><~Game.1957~><~Scribe.144~> 281316
+$Stella_Rossa<~Controls.644~>211 <~Controls.645~><~Game.2035~> 61981D
+$Damian<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 573399
+$Damian<~Scribe.141~>037 <~Scribe.142~><~Game.1969~><~Scribe.143~><~Game.1927~><~Scribe.144~> A430BB
+$Damian<~Controls.819~> 0DD0D0
+$Damian<~Controls.819~> 75887C
+$Damian<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 8C82BC
+$Damian<~Scribe.141~>039 038 036 028 029 033 034 025 024 023 022 <~Scribe.142~><~Game.1976~><~Scribe.143~><~Game.1967~><~Scribe.144~> 8BC04F
+$Damian<~Scribe.141~>040 035 015 014 013 012 011 <~Scribe.142~><~Game.1956~><~Scribe.143~><~Game.1953~><~Scribe.144~> E9BCBA
+$Damian<~Controls.644~>104 <~Controls.645~><~Game.2035~> F5DE26
+$Stella_Rossa<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 94AB47
+$Stella_Rossa<~Controls.790~>248<~Controls.791~><~Game.2015~><~Controls.792~><~Game.2016~> 4AB8F8
+$Stella_Rossa<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> DB6D62
+<game> Damian<~Controls.1~> 2 null
+<Damian> safe C793EB
+$Damian<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 51C57A
+$Damian<~Scribe.141~>039 038 036 028 029 033 034 025 024 023 022 <~Scribe.142~><~Game.1967~><~Scribe.143~><~Game.1948~><~Scribe.144~> FAD429
+$Damian<~Scribe.141~>040 035 015 014 013 012 011 <~Scribe.142~><~Game.1953~><~Scribe.143~><~Game.1927~><~Scribe.144~> 01613E
+$Damian<~Controls.644~>099 <~Controls.645~><~Game.2035~> 2443E4
+<Stella_Rossa> pass 9224F3
+$Damian<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 4F48AB
+$Damian<~Scribe.141~>008 007 <~Scribe.142~><~Game.1917~><~Scribe.143~><~Game.1927~><~Scribe.144~> AFC039
+$Damian<~Scribe.141~>008 007 <~Scribe.142~><~Game.1927~><~Scribe.143~><~Game.1917~><~Scribe.144~> 175405
+$Damian<~Scribe.141~>007 <~Scribe.142~><~Game.1917~><~Scribe.143~><~Game.1927~><~Scribe.144~> ED54CC
+$Damian<~Scribe.141~>007 <~Scribe.142~><~Game.1927~><~Scribe.143~><~Game.1917~><~Scribe.144~> C0DC77
+$Damian<~Scribe.141~>039 038 036 028 029 033 034 025 024 023 022 <~Scribe.142~><~Game.1948~><~Scribe.143~><~Game.1937~><~Scribe.144~> 5DDAFB
+$Damian<~Scribe.141~>037 027 026 032 031 030 020 019 018 017 016 <~Scribe.142~><~Game.1969~><~Scribe.143~><~Game.1964~><~Scribe.144~> 15E4CC
+$Damian<~Scribe.141~>016 <~Scribe.142~><~Game.1964~><~Scribe.143~><~Game.1969~><~Scribe.144~> DBDEE1
+$Stella_Rossa<~Controls.323~>259 FA9643
+$Damian<~Controls.644~>100 <~Controls.645~><~Game.2035~> A0970E
+$Stella_Rossa<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 1D72D4
+$Stella_Rossa<~Scribe.141~>073 072 <~Scribe.142~><~Game.1925~><~Scribe.143~><~Game.1923~><~Scribe.144~> 1EA890
+$Stella_Rossa<~Scribe.141~>074 070 069 <~Scribe.142~><~Game.1918~><~Scribe.143~><~Game.1923~><~Scribe.144~> D300B8
+$Stella_Rossa<~Controls.644~>213 <~Controls.645~><~Game.2035~> A75BE0
+$Damian<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 839B48
+$Damian<~Scribe.141~>320 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1979~><~Scribe.144~> DA96CF
+$Damian<~Scribe.141~>320 <~Scribe.142~><~Game.1979~><~Scribe.143~><~Game.1969~><~Scribe.144~> 1C2918
+$Damian<~Scribe.141~>321 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1974~><~Scribe.144~> 60367F
+$Damian<~Controls.644~>105 <~Controls.645~><~Game.2035~> 320053
+<Stella_Rossa> pass 83E5F5
+$Damian<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 9DF264
+$Damian<~Scribe.141~>321 <~Scribe.142~><~Game.1974~><~Scribe.143~><~Game.1930~><~Scribe.144~> 6109BD
+$Damian<~Scribe.141~>320 <~Scribe.142~><~Game.1969~><~Scribe.143~><~Game.1951~><~Scribe.144~> B6AF7B
+$Damian<~Controls.644~>102 <~Controls.645~><~Game.2035~> C26F7A
+$Stella_Rossa<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> ACEB14
+$Stella_Rossa<~Scribe.141~>reveal 119 FA62246B92E9B8E2C5CD495F3F571575237F5082 0 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> D9D255
+$Stella_Rossa<~Scribe.141~>260 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> 956132
+$Stella_Rossa<~Controls.323~>260 5176CA
+$Stella_Rossa<~Controls.644~>210 119 <~Controls.645~><~Game.2035~> EAF32F
+$Damian<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> A07DF9
+$Damian<~Scribe.141~>006 326 325 <~Scribe.142~><~Game.1919~><~Scribe.143~><~Game.1918~><~Scribe.144~> 822591
+$Damian<~Scribe.141~>325 <~Scribe.142~><~Game.1918~><~Scribe.143~><~Game.1919~><~Scribe.144~> 49B5E9
+$Damian<~Scribe.141~>006 326 <~Scribe.142~><~Game.1918~><~Scribe.143~><~Game.1919~><~Scribe.144~> 971826
+<Damian> lorien E81282
+<Stella_Rossa> back, in 30 secs, have to feed the cat 68577C
+$Stella_Rossa<~Scribe.141~>097 093 092 087 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.1992~><~Scribe.144~> F932B5
+<Damian> coolio 1B667E
+$Stella_Rossa<~Scribe.141~>256 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> 989D09
+$Stella_Rossa<~Scribe.141~>197 <~Scribe.142~><~Game.2029~><~Scribe.143~><~Game.2036~><~Scribe.144~> 3A1609
+$Damian<~Scribe.141~>040 035 011 012 013 014 015 <~Scribe.142~><~Game.1927~><~Scribe.143~><~Game.1928~><~Scribe.144~> D148B3
+<Stella_Rossa> here CEEE94
+$Stella_Rossa<~Controls.644~>103 197 <~Controls.645~><~Game.2035~> 8D846A
+$Stella_Rossa<~Controls.726~>212 358 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> E17E9F
+$Stella_Rossa<~Controls.731~>210 213 211 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> AA385B
+$Stella_Rossa<~Controls.509~>132<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Stella_Rossa<~Controls.509~>138<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Damian<~Controls.757~>360 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> C724AE
+<~Game.7~>4 null
+$Damian<~Controls.762~>103 102 105 100 099 104 101 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> A6C5B2
+$Damian<~Controls.509~>173<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Stella_Rossa<~Controls.296~>120 <~Controls.297~><~Controls.45~> C73945
+$Damian<~Controls.509~>183<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<Stella_Rossa> fsp ok 35381C
+<Damian> 1 eye or more? 7A4CB9
+<Stella_Rossa> minumum 1 if I moved B57031
+<Damian> or is the minimum always 1 when uve moved last go 18FA47
+$Damian<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> 6F918F
+<Stella_Rossa> and I moved 0FB6AD
+<Damian> gotcha 5F978A
+<Damian> 1e E2D88E
+$Damian<~Controls.345~>103 102 105 100 099 104 101 <~Controls.346~>15 10 15 13 14 15 15 null
+$Damian<~Controls.350~>103 102 105 100 099 104 101 null
+<Stella_Rossa> lol BAE2C8
+<Damian> lol C0861A
+$Stella_Rossa<~Controls.345~>210 213 211 212 358 <~Controls.346~>1 1 1 4 4 null
+$Stella_Rossa<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 18EFA3
+$Stella_Rossa<~Controls.790~>248<~Controls.791~><~Game.2016~><~Controls.792~><~Game.2017~> 9C2B10
+$Stella_Rossa<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 9F4564
+<game> Damian<~Controls.1~> 3 3 6 6 6 null
+<Damian> 3h 87D277
+<Stella_Rossa> tile 5660C2
+<Stella_Rossa> an eye is 3 damages ADD0FB
+$Damian<~Controls.624~>228<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Damian> lol EB17F3
+<Stella_Rossa> random DD5CDF
+$Stella_Rossa<~Controls.637~>243<~Controls.638~><~Game.1998~><~Controls.639~><~Game.2036~> null
+$Stella_Rossa<~Scribe.141~>252 <~Scribe.142~><~Game.2014~><~Scribe.143~><~Game.2015~><~Scribe.144~> A01C6A
+$Stella_Rossa<~Controls.644~>243 228 <~Controls.645~><~Game.2035~> 8556F4
+$Damian<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> BEDD20
+$Damian<~Scribe.141~>038 <~Scribe.142~><~Game.1937~><~Scribe.143~><~Game.1948~><~Scribe.144~> 9303F4
+$Damian<~Scribe.141~>037 <~Scribe.142~><~Game.1964~><~Scribe.143~><~Game.1960~><~Scribe.144~> 6E66F7
+$Damian<~Scribe.141~>039 <~Scribe.142~><~Game.1937~><~Scribe.143~><~Game.1942~><~Scribe.144~> 6838AD
+$Damian<~Controls.644~>100 <~Controls.645~><~Game.2035~> 8FA065
+$Stella_Rossa<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 741019
+$Stella_Rossa<~Scribe.141~>242 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1930~><~Scribe.144~> C8DD01
+$Stella_Rossa<~Scribe.141~>242 <~Scribe.142~><~Game.1930~><~Scribe.143~><~Game.1921~><~Scribe.144~> 699C66
+$Stella_Rossa<~Scribe.141~>242 <~Scribe.142~><~Game.1921~><~Scribe.143~><~Game.1918~><~Scribe.144~> EBD758
+$Stella_Rossa<~Scribe.141~>242 <~Scribe.142~><~Game.1918~><~Scribe.143~><~Game.1923~><~Scribe.144~> 0ECB99
+$Stella_Rossa<~Controls.644~>213 <~Controls.645~><~Game.2035~> A9BF9D
+<Damian> hm 8B88E9
+$Damian<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 3CF045
+$Damian<~Controls.281~>099 <~Controls.282~><~Game.2035~><~Controls.283~><~Game.2043~> 786DB7
+$Damian<~Scribe.141~>251 <~Scribe.142~><~Game.2011~><~Scribe.143~><~Game.2036~><~Scribe.144~> 448368
+<Damian> ring 696B25
+<Stella_Rossa> yes 93D639
+$Damian<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> CA3FE7
+<Damian> lorien 878E1C
+<Stella_Rossa> you know how to play a combat card? D6C916
+$Damian<~Controls.840~>195 4DCB67
+<Damian> yh D628D0
+<Stella_Rossa> perfect B2AF4D
+$Stella_Rossa<~Controls.840~>129 4FDEA5
+<auto> playchosen 5E1449
+<auto><~Controls.3~>reveal 129 31E64C7521B77B0BB1B3D2A9209F5744D54075DF 16<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 5F7FB5
+<auto><~Controls.866~>reveal 195 BBF873065140F757142AFA9E1F3F2CC9415BC337 10<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> D2868D
+<auto> playchosen E98B17
+$Stella_Rossa<~Scribe.141~>256 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> F4D7D3
+<Damian> attacker rolls first? CDB80C
+<Stella_Rossa> yes F89E60
+<game> Damian<~Controls.1~> 4 5 4 2 6 null
+<game> Damian<~Controls.1~> 5 null
+<Stella_Rossa> nice 2CB87A
+<game> Stella_Rossa<~Controls.1~> 3 3 2 null
+<game> Stella_Rossa<~Controls.1~> 5 null
+<Stella_Rossa> 3 hits D3DD2D
+$Stella_Rossa<~Scribe.141~>097 093 092 087 <~Scribe.142~><~Game.1992~><~Scribe.143~><~Game.2037~><~Scribe.144~> A357FF
+$Stella_Rossa<~Scribe.141~>087 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.1992~><~Scribe.144~> 0B5F67
+$Damian<~Scribe.141~>013 014 015 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.2036~><~Scribe.144~> 3D7E0F
+$Stella_Rossa<~Scribe.141~>097 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.1992~><~Scribe.144~> A255F6
+<Damian> press F32E49
+<Stella_Rossa> 1 survives because of shield wall A83177
+$Damian<~Controls.304~>035 <~Controls.305~><~Game.1928~> E1442A
+$Damian<~Controls.313~>344 <~Controls.307~><~Controls.314~><~Game.1928~> 98025E
+$Stella_Rossa<~Controls.662~>195 251 013 014 015 129 093 092 <~Controls.663~><~Game.2035~> C453FF
+<Stella_Rossa> card? 928EA7
+<Damian> nc 42B0AA
+$Stella_Rossa<~Scribe.141~>reveal 132 6751B81F27EB5F1581F49DD178E3C87EB6FB6239 6 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> 384E06
+<Damian> unfortunately C79AC3
+<game> Damian<~Controls.1~> 3 4 6 null
+<Stella_Rossa> 1 reroll 6500B5
+<game> Damian<~Controls.1~> 3 null
+<Stella_Rossa> I have Heroic Death FC3D6E
+<game> Stella_Rossa<~Controls.1~> 3 null
+<game> Stella_Rossa<~Controls.1~> 5 null
+<Stella_Rossa> 1 A0E7A8
+$Damian<~Scribe.141~>012 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.2036~><~Scribe.144~> FF2AF5
+$Stella_Rossa<~Scribe.141~>097 <~Scribe.142~><~Game.1992~><~Scribe.143~><~Game.2037~><~Scribe.144~> 4659D4
+$Stella_Rossa<~Controls.644~>099 012 132 097 <~Controls.645~><~Game.2035~> 1FA265
+$Stella_Rossa<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> C9AB41
+$Stella_Rossa<~Scribe.141~>259 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> 0711F8
+$Stella_Rossa<~Controls.644~>212 <~Controls.645~><~Game.2035~> 283570
+$Damian<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 58F9EC
+$Damian<~Controls.281~>102 <~Controls.282~><~Game.2035~><~Controls.283~><~Game.2043~> 913AE9
+<Damian> mb EC8DE0
+<Stella_Rossa> np 90ED3C
+<Stella_Rossa> your turn 07DD05
+<Stella_Rossa> you can also pass D91078
+$Damian<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 1917C9
+$Damian<~Controls.281~>102 <~Controls.282~><~Game.2035~><~Controls.283~><~Game.2043~> 1A8A30
+<Damian> pass D7151E
+$Stella_Rossa<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> ABC329
+<Stella_Rossa> do not use 1805B4
+<Stella_Rossa> too risky A18F4D
+$Stella_Rossa<~Controls.644~>210 <~Controls.645~><~Game.2035~> 56FCCF
+<Damian> ah so discard? 30E05D
+<Stella_Rossa> yes 176EA9
+<Damian> what a shame >;) 66CF07
+<Stella_Rossa> :-) 84FD06
+$Damian<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> B99BD8
+<Damian> :''((( EA0F7B
+$Damian<~Scribe.141~>319 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1969~><~Scribe.144~> 7EE0E7
+<Stella_Rossa> no WK, no FP nations at war FF677A
+$Damian<~Controls.819~> E1A15B
+$Damian<~Scribe.141~>261 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> A25C5F
+$Damian<~Scribe.141~>261 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2001~><~Scribe.144~> 3CA7DA
+$Damian<~Scribe.141~>261 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> 0A5129
+$Damian<~Controls.644~>102 <~Controls.645~><~Game.2035~> 82507A
+$Stella_Rossa<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 962453
+$Stella_Rossa<~Scribe.141~>259 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> 60C021
+$Stella_Rossa<~Controls.644~>358 <~Controls.645~><~Game.2035~> 12BEA7
+<Damian> yh B0E2F0
+$Stella_Rossa<~Controls.726~>211 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 620BF6
+$Stella_Rossa<~Controls.731~>358 210 212 213 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> FEAF1E
+$Stella_Rossa<~Controls.509~>125<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Stella_Rossa<~Controls.509~>106<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Damian<~Controls.757~>103 105 104 101 360 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 81CC7E
+<~Game.7~>5 null
+$Damian<~Controls.762~>102 099 100 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 270CD4
+<Stella_Rossa> draw cards 377232
+$Damian<~Controls.509~>208<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Damian<~Controls.509~>205<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<Stella_Rossa> fsp ok 32CAFD
+$Damian<~Scribe.141~>102 360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> 762948
+<Damian> 2e FBEF1E
+$Damian<~Controls.345~>099 100 103 105 104 101 <~Controls.346~>12 14 14 10 13 15 null
+$Damian<~Controls.350~>099 100 103 105 104 101 null
+$Stella_Rossa<~Controls.345~>358 210 212 213 211 <~Controls.346~>0 3 0 1 3 null
+$Stella_Rossa<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 60BFB6
+$Stella_Rossa<~Controls.819~> B50A0C
+$Stella_Rossa<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> C9EFD8
+$Stella_Rossa<~Controls.790~>248<~Controls.791~><~Game.2017~><~Controls.792~><~Game.2018~> 149318
+$Stella_Rossa<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 1C278E
+<Damian> roll? 2C5DFA
+<Stella_Rossa> yes FBD316
+<Stella_Rossa> 3 dies E81734
+<game> Damian<~Controls.1~> 2 4 5 null
+<Stella_Rossa> safe DECAB2
+$Damian<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> E18787
+$Damian<~Scribe.141~>321 <~Scribe.142~><~Game.1930~><~Scribe.143~><~Game.1959~><~Scribe.144~> 4E4B0B
+$Damian<~Scribe.141~>320 <~Scribe.142~><~Game.1951~><~Scribe.143~><~Game.1967~><~Scribe.144~> 517CF5
+$Damian<~Scribe.141~>038 <~Scribe.142~><~Game.1948~><~Scribe.143~><~Game.1972~><~Scribe.144~> 14C3CC
+$Damian<~Controls.819~> 60D9F4
+$Damian<~Controls.819~> 06DC74
+$Damian<~Controls.819~> B59A2D
+$Damian<~Controls.819~> 3B1D42
+$Stella_Rossa<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 91E06A
+$Stella_Rossa<~Scribe.141~>reveal 140 FCCC6E31017A77DD014EA18937160815FC557087 8 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> 0E074B
+$Damian<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2036~><~Scribe.144~> A48ED3
+$Stella_Rossa<~Controls.819~> C0E982
+$Stella_Rossa<~Scribe.141~>283 289 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1923~><~Scribe.144~> B73DA9
+$Stella_Rossa<~Controls.644~>211 140 <~Controls.645~><~Game.2035~> B91C5E
+<Stella_Rossa> now EFEC67
+<Stella_Rossa> :-) FEF8A7
+<Damian> mb E54212
+$Damian<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 6C08BF
+$Damian<~Scribe.141~>036 028 029 033 034 025 024 023 022 <~Scribe.142~><~Game.1937~><~Scribe.143~><~Game.1930~><~Scribe.144~> 43FAFC
+$Damian<~Scribe.141~>007 008 <~Scribe.142~><~Game.1917~><~Scribe.143~><~Game.1927~><~Scribe.144~> AF5CEA
+$Damian<~Scribe.141~>007 008 <~Scribe.142~><~Game.1927~><~Scribe.143~><~Game.1917~><~Scribe.144~> 97249C
+$Damian<~Scribe.141~>027 026 032 031 030 020 019 018 017 <~Scribe.142~><~Game.1964~><~Scribe.143~><~Game.1959~><~Scribe.144~> B0D0DA
+$Damian<~Controls.644~>099 <~Controls.645~><~Game.2035~> E5C17D
+$Stella_Rossa<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> AAF275
+$Stella_Rossa<~Controls.509~>142<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Stella_Rossa<~Controls.644~>358 <~Controls.645~><~Game.2035~> BF5DAD
+$Damian<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 12E6AB
+$Damian<~Scribe.141~>reveal 205 1C6FA08EF0AF1AF35E7C7FBCC0721BCB42692F0E 22 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2029~><~Scribe.144~> 21101E
+$Damian<~Controls.644~>100 <~Controls.645~><~Game.2035~> 4FCC4C
+<Stella_Rossa> no, must be under siege 0B459E
+$Stella_Rossa<~Controls.819~> 5CFCE9
+$Stella_Rossa<~Controls.819~> 9C7F59
+<Damian> ohh mb 2098B1
+<Stella_Rossa> np 5D20F8
+$Damian<~Controls.281~>100 <~Controls.282~><~Game.2035~><~Controls.283~><~Game.2043~> 000145
+$Damian<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 548134
+$Damian<~Scribe.141~>321 036 028 029 033 034 025 024 023 022 <~Scribe.142~><~Game.1930~><~Scribe.143~><~Game.1928~><~Scribe.144~> 5A4619
+$Damian<~Scribe.141~>011 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.1930~><~Scribe.144~> D90824
+$Damian<~Controls.644~>104 <~Controls.645~><~Game.2035~> 3E5080
+$Stella_Rossa<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 8D1EE2
+$Stella_Rossa<~Controls.790~>248<~Controls.791~><~Game.2018~><~Controls.792~><~Game.2019~> AA6ACB
+$Stella_Rossa<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 50EE11
+<Stella_Rossa> 3 dies 4DCE36
+<game> Damian<~Controls.1~> 4 1 4 null
+<Stella_Rossa> ouc C92E8A
+<Stella_Rossa> h F5A986
+<Stella_Rossa> safe BC94E5
+$Damian<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 2E8AE1
+$Damian<~Scribe.141~>261 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 3CCE37
+$Damian<~Controls.644~>105 <~Controls.645~><~Game.2035~> F87B13
+<Stella_Rossa> pass 39902F
+$Damian<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 259F08
+$Damian<~Controls.509~>177<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+<Damian> how should i discard DBB3CF
+<Damian> should i just put it there or C752BD
+<Stella_Rossa> select the card and then cancel on your keyboard DB84E1
+$Damian<~Controls.296~>190 <~Controls.297~><~Controls.46~> 88A01F
+<Stella_Rossa> or put it in your casualties 6D2E9A
+<Stella_Rossa> ok 42BB70
+$Damian<~Controls.644~>100 <~Controls.645~><~Game.2035~> 6AF897
+$Stella_Rossa<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> F76654
+$Stella_Rossa<~Controls.366~>250<~Controls.367~><~Game.2009~><~Controls.368~><~Game.2011~> FD590B
+$Stella_Rossa<~Controls.790~>248<~Controls.791~><~Game.2019~><~Controls.792~><~Game.2020~> F3ED68
+$Stella_Rossa<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 4203E5
+<game> Damian<~Controls.1~> 2 5 6 null
+<Stella_Rossa> hit E8F2F6
+$Damian<~Controls.624~>215<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Stella_Rossa<~Scribe.141~>247 <~Scribe.142~><~Game.1927~><~Scribe.143~><~Game.1974~><~Scribe.144~> F065DC
+$Stella_Rossa<~Controls.323~>247 FAFDE8
+$Stella_Rossa<~Scribe.141~>215 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2036~><~Scribe.144~> 688640
+<Stella_Rossa> another tile 0B9933
+$Damian<~Controls.624~>224<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Stella_Rossa<~Scribe.141~>252 <~Scribe.142~><~Game.2015~><~Scribe.143~><~Game.2016~><~Scribe.144~> 84FFBF
+$Stella_Rossa<~Controls.644~>215 224 <~Controls.645~><~Game.2035~> BA5252
+$Damian<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 3D93A8
+$Damian<~Scribe.141~>reveal 208 D52530D4DCC00055A9766872D400373369826BE3 14 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 2D9876
+$Stella_Rossa<~Controls.637~>245<~Controls.638~><~Game.1998~><~Controls.639~><~Game.2036~> null
+<Stella_Rossa> kill him B6DEF7
+$Damian<~Controls.644~>103 245 208 <~Controls.645~><~Game.2035~> FD6255
+$Stella_Rossa<~Controls.726~>210 212 213 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> A17A38
+$Stella_Rossa<~Controls.731~>358 211 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> E88F60
+$Stella_Rossa<~Controls.509~>136<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Stella_Rossa<~Controls.509~>111<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Damian<~Controls.757~>101 102 360 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 83DE7E
+<~Game.7~>6 null
+$Damian<~Controls.762~>103 100 105 104 099 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 4782CA
+$Stella_Rossa<~Controls.296~>106 <~Controls.297~><~Controls.45~> DC43EF
+$Damian<~Controls.509~>201<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Stella_Rossa<~Controls.296~>108 <~Controls.297~><~Controls.45~> B5D1B9
+$Damian<~Controls.509~>187<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Stella_Rossa<~Scribe.141~>247 <~Scribe.142~><~Game.1974~><~Scribe.143~><~Game.524~><~Scribe.144~> FF71DB
+$Stella_Rossa<~Controls.281~>238 233 221 219 <~Controls.282~><~Game.2045~><~Controls.283~><~Game.2044~> CD6CA6
+$Damian<~Controls.296~>187 <~Controls.297~><~Controls.46~> 2DE45B
+<Stella_Rossa> fsp ok 4D0B59
+$Damian<~Scribe.141~>102 101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> 4CA321
+$Damian<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> DAFEFB
+$Damian<~Controls.345~>103 100 105 104 099 <~Controls.346~>10 10 15 14 11 null
+$Damian<~Controls.350~>103 100 105 104 099 null
+$Stella_Rossa<~Controls.345~>358 211 210 212 213 <~Controls.346~>1 1 2 1 4 null
+$Stella_Rossa<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> BA3EB4
+$Stella_Rossa<~Controls.323~>213 79FCC0
+$Stella_Rossa<~Controls.323~>247 58E4D5
+$Stella_Rossa<~Controls.644~>213 <~Controls.645~><~Game.2035~> 3B916C
+$Damian<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 48B08D
+$Damian<~Scribe.141~>reveal 201 3455C0FFA3B4B8B4286C8D098C01D01BD80D1C27 9 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> CDA498
+$Damian<~Controls.281~>237 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2044~> 396557
+$Damian<~Controls.644~>104 201 <~Controls.645~><~Game.2035~> 1890B2
+$Stella_Rossa<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 3A89FB
+$Stella_Rossa<~Scribe.141~>reveal 142 E3345326D52FD2030B6B6FA49E959E3BA8736B48 23 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2036~><~Scribe.144~> 48C375
+<game> Stella_Rossa<~Controls.1~> 6 2 1 null
+$Stella_Rossa<~Scribe.141~>252 <~Scribe.142~><~Game.2016~><~Scribe.143~><~Game.2015~><~Scribe.144~> AB5246
+$Stella_Rossa<~Controls.644~>212 142 <~Controls.645~><~Game.2035~> 00ABDA
+$Damian<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> DFAEAF
+$Damian<~Scribe.141~>250 <~Scribe.142~><~Game.2011~><~Scribe.143~><~Game.2036~><~Scribe.144~> D17D63
+$Damian<~Scribe.141~>reveal 177 2AF0A58B698D332A255FAD16225F784F2835FCC8 17 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 8EE44A
+$Damian<~Controls.281~>239 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2044~> 3A89E1
+$Damian<~Controls.644~>100 250 177 <~Controls.645~><~Game.2035~> 538062
+$Stella_Rossa<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 4C1927
+$Stella_Rossa<~Controls.790~>247<~Controls.791~><~Game.524~><~Controls.792~><~Game.525~> 23AAFF
+$Stella_Rossa<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> B35FB7
+<Stella_Rossa> tile 8BDEC9
+$Damian<~Controls.624~>229<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Stella_Rossa<~Scribe.141~>241 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2037~><~Scribe.144~> 7681C9
+$Stella_Rossa<~Scribe.141~>244 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> D346CD
+$Stella_Rossa<~Controls.644~>229 241 <~Controls.645~><~Game.2035~> FCC9C3
+$Damian<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 3D47C0
+<Damian> lorien 1E14BB
+$Stella_Rossa<~Scribe.141~>256 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 9FC672
+<Damian> nc F66F0F
+<Stella_Rossa> nc 574D60
+<game> Damian<~Controls.1~> 5 3 6 3 4 null
+<game> Stella_Rossa<~Controls.1~> 2 null
+$Stella_Rossa<~Scribe.141~>087 <~Scribe.142~><~Game.1992~><~Scribe.143~><~Game.2037~><~Scribe.144~> F89B0A
+$Stella_Rossa<~Scribe.141~>423 <~Scribe.142~><~Game.27~><~Scribe.143~><~Game.29~><~Scribe.144~> C68B8E
+$Stella_Rossa<~Controls.644~>099 087 <~Controls.645~><~Game.2035~> 38CFFB
+$Stella_Rossa<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 7F9CC9
+$Stella_Rossa<~Controls.509~>115<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Stella_Rossa<~Controls.644~>210 <~Controls.645~><~Game.2035~> A754C8
+$Damian<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 4DB1D8
+$Damian<~Controls.281~>103 <~Controls.282~><~Game.2035~><~Controls.283~><~Game.2043~> 926124
+$Damian<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> E44AF0
+<Damian> i have to muster WC in shadow stronghold right? 877714
+<Stella_Rossa> no, where there is a Sauron's army 64DD4C
+$Damian<~Scribe.141~>253 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1928~><~Scribe.144~> F2BD02
+$Stella_Rossa<~Controls.323~>258 257 36E799
+$Damian<~Controls.644~>103 <~Controls.645~><~Game.2035~> F90BED
+$Stella_Rossa<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 4A9891
+$Stella_Rossa<~Controls.790~>247<~Controls.791~><~Game.525~><~Controls.792~><~Game.528~> A5B373
+$Stella_Rossa<~Controls.795~>358<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> AD433E
+<Stella_Rossa> tile C96017
+$Damian<~Controls.624~>222<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Stella_Rossa> ouch 4BBCDE
+$Stella_Rossa<~Scribe.141~>244 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2037~><~Scribe.144~> 4AF7AA
+$Stella_Rossa<~Scribe.141~>246 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.2037~><~Scribe.144~> 8D733E
+$Stella_Rossa<~Scribe.141~>252 <~Scribe.142~><~Game.2015~><~Scribe.143~><~Game.2017~><~Scribe.144~> C33A54
+$Stella_Rossa<~Scribe.141~>364 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1999~><~Scribe.144~> E3EA4B
+$Stella_Rossa<~Controls.323~>247 C86D12
+$Stella_Rossa<~Controls.644~>222 244 246 <~Controls.645~><~Game.2035~> 96D7A8
+$Stella_Rossa<~Controls.726~>358 211 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 5CF57F
+$Stella_Rossa<~Controls.731~>210 212 213 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> A2D7F0
+$Stella_Rossa<~Controls.509~>128<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Stella_Rossa<~Controls.509~>131<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Stella_Rossa<~Controls.296~>135 <~Controls.297~><~Controls.45~> 38061F
+$Stella_Rossa<~Controls.296~>138 <~Controls.297~><~Controls.45~> 45457B
+<Damian> how much damage was that? 68A402
+<Stella_Rossa> 5 5F406D
+<Damian> damn 40DE64
+<Stella_Rossa> I killed Boromir + hobbit 2883D4
+<Stella_Rossa> so 2 54EBE4
+$Damian<~Controls.757~>105 360 102 101 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 045004
+<~Game.7~>7 null
+$Damian<~Controls.762~>103 099 100 104 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 17D79B
+$Stella_Rossa<~Controls.281~>361 <~Controls.282~><~Game.2040~><~Controls.283~><~Game.2043~> 3B6A71
+<Stella_Rossa> draw 5C0017
+$Damian<~Controls.509~>182<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Damian<~Controls.509~>206<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<Stella_Rossa> fsp ok 9DDE27
+$Damian<~Scribe.141~>360 102 101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> 09D724
+<Damian> 3e D6F75B
+<Stella_Rossa> no CF1697
+<Stella_Rossa> max 1 now because only Gollum 6DB41D
+<Damian> oh interesting 788316
+$Damian<~Controls.281~>101 102 <~Controls.282~><~Game.1997~><~Controls.283~><~Game.2043~> AE6952
+<Stella_Rossa> max the number of companions 549273
+<Damian> makes sense 2E4E67
+$Damian<~Controls.345~>101 102 361 103 099 100 104 105 <~Controls.346~>12 13 13 15 15 11 10 12 null
+$Damian<~Controls.350~>101 102 361 103 099 100 104 105 null
+$Stella_Rossa<~Controls.345~>210 212 213 358 211 <~Controls.346~>1 4 2 4 4 null
+$Stella_Rossa<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> EAAD14
+$Stella_Rossa<~Scribe.141~>reveal 125 595554E68350DD2E40F5FF0016EC3B6BA04A5FAC 2 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> 24FC4C
+$Stella_Rossa<~Scribe.141~>252 <~Scribe.142~><~Game.2017~><~Scribe.143~><~Game.2016~><~Scribe.144~> 39C2DB
+$Stella_Rossa<~Controls.323~>247 D2D1E6
+$Stella_Rossa<~Controls.644~>213 125 <~Controls.645~><~Game.2035~> C53665
+$Damian<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> B5FF31
+$Damian<~Scribe.141~>253 321 040 036 028 029 033 034 025 024 023 022 344 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.1927~><~Scribe.144~> EA0965
+$Stella_Rossa<~Scribe.141~>420 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1928~><~Scribe.144~> DE86A9
+$Damian<~Scribe.141~>344 <~Scribe.142~><~Game.1927~><~Scribe.143~><~Game.1928~><~Scribe.144~> F83935
+$Damian<~Scribe.141~>056 052 051 050 <~Scribe.142~><~Game.1986~><~Scribe.143~><~Game.1984~><~Scribe.144~> 0CC306
+$Damian<~Controls.644~>105 <~Controls.645~><~Game.2035~> E3D8B7
+<Stella_Rossa> pass 3AA41F
+$Damian<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 994800
+$Damian<~Scribe.141~>253 321 040 036 028 029 033 034 025 024 023 022 <~Scribe.142~><~Game.1927~><~Scribe.143~><~Game.1949~><~Scribe.144~> 8311BB
+$Damian<~Scribe.141~>253 321 040 036 028 029 033 034 025 024 023 022 <~Scribe.142~><~Game.1949~><~Scribe.143~><~Game.1927~><~Scribe.144~> AAB522
+$Damian<~Scribe.141~>253 321 040 036 028 029 033 034 025 024 023 022 <~Scribe.142~><~Game.1927~><~Scribe.143~><~Game.1949~><~Scribe.144~> 2C9A0C
+$Damian<~Scribe.141~>253 321 040 036 028 029 033 034 025 024 023 022 <~Scribe.142~><~Game.1949~><~Scribe.143~><~Game.1894~><~Scribe.144~> 996BAD
+$Damian<~Scribe.141~>054 053 <~Scribe.142~><~Game.1987~><~Scribe.143~><~Game.1984~><~Scribe.144~> DA1161
+$Damian<~Controls.644~>101 <~Controls.645~><~Game.2035~> E99D47
+$Stella_Rossa<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 6D47F7
+$Stella_Rossa<~Scribe.141~>264 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1954~><~Scribe.144~> BACA05
+$Stella_Rossa<~Controls.644~>211 <~Controls.645~><~Game.2035~> EF369F
+$Damian<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 8F7CB2
+$Damian<~Scribe.141~>253 321 040 036 028 029 033 034 025 024 023 022 <~Scribe.142~><~Game.1894~><~Scribe.143~><~Game.1945~><~Scribe.144~> 2FE92A
+$Damian<~Scribe.141~>056 054 053 052 051 050 <~Scribe.142~><~Game.1984~><~Scribe.143~><~Game.1980~><~Scribe.144~> A72CF5
+$Damian<~Controls.644~>100 <~Controls.645~><~Game.2035~> E25EDC
+$Stella_Rossa<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 25BA75
+$Stella_Rossa<~Scribe.141~>265 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1954~><~Scribe.144~> 906EFC
+$Stella_Rossa<~Controls.644~>358 <~Controls.645~><~Game.2035~> E30639
+$Damian<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 418F0B
+<Damian> dale 053DFE
+<Stella_Rossa> no leaders 403022
+<Damian> nc B558CC
+<Stella_Rossa> so that dice does not work 495375
+<Damian> oops 0AB845
+<Damian> ofr 3E78FD
+<Stella_Rossa> ok A2F105
+<Damian> nc AD88F4
+$Stella_Rossa<~Scribe.141~>258 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> 1BAB81
+<Stella_Rossa> nc 94B242
+<game> Damian<~Controls.1~> 6 5 2 1 2 null
+<game> Stella_Rossa<~Controls.1~> 1 null
+$Stella_Rossa<~Scribe.141~>065 <~Scribe.142~><~Game.1957~><~Scribe.143~><~Game.2037~><~Scribe.144~> E1028F
+$Damian<~Scribe.141~>253 321 040 036 028 029 033 034 025 024 023 022 <~Scribe.142~><~Game.1945~><~Scribe.143~><~Game.1957~><~Scribe.144~> C57D0C
+$Damian<~Controls.644~>102 065 <~Controls.645~><~Game.2035~> EBE4A1
+$Stella_Rossa<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> E1D3E5
+$Stella_Rossa<~Scribe.141~>266 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1954~><~Scribe.144~> 0B6CD1
+$Stella_Rossa<~Controls.644~>212 <~Controls.645~><~Game.2035~> 9CF250
+$Damian<~Scribe.141~>361 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 65B340
+<Damian> dale 5026CC
+$Stella_Rossa<~Scribe.141~>258 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> A61433
+<Damian> ac no A9E41E
+<Damian> wlr 60B590
+<Stella_Rossa> nc 3FFE1D
+<Stella_Rossa> ah ok 86ECA7
+$Stella_Rossa<~Scribe.141~>098 266 265 264 094 088 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1991~><~Scribe.144~> E81181
+$Damian<~Scribe.141~>253 321 040 036 028 029 033 034 025 024 023 022 <~Scribe.142~><~Game.1957~><~Scribe.143~><~Game.1954~><~Scribe.144~> B21251
+$Damian<~Controls.644~>361 <~Controls.645~><~Game.2035~> FE89A9
+$Stella_Rossa<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> B551EE
+$Stella_Rossa<~Controls.790~>247<~Controls.791~><~Game.528~><~Controls.792~><~Game.529~> 99CABB
+$Stella_Rossa<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 027308
+<Stella_Rossa> tile D54940
+$Damian<~Controls.624~>216<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Stella_Rossa<~Scribe.141~>252 <~Scribe.142~><~Game.2016~><~Scribe.143~><~Game.2017~><~Scribe.144~> D4AFB0
+$Stella_Rossa<~Controls.644~>216 <~Controls.645~><~Game.2035~> 2BBCF6
+<Stella_Rossa> not revealed because of Gollum 392656
+$Damian<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 08A5C6
+<Stella_Rossa> you can have the mouth E0CD8D
+<Damian> ah yes 52654E
+<Stella_Rossa> in a stronghold EE2786
+<Stella_Rossa> of Sauron 57BF99
+$Damian<~Scribe.141~>255 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1969~><~Scribe.144~> 39C09C
+$Stella_Rossa<~Scribe.141~>362 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2037~><~Scribe.144~> 014E16
+$Damian<~Controls.644~>104 362 <~Controls.645~><~Game.2035~> C56845
+$Stella_Rossa<~Controls.726~>210 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> C2608C
+$Stella_Rossa<~Controls.731~>212 358 211 213 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 379E84
+$Stella_Rossa<~Controls.509~>127<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Stella_Rossa<~Controls.509~>143<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Stella_Rossa<~Controls.296~>143 <~Controls.297~><~Controls.45~> 170A9B
+<Damian> mb this is like my second shadow game F87540
+<Stella_Rossa> do not worry C4B286
+<Stella_Rossa> absolutely ok 55EA5A
+$Damian<~Controls.757~>103 099 360 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> C34562
+<~Game.7~>8 null
+$Damian<~Controls.762~>104 362 361 102 100 101 105 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> C3DEFC
+$Damian<~Controls.509~>162<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Damian<~Controls.509~>192<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<Stella_Rossa> must improve efficiency, but is norma D6CA57
+<Stella_Rossa> l 35B4EB
+<Stella_Rossa> too many cards CDF716
+$Damian<~Controls.296~>206 <~Controls.297~><~Controls.46~> D493C5
+$Damian<~Controls.296~>182 <~Controls.297~><~Controls.46~> DAC2E2
+<Stella_Rossa> fsp ok B9C216
+$Damian<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> 4D17A0
+<Damian> 1e 0A69EC
+$Damian<~Controls.345~>104 362 361 102 100 101 103 099 360 <~Controls.346~>15 13 11 13 15 11 10 11 12 null
+$Damian<~Controls.350~>104 362 361 102 100 101 103 099 360 null
+$Stella_Rossa<~Controls.345~>212 358 211 213 210 <~Controls.346~>1 0 4 2 2 null
+$Stella_Rossa<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> A6A825
+$Stella_Rossa<~Controls.790~>247<~Controls.791~><~Game.529~><~Controls.792~><~Game.532~> D95C78
+$Stella_Rossa<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 3FD815
+$Damian<~Controls.624~>225<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Stella_Rossa<~Scribe.141~>252 <~Scribe.142~><~Game.2017~><~Scribe.143~><~Game.2018~><~Scribe.144~> F42953
+$Stella_Rossa<~Controls.323~>247 7A55A6
+<Stella_Rossa> I use Gollum, revealing and reducing the damage of 1 719D46
+$Stella_Rossa<~Controls.644~>225 <~Controls.645~><~Game.2035~> 81621D
+$Damian<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 7860D5
+<Damian> wlr 7D13A0
+$Damian<~Controls.840~>162 1EBAFD
+$Stella_Rossa<~Controls.840~>131 48EC7C
+<auto> playchosen 2DBC92
+<auto><~Controls.3~>reveal 131 B2272F3EDAE368C8765E97E35CE30C40C8EF953E 21<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> EA0233
+<auto><~Controls.866~>reveal 162 4BD847A98B8FDF9B5445FA2C3E3D5F0267A3E068 21<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 5CA6FD
+<auto> playchosen C44237
+<game> Damian<~Controls.1~> 6 5 3 2 5 null
+<Stella_Rossa> wait 4468A2
+<Stella_Rossa> 3 dies 4B6C81
+<Damian> mb AE341A
+<Stella_Rossa> ok, you rolled them B681BC
+<Stella_Rossa> 3 hits 35D403
+<Stella_Rossa> 2 hits 3168B5
+<game> Stella_Rossa<~Controls.1~> 4 6 2 6 6 null
+<Damian> 1 rr? 2EE839
+<game> Stella_Rossa<~Controls.1~> 4 null
+<Stella_Rossa> 3 276326
+<Stella_Rossa> you did also the reroll 3BAD67
+<Damian> oohhh B9B581
+<Damian> ok 46D42B
+<Stella_Rossa> 3 hits to you 1121B0
+$Damian<~Scribe.141~>024 023 022 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.2037~><~Scribe.144~> 214895
+$Stella_Rossa<~Controls.304~>265 266 <~Controls.305~><~Game.1991~> 2500BF
+$Stella_Rossa<~Controls.313~>269 087 <~Controls.309~>(1)/casualties(1)<~Controls.314~><~Game.1991~> 24172F
+<Stella_Rossa> press or stop C989E7
+<Damian> i can cycle a character card now? 960174
+<Stella_Rossa> ? C2ADBA
+<Stella_Rossa> first you say press or stop 184ABD
+<Stella_Rossa> then you draw for WK 94B375
+<Damian> press 3C3842
+$Damian<~Controls.509~>148<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Damian<~Controls.819~> 384BEF
+<Stella_Rossa> ok, and downgrade D648FB
+$Stella_Rossa<~Controls.662~>162 131 024 023 022 <~Controls.663~><~Game.2035~> 1B8A18
+$Damian<~Controls.304~>036 <~Controls.305~><~Game.1954~> 5C65E1
+$Damian<~Controls.313~>024 <~Controls.307~><~Controls.314~><~Game.1954~> 8E1202
+$Damian<~Controls.509~>200<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Damian<~Controls.840~>173 60655A
+$Stella_Rossa<~Controls.840~>127 33B4FD
+<auto> playchosen 6A9A62
+<auto><~Controls.3~>reveal 127 DFF7271EF8D55C06B376CBF84286BCC62EB26C55 20<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 03E1C0
+<auto><~Controls.866~>reveal 173 8254779AD9D521CA863AA45DFA528928AF3C987C 8<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 8F1A6F
+<auto> playchosen BF89C6
+<Stella_Rossa> pre B63DFB
+<game> Stella_Rossa<~Controls.1~> 3 null
+<Stella_Rossa> 0 C48FC6
+<game> Damian<~Controls.1~> 2 2 6 2 4 null
+<Stella_Rossa> 4 rerolls A5CC1D
+<Damian> 4 rerolls? 6E28ED
+<game> Damian<~Controls.1~> 1 6 4 4 null
+<Stella_Rossa> 2 hits 11F5F1
+<Damian> 2h 2F5667
+<game> Stella_Rossa<~Controls.1~> 2 4 4 1 5 null
+<game> Stella_Rossa<~Controls.1~> 3 null
+<Stella_Rossa> 1 B6D5CC
+$Stella_Rossa<~Controls.281~>094 <~Controls.282~><~Game.1991~><~Controls.283~><~Game.2039~> 6C1AB9
+$Damian<~Scribe.141~>025 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.2036~><~Scribe.144~> CFF2C0
+$Stella_Rossa<~Controls.644~>360 173 025 127 <~Controls.645~><~Game.2035~> 5B11F8
+$Stella_Rossa<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> DFECDE
+$Stella_Rossa<~Controls.323~>247 3BC606
+$Stella_Rossa<~Controls.644~>358 <~Controls.645~><~Game.2035~> FD7093
+<Damian> i can cycle another? F7687C
+<Damian> or just for round 1 E8685E
+<Stella_Rossa> no, only first round of combat 35AE8C
+<Damian> gotcha 022309
+$Damian<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 1A4E8A
+$Damian<~Scribe.141~>reveal 200 0187AE13483A864450090C4992F9C562A190BECC 3 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 0303E9
+$Damian<~Controls.281~>236 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2044~> 579B1B
+$Damian<~Controls.644~>102 200 <~Controls.645~><~Game.2035~> 928684
+<Stella_Rossa> pass FB7BC8
+$Damian<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 8FA972
+<Damian> dale from wlr 0898CA
+$Stella_Rossa<~Scribe.141~>258 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 7C8028
+$Damian<~Controls.840~>191 68BB5C
+<Stella_Rossa> nc 48F811
+<auto> playchosen 0311A5
+<auto><~Controls.866~>reveal 191 B6774EE6157C5A472B35DC3E76D4EDDA67223557 16<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 792F8A
+<Stella_Rossa> for cycling, yes B68E7D
+<Damian> yh 452EEA
+<game> Damian<~Controls.1~> 6 6 3 3 2 null
+<game> Stella_Rossa<~Controls.1~> 6 null
+<Stella_Rossa> 1 440E54
+$Damian<~Scribe.141~>033 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.2037~><~Scribe.144~> 1F291A
+$Stella_Rossa<~Scribe.141~>068 066 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.2037~><~Scribe.144~> FEC11F
+$Stella_Rossa<~Scribe.141~>423 <~Scribe.142~><~Game.29~><~Scribe.143~><~Game.30~><~Scribe.144~> 7D8337
+$Damian<~Scribe.141~>034 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1970~><~Scribe.144~> 96C1C0
+<Damian> thats fine? B1C3F4
+<Stella_Rossa> yes 986C4F
+$Damian<~Controls.644~>099 191 068 033 066 <~Controls.645~><~Game.2035~> 29D874
+<Stella_Rossa> and draw 4B556B
+$Damian<~Controls.509~>165<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+<Stella_Rossa> pass EE689A
+$Damian<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 0E8912
+$Damian<~Scribe.141~>056 054 053 052 051 050 <~Scribe.142~><~Game.1980~><~Scribe.143~><~Game.1970~><~Scribe.144~> 054AF0
+$Damian<~Scribe.141~>027 026 032 031 030 020 019 018 017 <~Scribe.142~><~Game.1959~><~Scribe.143~><~Game.1942~><~Scribe.144~> 10A9F4
+$Damian<~Controls.644~>101 <~Controls.645~><~Game.2035~> B360D1
+$Stella_Rossa<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 336866
+$Stella_Rossa<~Scribe.141~>059 <~Scribe.142~><~Game.1973~><~Scribe.143~><~Game.1965~><~Scribe.144~> 171CA4
+$Stella_Rossa<~Scribe.141~>080 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.1944~><~Scribe.144~> 77E9E2
+$Stella_Rossa<~Controls.644~>211 <~Controls.645~><~Game.2035~> EC10E2
+$Damian<~Scribe.141~>361 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 15D1ED
+$Damian<~Scribe.141~>056 054 053 052 051 050 034 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.1954~><~Scribe.144~> 00EE7A
+$Stella_Rossa<~Scribe.141~>419 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1970~><~Scribe.144~> 0F01BE
+$Damian<~Scribe.141~>039 027 026 032 031 030 020 019 018 017 <~Scribe.142~><~Game.1942~><~Scribe.143~><~Game.1933~><~Scribe.144~> 5D9441
+$Damian<~Controls.644~>361 <~Controls.645~><~Game.2035~> 72AC45
+$Stella_Rossa<~Scribe.141~>259 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> F12CEB
+$Stella_Rossa<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> FD14AD
+$Stella_Rossa<~Controls.509~>133<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Stella_Rossa<~Controls.644~>210 <~Controls.645~><~Game.2035~> 8A98EA
+$Damian<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 40F80A
+<Damian> mouth 6D0ACB
+<Stella_Rossa> k CDDAEC
+<Damian> wlr CEB5D8
+$Damian<~Controls.840~>192 1530DD
+$Stella_Rossa<~Controls.840~>111 5B7919
+<auto> playchosen 5616A0
+<auto><~Controls.3~>reveal 111 2376F06923C1D6E3E69E1425319D8E27D1D75A82 12<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 1C19A0
+<auto><~Controls.866~>reveal 192 5F5B0BAE0521169A4322CD5EC454B2870312D9BB 16<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 9F8F64
+<auto> playchosen 0A4CBC
+<game> Damian<~Controls.1~> 2 2 6 5 1 null
+<game> Damian<~Controls.1~> 4 4 5 null
+<Stella_Rossa> 3-1 F0FA5C
+<game> Stella_Rossa<~Controls.1~> 1 6 5 1 null
+<game> Stella_Rossa<~Controls.1~> 2 null
+<Stella_Rossa> 2 497FAB
+$Damian<~Scribe.141~>028 029 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.2037~><~Scribe.144~> E43751
+$Stella_Rossa<~Controls.281~>264 <~Controls.282~><~Game.1991~><~Controls.283~><~Game.2039~> 5B616E
+$Damian<~Scribe.141~>028 029 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2036~><~Scribe.144~> 24C83E
+<Stella_Rossa> press or stop, then draw 32C84C
+<Damian> stop F8E682
+$Damian<~Controls.644~>103 192 028 029 111 <~Controls.645~><~Game.2035~> 907427
+<Stella_Rossa> draw 9F53A6
+$Damian<~Controls.509~>159<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Stella_Rossa<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> BD55BE
+$Stella_Rossa<~Scribe.141~>reveal 133 654AF55DF2AD21F9370800C91A973A1B34C3B382 18 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> 77E6F4
+$Stella_Rossa<~Controls.281~>234 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2044~> 94C1FB
+$Stella_Rossa<~Controls.644~>213 133 <~Controls.645~><~Game.2035~> 394C7E
+$Damian<~Scribe.141~>362 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 8DC16C
+$Damian<~Scribe.141~>039 027 026 032 031 030 020 019 018 017 <~Scribe.142~><~Game.1933~><~Scribe.143~><~Game.1929~><~Scribe.144~> 59F187
+$Damian<~Controls.644~>362 <~Controls.645~><~Game.2035~> 5A8CFC
+$Damian<~Scribe.141~>415 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1933~><~Scribe.144~> E59CDC
+$Stella_Rossa<~Scribe.141~>415 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1933~><~Scribe.144~> B62EAA
+$Stella_Rossa<~Scribe.141~>423 <~Scribe.142~><~Game.30~><~Scribe.143~><~Game.31~><~Scribe.144~> 72BCF2
+$Damian<~Scribe.141~>414 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1929~><~Scribe.144~> 39DCF6
+$Stella_Rossa<~Controls.726~>212 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 8ACD75
+$Stella_Rossa<~Controls.731~>213 210 211 358 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 737C05
+$Stella_Rossa<~Controls.509~>117<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Stella_Rossa<~Controls.509~>150<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Damian<~Controls.757~>104 100 105 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 10351E
+<~Game.7~>9 null
+$Damian<~Controls.762~>362 103 361 101 099 102 360 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> FB069A
+$Damian<~Controls.509~>194<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Damian<~Controls.509~>170<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<Stella_Rossa> fsp ok AA44E3
+$Damian<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> E0B906
+$Damian<~Controls.345~>362 103 361 101 099 102 360 104 100 <~Controls.346~>14 13 15 13 12 11 14 13 15 null
+$Damian<~Controls.350~>362 103 361 101 099 102 360 104 100 null
+$Stella_Rossa<~Controls.345~>213 210 211 358 212 <~Controls.346~>2 3 2 0 3 null
+$Stella_Rossa<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> D7665D
+$Stella_Rossa<~Scribe.141~>reveal 117 67CA3C71E95B7FF96CE791ED5ABD1E9B3341320D 9 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> B8C5E5
+$Stella_Rossa<~Controls.281~>232 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2044~> 04CC7A
+$Stella_Rossa<~Controls.644~>211 117 <~Controls.645~><~Game.2035~> 3140C2
+$Damian<~Scribe.141~>362 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 0316AA
+$Damian<~Scribe.141~>reveal 194 B210132988FD7BAA36F4BD40D02FE485740FB448 22 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> BA9D8B
+<Stella_Rossa> at 6 with Gollum B2669F
+<game> Damian<~Controls.1~> 1 3 4 null
+$Damian<~Controls.644~>362 194 <~Controls.645~><~Game.2035~> 73D263
+$Stella_Rossa<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 831CC9
+$Stella_Rossa<~Controls.790~>247<~Controls.791~><~Game.532~><~Controls.792~><~Game.533~> F31367
+$Stella_Rossa<~Controls.795~>358<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 08A041
+$Damian<~Controls.624~>236<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Stella_Rossa<~Scribe.141~>252 <~Scribe.142~><~Game.2018~><~Scribe.143~><~Game.2021~><~Scribe.144~> A486E8
+$Stella_Rossa<~Scribe.141~>247 <~Scribe.142~><~Game.533~><~Scribe.143~><~Game.532~><~Scribe.144~> 5D93D6
+$Stella_Rossa<~Controls.323~>247 F3D519
+$Stella_Rossa<~Controls.644~>236 <~Controls.645~><~Game.2035~> 18C497
+$Damian<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> C88376
+$Damian<~Scribe.141~>reveal 165 96EEF85BD5BEC4E1FD3C394F86A9C0AE45F073EE 7 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 0B04A0
+$Stella_Rossa<~Scribe.141~>252 <~Scribe.142~><~Game.2021~><~Scribe.143~><~Game.2022~><~Scribe.144~> C13050
+<Damian> 1 corruption point automatic or still ddraw? E9C933
+<Stella_Rossa> automatic 626187
+$Damian<~Controls.644~>360 165 <~Controls.645~><~Game.2035~> 44EB02
+$Stella_Rossa<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 7B77F5
+$Stella_Rossa<~Controls.366~>249<~Controls.367~><~Game.2008~><~Controls.368~><~Game.2011~> B17250
+$Stella_Rossa<~Controls.323~>247 3AF489
+$Stella_Rossa<~Controls.644~>212 <~Controls.645~><~Game.2035~> 9E06F0
+$Damian<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 8DB972
+$Damian<~Scribe.141~>039 027 026 032 031 030 020 019 018 017 <~Scribe.142~><~Game.1929~><~Scribe.143~><~Game.1925~><~Scribe.144~> 14C805
+$Damian<~Scribe.141~>039 027 026 032 031 030 020 019 018 017 <~Scribe.142~><~Game.1925~><~Scribe.143~><~Game.1929~><~Scribe.144~> 7502C2
+$Damian<~Controls.281~>104 <~Controls.282~><~Game.2035~><~Controls.283~><~Game.2043~> 5E5519
+$Damian<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 7FF6AB
+$Damian<~Scribe.141~>039 027 026 032 031 030 020 019 018 017 <~Scribe.142~><~Game.1929~><~Scribe.143~><~Game.1925~><~Scribe.144~> C301F0
+$Damian<~Scribe.141~>reveal 159 AD27868DB4FBF57D7C32B14DD4C8583D74BD687B 4 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.1918~><~Scribe.144~> B5D15F
+$Damian<~CardBuffet.3~>159 <~CardBuffet.4~><~Game.1918~><~CardBuffet.5~><~Controls.46~> 464F46
+$Damian<~Scribe.141~>326 325 006 <~Scribe.142~><~Game.1919~><~Scribe.143~><~Game.1918~><~Scribe.144~> 4017AC
+$Damian<~Controls.644~>099 <~Controls.645~><~Game.2035~> DD050E
+$Stella_Rossa<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> FB98CD
+$Stella_Rossa<~Scribe.141~>287 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1923~><~Scribe.144~> 93DC6B
+$Stella_Rossa<~Controls.644~>210 <~Controls.645~><~Game.2035~> 128E10
+$Damian<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 93A1C5
+<Damian> hd 350DF5
+<Stella_Rossa> from? 0574DB
+<Damian> mmm west 8583C9
+<Stella_Rossa> field 685FC6
+<Damian> uh oh C0BD66
+<Damian> cc? 10EE2A
+<Stella_Rossa> you first E2F37C
+<Damian> oh right 221245
+<Damian> forgot i was attacking lol 124FC1
+<Stella_Rossa> lol B88176
+<Damian> nc 52E4B3
+$Stella_Rossa<~Scribe.141~>reveal 150 25760137F7B8F4D480BCC6B227AB33C526625FC5 5 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> B144E0
+<game> Damian<~Controls.1~> 4 2 1 1 5 null
+<game> Damian<~Controls.1~> 2 null
+<Damian> 0 2E5E00
+<game> Stella_Rossa<~Controls.1~> 4 4 4 4 5 null
+<game> Stella_Rossa<~Controls.1~> 1 1 3 null
+<Stella_Rossa> 1 FE0ACD
+$Damian<~Scribe.141~>017 <~Scribe.142~><~Game.1925~><~Scribe.143~><~Game.2036~><~Scribe.144~> BE90A9
+$Stella_Rossa<~Controls.662~>017 150 <~Controls.663~><~Game.2035~> 127C72
+<Stella_Rossa> press? CC9025
+<Damian> press 607887
+<Stella_Rossa> field 760722
+<Damian> nc 9DBDDD
+$Stella_Rossa<~Scribe.141~>reveal 128 F87CC1339D8041012AA3CFF89922A084488512F5 8 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> 877AE5
+<game> Damian<~Controls.1~> 5 2 6 2 3 null
+<Stella_Rossa> 1 reroll 485C77
+<game> Damian<~Controls.1~> 5 null
+<game> Stella_Rossa<~Controls.1~> 5 3 3 2 3 null
+<game> Stella_Rossa<~Controls.1~> 5 null
+<Stella_Rossa> 5 0F7F5D
+$Damian<~Scribe.141~>030 031 032 026 027 <~Scribe.142~><~Game.1925~><~Scribe.143~><~Game.2036~><~Scribe.144~> 08EF70
+$Stella_Rossa<~Controls.281~>287 072 <~Controls.282~><~Game.1923~><~Controls.283~><~Game.2039~> 080B14
+<Damian> stop 67DB4F
+$Stella_Rossa<~Controls.644~>101 030 031 032 026 027 128 <~Controls.645~><~Game.2035~> 951B66
+<Stella_Rossa> pass 2422A6
+$Damian<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 440C6E
+$Damian<~Scribe.141~>039 020 019 018 <~Scribe.142~><~Game.1925~><~Scribe.143~><~Game.1918~><~Scribe.144~> 3FF547
+$Damian<~Controls.644~>103 <~Controls.645~><~Game.2035~> FC0B7B
+<Stella_Rossa> pass 2E7189
+$Damian<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 0391FA
+<Damian> wlr 41EDF0
+<Stella_Rossa> the elves? 4544B3
+$Damian<~Controls.840~>170 9AF0BD
+<Stella_Rossa> nc BCD6DE
+<Damian> yh 95C7B2
+<auto> playchosen D7B3FD
+<auto><~Controls.866~>reveal 170 C5DBD5B01AB486CFBFF069120FF681266AD4BDDB 18<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> C64F4E
+<game> Damian<~Controls.1~> 4 2 4 5 4 null
+<game> Damian<~Controls.1~> 4 3 3 3 null
+<game> Stella_Rossa<~Controls.1~> 4 5 4 null
+<Damian> A4F2D7
+<game> Stella_Rossa<~Controls.1~> 3 null
+<Stella_Rossa> 1 4BA772
+$Stella_Rossa<~Scribe.141~>088 <~Scribe.142~><~Game.1991~><~Scribe.143~><~Game.2037~><~Scribe.144~> FFFDDA
+$Damian<~Scribe.141~>024 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.2036~><~Scribe.144~> 14676A
+<Damian> press F0FB19
+<Stella_Rossa> draw 693479
+$Damian<~Controls.304~>056 <~Controls.305~><~Game.1954~> 0A192B
+$Damian<~Controls.313~>357 <~Controls.307~><~Controls.314~><~Game.1954~> 897238
+$Damian<~Controls.509~>171<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Stella_Rossa<~Controls.662~>170 024 088 <~Controls.663~><~Game.2035~> 716F10
+$Damian<~Controls.840~>171 6AC90F
+<Stella_Rossa> nc F435C5
+<auto> playchosen 56E103
+<auto><~Controls.866~>reveal 171 439EBB1D63CF963ADFCD473C0C9542FBFDFF6FF3 13<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 28939A
+<game> Damian<~Controls.1~> 4 1 1 5 4 null
+<game> Damian<~Controls.1~> 5 1 5 1 null
+<game> Stella_Rossa<~Controls.1~> 4 4 null
+<Stella_Rossa> 2 EA1E22
+$Stella_Rossa<~Scribe.141~>098 269 087 <~Scribe.142~><~Game.1991~><~Scribe.143~><~Game.2037~><~Scribe.144~> C7FA4F
+$Damian<~Scribe.141~>052 053 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.2036~><~Scribe.144~> 33EBBC
+$Stella_Rossa<~Scribe.141~>423 <~Scribe.142~><~Game.31~><~Scribe.143~><~Game.33~><~Scribe.144~> ADD4E7
+$Stella_Rossa<~Controls.644~>104 171 052 053 098 269 087 <~Controls.645~><~Game.2035~> AFA244
+$Stella_Rossa<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 230E1E
+$Stella_Rossa<~Controls.509~>107<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Stella_Rossa<~Controls.644~>213 <~Controls.645~><~Game.2035~> D7E2D2
+$Damian<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 9C79D9
+$Damian<~Scribe.141~>327 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1919~><~Scribe.144~> 3C24B6
+$Damian<~Scribe.141~>328 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1914~><~Scribe.144~> C0B9AF
+$Damian<~Scribe.141~>004 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1910~><~Scribe.144~> 8D5BE2
+$Damian<~Controls.644~>102 <~Controls.645~><~Game.2035~> 15DE3B
+$Stella_Rossa<~Controls.726~>358 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 4E1295
+$Stella_Rossa<~Controls.731~>213 210 212 211 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> C63714
+$Stella_Rossa<~Controls.509~>109<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Stella_Rossa<~Controls.509~>146<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Damian<~Controls.757~>361 100 105 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 46E430
+<~Game.7~>10 null
+$Damian<~Controls.762~>102 104 103 101 099 360 362 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 54FFC7
+$Damian<~Controls.509~>203<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Damian<~Controls.509~>189<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<Stella_Rossa> fsp ok 1ABE52
+$Damian<~Scribe.141~>362 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> 793173
+$Damian<~Controls.345~>102 104 103 101 099 360 361 100 105 <~Controls.346~>15 14 14 14 12 10 15 14 13 null
+$Damian<~Controls.350~>102 104 103 101 099 360 361 100 105 null
+$Stella_Rossa<~Controls.345~>213 210 212 211 358 <~Controls.346~>0 3 0 4 0 null
+$Stella_Rossa<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 4D4863
+$Stella_Rossa<~Controls.790~>247<~Controls.791~><~Game.532~><~Controls.792~><~Game.533~> 10696A
+$Stella_Rossa<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> BA0725
+<Damian> jesus 37E8CD
+<Stella_Rossa> tile 4DDCF8
+$Damian<~Controls.624~>234<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Stella_Rossa> gg D78F71
+<Damian> gg 316073
+<Stella_Rossa> nice game 8A72DE
+<Stella_Rossa> lost time in Lorien 9D1B5A
+<Damian> any pointers? 967F53
+<Stella_Rossa> always better to bring leaderships 2B73D6
+<Stella_Rossa> that's for sure 469E12
+<Damian> yh wasted them with frodo 0AE0C0
+<Stella_Rossa> Lorien without leadership costs you dices 63EB69
+<Damian> didnt even benefit search for ring at all 8EB910
+<Stella_Rossa> that was not so useful, you have to put nazgul also on the fsp 43D286
+<Stella_Rossa> or I just do not declare F9529C
+<Damian> gotcha D348E2
+<Stella_Rossa> and bring S&E in Umbar 72419F
+<Stella_Rossa> for Corsairs FB26D6
+<Stella_Rossa> important card AD212A
+<Damian> oh right yh 146B19
+<Stella_Rossa> :-) 00A7D1
+<Stella_Rossa> ty for the game 923DAE
+<Stella_Rossa> see you soon I hope 6F5EBD
+<Damian> cya bri 2A2E6F
+<Damian> *bro 066255
+<Stella_Rossa> :-) bye C10834

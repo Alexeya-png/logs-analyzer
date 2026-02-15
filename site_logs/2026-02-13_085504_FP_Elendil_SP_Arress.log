@@ -1,0 +1,905 @@
+<auto> silent null
+<auto><~Scribe.141~>363 397 398 402 401 400 399 403 404 376 375 374 373 377 378 <~Scribe.142~><~Game.2038~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>365 366 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 367 368 369 370 371 372 <~Scribe.142~><~Game.2040~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>230 231 <~Scribe.142~><~Game.2044~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>155 152 <~Scribe.142~><~Game.2004~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>137 151 <~Scribe.142~><~Game.2005~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>161 198 <~Scribe.142~><~Game.2006~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>163 188 <~Scribe.142~><~Game.2007~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Controls.323~>364 null
+<auto> noisy null
+<auto> silent null
+<auto><~Scribe.141~>312 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1965~><~Scribe.144~> null
+<auto> noisy null
+<~Game.7~>1 null
+<auto> silent null
+<auto><~Scribe.141~>363 397 398 402 401 400 399 403 404 376 375 374 373 377 378 <~Scribe.142~><~Game.2038~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>365 366 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 367 368 369 370 371 372 <~Scribe.142~><~Game.2040~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>230 231 <~Scribe.142~><~Game.2044~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>155 152 <~Scribe.142~><~Game.2004~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>137 151 <~Scribe.142~><~Game.2005~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>161 198 <~Scribe.142~><~Game.2006~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>163 188 <~Scribe.142~><~Game.2007~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Controls.323~>364 null
+<auto> noisy null
+$base silent null
+$TEST<~Scribe.141~>312 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1965~><~Scribe.144~> null
+$base noisy null
+<game> Arress<~Controls.408~>[WOTR-Gandalf2 wotr base2] null
+<~Talker.31~> null
+<Elendil> hello there! 
+<Arress> heya! 
+<Elendil> roll and bid? 
+<Arress> sure 
+<game> Elendil<~Controls.1~> 5 null
+<game> Arress<~Controls.1~> 4 null
+<Elendil> 1 token 
+<Arress> 2 tokens 
+<Elendil> i take it 
+<Arress> gl hf! 
+$Elendil<~Controls.281~>427 426 <~Controls.282~><~Game.2038~><~Controls.283~><~Game.2042~> 
+<Elendil> u2 :) 
+$Arress<~Controls.479~>1F8C418061957D7004448B743BFAC8985A8EB7DD E2D6484AB01A7EAB9D4FEAFCDF4A78D6 24 69CC092B3ED851BB67602880600C3D1266CA41B4 16D5EB846413590B4BAE2325162D107D 5B62A27064AC1973C2A33A6B294E64036E8361DE 10E888F0DB0AF855887347DA05668112 CF6680684848D45A0A4DB869C43095D0581B9D45 167B0D723EB2B7BCFBC85001FEB8A72F 4B392839D3963B688812FD7CE4720DDD3CEB4175 EDB263EFD2EFF36468F0398304C2568C E9235BB558C2CA33464DB8949FF23967A72E036F 9C9DDF67694D1FE80F83224F59CBC66E 138B306CDF05E767CA94BDEABCA669B3AC724450 751AE9691B5A3E6F52C38F1155E880F6 3BCF7498A9608799874A73BB931FB3C71B263E58 55BE0DAD36F34AC699E42D82786971DC 78738F6A4CA8855AB288BC582A6A43B886A4DF00 2A3896C872A8CE73796D839EC3FDA44C 4F0EF753EEF1B1D5EFBC0D3AF84C118E3D8147AA B5F96E6669AF42FA131876BB4315A651 EC88854FEA80689C371BF3A30C23C8C06D9463B7 9028EC18451AB78EBAD4920BED58B55A 5B7DF3D4F7A95C7A4F03DAC5887A3257E0536455 721BED8BBA452A5AD8D200F3B14B713E 44FC3B1B80A0FBB9474C809F2645C698B55DA085 B2E7631736B2149411B4214EC8682E98 52783C68A77AC4A44A52478BA385F4A14E64A36A 09C3897657BC3CACA84D5F1B515382F0 883CCE29064268FD49A213E71A59998C09BE11E1 9B3D514C9DE82843229CC9D51BEB990E 751D11E852EFFB8374AF172F608516C841A09FC3 3898332760B6BEC228CD2D33C45A1B71 4868413009BB67B401A56B6C8811DDDC4D16FF3B DEBA8664042E071FB18379FF0273D2EF 87609B464ADC8F38ED721C19908055DDECD06B74 828F5DEA6A9EF13060BACBF640E7762C 815577537DC1F7472A58FCB5FD3FC4399CB40843 0FC5CC76A93D807D2AE8C6E96C3FC1D5 BF26D31575AC3E9140CD02D162A73353B04145C9 AF3E8AC8FDA0514A3B4BCE2A0F93FCFD 50BAD5116612B6BC37B80B3039DE9B14D63FD4E8 48B37D37FF3F35081A7E12699D619062 365F822B5A0DCA02C1CF1F480DFC5D7E5A402051 48413D481677A83C0ABBEF450E1CDF8D A7E15FDAF59A62A74FD80F5DB1BD7F25C0AD7F0A A5FAD8332DBDFCBEB371624CAD338B1D 93A92AC278E8C72A536163613132F8E960914CCB 1FAD0462A600BFDC02137D972FC2FD25 42313882091422DF8360886CED912186F685D6BE C86ADF0E8D5F03864C37149E061F27F6 24 F47D5A5A3C8AEEEDB7412D72CDE7E7950C97A0BB C5968C2B10AFB72CB98284E5F7F52245 72A84C224A4565494BA8730C930DE1C541DF0382 567ACA612E86526DDFEBC70DE9B2EECB 900B84B4C9FB24A8D9F18553320B04065621B1E9 13A6EEAAAFBF5BBAAD4846E40057FA40 D7E38B72889BE6DE6243A1A32549C9962D0F6FD5 77A3705253A7A62A8A45273BEA0A49B7 D54B19B3B22410D246246DF6F4C54D78AACDEC97 A2BAAF774E46E5B2BD2AAAD678025838 B849B3961FB23B1F69251087F363D6BEC36E4769 5AD0282AF282BFB10E146A2B70855794 61A73BCFEB09CF999C6E70C97FF01C9A0ADF3298 52A01D4BAE0710F1AD7EBB1DA131AB70 D31A931B46F1F49E4E55F3A7E27CAFFE4AE573AB AFD7FE37362594725351BACD36CA637E 211F5476FA5075E9D9F5D485787CA4EB33225700 C7D3FE6503247B59A7C26D7B4F28B6FA DA210D272753928F30C26E5B6D27E31A4DC409EE 2B094B11FEB81488E2C1D914CD20987F 22FDAB2E1E1938933E7A30FFD552B555243715A9 E756C6BD7791A590B5C52B536D73E523 7E4A7D0B29DCA8ACCB076B065D7C5F8E30584E8A 07CAFED35C2A640D6925ABD61817FCB5 199E5031315C64B0753473C5C3092EC974EA35A7 5D95BD37A6660F754860F3407877E0CA C4B73773F53B5252F916E000C99994CCE0848F7E 824138661699B3E23BF78054CE77EF93 89F40D3DA3AC7FD31F8505D86A442F79C0467988 1959D6D421F549CFB4BCFFF5024F2D27 55DD068898504987503CC1B09CBAA5DA405B0E0B 5A15EFCE289B2966CDBE5309FB909DAF 9B758E3F3AEA142E10A64ADA900B4F197EED1439 CECE1695EBB30059B12F446830F901F5 E2538BF2F6CB3ED5D2A5FFB62CB58C8DFDC76ECD 5736CCAB3F4F7F083BF0411D7FCA22CA 117E2916AC2554F7D9DB8D4D0FD091145DD04F44 739AD105FFF94493DCA039083DD89C3F 33FCE24A892AB7456697B2CFC16AE8972DE497CB C1BC7E78403F3D30C15CFBA78D8C5E54 8C3615011301FE1B8295B744C7A5FBD4C81F336F C3FB1BE2C788A6E33483C0DEF57FBE35 8EBC201743CC11242895EF282D48FA7AE0BFC34B E4D41FD4BF12C2914133FABD2E76ABBC E25FC6451C8D0363D21B842870E245F932A2E306 BD0234E9A6E6E2169D5D192B3AD41E8D 2CF5D234AE3C4C30FEAF399ACF230FAC240CF556 93BB773188117DFDC390AB1EBCE3F73D 0 0 1E1C4C
+$Arress<~Controls.509~>174<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Arress<~Controls.509~>197<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Elendil<~Controls.464~>90832CEC0E65154EF55C8C9FE07B44C90AFC4D06 1DD0F664EE4CDB814E55C2A8117AABEA 24 81B6A956AD758F44C690822791EB8D2EEB22A99A 3F4C7AD25BFD0FC90AD4775BD4FD76D8 69EAF20493E0E9F240C189322CC547B76D0A78EA B37C26BAB8F2485A47131D3BBEDCCE55 B27C4DCEC2DF9AD0C9077592FE7E9B337EA6D984 4B055EEF084DC80E50F81E6F5CDD0530 C7C87AC0436BCBF3F058033CA30AF0A566C074D9 75666D8A577C225309FF0B1DB5E109F4 508FF3499E2DA301E6A91063CA7C9AB0E667B4BB BFC2A14CEAF114C80C65223B9B9DDE4C 395643794BFB145D10DDBFBF6D7F7CCE48AFBCDB 9EF8C707B7307A3D1563F37343DEDC35 2A51229738176414CBE93004EAF36B21902AD9E7 6A14DD3117F189AE9F18B62F1837E6E5 6F13F35FEA1E7977ED24356C9FFFCAC92EBE86B2 AC5EC5A2B94B4B9ECE0D6BB4CB2766DB CFD3564308F9E3A6682B06B39BC74357A213CD70 9C8A6F2BDA1F0A678F6F9BC4AE0FF7EC B5056648F7446A6F6CB5667DBBF9AC44C5D7A7B0 E4C81D08B22800CFFD698D3342821279 2F6F0CB2D185B7B5CB22972E95DDA224971B4DC9 AAC2E6EA317675420645792F0ED19955 B68E0FC549F9F3E8C5029833879FB33F771EBF5A CDC01C8CEB3CA3274E27E10CB2DE7C9F 8A696EC29FCE7266DA6EE728718F7DB8EE7C21B0 6D8369E44F31DFC553A3E7D33A8F9200 40FED084F32854470572CF8B7A4F4C430A40CEC7 B18D51C41FE2448FD1729FBFB76917FF DC58B86222D2C8C07DDBD2F21589863994D8EC7A C3E9B9BE1BC67555660411FA0C3F7CD4 BDB58B06B1D9ED9D11D5882398DE9FB8EAB69A8E 1FA937ECFFF05F1679BF58BC05EA7799 D8AF191378F47705763C4FF8772836DD3BF0D287 0DA5A00BB0A386D858220B53AD7CEC18 6B4EB0128969815BEB7693BE472F6B34DE84F9AA 6B43C9D5B12B472EA01E3A7AE06E61B3 F6013BB84C4DC64B5CAB06D8FD2F4C1D94C1D05B B043D3E6DBC547D0E15749D41EA2D99E 5CFB17DA8BB75DC5FC95C1BBC66A72549FF0C1FA 2DD82D934D78E5A781287591A24EE5C3 7271424579D72007486E66B35D5AFB89AF7D0525 948FA709A0175126E090CA7DB22D3D1E 9FDE0E2D2ADE9846B3552BA95A169911D73A9458 BED2F6BA5FEB5AE3BD748CC63875350E 945E761692F04E875E735C21166C41A337E4F753 A8FA259AB6A5EFEAD7CAE4B092782C76 6E123E40A1CA31B27232AF25D3F201B0FD91C552 BE429C2468A24081D7A286E8A50202ED 24 89711E30CC123A44EB5EB8F1900D2760535064DA 5C1B4D7C06A1BC566D25D0D738BDE129 A1D5B67B601AF7C7FDBC91C129A5B49729304668 91A02B3F5D6E9D75B8F249E27E397C17 408B7F98271F17126B7F820E88920B65B4B34ABB 25399834303122A6EA825340F46D6F8A 131D9E4F99C330AFCF4B25B7A3E8F61E32FB8FBB DDA15AB0264ED5932B6DA2656DBD5851 2AD501D63B0A9B67ED0D8C340527EE599CE366D3 FCE81A7B0517B8D0BEB834366ADB177A 6903DAC644B2B15474EBD752AA4073A32598DE24 0D1E70BE20B91D8A629CB424AF216B08 CCDA32AA012F96CE638C30228DC167D3F79D80D3 DFB9C3760E1FA2B1FA4F4E9C122B839B 3B114D6DA76778D62CE01024BD6350F73FCA599D D102B5239CB940CA6FD4DEA495C7B45B 3A106EFC7A20E75075EB02B65E4C79ECA7F0E291 4FF1973804645AF1D5D56C7DB79D4D0C 39528911153D2F9B80E56A32C3DED7F78D945F29 9C585F4E5ED7B80CCC0B4B54070D01E9 D12816DB3B1CB3D8B4D756B71B38B58DF9194372 D157FA76566191E428BC5550F925A87F D1804BA74FA7F1E159DCF9D0A1C89AFF29E1E362 255729BC1ED26FF2D443B3B1FCCA6887 5A4BF7A29AC6DEC216842E4590E4096636189FAB 6D154FB9A6D50D9FF3C999F4CB4E05AB 6A2B87CBF50326F8BC6EC914EC726A6379C7FDDC E68906150A2CAAC847811A04032457C6 CBF8AF0277610861E7D2ABB5858634F4DE7A89F1 329E8E1C4C75B6ACD61B15C0F5710C7C 98A1356E09848E626509300A6508A4F2FDA24B2A A004A9E44284E999CA547C56BDA2E9A1 3D2D3710D3C71DA2A9A4FE025AEF3FD177296768 B0AE9999D16C2F3E98B43E4F933E4D7C 8212402D20AA105C5C5017D5C555F5337A39BFBA D5A7C8565BC1CF8565F3B42960A8C55E BF225AD0320CAB4D7CCFF030EF396D1E3C9C3263 7C58603E76B3B519A49DA92C948F6D1C 439F68376E0C663FFBDE2D22E6283C65AA9F625F 4D755E26DD0B4DD103DF2395362BBDE8 FFB72D88C27C8CA5ABF800B37955853DEC78FD67 B01E2E1BAB2D224C879759CE3C92CB5D F99E54EC51445E75E88B553D785466A33126E088 92F44504C598A23FF51ECB5C1CC5DC60 1AC9F0F95292C465FBA86FFDF4F50F895EE8A9FB 6822ADBD989F3E69745ACDD9A23CCE76 7E7DD8A6C9C3BA61DA375908EB9DD93053A2211E 73A7F6150444040C6F08EDD90312BDC0 0 0 C4689F
+$Elendil<~Controls.509~>133<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Elendil<~Controls.509~>147<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+<Elendil> fsp ok 5009CE
+<Arress> 0 e 9EA3E5
+$Arress<~Controls.345~>105 104 103 102 101 100 099 <~Controls.346~>10 11 15 10 12 10 15 null
+$Arress<~Controls.350~>105 104 103 102 101 100 099 null
+$Elendil<~Controls.345~>213 212 211 210 <~Controls.346~>1 1 1 0 null
+<Elendil> pass 8461B5
+$Arress<~HighlightLabel.81~>100<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 07A830
+$Arress<~Scribe.141~>263 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> EA2A73
+$Arress<~Controls.644~>100 <~Controls.645~><~Game.2035~> 2EC885
+$Elendil<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 9BE09E
+<Arress> brb 1 min, bio E7D106
+$Elendil<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 2D4820
+$Elendil<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> F06E4A
+<game> Arress<~Controls.1~> 2 4 null
+<Elendil> sure go ahead C6B1E2
+<Arress> back 87C0E1
+$Arress<~HighlightLabel.81~>105<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> EE177A
+$Arress<~Scribe.141~>262 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 159C69
+$Arress<~Controls.644~>105 <~Controls.645~><~Game.2035~> AC0E34
+$Elendil<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> DC8A52
+$Elendil<~Controls.790~>248<~Controls.791~><~Game.2015~><~Controls.792~><~Game.2016~> F5F7CC
+$Elendil<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> B46267
+<game> Arress<~Controls.1~> 1 3 null
+$Arress<~HighlightLabel.81~>101<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 07B399
+$Arress<~Scribe.141~>039 036 029 028 027 026 <~Scribe.142~><~Game.1979~><~Scribe.143~><~Game.1977~><~Scribe.144~> 646F86
+$Arress<~Scribe.141~>001 <~Scribe.142~><~Game.1910~><~Scribe.143~><~Game.1917~><~Scribe.144~> 181890
+$Arress<~Controls.644~>101 <~Controls.645~><~Game.2035~> 54314E
+$Arress<~Controls.819~> D530B5
+$Arress<~Controls.819~> E6E247
+<Arress> sorry 3CE97F
+$Arress<~Scribe.141~>040 035 015 014 013 012 011 <~Scribe.142~><~Game.1956~><~Scribe.143~><~Game.1958~><~Scribe.144~> 260998
+<Arress> this way B7EE2B
+$Arress<~Controls.644~>101 <~Controls.645~><~Game.2035~> C01535
+$Elendil<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> DF2292
+$Elendil<~Scribe.141~>065 <~Scribe.142~><~Game.1941~><~Scribe.143~><~Game.1957~><~Scribe.144~> 371FA0
+$Elendil<~Scribe.141~>059 <~Scribe.142~><~Game.1973~><~Scribe.143~><~Game.1965~><~Scribe.144~> 5ECDE6
+$Elendil<~Controls.644~>210 <~Controls.645~><~Game.2035~> D8EEE1
+$Arress<~HighlightLabel.81~>102<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 227C6D
+$Arress<~Scribe.141~>254 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1919~><~Scribe.144~> 78DA17
+$Arress<~Scribe.141~>360 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2037~><~Scribe.144~> CD314F
+$Arress<~Controls.644~>102 360 <~Controls.645~><~Game.2035~> C1EB08
+$Elendil<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> FAFAC2
+$Elendil<~Controls.790~>248<~Controls.791~><~Game.2016~><~Controls.792~><~Game.2017~> 2122EA
+$Elendil<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 2ADDC4
+<game> Arress<~Controls.1~> 3 2 null
+<Elendil> damn 966E33
+<Elendil> rough rolls for you CF437E
+<Arress> yeah hunt didn't go well E346D5
+$Arress<~Controls.276~>104<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> F1DCF0
+<Elendil> i hate one sided hunt :( A97BED
+<Arress> ofr, nc 3A0D92
+<Elendil> its too early ofc F8E83B
+$Elendil<~CardBuffet.9~>reveal 147 F2EE4DC93FF74396DF3195C494D59A7CDD364DBF 4<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> 6354E5
+$Elendil<~Scribe.141~>065 <~Scribe.142~><~Game.1957~><~Scribe.143~><~Game.1954~><~Scribe.144~> C30FC6
+$Arress<~Scribe.141~>040 035 015 014 013 012 011 <~Scribe.142~><~Game.1958~><~Scribe.143~><~Game.1957~><~Scribe.144~> AFF2DD
+$Elendil<~Controls.323~>258 5D6342
+$Elendil<~Scribe.141~>258 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> C077C8
+$Elendil<~Controls.644~>104 147 <~Controls.645~><~Game.2035~> E51C37
+$Elendil<~Controls.757~>103 099 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 280E83
+$Elendil<~Controls.762~>104 102 360 101 105 100 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 79BF5C
+$Elendil<~Controls.726~>213 212 211 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 52B8E1
+<~Game.7~>2 null
+$Elendil<~Controls.731~>210 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 505387
+$Elendil<~Controls.509~>142<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Elendil<~Controls.509~>113<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Arress<~Controls.509~>193<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Arress<~Controls.509~>176<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<Elendil> fsp ok B2DDD7
+<Arress> 1 e 12687A
+$Arress<~Controls.372~>104 82BE61
+$Arress<~Controls.345~>102 360 101 105 100 103 099 <~Controls.346~>10 14 14 15 10 12 15 null
+$Arress<~Controls.350~>102 360 101 105 100 103 099 null
+$Elendil<~Controls.345~>210 213 212 211 <~Controls.346~>2 4 3 1 null
+$Elendil<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 59FC67
+$Elendil<~CardBuffet.9~>reveal 113 077CEC45BBF7E0AA40B42E52FD0FA96CB7561A67 5<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> BF0B88
+$Elendil<~Scribe.141~>258 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> BFCCB0
+$Elendil<~Scribe.141~>113 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2029~><~Scribe.144~> E37100
+<Elendil> draw 906792
+$Elendil<~Controls.509~>111<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Elendil<~Controls.644~>210 <~Controls.645~><~Game.2035~> 91D644
+$Arress<~HighlightLabel.81~>360<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> B5CF20
+$Arress<~Controls.509~>206<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Arress<~Controls.644~>360 <~Controls.645~><~Game.2035~> B61B98
+<Elendil> pass B31299
+$Arress<~HighlightLabel.81~>102<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 3C10CE
+$Arress<~Scribe.141~>261 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> 29040F
+$Arress<~Controls.644~>102 <~Controls.645~><~Game.2035~> 8961AD
+$Elendil<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> C04B3E
+$Elendil<~Controls.790~>248<~Controls.791~><~Game.2017~><~Controls.792~><~Game.2018~> 1DB7F7
+$Elendil<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 5715FA
+<game> Arress<~Controls.1~> 5 3 3 null
+<Arress> safe D4ACE3
+$Arress<~HighlightLabel.81~>101<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> B0E0A3
+$Arress<~CardBuffet.14~>reveal 174 D8A87B922B81CAFAA829E1555EE0E501FF21C67C 17<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> A6B7C5
+$Arress<~Controls.281~>239 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2045~> E64985
+$Arress<~Controls.644~>101 174 <~Controls.645~><~Game.2035~> 0BE198
+$Elendil<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 496A19
+$Elendil<~Scribe.141~>256 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> 674979
+$Elendil<~Controls.644~>212 <~Controls.645~><~Game.2035~> EFAA93
+$Arress<~HighlightLabel.81~>103<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 12E874
+<Arress> dale, nc 87FD62
+<Elendil> nc 9FA8D7
+<game> Arress<~Controls.1~> 4 5 2 6 5 null
+<game> Elendil<~Controls.1~> 3 null
+<game> Elendil<~Controls.1~> 3 null
+$Elendil<~Scribe.141~>068 066 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.2037~><~Scribe.144~> 12D1CC
+$Elendil<~Scribe.141~>258 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 351F01
+$Arress<~Scribe.141~>040 035 015 014 013 012 011 <~Scribe.142~><~Game.1957~><~Scribe.143~><~Game.1970~><~Scribe.144~> 4ED52A
+$Arress<~Scribe.141~>423 <~Scribe.142~><~Game.27~><~Scribe.143~><~Game.28~><~Scribe.144~> 543D27
+<Elendil> done? 15D662
+<Arress> thinking AB39C7
+<Elendil> ok sorry EE3C09
+$Arress<~Controls.644~>103 068 066 <~Controls.645~><~Game.2035~> 7459E1
+$Elendil<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> E0CC34
+$Elendil<~Scribe.141~>301 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1941~><~Scribe.144~> 215771
+$Elendil<~Controls.644~>213 <~Controls.645~><~Game.2035~> AB130E
+$Arress<~HighlightLabel.81~>100<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 70E58E
+$Arress<~Scribe.141~>253 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1970~><~Scribe.144~> F7E15D
+$Elendil<~Controls.323~>259 257 947E55
+$Elendil<~Controls.323~>260 EC2FE7
+$Arress<~Scribe.141~>361 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2037~><~Scribe.144~> 00E0BF
+$Arress<~Controls.644~>100 361 <~Controls.645~><~Game.2035~> 13519E
+$Elendil<~Controls.757~>105 099 104 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> E69799
+$Elendil<~Controls.762~>100 361 103 101 102 360 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 5CF635
+$Elendil<~Controls.726~>211 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 6A4552
+<~Game.7~>3 null
+$Elendil<~Controls.731~>213 212 210 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> CA70FC
+$Elendil<~Controls.509~>136<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Elendil<~Controls.509~>138<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Arress<~Controls.509~>204<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Arress<~Controls.509~>178<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Elendil<~Scribe.141~>247 <~Scribe.142~><~Game.1911~><~Scribe.143~><~Game.1927~><~Scribe.144~> 3737AF
+$Elendil<~Scribe.141~>248 <~Scribe.142~><~Game.2018~><~Scribe.143~><~Game.2014~><~Scribe.144~> 4CC8E9
+<Elendil> fsp ok C27BC0
+<Arress> 1 e 97A790
+$Arress<~Controls.372~>100 BB9A9C
+$Arress<~Controls.345~>361 103 101 102 360 105 099 104 <~Controls.346~>14 12 13 13 14 12 10 15 null
+$Arress<~Controls.350~>361 103 101 102 360 105 099 104 null
+$Elendil<~Controls.345~>213 212 210 211 <~Controls.346~>0 2 4 3 null
+$Elendil<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> E6D82C
+$Elendil<~CardBuffet.9~>reveal 138 B73AD8FBE8495CA480D19281F95538CD5734FDC5 15<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> F4D268
+$Elendil<~Scribe.141~>296 300 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1941~><~Scribe.144~> 1F2DC0
+<Elendil> draw FC83F2
+$Elendil<~Controls.509~>106<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Elendil<~Controls.644~>212 138 <~Controls.645~><~Game.2035~> 16C0D9
+$Arress<~HighlightLabel.81~>102<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 297639
+<Arress> wlr E9D99B
+$Elendil<~Scribe.141~>098 094 088 065 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1991~><~Scribe.144~> 79F46B
+$Arress<~Scribe.141~>253 040 035 015 014 013 012 011 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.1954~><~Scribe.144~> 5F6B99
+$Arress<~Scribe.141~>415 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1970~><~Scribe.144~> DB793E
+$Elendil<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> DB05B8
+$Elendil<~Scribe.141~>299 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1941~><~Scribe.144~> E87D34
+<Elendil> oops D19CD1
+<Elendil> you didnt kill it 565D44
+<Elendil> 94F599
+<Elendil> my bad 01AFC1
+<Elendil> want me to take it back? FAE75F
+<Arress> no, go ahead and kill both DD56EF
+$Elendil<~Controls.644~>211 102 <~Controls.645~><~Game.2035~> 16166E
+$Arress<~HighlightLabel.81~>103<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> C1C6B6
+<Arress> wlr 1195FA
+$Arress<~Controls.840~>176 E9194E
+$Elendil<~Controls.840~>106 06E90F
+<auto> playchosen 7F3E30
+<auto><~Controls.3~>reveal 106 34B4219DDFDC865AF2504A12C7960E2822F2194C 7<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 80CCF6
+<auto><~Controls.866~>reveal 176 0558455330BD51E394273038657EF03C067CBD5F 10<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 8DA8B8
+<auto> playchosen 5835A9
+<game> Arress<~Controls.1~> 5 4 4 4 6 null
+<game> Arress<~Controls.1~> 1 2 6 null
+<Arress> 3 CE550F
+<game> Elendil<~Controls.1~> 6 1 2 null
+<game> Elendil<~Controls.1~> 1 null
+<Elendil> 1 :( 20D9E8
+$Arress<~Scribe.141~>011 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.2036~><~Scribe.144~> 607E8B
+$Elendil<~Scribe.141~>094 088 <~Scribe.142~><~Game.1991~><~Scribe.143~><~Game.2037~><~Scribe.144~> DA901F
+<Arress> press, draw 6A9323
+$Arress<~Controls.304~>035 <~Controls.305~><~Game.1954~> 6A83AE
+$Arress<~Controls.313~>344 <~Controls.307~><~Controls.314~><~Game.1954~> 135B24
+$Arress<~Controls.509~>205<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Arress<~Controls.296~>176 011 <~Controls.297~><~Game.2036~> 12AA29
+$Arress<~Controls.296~>106 094 088 <~Controls.297~><~Game.2037~> CEE277
+<Arress> nc C53AEF
+<Elendil> nc 5CC810
+<game> Arress<~Controls.1~> 2 1 5 2 6 null
+<game> Elendil<~Controls.1~> 5 null
+<Elendil> 1 E299A5
+$Elendil<~Scribe.141~>098 065 <~Scribe.142~><~Game.1991~><~Scribe.143~><~Game.2037~><~Scribe.144~> 5548C3
+$Arress<~Scribe.141~>012 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.2036~><~Scribe.144~> 4A3B4A
+$Arress<~Scribe.141~>423 <~Scribe.142~><~Game.28~><~Scribe.143~><~Game.30~><~Scribe.144~> 400A75
+$Arress<~Controls.644~>103 012 098 065 <~Controls.645~><~Game.2035~> C6CBBA
+$Elendil<~Scribe.141~>256 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2003~><~Scribe.144~> 11483B
+$Elendil<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 2DB8DB
+$Elendil<~Controls.819~> D26F11
+$Elendil<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 3BE87C
+$Elendil<~Controls.366~>251<~Controls.367~><~Game.2010~><~Controls.368~><~Game.2011~> 0CF186
+$Elendil<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 5302A4
+$Elendil<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> CCC9FF
+<game> Arress<~Controls.1~> 5 1 null
+<Arress> safe 75305C
+$Arress<~HighlightLabel.81~>099<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> CCBBBF
+$Arress<~Scribe.141~>261 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 6F7118
+$Arress<~Controls.644~>099 <~Controls.645~><~Game.2035~> 0E1B7B
+$Elendil<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 294166
+$Elendil<~Controls.790~>248<~Controls.791~><~Game.2015~><~Controls.792~><~Game.2016~> E938BC
+$Elendil<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> C92DE4
+<game> Arress<~Controls.1~> 5 2 null
+$Arress<~Controls.624~>222<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Elendil<~Scribe.141~>247 <~Scribe.142~><~Game.1927~><~Scribe.143~><~Game.1937~><~Scribe.144~> 7EC4E8
+$Elendil<~Scribe.141~>240 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2037~><~Scribe.144~> FA75B9
+$Elendil<~Scribe.141~>241 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> FC56BA
+$Elendil<~Scribe.141~>248 <~Scribe.142~><~Game.2016~><~Scribe.143~><~Game.2014~><~Scribe.144~> 54F5FF
+$Elendil<~Controls.323~>248 4D5FF5
+$Elendil<~Controls.644~>222 240 <~Controls.645~><~Game.2035~> C36AB6
+$Arress<~HighlightLabel.81~>361<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> DCCA31
+$Arress<~CardBuffet.14~>reveal 204 A41DAE2E56234C44442B4CABE8D72DFD21298D2F 14<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 6B9221
+$Arress<~Controls.637~>242<~Controls.638~><~Game.1998~><~Controls.639~><~Game.2037~> null
+$Elendil<~Controls.644~>361 204 242 <~Controls.645~><~Game.2035~> 154848
+$Arress<~HighlightLabel.81~>105<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 3CC22A
+$Arress<~Scribe.141~>055 049 048 047 <~Scribe.142~><~Game.1968~><~Scribe.143~><~Game.1946~><~Scribe.144~> 6578E6
+$Arress<~Scribe.141~>039 036 029 028 027 026 <~Scribe.142~><~Game.1977~><~Scribe.143~><~Game.1969~><~Scribe.144~> D84CE4
+$Arress<~Controls.644~>105 <~Controls.645~><~Game.2035~> ACB015
+$Arress<~HighlightLabel.81~>360<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> ADA1D2
+$Arress<~CardBuffet.14~>reveal 205 366CC18CBF9F0E39E52EED143679D01EA3ED0720 8<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 4144B3
+$Arress<~Scribe.141~>318 335 334 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1917~><~Scribe.144~> FAB4B0
+$Arress<~Controls.644~>360 205 <~Controls.645~><~Game.2035~> 419DE9
+$Arress<~Controls.276~>101<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 9944BF
+$Arress<~Scribe.141~>039 037 036 029 028 027 026 020 019 018 017 016 <~Scribe.142~><~Game.1969~><~Scribe.143~><~Game.1964~><~Scribe.144~> 9BFD48
+$Arress<~Controls.644~>101 <~Controls.645~><~Game.2035~> 4FC059
+$Elendil<~Controls.726~>213 210 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 82DDF4
+$Elendil<~Controls.731~>211 212 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 74758B
+$Elendil<~Controls.509~>141<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Elendil<~Controls.509~>110<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Arress<~Controls.757~>104 100 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> C9FCC2
+<~Game.7~>4 null
+$Arress<~Controls.762~>101 360 105 361 099 103 102 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 6A0307
+$Arress<~Controls.509~>209<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Arress<~Controls.509~>196<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<Elendil> fsp ok 48AE02
+<Arress> 1 e 27C5AF
+$Arress<~Controls.372~>101 064371
+$Elendil<~Controls.345~>211 212 213 210 <~Controls.346~>2 2 2 4 null
+$Arress<~Controls.345~>360 105 361 099 103 102 104 100 <~Controls.346~>11 13 11 11 11 14 10 15 null
+$Arress<~Controls.350~>360 105 361 099 103 102 104 100 null
+<Elendil> sorry rolled too fast 0D358E
+$Elendil<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> EE3F4A
+$Elendil<~Controls.323~>248 97F1F3
+$Elendil<~Controls.644~>212 <~Controls.645~><~Game.2035~> 274E1A
+$Arress<~HighlightLabel.81~>360<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 4767D1
+$Arress<~Scribe.141~>039 037 036 029 028 027 026 020 019 018 017 016 <~Scribe.142~><~Game.1964~><~Scribe.143~><~Game.1959~><~Scribe.144~> 6C6DD4
+$Arress<~Scribe.141~>055 057 049 048 047 046 045 <~Scribe.142~><~Game.1946~><~Scribe.143~><~Game.1932~><~Scribe.144~> 8FB576
+$Arress<~Controls.644~>360 <~Controls.645~><~Game.2035~> 5F8BCD
+<Elendil> pass 743906
+$Arress<~HighlightLabel.81~>104<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 7261A5
+$Arress<~Scribe.141~>345 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1986~><~Scribe.144~> C42792
+$Arress<~Controls.644~>104 <~Controls.645~><~Game.2035~> F702F8
+<Elendil> pass 42A9D7
+$Arress<~HighlightLabel.81~>361<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 50A335
+$Arress<~Scribe.141~>039 037 036 029 028 027 026 020 019 018 017 016 <~Scribe.142~><~Game.1959~><~Scribe.143~><~Game.1942~><~Scribe.144~> 249B61
+$Arress<~Scribe.141~>345 056 052 051 050 <~Scribe.142~><~Game.1986~><~Scribe.143~><~Game.1984~><~Scribe.144~> 6F4DDC
+$Arress<~Controls.644~>361 <~Controls.645~><~Game.2035~> 6E5D83
+$Elendil<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 07EDAF
+$Elendil<~Scribe.141~>079 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.1944~><~Scribe.144~> 982A89
+$Elendil<~Scribe.141~>296 299 300 301 <~Scribe.142~><~Game.1941~><~Scribe.143~><~Game.1957~><~Scribe.144~> 5B68EB
+$Elendil<~Controls.644~>210 <~Controls.645~><~Game.2035~> 027C30
+$Arress<~HighlightLabel.81~>103<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 816280
+$Arress<~Scribe.141~>039 037 036 029 028 027 026 020 019 018 017 016 <~Scribe.142~><~Game.1942~><~Scribe.143~><~Game.1937~><~Scribe.144~> 2E0555
+$Arress<~Scribe.141~>345 056 052 051 050 <~Scribe.142~><~Game.1984~><~Scribe.143~><~Game.1980~><~Scribe.144~> 23497A
+$Arress<~Controls.644~>103 <~Controls.645~><~Game.2035~> 0D33AC
+<Elendil> pass 03BBF2
+$Arress<~HighlightLabel.81~>099<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> E0576B
+$Arress<~Scribe.141~>247 039 036 029 028 027 026 020 019 018 017 <~Scribe.142~><~Game.1937~><~Scribe.143~><~Game.1925~><~Scribe.144~> 618031
+$Arress<~Scribe.141~>247 <~Scribe.142~><~Game.1925~><~Scribe.143~><~Game.1937~><~Scribe.144~> 6A38D1
+$Arress<~Scribe.141~>345 056 052 051 050 <~Scribe.142~><~Game.1980~><~Scribe.143~><~Game.1970~><~Scribe.144~> B4BF18
+$Elendil<~Scribe.141~>259 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> 817FCD
+$Elendil<~Controls.644~>099 <~Controls.645~><~Game.2035~> 907B67
+<Arress> please A4EAEB
+<Arress> let me clear FF3B41
+$Elendil<~Controls.819~> D7F838
+<Elendil> sorry mb E274FC
+$Arress<~Controls.644~>099 <~Controls.645~><~Game.2035~> 36B397
+$Elendil<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> F61D7E
+$Elendil<~Controls.366~>250<~Controls.367~><~Game.2009~><~Controls.368~><~Game.2012~> 8C618A
+$Elendil<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 54E475
+$Elendil<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> D0640C
+<game> Arress<~Controls.1~> 2 6 null
+<game> Arress<~Controls.1~> 4 null
+$Arress<~Controls.624~>225<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Elendil<~Scribe.141~>252 <~Scribe.142~><~Game.2014~><~Scribe.143~><~Game.2016~><~Scribe.144~> 835B76
+$Elendil<~Controls.644~>225 <~Controls.645~><~Game.2035~> 464F15
+$Arress<~HighlightLabel.81~>105<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 88AA0A
+<Arress> HD 66F76C
+$Elendil<~Scribe.141~>071 <~Scribe.142~><~Game.1923~><~Scribe.143~><~Game.1993~><~Scribe.144~> CFD1CB
+$Elendil<~Scribe.141~>259 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> D96F35
+$Arress<~Scribe.141~>039 036 029 028 027 026 <~Scribe.142~><~Game.1925~><~Scribe.143~><~Game.1923~><~Scribe.144~> 0D34C0
+$Arress<~Controls.644~>105 <~Controls.645~><~Game.2035~> C56BC8
+$Elendil<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> D1AD1D
+$Elendil<~CardBuffet.9~>reveal 133 5B36FE18A172178F10EB40A93A15F73F6F5A6E64 12<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> F4D158
+$Elendil<~Scribe.141~>246 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1944~><~Scribe.144~> 42DF1F
+$Elendil<~Scribe.141~>252 <~Scribe.142~><~Game.2016~><~Scribe.143~><~Game.2015~><~Scribe.144~> 585CE1
+$Elendil<~Controls.644~>211 133 <~Controls.645~><~Game.2035~> 3532EF
+$Arress<~Controls.276~>102<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 810A4C
+$Arress<~CardBuffet.14~>reveal 196 EDE6DF531EBDFF7B27729F62FC7722E8562871B7 6<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 72E53E
+<Arress> umbar to da 4727C4
+$Elendil<~Scribe.141~>077 076 075 <~Scribe.142~><~Game.1920~><~Scribe.143~><~Game.1995~><~Scribe.144~> 0572C3
+$Arress<~Scribe.141~>055 057 049 048 047 046 045 043 042 041 <~Scribe.142~><~Game.1932~><~Scribe.143~><~Game.1920~><~Scribe.144~> CDF962
+$Elendil<~Scribe.141~>260 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> 7282F6
+$Arress<~Controls.644~>102 196 <~Controls.645~><~Game.2035~> FF0B6B
+$Elendil<~Controls.726~>213 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 8CA75D
+$Elendil<~Controls.731~>211 210 212 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> AE3264
+$Elendil<~Controls.509~>116<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Elendil<~Controls.509~>124<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Arress<~Controls.757~>100 101 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> CB5410
+<~Game.7~>5 null
+$Arress<~Controls.762~>102 105 099 103 361 104 360 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 274294
+$Arress<~Controls.509~>166<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Arress<~Controls.509~>187<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Elendil<~Controls.296~>142 <~Controls.297~><~Controls.45~> CA050A
+$Arress<~Controls.296~>178 <~Controls.297~><~Controls.46~> 037582
+$Elendil<~Scribe.141~>247 <~Scribe.142~><~Game.1937~><~Scribe.143~><~Game.1942~><~Scribe.144~> 0ACB50
+$Elendil<~Scribe.141~>248 <~Scribe.142~><~Game.2015~><~Scribe.143~><~Game.2014~><~Scribe.144~> 3D2CF0
+<Elendil> fsp ok 3B25A4
+<Arress> 1 e 71506E
+$Arress<~Controls.372~>102 4AEF62
+$Arress<~Controls.345~>105 099 103 361 104 360 100 101 <~Controls.346~>13 15 10 15 13 14 12 12 null
+$Arress<~Controls.350~>105 099 103 361 104 360 100 101 null
+$Elendil<~Controls.345~>211 210 212 213 <~Controls.346~>3 2 3 1 null
+$Elendil<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 4068F8
+$Elendil<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 773969
+$Elendil<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 3736BB
+<game> Arress<~Controls.1~> 6 5 2 null
+$Arress<~Controls.624~>229<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Elendil<~Scribe.141~>252 <~Scribe.142~><~Game.2015~><~Scribe.143~><~Game.2018~><~Scribe.144~> 05C139
+$Elendil<~Controls.644~>229 <~Controls.645~><~Game.2035~> 701F7C
+$Arress<~HighlightLabel.81~>360<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> F9C8BF
+$Arress<~CardBuffet.14~>reveal 166 71EA7EF95D36F5814B6D0030A5CBF5BF76B9D027 8<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> C76B12
+$Arress<~Scribe.141~>253 040 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1920~><~Scribe.144~> F97EE4
+$Arress<~Scribe.141~>038 <~Scribe.142~><~Game.1974~><~Scribe.143~><~Game.1920~><~Scribe.144~> 669057
+$Arress<~Scribe.141~>037 <~Scribe.142~><~Game.1937~><~Scribe.143~><~Game.1942~><~Scribe.144~> 41D20C
+$Arress<~Scribe.141~>318 <~Scribe.142~><~Game.1917~><~Scribe.143~><~Game.1970~><~Scribe.144~> DBEA1F
+<Arress> da A2F753
+$Arress<~Scribe.141~>166 <~Scribe.142~><~Game.2036~><~Scribe.143~><~Game.2034~><~Scribe.144~> 6E80B3
+$Arress<~Controls.840~>197 6624F6
+<Elendil> nc B62DFB
+$Arress<~Scribe.141~>reveal 197 55C92A7DC6B82335657B28B635FA5FCC688A6858 17 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2036~><~Scribe.144~> 07849D
+<game> Arress<~Controls.1~> 4 2 1 3 3 null
+<game> Arress<~Controls.1~> 4 4 3 4 null
+<Arress> 0 BCE8E4
+<game> Elendil<~Controls.1~> 1 5 2 null
+<Elendil> 1 269D65
+$Arress<~Scribe.141~>041 <~Scribe.142~><~Game.1920~><~Scribe.143~><~Game.2036~><~Scribe.144~> 63C668
+<Arress> press, draw A618E0
+$Arress<~Controls.304~>057 <~Controls.305~><~Game.1920~> F4F9A7
+$Arress<~Controls.313~>357 <~Controls.307~><~Controls.314~><~Game.1920~> 990A03
+$Arress<~Controls.509~>180<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Arress<~Controls.296~>197 041 <~Controls.297~><~Game.2036~> E2286F
+$Arress<~Controls.840~>180 05284E
+$Elendil<~Controls.840~>124 E345D5
+<auto> playchosen A84EB8
+<auto><~Controls.3~>reveal 124 122C8AD6D2430A5273175D3251BF2C43AF0B5E43 21<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> C25FCE
+<auto><~Controls.866~>reveal 180 D0538FB6FE17DB723FFCF6D0FF0968A28AA31A6D 11<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 045FFA
+<auto> playchosen F8AAA1
+<game> Arress<~Controls.1~> 3 6 3 2 2 null
+<game> Arress<~Controls.1~> 6 1 4 6 null
+<Arress> 3 AC86E4
+<game> Elendil<~Controls.1~> 3 1 2 null
+<Elendil> 0 5D1622
+$Elendil<~Scribe.141~>077 076 075 <~Scribe.142~><~Game.1995~><~Scribe.143~><~Game.2036~><~Scribe.144~> 61ED65
+$Arress<~Scribe.141~>423 <~Scribe.142~><~Game.30~><~Scribe.143~><~Game.32~><~Scribe.144~> 8D8557
+$Arress<~Scribe.141~>166 <~Scribe.142~><~Game.2034~><~Scribe.143~><~Game.2036~><~Scribe.144~> 0B5C97
+$Arress<~Controls.644~>360 166 180 077 076 075 124 <~Controls.645~><~Game.2035~> 07106F
+$Elendil<~Scribe.141~>260 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 5EB636
+$Elendil<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 608BEF
+$Elendil<~CardBuffet.9~>reveal 136 E368A964898C513E5ECED673990100F19096004B 23<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> 3670A3
+<game> Elendil<~Controls.1~> 2 1 1 null
+<Elendil> haha 09691A
+<Elendil> 0 6CCE48
+$Elendil<~Controls.644~>210 136 <~Controls.645~><~Game.2035~> 5E3F8B
+<Arress> oof 43E8FD
+<Elendil> game is pretty much over 48E756
+<Elendil> but lets get this over with 54D488
+$Arress<~HighlightLabel.81~>103<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> F16D88
+$Arress<~Scribe.141~>355 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1932~><~Scribe.144~> D53B05
+$Arress<~Scribe.141~>339 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1956~><~Scribe.144~> A706F3
+<Elendil> pass F9907C
+$Arress<~Controls.644~>103 <~Controls.645~><~Game.2035~> 7812DF
+$Arress<~HighlightLabel.81~>101<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 58D89B
+$Arress<~Scribe.141~>253 038 040 055 357 049 048 047 046 045 043 <~Scribe.142~><~Game.1920~><~Scribe.143~><~Game.1924~><~Scribe.144~> B4DBD3
+$Arress<~Scribe.141~>032 031 030 <~Scribe.142~><~Game.1977~><~Scribe.143~><~Game.1969~><~Scribe.144~> 32886E
+<Elendil> pass 1A3FC2
+$Arress<~Controls.644~>101 <~Controls.645~><~Game.2035~> FB4299
+$Arress<~HighlightLabel.81~>105<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> E5D1AD
+<Arress> pela, nc 0DC34B
+<Elendil> nc 0F1A42
+<game> Arress<~Controls.1~> 3 1 1 3 6 null
+<game> Elendil<~Controls.1~> 2 null
+$Elendil<~Scribe.141~>078 <~Scribe.142~><~Game.1931~><~Scribe.143~><~Game.2037~><~Scribe.144~> 186A9C
+$Arress<~Scribe.141~>253 038 040 055 357 049 048 047 046 045 043 <~Scribe.142~><~Game.1924~><~Scribe.143~><~Game.1931~><~Scribe.144~> F145AC
+$Arress<~Scribe.141~>420 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1924~><~Scribe.144~> 96DDAB
+$Arress<~Scribe.141~>423 <~Scribe.142~><~Game.32~><~Scribe.143~><~Game.33~><~Scribe.144~> F0C484
+$Arress<~Controls.644~>105 078 <~Controls.645~><~Game.2035~> B91F93
+$Elendil<~Scribe.141~>426 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> F858B7
+$Elendil<~Scribe.141~>259 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 0E79CE
+$Elendil<~Controls.644~>426 <~Controls.645~><~Game.2035~> A8B4E9
+$Arress<~HighlightLabel.81~>104<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 7EA718
+$Arress<~Controls.819~> F87086
+$Arress<~HighlightLabel.81~>104<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 09066C
+$Arress<~CardBuffet.14~>reveal 209 D60C7BAF7CBC553D9C2C71434F7C6AD0A02DC432 5<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> CD64DC
+$Arress<~Scribe.141~>253 040 038 <~Scribe.142~><~Game.1931~><~Scribe.143~><~Game.1923~><~Scribe.144~> 1D182F
+$Arress<~Scribe.141~>039 <~Scribe.142~><~Game.1923~><~Scribe.143~><~Game.1943~><~Scribe.144~> 66A46F
+$Arress<~Scribe.141~>318 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.1959~><~Scribe.144~> EAD6DD
+<Arress> ok, hunting BB9950
+<game> Arress<~Controls.1~> 2 4 3 null
+<game> Arress<~Controls.1~> 6 null
+$Arress<~Controls.624~>223<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Elendil> random 392C0E
+$Arress<~Controls.637~>241<~Controls.638~><~Game.1999~><~Controls.639~><~Game.2037~> null
+$Elendil<~Controls.644~>104 209 223 241 <~Controls.645~><~Game.2035~> 7B0642
+$Elendil<~Scribe.141~>243 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> 1064E0
+$Elendil<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 05C31F
+$Elendil<~Scribe.141~>292 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1929~><~Scribe.144~> F98C37
+$Elendil<~Scribe.141~>291 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1933~><~Scribe.144~> 60EBF9
+$Elendil<~Controls.644~>212 <~Controls.645~><~Game.2035~> 4CC6CF
+$Arress<~Controls.276~>100<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 45B519
+<Arress> HD, nc BECAFE
+<Elendil> nc 80671D
+<game> Arress<~Controls.1~> 5 3 6 4 2 null
+<game> Elendil<~Controls.1~> 2 null
+$Elendil<~Scribe.141~>071 <~Scribe.142~><~Game.1993~><~Scribe.143~><~Game.2036~><~Scribe.144~> 9C6F16
+$Arress<~Scribe.141~>423 <~Scribe.142~><~Game.33~><~Scribe.143~><~Game.389~><~Scribe.144~> 793E4D
+$Arress<~Controls.644~>100 071 <~Controls.645~><~Game.2035~> 2A0022
+$Elendil<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 2995CF
+$Elendil<~Scribe.141~>290 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1929~><~Scribe.144~> 77AB9E
+$Elendil<~Scribe.141~>293 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1933~><~Scribe.144~> 6B18EE
+$Elendil<~Controls.644~>211 <~Controls.645~><~Game.2035~> FB3C84
+$Arress<~Controls.757~>099 361 102 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 3EB2F1
+$Arress<~Controls.762~>100 104 105 101 103 360 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 2624E1
+$Elendil<~Controls.726~>213 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 239D17
+<~Game.7~>6 null
+$Elendil<~Controls.731~>211 212 210 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 04DABC
+$Arress<~Controls.509~>177<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Arress<~Controls.509~>172<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Elendil<~Scribe.141~>247 <~Scribe.142~><~Game.1942~><~Scribe.143~><~Game.1943~><~Scribe.144~> 2A3F90
+$Elendil<~Scribe.141~>248 <~Scribe.142~><~Game.2015~><~Scribe.143~><~Game.2014~><~Scribe.144~> B006F0
+$Elendil<~Controls.509~>157<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Elendil<~Controls.509~>146<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+<Elendil> fsp ok E5C7C8
+<Arress> 1 e 60D82E
+$Arress<~Controls.372~>100 BF6248
+$Arress<~Controls.345~>104 105 101 103 360 099 361 102 <~Controls.346~>11 13 15 14 12 13 13 12 null
+$Arress<~Controls.350~>104 105 101 103 360 099 361 102 null
+$Elendil<~Controls.345~>211 212 210 213 <~Controls.346~>0 4 3 1 null
+$Elendil<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 02F5BB
+$Elendil<~Scribe.141~>240 <~Scribe.142~><~Game.2039~><~Scribe.143~><~Game.1921~><~Scribe.144~> AA6309
+$Elendil<~Controls.323~>240 424970
+$Elendil<~Scribe.141~>358 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.2037~><~Scribe.144~> B87952
+$Elendil<~Controls.644~>211 358 <~Controls.645~><~Game.2035~> 252A0B
+<Elendil> turn 6 gandalf so fun :P A75D87
+<Arress> yeah, game is not kind to you 0C8EAF
+<Elendil> i even took random on 1 in case i got the hobbit because i am so far behind it didnt matter and it was strider C6EE4D
+<Elendil> variance is a killer some times F8B816
+<Elendil> please put me out of my misery :) 31C276
+<Arress> working on it best I can 096980
+<Elendil> ty 3DEF08
+$Arress<~HighlightLabel.81~>103<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 784420
+$Arress<~CardBuffet.14~>reveal 172 C549E02B9DD0B8FF471B54FCD1289EEB19EA1528 18<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> CDC8C7
+$Arress<~Scribe.141~>354 353 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1987~><~Scribe.144~> 4EE6E8
+$Arress<~Scribe.141~>350 351 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1986~><~Scribe.144~> 7E2D75
+$Arress<~Scribe.141~>349 352 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1932~><~Scribe.144~> 6EFCA6
+$Arress<~Controls.644~>103 172 <~Controls.645~><~Game.2035~> 24C6A5
+$Elendil<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> F43C3B
+$Elendil<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 6BC4FA
+$Elendil<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 922573
+<game> Arress<~Controls.1~> 1 1 null
+<game> Arress<~Controls.1~> 3 null
+<Arress> safe F4CC46
+$Arress<~HighlightLabel.81~>102<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 22854B
+$Arress<~Scribe.141~>354 353 054 053 <~Scribe.142~><~Game.1987~><~Scribe.143~><~Game.1980~><~Scribe.144~> 3C0163
+$Arress<~Scribe.141~>344 015 014 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1970~><~Scribe.144~> 817962
+$Arress<~Controls.644~>102 <~Controls.645~><~Game.2035~> 15155D
+$Elendil<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> E823DF
+$Elendil<~Controls.366~>249<~Controls.367~><~Game.2008~><~Controls.368~><~Game.2013~> CE3502
+$Elendil<~Controls.790~>248<~Controls.791~><~Game.2015~><~Controls.792~><~Game.2016~> 37DD0A
+$Elendil<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> FC5DE6
+<game> Arress<~Controls.1~> 2 1 null
+<game> Arress<~Controls.1~> 2 null
+<Arress> safe 93E73D
+$Arress<~HighlightLabel.81~>360<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 2F9DF8
+$Arress<~Scribe.141~>354 353 054 053 <~Scribe.142~><~Game.1980~><~Scribe.143~><~Game.1970~><~Scribe.144~> 11A218
+$Arress<~Controls.819~> 83D7DC
+$Arress<~Controls.819~> 7AB6E3
+$Arress<~HighlightLabel.81~>361<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> C067DD
+$Arress<~Scribe.141~>253 038 040 <~Scribe.142~><~Game.1923~><~Scribe.143~><~Game.1970~><~Scribe.144~> 870152
+$Arress<~Scribe.141~>318 <~Scribe.142~><~Game.1959~><~Scribe.143~><~Game.1931~><~Scribe.144~> C6ED8F
+$Arress<~Scribe.141~>037 <~Scribe.142~><~Game.1942~><~Scribe.143~><~Game.1970~><~Scribe.144~> C5C104
+$Arress<~Scribe.141~>039 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.1970~><~Scribe.144~> 61DA54
+$Arress<~Controls.644~>361 <~Controls.645~><~Game.2035~> B078DD
+<Elendil> pass 12963E
+$Arress<~HighlightLabel.81~>099<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> C3CA70
+<Arress> dale to ofr 099C93
+$Arress<~Controls.840~>206 4B0C79
+$Elendil<~Controls.840~>111 26DF0B
+<auto> playchosen 41B7B2
+<auto><~Controls.3~>reveal 111 EE1489026834712EB116C71826702F9EE3663B08 20<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 9EAFDB
+<auto><~Controls.866~>reveal 206 0674A92A7D9F69D1DEEDDD65A5A949AEA7B04B12 5<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 80D1A3
+<auto> playchosen 731B95
+<Elendil> mine happens first right? 3A60B2
+<Arress> yea D3863A
+<game> Elendil<~Controls.1~> 4 3 6 null
+<Elendil> 1 A33867
+$Arress<~Scribe.141~>050 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.2037~><~Scribe.144~> AFEE81
+<Arress> sac 0 96408F
+<game> Arress<~Controls.1~> 6 4 2 4 2 null
+<game> Arress<~Controls.1~> 3 4 2 3 null
+<Arress> 1 EBDD74
+<game> Elendil<~Controls.1~> 6 6 3 null
+<game> Elendil<~Controls.1~> 5 null
+<Elendil> 3 89481F
+$Elendil<~Controls.304~>301 <~Controls.305~><~Game.1957~> 10CF6C
+$Elendil<~Controls.313~>065 <~Controls.308~><~Controls.314~><~Game.1957~> 37269F
+$Arress<~Scribe.141~>051 344 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.2037~><~Scribe.144~> 935938
+$Arress<~Controls.304~>345 <~Controls.305~><~Game.1970~> 1B714C
+$Arress<~Controls.313~>041 <~Controls.307~><~Controls.314~><~Game.1970~> 022C47
+<Arress> press, draw 2E9B15
+$Arress<~Controls.509~>190<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<Elendil> stay FBAE5C
+<Arress> nc F7C5D6
+$Elendil<~Controls.662~>206 111 051 050 344 <~Controls.663~><~Game.2035~> 828D2E
+$Elendil<~Controls.840~>146 8BC329
+$Elendil<~CardBuffet.9~>reveal 146 CF86AE9B90A7392CAC6DAB91FB2A03EBFF8F7492 16<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> 3E11BA
+<game> Arress<~Controls.1~> 4 3 2 1 3 null
+<game> Arress<~Controls.1~> 6 6 3 1 2 null
+<Arress> 2-1 D2B900
+<game> Elendil<~Controls.1~> 6 3 4 null
+<game> Elendil<~Controls.1~> 4 null
+<Elendil> 1 9BB17C
+$Elendil<~Controls.304~>299 <~Controls.305~><~Game.1957~> C45CBE
+$Elendil<~Controls.313~>066 <~Controls.308~><~Controls.314~><~Game.1957~> DEF851
+$Arress<~Controls.304~>056 <~Controls.305~><~Game.1970~> A399E3
+$Arress<~Controls.313~>051 <~Controls.307~><~Controls.314~><~Game.1970~> DC8144
+<Arress> press 0A07C0
+$Elendil<~Controls.662~>146 <~Controls.663~><~Game.2035~> 6DC2B7
+<Arress> nc 5B16FC
+$Elendil<~CardBuffet.9~>reveal 110 1578A130C90D5B8DA133EF371042D6D9D0F2D652 9<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> 9D0463
+<Elendil> pre E59A9D
+<game> Elendil<~Controls.1~> 6 null
+<Elendil> 1 832B58
+$Arress<~Scribe.141~>052 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.2036~><~Scribe.144~> D123CC
+<game> Arress<~Controls.1~> 1 2 6 3 null
+<game> Arress<~Controls.1~> 6 2 3 null
+<Arress> 2 D62CD7
+<game> Elendil<~Controls.1~> 1 2 1 null
+<game> Elendil<~Controls.1~> 4 null
+<Elendil> 0 30BFBA
+$Elendil<~Scribe.141~>300 <~Scribe.142~><~Game.1957~><~Scribe.143~><~Game.2037~><~Scribe.144~> 8AC545
+<Arress> press 079FF2
+$Arress<~Controls.296~>052 <~Controls.297~><~Game.2036~> B56F41
+$Arress<~Controls.296~>110 300 <~Controls.297~><~Game.2037~> 588D2E
+$Elendil<~Scribe.141~>296 066 065 <~Scribe.142~><~Game.1957~><~Scribe.143~><~Game.1950~><~Scribe.144~> 1A55AF
+$Arress<~Controls.644~>099 <~Controls.645~><~Game.2035~> E487A7
+<Elendil> pass 5071A3
+$Arress<~HighlightLabel.81~>104<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 85F1CB
+$Arress<~Scribe.141~>346 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1987~><~Scribe.144~> 25B9FB
+<Elendil> pass 376BC7
+$Arress<~Controls.644~>104 <~Controls.645~><~Game.2035~> BF6B4E
+$Arress<~HighlightLabel.81~>360<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> F92A71
+$Arress<~Controls.819~> B77900
+$Arress<~HighlightLabel.81~>105<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> D1B72A
+$Arress<~CardBuffet.14~>reveal 177 5DB7624648DF5B2E6B170F4E3E8AFA362DBC5EFB 3<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> DDD467
+$Arress<~Controls.281~>236 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2045~> 946207
+$Arress<~Controls.644~>105 177 <~Controls.645~><~Game.2035~> EBD0ED
+$Elendil<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 4DB136
+$Elendil<~Scribe.141~>302 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1941~><~Scribe.144~> B269A6
+$Elendil<~Controls.644~>212 <~Controls.645~><~Game.2035~> FBEE9D
+$Arress<~HighlightLabel.81~>360<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> E5141C
+$Arress<~Scribe.141~>350 351 <~Scribe.142~><~Game.1986~><~Scribe.143~><~Game.1984~><~Scribe.144~> 92FF3F
+$Arress<~Scribe.141~>001 <~Scribe.142~><~Game.1910~><~Scribe.143~><~Game.1917~><~Scribe.144~> F3E852
+$Elendil<~Controls.726~>210 213 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> FBD91B
+$Elendil<~Controls.731~>212 211 358 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> AA3B93
+$Arress<~Controls.644~>360 <~Controls.645~><~Game.2035~> 11FE8D
+$Arress<~Controls.757~>101 100 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 3B9607
+<~Game.7~>7 null
+$Arress<~Controls.762~>360 105 104 099 361 102 103 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> E41E1D
+$Elendil<~Controls.509~>135<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Arress<~Controls.509~>201<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Elendil<~Controls.509~>145<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Arress<~Controls.509~>207<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Elendil<~Scribe.141~>247 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.524~><~Scribe.144~> 7B5CCA
+$Elendil<~Scribe.141~>248 <~Scribe.142~><~Game.2016~><~Scribe.143~><~Game.2014~><~Scribe.144~> F2F875
+$Elendil<~Controls.281~>239 236 <~Controls.282~><~Game.2045~><~Controls.283~><~Game.2044~> 205302
+<Elendil> fsp ok F2B09A
+<Arress> 2 e E53C5F
+$Arress<~Controls.372~>360 5EBECD
+$Arress<~Controls.372~>105 61A607
+$Arress<~Controls.345~>104 099 361 102 103 101 100 <~Controls.346~>14 12 11 11 12 11 12 null
+$Arress<~Controls.350~>104 099 361 102 103 101 100 null
+$Elendil<~Controls.345~>212 211 358 210 213 <~Controls.346~>1 0 0 4 2 null
+$Elendil<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 549132
+$Elendil<~Controls.790~>247<~Controls.791~><~Game.524~><~Controls.792~><~Game.525~> 5E4D32
+$Elendil<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 4FCBD7
+$Arress<~Controls.624~>236<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Elendil<~Scribe.141~>243 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2037~><~Scribe.144~> 0D487C
+$Elendil<~Scribe.141~>247 <~Scribe.142~><~Game.525~><~Scribe.143~><~Game.524~><~Scribe.144~> D1532C
+$Elendil<~Controls.323~>248 31A6A6
+$Elendil<~Controls.644~>236 243 <~Controls.645~><~Game.2035~> 945F6E
+$Elendil<~Scribe.141~>244 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> 36CD30
+$Arress<~HighlightLabel.81~>361<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 36698F
+$Arress<~Scribe.141~>347 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1987~><~Scribe.144~> E87D84
+$Arress<~Controls.644~>361 <~Controls.645~><~Game.2035~> A059A4
+$Elendil<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 52480A
+$Elendil<~CardBuffet.9~>reveal 145 BBBAA18238649BBD64BEDFA1226EEAA35B298797 3<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> F9ED22
+<Elendil> dale BB4DBA
+<game> Elendil<~Controls.1~> 1 3 3 3 5 null
+<Elendil> 1 8210F6
+$Elendil<~Controls.644~>213 145 <~Controls.645~><~Game.2035~> 1E59EE
+$Arress<~Scribe.141~>041 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.2036~><~Scribe.144~> 37BA5E
+$Arress<~Controls.644~>041 <~Controls.645~><~Game.2035~> 659342
+$Arress<~HighlightLabel.81~>100<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 33D486
+$Arress<~Scribe.141~>347 346 <~Scribe.142~><~Game.1987~><~Scribe.143~><~Game.1980~><~Scribe.144~> CD1908
+$Arress<~Scribe.141~>350 351 <~Scribe.142~><~Game.1984~><~Scribe.143~><~Game.1980~><~Scribe.144~> 3BF876
+$Arress<~Controls.644~>100 <~Controls.645~><~Game.2035~> F9C832
+<Elendil> pass 167D66
+$Arress<~HighlightLabel.81~>103<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 65A30A
+$Arress<~Scribe.141~>014 015 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.1954~><~Scribe.144~> 914717
+$Arress<~Scribe.141~>347 346 350 351 354 353 054 053 <~Scribe.142~><~Game.1980~><~Scribe.143~><~Game.1970~><~Scribe.144~> C6A53A
+$Arress<~Scribe.141~>013 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1970~><~Scribe.144~> 22D403
+$Arress<~Controls.644~>103 <~Controls.645~><~Game.2035~> 9521B2
+<Elendil> pass CB8738
+$Arress<~HighlightLabel.81~>101<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> E02361
+<Arress> ereb 86CA2C
+$Elendil<~Scribe.141~>062 312 061 059 060 <~Scribe.142~><~Game.1965~><~Scribe.143~><~Game.1988~><~Scribe.144~> C72AA8
+$Arress<~Scribe.141~>253 039 037 038 040 347 346 350 351 354 353 054 053 013 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.1965~><~Scribe.144~> 67D15C
+$Arress<~Controls.644~>101 <~Controls.645~><~Game.2035~> 3B12D4
+$Elendil<~Scribe.141~>427 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 523A4F
+$Elendil<~Controls.509~>120<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Elendil<~Controls.644~>427 <~Controls.645~><~Game.2035~> 1400E2
+$Arress<~HighlightLabel.81~>099<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> C8BD8C
+<Arress> ereb FDF7E7
+$Arress<~Controls.840~>187 FE2AF2
+$Elendil<~Controls.840~>120 15A5B0
+<auto><~Controls.861~>reveal 120 F09FF249B3476B5D8CB749664CC40ADC150159BC 0<~Controls.862~><~Controls.45~><~Controls.863~><~Game.2037~> E31BFB
+<auto> playchosen A89FEB
+<auto> playchosen 5D7826
+<auto><~Controls.888~>reveal 187 7E9101652B07754D245DCF67E0E44779FD2DC903 19<~Controls.889~><~Controls.46~><~Controls.890~><~Game.2036~> 6B8B1E
+<game> Arress<~Controls.1~> 5 1 4 5 1 null
+<Arress> 3 4CA44E
+<game> Elendil<~Controls.1~> 6 1 5 5 null
+<game> Elendil<~Controls.1~> 6 null
+<Elendil> 6 465030
+$Elendil<~Scribe.141~>061 <~Scribe.142~><~Game.1988~><~Scribe.143~><~Game.2036~><~Scribe.144~> B170FA
+$Arress<~Scribe.141~>353 054 053 <~Scribe.142~><~Game.1965~><~Scribe.143~><~Game.2037~><~Scribe.144~> 16FB76
+$Elendil<~Controls.304~>312 <~Controls.305~><~Game.1988~> B553A2
+$Elendil<~Controls.313~>317 <~Controls.307~><~Controls.314~><~Game.1988~> D3A3CC
+$Arress<~Controls.304~>347 <~Controls.305~><~Game.1965~> 813CD1
+$Arress<~Controls.313~>041 <~Controls.307~><~Controls.314~><~Game.1965~> C4A3D7
+$Arress<~Controls.304~>346 <~Controls.305~><~Game.1965~> 30F1C8
+$Arress<~Controls.313~>052 <~Controls.307~><~Controls.314~><~Game.1965~> 232797
+$Arress<~Scribe.141~>354 <~Scribe.142~><~Game.1965~><~Scribe.143~><~Game.2037~><~Scribe.144~> B48DD9
+<Arress> stop, draw F34870
+$Arress<~Controls.509~>189<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Arress<~Controls.644~>099 187 061 120 354 353 054 053 <~Controls.645~><~Game.2035~> 47CF6B
+$Elendil<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 1B6B59
+$Elendil<~Scribe.141~>302 <~Scribe.142~><~Game.1941~><~Scribe.143~><~Game.1957~><~Scribe.144~> A128C7
+$Elendil<~Scribe.141~>296 066 065 <~Scribe.142~><~Game.1950~><~Scribe.143~><~Game.1958~><~Scribe.144~> FD691E
+$Elendil<~Scribe.141~>296 066 065 <~Scribe.142~><~Game.1958~><~Scribe.143~><~Game.1957~><~Scribe.144~> 815CB4
+$Elendil<~Controls.644~>210 <~Controls.645~><~Game.2035~> B5CEF4
+$Arress<~HighlightLabel.81~>102<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> DE1BB5
+$Arress<~Scribe.141~>253 039 037 038 040 052 041 350 <~Scribe.142~><~Game.1965~><~Scribe.143~><~Game.1970~><~Scribe.144~> 3C6A3D
+$Arress<~Scribe.141~>025 024 023 022 021 <~Scribe.142~><~Game.1974~><~Scribe.143~><~Game.1976~><~Scribe.144~> 330CB4
+<Elendil> dwarves are on step 1 right? 043698
+$Elendil<~Scribe.141~>257 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2002~><~Scribe.144~> FE842C
+<Arress> yes FAD651
+<Elendil> 1 under siege 1 attack? CFC243
+$Arress<~Controls.644~>102 <~Controls.645~><~Game.2035~> 21101B
+$Elendil<~HighlightLabel.86~>358<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> E59D0C
+$Elendil<~Controls.323~>248 A60404
+$Elendil<~Controls.644~>358 <~Controls.645~><~Game.2035~> CA49D7
+$Arress<~Controls.276~>104<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 7EF7D3
+$Arress<~Scribe.141~>251 <~Scribe.142~><~Game.2011~><~Scribe.143~><~Game.2037~><~Scribe.144~> 633CF6
+$Arress<~Scribe.141~>255 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1956~><~Scribe.144~> 58A89E
+$Arress<~Scribe.141~>362 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2036~><~Scribe.144~> 2E9EAE
+$Arress<~Scribe.141~>255 <~Scribe.142~><~Game.1956~><~Scribe.143~><~Game.1917~><~Scribe.144~> 477878
+$Arress<~Controls.644~>104 362 251 <~Controls.645~><~Game.2035~> 8DB2EF
+$Elendil<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> CE2753
+$Elendil<~Controls.790~>247<~Controls.791~><~Game.524~><~Controls.792~><~Game.525~> 6C70DB
+$Elendil<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> D5A960
+$Arress<~Controls.624~>219<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Elendil<~Scribe.141~>244 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2037~><~Scribe.144~> CEDF65
+$Elendil<~Scribe.141~>245 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.2037~><~Scribe.144~> 6BE8BA
+$Elendil<~Controls.323~>248 7C90FD
+$Elendil<~Controls.644~>219 244 245 <~Controls.645~><~Game.2035~> 1A9317
+$Elendil<~Scribe.141~>364 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1999~><~Scribe.144~> 6B592E
+$Elendil<~Controls.726~>211 212 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 3E0249
+$Elendil<~Controls.731~>358 210 213 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 9DC71F
+$Arress<~Controls.757~>105 360 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 9CB097
+<~Game.7~>8 null
+$Arress<~Controls.762~>104 362 102 099 101 103 100 361 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> B0E577
+$Elendil<~Controls.509~>117<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Elendil<~Controls.509~>119<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Arress<~Controls.509~>203<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Arress<~Controls.509~>185<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<Elendil> fsp ok 0D74D6
+$Arress<~Controls.296~>203 <~Controls.297~><~Controls.46~> A2CE22
+<Arress> 1 e 259291
+$Arress<~Controls.372~>104 79452B
+$Arress<~Controls.345~>362 102 099 101 103 100 361 105 360 <~Controls.346~>12 11 14 15 10 10 12 14 12 null
+$Arress<~Controls.350~>362 102 099 101 103 100 361 105 360 null
+$Elendil<~Controls.345~>358 210 213 211 212 <~Controls.346~>2 1 4 4 1 null
+$Elendil<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> A59C65
+$Elendil<~Controls.323~>248 F52BA8
+$Elendil<~Controls.644~>212 <~Controls.645~><~Game.2035~> 6D1B0E
+$Arress<~HighlightLabel.81~>103<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 004F39
+$Arress<~Scribe.141~>346 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1987~><~Scribe.144~> 3775D1
+$Arress<~Controls.644~>103 <~Controls.645~><~Game.2035~> 2890BE
+$Elendil<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> B318D6
+<Elendil> dale from ofr E755A1
+$Elendil<~Controls.840~>119 82115B
+$Arress<~Controls.840~>201 ED0EF8
+<auto> playchosen 9AAFE7
+<auto><~Controls.888~>reveal 201 0AF17659FAD523CC05AA6942EE62DEC35A73B415 21<~Controls.889~><~Controls.46~><~Controls.890~><~Game.2036~> D3D312
+<auto><~Controls.861~>reveal 119 E08582373647375649BAF56CBD4D09A13CEB5F69 22<~Controls.862~><~Controls.45~><~Controls.863~><~Game.2037~> 14AF5C
+<auto> playchosen F32655
+<game> Elendil<~Controls.1~> 6 1 1 null
+<game> Elendil<~Controls.1~> 4 null
+<Elendil> 1 B03D24
+<game> Arress<~Controls.1~> 1 4 2 3 null
+<game> Arress<~Controls.1~> 2 2 3 3 null
+<Arress> 0 7FE2D8
+<Elendil> press 524210
+<Elendil> remove 1 please so we dont forget 93FBF6
+$Arress<~Scribe.141~>051 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.2036~><~Scribe.144~> F64794
+<Arress> hmm 508FBB
+$Arress<~Scribe.141~>253 039 037 038 040 052 041 350 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.1965~><~Scribe.144~> B70362
+$Arress<~Controls.509~>173<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Elendil<~Scribe.141~>296 302 066 065 <~Scribe.142~><~Game.1957~><~Scribe.143~><~Game.1970~><~Scribe.144~> 8E90DE
+$Elendil<~Controls.281~>415 <~Controls.282~><~Game.1970~><~Controls.283~><~Game.2040~> 83FDDF
+$Elendil<~Controls.644~>211 201 051 119 <~Controls.645~><~Game.2035~> CBDCE7
+$Arress<~Scribe.141~>423 <~Scribe.142~><~Game.389~><~Scribe.143~><~Game.388~><~Scribe.144~> 52F610
+$Arress<~HighlightLabel.81~>360<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 1B0256
+<Arress> ereb to dale 25C074
+$Arress<~Controls.840~>173 45C306
+$Elendil<~Controls.840~>116 C44BB6
+<auto> playchosen 450BF4
+<auto><~Controls.3~>reveal 116 C8A9DC8FCB702BF86EDD4A66892BC8CF7B372034 19<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 665B59
+<auto><~Controls.866~>reveal 173 3248CD8EE1C193A4F9522D08FA1AD55444DE4E77 16<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 3063D2
+<auto> playchosen B284C9
+<Elendil> pre 084E68
+<game> Elendil<~Controls.1~> 6 null
+<Elendil> 1 FAF294
+$Arress<~Scribe.141~>351 <~Scribe.142~><~Game.1965~><~Scribe.143~><~Game.2036~><~Scribe.144~> D99026
+<Arress> ff 2 A80B67
+<game> Arress<~Controls.1~> 1 1 6 2 null
+<game> Arress<~Controls.1~> 3 2 6 null
+<Arress> 2 26D6B3
+<game> Elendil<~Controls.1~> 1 null
+<game> Elendil<~Controls.1~> 5 null
+<Elendil> 1 5FCA15
+$Arress<~Scribe.141~>350 <~Scribe.142~><~Game.1965~><~Scribe.143~><~Game.2036~><~Scribe.144~> C04079
+$Elendil<~Scribe.141~>302 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.2037~><~Scribe.144~> 9DF35C
+<Arress> press EC3760
+$Arress<~Controls.296~>173 350 351 <~Controls.297~><~Game.2036~> 97C6BD
+$Arress<~Controls.296~>116 302 <~Controls.297~><~Game.2037~> 371B79
+<Arress> nc 8AFAE6
+<Elendil> 1 min wc please 4B0953
+<Arress> k EAF818
+<Elendil> sorry to keep you waiting 0499A2
+<Elendil> back 4D0CF3
+$Elendil<~Scribe.141~>296 066 065 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.1973~><~Scribe.144~> 415E20
+<Arress> np DDB8B9
+<Arress> hmm C4B514
+$Arress<~Scribe.141~>253 039 037 038 040 052 041 <~Scribe.142~><~Game.1965~><~Scribe.143~><~Game.1970~><~Scribe.144~> C6B935
+$Arress<~Scribe.141~>423 <~Scribe.142~><~Game.388~><~Scribe.143~><~Game.389~><~Scribe.144~> 15C98F
+$Arress<~Controls.644~>360 <~Controls.645~><~Game.2035~> 1DF5F0
+$Elendil<~HighlightLabel.86~>358<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 598E6E
+$Elendil<~Controls.509~>150<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Elendil<~Controls.644~>358 <~Controls.645~><~Game.2035~> 538833
+$Arress<~HighlightLabel.81~>100<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 91CECB
+$Arress<~Scribe.141~>347 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1987~><~Scribe.144~> 1F92D4
+$Arress<~Controls.644~>100 <~Controls.645~><~Game.2035~> 1105F2
+<Elendil> pass 386AC1
+$Arress<~HighlightLabel.81~>102<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 1A4641
+$Arress<~Scribe.141~>056 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1987~><~Scribe.144~> C8E2A1
+$Arress<~Controls.644~>102 <~Controls.645~><~Game.2035~> 014FB5
+<Elendil> pass 8FBBBE
+$Arress<~HighlightLabel.81~>105<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 08CCC0
+$Arress<~CardBuffet.14~>reveal 190 F1973CB0E1A56D91F5F20595C14484214E715E5E 1<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> AD113E
+$Arress<~Scribe.141~>056 347 346 <~Scribe.142~><~Game.1987~><~Scribe.143~><~Game.1970~><~Scribe.144~> 6A9D65
+$Arress<~Scribe.141~>349 352 <~Scribe.142~><~Game.1932~><~Scribe.143~><~Game.1931~><~Scribe.144~> F371C0
+$Arress<~Controls.644~>105 190 <~Controls.645~><~Game.2035~> B0DDB3
+$Elendil<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 6351AA
+<Elendil> iron hills to erebor 63B6D7
+<Elendil> nc 335879
+<Arress> nc C27C99
+<game> Elendil<~Controls.1~> 5 3 null
+<Elendil> 1 838328
+<game> Arress<~Controls.1~> 1 null
+<Arress> 0 96BA7E
+$Arress<~Scribe.141~>013 <~Scribe.142~><~Game.1965~><~Scribe.143~><~Game.2036~><~Scribe.144~> D55D85
+$Elendil<~Scribe.141~>062 317 059 060 <~Scribe.142~><~Game.1988~><~Scribe.143~><~Game.1965~><~Scribe.144~> D25611
+$Elendil<~Scribe.141~>296 066 065 <~Scribe.142~><~Game.1973~><~Scribe.143~><~Game.1965~><~Scribe.144~> A48034
+$Elendil<~Controls.644~>213 013 <~Controls.645~><~Game.2035~> AC625D
+$Arress<~HighlightLabel.81~>361<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> A59BB2
+<Arress> ereb 1380C2
+$Elendil<~Scribe.141~>296 062 066 065 317 059 060 <~Scribe.142~><~Game.1965~><~Scribe.143~><~Game.1988~><~Scribe.144~> 66F267
+$Arress<~Scribe.141~>253 039 037 038 040 056 347 346 052 041 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.1965~><~Scribe.144~> B1975C
+$Arress<~Scribe.141~>412 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1970~><~Scribe.144~> 84A2A6
+$Arress<~Scribe.141~>257 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 8E99A4
+$Arress<~Controls.644~>361 <~Controls.645~><~Game.2035~> 8E0906
+<Elendil> pass F7B037
+$Arress<~HighlightLabel.81~>099<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 3D4C88
+$Arress<~CardBuffet.14~>reveal 193 B233A3C7B71FD042D2EE8A175B6A3EBC83CE2B31 20<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 34F253
+<Arress> ereb 893B0C
+<game> Arress<~Controls.1~> 3 6 6 3 2 null
+<Arress> 2 CE8C9C
+$Elendil<~Scribe.141~>059 317 <~Scribe.142~><~Game.1988~><~Scribe.143~><~Game.2036~><~Scribe.144~> C3881C
+$Arress<~Controls.644~>099 193 059 317 <~Controls.645~><~Game.2035~> 0853C1
+$Elendil<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> CD30C8
+$Elendil<~Controls.790~>247<~Controls.791~><~Game.525~><~Controls.792~><~Game.528~> 075210
+$Elendil<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 696D6F
+$Arress<~Controls.624~>239<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Elendil> gg :) 997303
+$Elendil<~Scribe.141~>247 <~Scribe.142~><~Game.528~><~Scribe.143~><~Game.525~><~Scribe.144~> 1A9E6F
+$Elendil<~Controls.323~>248 65F587
+$Elendil<~Scribe.141~>252 <~Scribe.142~><~Game.2018~><~Scribe.143~><~Game.2019~><~Scribe.144~> 53A84C
+$Elendil<~Controls.644~>239 <~Controls.645~><~Game.2035~> 3C853D
+$Arress<~HighlightLabel.81~>362<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> FD85F5
+<Arress> ereb D108D6
+$Arress<~Controls.840~>207 F6D8D1
+<Elendil> nc 8C8E53
+$Arress<~Scribe.141~>reveal 207 D347E5E3D1B4A25C37607B6618EB68CC70FEA4B8 20 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2036~><~Scribe.144~> E24D83
+<game> Arress<~Controls.1~> 2 3 2 2 5 null
+<game> Arress<~Controls.1~> 6 2 3 6 4 null
+<game> Elendil<~Controls.1~> 4 1 4 null
+<game> Elendil<~Controls.1~> 4 3 null
+<Arress> 2 DFA16A
+<Arress> post E4F6D1
+$Elendil<~Scribe.141~>066 065 <~Scribe.142~><~Game.1988~><~Scribe.143~><~Game.2036~><~Scribe.144~> B27B2D
+<game> Arress<~Controls.1~> 2 6 2 null
+<Arress> gg 6E3D7F
+$Elendil<~Scribe.141~>296 062 060 <~Scribe.142~><~Game.1988~><~Scribe.143~><~Game.2036~><~Scribe.144~> 2E5F53
+<Elendil> hunt gave me 0 chance this game sadge D39A79
+<Elendil> pity all these combat rolls went to waste 2FA75F
+<Arress> yeah, the north guys were super pesky 17FF8D
+<Elendil> you were pretty unlucky on combat 868628
+<Arress> yeah a bit A58F15
+<Elendil> but i had to take stupid risks BAFB34
+<Elendil> the game was pretty much over on turn 4-5 6EFE17
+<Elendil> when i rolled 3p and 1H 07CE48
+<Elendil> i knew there was no coming back from that 547F31
+<Arress> very low movement two turns in a row 859AB6
+<Arress> yeah.. 8719EA
+<Elendil> wanna go again? 041AD3
+<Elendil> i got time 48D0E7
+<Arress> I wish, late here 55D374
+<Elendil> ok ggs 3B3A98
+<Elendil> cya 537B9E
+<Arress> 1 am. degen hours 48DC95
+<Arress> gg C9442B
+<~Talker.22~> null

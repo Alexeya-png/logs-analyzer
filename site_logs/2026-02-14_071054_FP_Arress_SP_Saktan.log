@@ -1,0 +1,1271 @@
+<auto> silent null
+<auto><~Scribe.141~>363 397 398 402 401 400 399 403 404 376 375 374 373 377 378 <~Scribe.142~><~Game.2038~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>365 366 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 367 368 369 370 371 372 <~Scribe.142~><~Game.2040~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>230 231 <~Scribe.142~><~Game.2044~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>155 152 <~Scribe.142~><~Game.2004~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>137 151 <~Scribe.142~><~Game.2005~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>161 198 <~Scribe.142~><~Game.2006~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>163 188 <~Scribe.142~><~Game.2007~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Controls.323~>364 null
+<auto> noisy null
+<auto> silent null
+<auto><~Scribe.141~>312 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1965~><~Scribe.144~> null
+<auto> noisy null
+<~Game.7~>1 null
+<auto> silent null
+<auto><~Scribe.141~>363 397 398 402 401 400 399 403 404 376 375 374 373 377 378 <~Scribe.142~><~Game.2038~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>365 366 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 367 368 369 370 371 372 <~Scribe.142~><~Game.2040~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>230 231 <~Scribe.142~><~Game.2044~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>155 152 <~Scribe.142~><~Game.2004~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>137 151 <~Scribe.142~><~Game.2005~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>161 198 <~Scribe.142~><~Game.2006~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>163 188 <~Scribe.142~><~Game.2007~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Controls.323~>364 null
+<auto> noisy null
+$base silent null
+$TEST<~Scribe.141~>312 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1965~><~Scribe.144~> null
+$base noisy null
+<game> Arress<~Controls.408~>[WOTR-Gandalf2 wotr base2] null
+<~Talker.31~> null
+<~Talker.22~> null
+<~Talker.31~> null
+<Saktan> hello! 
+<Arress> heya! 
+<Arress> roll and bid for sides? 
+<Saktan> sounds good! 
+<game> Arress<~Controls.1~> 3 null
+<game> Saktan<~Controls.1~> 3 null
+<game> Arress<~Controls.1~> 6 null
+<game> Saktan<~Controls.1~> 1 null
+<Saktan> lol 
+<Arress> i'll go 1 token for sp 
+<Saktan> hmm 
+<Saktan> 2 tokens for SP 
+<Arress> accept 
+<Arress> gl hf! 
+<Saktan> you as well! 
+$Saktan<~Controls.479~>7F9089DEB81D2256C14D1C5B82BB460CBC4B20B3 53F924EE7F6273044BD50314ED86D8E5 24 732F9F9772E2A7121ABD3D44B702AE7E9290795D FA384C3CB920FF53005F5D934642CB5C D9D892F6BB4E1EEE451F4B0EA7EC5686CE5322C2 F887E0A6D48529C900B4F0DF00667096 DD3B489D3D6B03BC00FE0827880262C4FAB90B72 9907011A2881EE1E08F2084CBD26F2F6 5455D5973613A428981A6519E391E6B4598861C2 A1BB3BAEC57853E9A5CC5C32246937D2 6AC0403055FE71762F7B38F768D9D8B692F30AFE 9151F1275F399A221AF043A5F5B4A7DE B6758FACE65326E8691232BDC0CCD5C427E8EB36 2898974F86719E1C862E25DC5DC5D29E 6D15666324D71E235C59A2E9F3DA935BD28E51F1 2C6B2D5F192CB39146DBB7D88A4A906E 77452EFB1C6779B70214FCEB93A8E752F11EF81D 69171BEDFCFDB8EB97F874D282B0613C F4D4C9A987160B58A5B85E1850C61DF34BECD134 FA7AE6D608DB7CBE801B3B6D30FF28DA 8D62093DD45AA97F5D2DC72EF817DDD349FF6411 C665D2D643C6FA1EEE29F252C027E505 EB8689500776135FCFE48BCE6109AC285F3DC22A 4DFEF48A50D11EA320572A952B535535 34F4611B707FDE317AD94660F828D4657AA4C6B1 A42EC9AA291F52D04502840515066A03 57A514EF0D82B8DC387FC96584D379ADDAE1E882 BE5DFB250ADEC8E9625B6420D62D8425 0EDDA9E927BA2A441F334C84EEC6A53094D55962 ECF8719CB06C61F579F254FFD56AEFA5 0310E84654697CCD76AD7A7ACB5055D0E9DE916F A6919680C31E346EE794AA3D1D2C06FA 89ABF8C22C8129D51810F049D8631B7AEE914123 8B93ECB98F54F6290D1DF29C2970436A 07843E5C8F97B4971EA87F02331D378F0CF7A9DD A6D64E83FAD94A193318683D023F6F42 473F62541A8E15633A1A8DB0732F3E6EA1DA77CA F291FDC5B2C0449EA866AA438B3150CD 4DC6D25F7DD14E32EC572CE3E15674E83CF6450D 1F723A5DA52901872D3A21061B9A1D3B 20F45F8F00D72416060AE7AA4547CFE38265A73E 96D8C885B6B18F4F92168F3C4C229311 0E9C9FEAB33A87938BB2186327BE6DD38AF61EBD BB86848DAD75A81DA1B80DF112F23F91 77BC77A8DCCB13D8396000A5B9DF22EC2B347ECD 7139A1716EE1291D3B07B8050FB4B8D2 D2B25263676F3AC072E55AB7E040ED198CCD3942 E2F849126DBE471DC1729F53240BF510 7A8EAB0B1629A8AD7610D3E9C6451F720F530DE3 7F207F906135F8DEB566ADA84B4D9649 24 24396A4D4F071BB583A48DC67AB38FDC544661C4 46637E2B37B7C2B4A0B1F710A3975EC9 9753604E48EA8C38D0A3961F678978AD95DF48F1 4250F0E54901E05D350719DFCC8FFC6F AA04EA032C9FA4C091F8005FF1E344184933BD37 581BCB84CFB0D959B6008D2C7466C113 1216A587DC2E0CCCEA7DC20FD4489E97DBE5B0C2 3FAE92429519CBF1963F211132EF1BE9 1F701EEC46DEA3EA3F35F05E02200C7BAACA0785 D0459A45EE534C785F96837D92E10CB4 BEBB19243BC2A6C23E584CA5C5C0D44245D5D1AD 7F1F6C77E8B52B94D55B0F83709775B0 20550B0935B013763E24CA412B0878CC5B3E8842 29FBBF7AC02BA90B5B4C7A5089DC63FA 41349145A547B9F9E86871BD91A57DEA1C74747E 0F75B1E498232A69969D235A4EA39216 126CFD86B0BBEE3F9C96FF24DE5CF3EDEBC48355 227C7389660094DE5028CEFBFBB28066 B1441793C7FE9E82C966294A90A2C0B691DF81A7 8068CE1C2F48E61C9ECCB87AE8A2FB7F 3A9D69B8C9D5409710EE299F5CAA7F4AA5D60407 3E768ADF75018DF9437496281FB70ECF CAAF89CF674782E0E761FBBEACB7836C9BC42089 67A8C0DCEEF376F5575719A42E722AB0 E7DFC0D861AD6DA8A0AD7F993897AD5AB075F957 455828E176C082422367DBD83DF05278 B39E3F2402B7AF84520B9AA5DDD9188059D5984B DEF417EB450491254F03A898625F7027 AC6FDBE2656EE2CA8CDDFAB99CFE760991AB49CE C1B6532864FBB86D3E5DC9013329BED6 DCF65272E64AC1B4558E8270A9A2A834D924B00F 024C2D875C5600BFB92D3E939CA10A40 73CE1FD05B9699CD7833A8A67F162654C569A39E 82C023873137CE27CAA0E2E6F34E42F3 A92F713F4566BAE13C73C74FAC86CFFF2C1CEEFB 732663F28E895C9FEA9BE1C4491FDF43 70A618FB8F20507F836D3BBCD0ED48A0C67E8878 1AC377E1412AEACF5EC27141031F8588 D327FDE360BAEB0779F953172C230E3070E3230C D7C38045E891A3D4DDDB3318A8849BA9 819465121908EBE2D5D6AFF294BF9B52DD4562F1 62BF6ADFECF65E307681BEA5FB254AF9 F1A2185D0369C9BA3CEE5ECF182B5E1E840EB668 56877A34AE1AA442B0343D024CAA3005 53D0C1DDC03D649023033EEAD2FA81C5FF98878A F30DF5AD00364763F244C7850A0EAE31 E0343DFAD92538CA49FA02B43DEBD53D6C628FA8 1F64399BD7B861C5252775BA9D4BE4FC 0 0 D97020
+$Arress<~Controls.464~>6F7AD20AF807B3F55BD1E7377045AFEA1F68F3B7 D8A3861A37864F568D948935B982D593 24 82BBBC6DB97462E768DF6DD6B71D880C093238E5 BADC360E977C7A9E37AF078F32B9F96F 6FD09E4F2F393295ED85E40EDF9A2167C8E1F289 C4363E4EFAA8C1AB14F912BB686B07AA 885FF79C8BC11AC77092E2EF366CB1579B5FDD14 2FC18CEAE9E91BA84F87F3DFACC86C6A 320A51F0AAF806E7AF928F024F742CAAE07346A7 B05C1C5AA4573B11E60B3FE354ABDB2D DC0BAB84C291DD00357751C2153005573AEB49E6 B772B4360F64396C8DA8C79BD23BA2BB 0887C74286F523363802ACE20F4D75F2F3DAAE83 F55C9B71EA85D0FDD28BEAFD013182B9 FA49FCAC510034C84DBF97A0539BA8FCAA4FD3C1 1F4178CF45E3A80581BC48F7C2414B78 E41D6DF03694D8B704B5C9855FD7E7C48CAC57AB F26490D432AFA05949B7B60AC79BB22B 68CF70D91D0CDEB188DBFE7718788F81AFDD004A 763EB783BB2E50579FC2D5EAAE732A8D C13FA26067D0D1247A09212D2105725E31E60A71 85C4F88916999431E11C940B51021ABA C24C0FBA3CC83EC181A2B3E7528B376F5F9524ED 8EC3798B1747EC54BF68FF865C830753 C052ACC7210563A7954A80AA75B97490EC85B861 963A822BE5E5215BD6FBA6821F094BB0 465D0BB53DC50E069B3F29C4B820D43638A060BE 7F046246F0A06B249DF38126A439FAB2 0AEDDEE04F30AFF9E41B49D3EF57D472B633481A 8D5120582277FEB4843427F704492AEB 174555C6B997FB38039EF44E2EFA2063688BADA2 25B5EAAA542F656959B76331F6C4A6B0 F206748BA1D223AE44DA4B289CA46CCE9ECD626D D7CB401C03A0EDA4EEC81D6FA8051166 41656B4C0FDE046BDC3C76BA37CD04CD8FCCB7C7 9DBD25CC433E76F3F91F3A1BD1574589 E0F498F29D04B2E3B259EFA06A0DD722FD10B83D 6420711EF327118E3AED21E6073420DC F63BCD578C9FCF391E4694493272F3F9185E7E40 CCFEEC1F311D9197E349D7C44D178FD7 7CFB6B3DD5F60BB62EDE4482212723A0E4DF739C 2C0787A7101D683E33A877EBF0D07D95 7AA1C9A477A68F3E1307C6A99C6A8C0996AADC1A D826B7BB88998633632AE26F9259EA55 97F04DEE93BEF2691AD54AF2E1D5F6CAC1646BFB A5159EADAD7665BDC60332BC868776F5 AA18CFD99FC6173280C5CABF695B26E5A6C97233 AD958292244954BA2B481B015F3470E9 E0D1B902A16A2AAF27E0023D97CE7FE0A2906156 4F6B7CE1D287C87885CD3A60C3A7BD43 24 984857F96D2B3B06D660A7DB8ED5719A5E4F249F 795188DAD5A401AFCD035064845BA599 70A304C01EA14FAD9ACB2CD945DB36D395AA06C4 286E305EB741218827E7618BF06C4578 4905BA883A786F6A45FEF6809B5D4ECD93803D70 300BA925E0F215A343703E83684F00FA 3992F546ABA0C764E3850613DE703A1DC7EF6686 3897F9024D46AAA20627D6452F946986 C704186A1E69A7D2E5EAE22CB01B74007ED4893F 0833C6637F01F12468BBEB6683DB9653 D0F379416886C2E467544246081E9E8AEDEDADAF 074FCEAFB5CA626E9FC8A9A9F14266C1 52C73B243A32F3FFA25E535F36BA7E169EAD6D7B FE1C79FA5CB190097D262FC9E5E48C8E F3FC2D8DF32F7D49BAFDFFA8CFB5A0073C7C6A09 22DA1095C6499202166D4455803D5579 DFE30206D1A328388FCA24F5FC808F7C5391EC02 5035DA591A508D24A58E7392AE881E74 FB229C52171660FBF9CC9B4C68B2F183D6244000 9A5545878B0620D3AFABE48C766D2BDD 3215B937A3343669707DBA3C5E9B640BAA39C5F2 01454AFACCC256506885F17D948A5F63 CB703F49F5C194407A89B90ED053AEA51873FD90 84C3DACFC35E68BD5632936744B87083 8887CFDCC36EA4995D551987B9460385BEDCE9D0 59C66F7B7C80FC1F34F9E36460130AFC 657828D695FC6CEC2DE1E6559E76384C9ED3F2E1 7A27594460ED799A187629CEAD25ACB8 EBD73DAC252212C32C59AD56DC3954BA51FBED40 6249DAB0A65C0AB3D76D797F71BFF693 FA5966665413E929036AD206B4485C3F985AEBD8 18B38685087DE48DA8F34D854856BED7 8D00FCF712C708472247752C852918AF682C8C7A 6CE8FDC4BA2144EB07C5834037FD1785 7DB2CF2EFFE56B4390726FD68BFE9E9C4BD7600B 8002562897CA8343DBFF87F5014AA47D 97D41F13A2C3725AE15D27BE440F07698C8BB1B7 89CC783F9DFB49B3DA96284FB9BB1283 76E699A31FFD251CC3F03E19BB3CFC6210D21EC9 D768AF329B17F0712C28CDE698765C5F 536927E061CEB9790FEC6B86B4C1438EC4579B92 12C2D4A728B26F1C4E1A14881069CE30 CA4B43E90AA606E808A4CE7544A650EDDFB77DFE C54C67C6D78C7E4239232AEF202EE8E5 5118A64051C626FE0FD0047B03DD8B88C91AC161 20DD36B2A8B350D9C29DF0DDE940961F F8B18C78D910F5C9ABB5E4D49C1107F2FB6E0A86 F994F30CC06CFBB2435169E68255A379 0 0 E4B579
+$Saktan<~Controls.509~>179<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Arress<~Controls.509~>132<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Saktan<~Controls.509~>187<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Arress<~Controls.509~>147<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Arress<~Controls.281~>426 427 <~Controls.282~><~Game.2038~><~Controls.283~><~Game.2042~> 1B0EC3
+<Arress> fp ok 01982C
+<Saktan> 1e D2F4F4
+$Saktan<~Controls.372~>105 BBFC4E
+$Saktan<~Controls.345~>104 103 102 101 100 099 <~Controls.346~>11 12 15 12 12 13 null
+$Saktan<~Controls.350~>104 103 102 101 100 099 null
+$Arress<~Controls.345~>213 212 211 210 <~Controls.346~>3 1 4 0 null
+<Arress> pass 53E897
+$Saktan<~HighlightLabel.81~>099<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> FFB16B
+$Saktan<~CardBuffet.14~>reveal 179 547B1B574B4B9DE2E61B5E2753EDFA9B10973588 19<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 79236A
+$Saktan<~Scribe.141~>179 <~Scribe.142~><~Game.2036~><~Scribe.143~><~Game.2029~><~Scribe.144~> D00C37
+$Saktan<~Controls.644~>099 <~Controls.645~><~Game.2035~> F51FD3
+$Arress<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 2352A4
+$Arress<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 74A5E4
+$Arress<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 5591E5
+<game> Saktan<~Controls.1~> 3 1 null
+<Saktan> safe CE1B2C
+$Saktan<~HighlightLabel.81~>104<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 216A9C
+$Saktan<~HighlightLabel.101~>263<~HighlightLabel.102~><~Game.2002~><~HighlightLabel.103~><~Game.2003~> 67EC7C
+$Saktan<~Controls.644~>104 <~Controls.645~><~Game.2035~> DB6F71
+$Arress<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 3B0B39
+$Arress<~Scribe.141~>073 072 <~Scribe.142~><~Game.1929~><~Scribe.143~><~Game.1925~><~Scribe.144~> C5912B
+$Arress<~Scribe.141~>065 <~Scribe.142~><~Game.1941~><~Scribe.143~><~Game.1957~><~Scribe.144~> 7886ED
+$Arress<~Controls.644~>211 <~Controls.645~><~Game.2035~> 12DFBD
+$Saktan<~HighlightLabel.81~>100<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 56A100
+$Saktan<~Scribe.141~>039 036 029 028 027 026 <~Scribe.142~><~Game.1979~><~Scribe.143~><~Game.1977~><~Scribe.144~> 764ACC
+$Saktan<~Scribe.141~>055 049 048 047 <~Scribe.142~><~Game.1968~><~Scribe.143~><~Game.1946~><~Scribe.144~> FEF5A1
+$Saktan<~Controls.644~>100 <~Controls.645~><~Game.2035~> C91839
+$Arress<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 109B7F
+$Arress<~Controls.790~>248<~Controls.791~><~Game.2015~><~Controls.792~><~Game.2016~> F50E51
+$Arress<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 07C1BE
+<game> Saktan<~Controls.1~> 4 1 null
+<Saktan> safe E26AE8
+$Saktan<~HighlightLabel.81~>101<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> D54422
+$Saktan<~Scribe.141~>055 057 049 048 047 046 045 <~Scribe.142~><~Game.1946~><~Scribe.143~><~Game.1932~><~Scribe.144~> 554A1F
+$Saktan<~Scribe.141~>039 036 029 028 027 026 <~Scribe.142~><~Game.1977~><~Scribe.143~><~Game.1974~><~Scribe.144~> C4492C
+$Saktan<~Controls.644~>101 <~Controls.645~><~Game.2035~> 7B4583
+$Arress<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 86FC88
+$Arress<~Scribe.141~>256 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> B752A5
+$Arress<~Controls.644~>213 <~Controls.645~><~Game.2035~> BE0563
+$Saktan<~HighlightLabel.81~>103<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 62E6BE
+$Saktan<~Scribe.141~>039 038 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1974~><~Scribe.143~><~Game.1976~><~Scribe.144~> 77CFE2
+$Saktan<~Scribe.141~>001 <~Scribe.142~><~Game.1910~><~Scribe.143~><~Game.1917~><~Scribe.144~> 1B6935
+$Saktan<~Controls.644~>103 <~Controls.645~><~Game.2035~> C7CF0A
+<Arress> pass 5804CC
+$Saktan<~Controls.757~>102 105 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 8359E0
+$Saktan<~Controls.762~>103 101 100 104 099 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> C51D00
+$Arress<~Controls.726~>210 212 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 94CCB2
+<~Game.7~>2 null
+$Arress<~Controls.731~>213 211 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> AA8AF9
+$Saktan<~Controls.509~>165<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.509~>192<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Arress<~Controls.509~>127<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Arress<~Controls.509~>153<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+<Arress> fp ok B00AFC
+<Saktan> 1e 2086C6
+$Saktan<~Controls.372~>103 DBDE63
+$Saktan<~Controls.345~>101 100 104 099 102 105 <~Controls.346~>13 11 13 10 13 13 null
+$Saktan<~Controls.350~>101 100 104 099 102 105 null
+$Arress<~Controls.345~>213 211 210 212 <~Controls.346~>0 2 1 2 null
+$Arress<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 740367
+$Arress<~CardBuffet.9~>reveal 153 817FD1D5473B5EFF5E0947F51367A046C1608CC0 8<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> F63610
+$Arress<~Scribe.141~>283 288 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1929~><~Scribe.144~> 9C9C93
+<Saktan> nice 7F9E97
+$Arress<~Controls.509~>106<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Arress<~Controls.644~>212 153 <~Controls.645~><~Game.2035~> 8C52F2
+$Saktan<~HighlightLabel.81~>099<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 5D0474
+$Saktan<~HighlightLabel.101~>262<~HighlightLabel.102~><~Game.2002~><~HighlightLabel.103~><~Game.2003~> A3893F
+$Saktan<~Controls.644~>099 <~Controls.645~><~Game.2035~> 2E5B87
+<Saktan> test 975F3E
+<Arress> here, thinking a sec 8065A3
+<Saktan> np tyt F607CB
+$Arress<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 0CA036
+$Arress<~CardBuffet.9~>reveal 132 8165D74045B93A85257CA55A9C16A57F9023A47C 15<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> CE8FFB
+$Arress<~Scribe.141~>132 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2030~><~Scribe.144~> 128C5C
+$Arress<~Controls.509~>112<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Arress<~Controls.644~>211 <~Controls.645~><~Game.2035~> 6881AA
+<Saktan> nice cycles 47A088
+$Saktan<~HighlightLabel.81~>102<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 093943
+$Saktan<~Scribe.141~>039 038 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1976~><~Scribe.143~><~Game.1972~><~Scribe.144~> 66A18C
+$Saktan<~Controls.644~>102 <~Controls.645~><~Game.2035~> F6F22D
+<Arress> yeah, reasonable to cycle 72B38A
+<Arress> palantirs 43C5EF
+<Arress> pass 425346
+$Saktan<~HighlightLabel.81~>105<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> E71BFA
+$Saktan<~Scribe.141~>039 038 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1972~><~Scribe.143~><~Game.1975~><~Scribe.144~> E4942A
+$Saktan<~Controls.644~>105 <~Controls.645~><~Game.2035~> 478935
+<Arress> pass 3071B4
+<Saktan> expensive trip to DEW for me haha F40E4B
+$Saktan<~HighlightLabel.81~>104<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 86CF8D
+$Saktan<~Scribe.141~>039 038 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1975~><~Scribe.143~><~Game.1966~><~Scribe.144~> 5708DD
+$Saktan<~Controls.644~>104 <~Controls.645~><~Game.2035~> A008BC
+$Arress<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> A6DAF5
+$Arress<~Controls.790~>248<~Controls.791~><~Game.2016~><~Controls.792~><~Game.2017~> DF7891
+$Arress<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 2B5395
+$Saktan<~Scribe.141~>179 <~Scribe.142~><~Game.2029~><~Scribe.143~><~Game.2036~><~Scribe.144~> 45E06E
+<game> Saktan<~Controls.1~> 1 null
+<Saktan> boo 6B5D83
+$Saktan<~Controls.644~>179 <~Controls.645~><~Game.2035~> 3813AF
+$Saktan<~Scribe.141~>132 <~Scribe.142~><~Game.2030~><~Scribe.143~><~Game.2029~><~Scribe.144~> 149148
+<Arress> only 1 eye so yeah.. E7B5E9
+<Saktan> yes true FDF650
+<Arress> all you D3DF7C
+<Saktan> ah yes sorry 47F25C
+<Saktan> forgot A84574
+$Saktan<~HighlightLabel.81~>101<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 5DAD91
+<Saktan> OFR A1E9BB
+<Saktan> nc ED4286
+<Arress> nc C835D5
+<game> Saktan<~Controls.1~> 3 2 4 1 2 null
+<game> Saktan<~Controls.1~> 4 5 null
+<Saktan> 1 36A757
+<game> Arress<~Controls.1~> 4 null
+$Saktan<~HighlightLabel.91~>258<~HighlightLabel.92~><~Game.2000~><~HighlightLabel.93~><~Game.2001~> 820795
+$Saktan<~Controls.323~>258 1A803C
+$Arress<~Scribe.141~>065 <~Scribe.142~><~Game.1957~><~Scribe.143~><~Game.2037~><~Scribe.144~> 665E9F
+$Saktan<~Scribe.141~>039 038 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1966~><~Scribe.143~><~Game.1957~><~Scribe.144~> 3E9770
+$Saktan<~Controls.644~>101 065 <~Controls.645~><~Game.2035~> 2C961D
+$Arress<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 100F19
+$Arress<~Controls.790~>248<~Controls.791~><~Game.2017~><~Controls.792~><~Game.2018~> 93D1BC
+$Arress<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> FC3E9D
+<game> Saktan<~Controls.1~> 1 null
+$Saktan<~HighlightLabel.81~>100<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 9E950B
+$Saktan<~Scribe.141~>254 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1919~><~Scribe.144~> 5D1A57
+$Saktan<~Scribe.141~>360 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2037~><~Scribe.144~> C7F576
+$Saktan<~Controls.644~>100 360 <~Controls.645~><~Game.2035~> E6ACBC
+$Arress<~Controls.726~>213 210 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 344C41
+$Arress<~Controls.731~>211 212 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> C92C51
+$Saktan<~Controls.757~>103 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> D7C768
+<~Game.7~>3 null
+$Saktan<~Controls.762~>100 360 101 104 105 102 099 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> EF18E9
+$Saktan<~Controls.509~>173<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.509~>164<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Arress<~Controls.509~>133<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Arress<~Controls.509~>124<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+<Arress> fp ok 975800
+<Saktan> 1e A5DBA0
+$Saktan<~Controls.372~>100 851662
+$Saktan<~Controls.345~>360 101 104 105 102 099 103 <~Controls.346~>13 11 15 12 12 11 13 null
+$Saktan<~Controls.350~>360 101 104 105 102 099 103 null
+$Arress<~Controls.345~>211 212 213 210 <~Controls.346~>0 1 1 1 null
+<Saktan> run frodo run! A1A95D
+<Arress> heh 43CB04
+$Arress<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 51A117
+$Arress<~Controls.790~>248<~Controls.791~><~Game.2018~><~Controls.792~><~Game.2019~> EB5FD0
+$Arress<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> AF4365
+<game> Saktan<~Controls.1~> 6 6 null
+<Saktan> hah B2A43A
+$Saktan<~Controls.624~>226<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Arress<~Scribe.141~>240 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2036~><~Scribe.144~> 516AAC
+$Arress<~Scribe.141~>241 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> 6631C3
+$Arress<~Controls.644~>240 226 <~Controls.645~><~Game.2035~> 64A983
+$Saktan<~HighlightLabel.81~>105<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> AF3A34
+$Saktan<~Scribe.141~>021 <~Scribe.142~><~Game.1957~><~Scribe.143~><~Game.1941~><~Scribe.144~> 8AA045
+$Saktan<~Scribe.141~>040 035 015 014 013 012 011 <~Scribe.142~><~Game.1956~><~Scribe.143~><~Game.1953~><~Scribe.144~> 0FFBA4
+$Saktan<~HighlightLabel.96~>258<~HighlightLabel.97~><~Game.2001~><~HighlightLabel.98~><~Game.2002~> D45521
+$Saktan<~Controls.644~>105 <~Controls.645~><~Game.2035~> 34A25F
+$Arress<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 25B789
+$Arress<~Controls.790~>248<~Controls.791~><~Game.2019~><~Controls.792~><~Game.2020~> 25B09A
+$Arress<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> C4BEC3
+<game> Saktan<~Controls.1~> 4 5 null
+$Saktan<~Controls.624~>227<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Arress<~Scribe.141~>132 <~Scribe.142~><~Game.2029~><~Scribe.143~><~Game.2036~><~Scribe.144~> F190F7
+$Arress<~Scribe.141~>252 <~Scribe.142~><~Game.2014~><~Scribe.143~><~Game.2016~><~Scribe.144~> D0C167
+$Arress<~Controls.644~>132 227 <~Controls.645~><~Game.2035~> FC84CF
+$Saktan<~HighlightLabel.81~>102<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> AD26E0
+$Saktan<~Scribe.141~>040 035 015 014 013 012 011 <~Scribe.142~><~Game.1953~><~Scribe.143~><~Game.1927~><~Scribe.144~> D01285
+$Saktan<~Scribe.141~>001 008 007 <~Scribe.142~><~Game.1917~><~Scribe.143~><~Game.1927~><~Scribe.144~> D47439
+$Saktan<~Controls.644~>102 <~Controls.645~><~Game.2035~> D3F571
+<Arress> pass 5A198F
+$Saktan<~HighlightLabel.81~>103<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 3474BD
+<Saktan> Lorien 71A7FE
+$Arress<~Scribe.141~>097 093 092 087 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.1992~><~Scribe.144~> 382776
+$Saktan<~HighlightLabel.96~>256<~HighlightLabel.97~><~Game.2001~><~HighlightLabel.98~><~Game.2002~> 0A6C69
+$Saktan<~Scribe.141~>040 035 001 008 007 015 014 013 012 011 <~Scribe.142~><~Game.1927~><~Scribe.143~><~Game.1928~><~Scribe.144~> 72DFE6
+$Saktan<~Controls.644~>103 <~Controls.645~><~Game.2035~> A24BB8
+<Arress> pass 92E333
+$Saktan<~HighlightLabel.81~>360<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 49870D
+<Saktan> WLR B21C15
+$Arress<~Scribe.141~>098 094 088 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1991~><~Scribe.144~> C082AE
+$Saktan<~Scribe.141~>039 038 036 029 028 027 026 025 024 023 022 <~Scribe.142~><~Game.1957~><~Scribe.143~><~Game.1954~><~Scribe.144~> 9564B8
+$Saktan<~Controls.644~>360 <~Controls.645~><~Game.2035~> AF9C70
+$Arress<~Scribe.141~>256 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> F4F309
+$Arress<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> BB0DA8
+$Arress<~Scribe.141~>240 <~Scribe.142~><~Game.2039~><~Scribe.143~><~Game.1921~><~Scribe.144~> F2020F
+$Arress<~Controls.323~>240 95D0BD
+$Arress<~Scribe.141~>358 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.2037~><~Scribe.144~> 965298
+$Arress<~Controls.644~>211 358 <~Controls.645~><~Game.2035~> 05425C
+$Saktan<~HighlightLabel.81~>099<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 6C237C
+$Saktan<~Scribe.141~>253 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1954~><~Scribe.144~> E8AA3F
+$Saktan<~Scribe.141~>361 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2037~><~Scribe.144~> 961B11
+$Saktan<~Controls.323~>259 257 294AF1
+$Saktan<~Controls.323~>260 D60494
+$Saktan<~Controls.644~>099 361 <~Controls.645~><~Game.2035~> 931895
+$Arress<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> EB261E
+$Arress<~CardBuffet.9~>reveal 127 E0BD4C7EF13EF555F248DC62218C391DE030900A 23<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> B25AB8
+<game> Arress<~Controls.1~> 6 1 1 null
+<Arress> 1 9ABE8B
+$Arress<~Scribe.141~>252 <~Scribe.142~><~Game.2016~><~Scribe.143~><~Game.2015~><~Scribe.144~> CA0DAC
+$Arress<~Controls.644~>212 127 <~Controls.645~><~Game.2035~> FCA96C
+$Saktan<~HighlightLabel.81~>101<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> ED47C1
+<Saktan> WLR 4F3027
+<Saktan> hmm B10FBC
+<Saktan> nc B0ACBD
+$Arress<~Controls.840~>106 156F9E
+$Arress<~Scribe.141~>reveal 106 A4117CCDE87E868819385AA848384399FAE1A388 16 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> 8C53CD
+<auto> playchosen E96E61
+<game> Saktan<~Controls.1~> 5 2 3 3 6 null
+<game> Saktan<~Controls.1~> 5 1 1 5 null
+<Saktan> 1 2D9741
+<game> Arress<~Controls.1~> 1 2 null
+<game> Arress<~Controls.1~> 6 null
+<Arress> 1 CDB79D
+$Saktan<~Scribe.141~>022 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.2037~><~Scribe.144~> F4C201
+<Saktan> press 0088DE
+$Arress<~Controls.304~>094 <~Controls.305~><~Game.1991~> 01B2BE
+$Arress<~Controls.313~>269 <~Controls.307~><~Controls.314~><~Game.1991~> E69A57
+$Saktan<~Controls.304~>036 <~Controls.305~><~Game.1954~> BE025E
+$Saktan<~Controls.313~>344 <~Controls.307~><~Controls.314~><~Game.1954~> D4EEEA
+$Saktan<~Controls.662~>106 022 <~Controls.663~><~Game.2035~> 154043
+$Saktan<~Controls.840~>187 367913
+<auto> playchosen 78FE1D
+<auto><~Controls.866~>reveal 187 9D41CC06A0763FA4DEA29C76B04003CBD86A01B6 19<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 66BCAB
+<game> Saktan<~Controls.1~> 3 1 3 2 3 null
+<game> Saktan<~Controls.1~> 3 6 4 6 null
+<Saktan> 2 2E4F73
+<game> Arress<~Controls.1~> 2 2 null
+<game> Arress<~Controls.1~> 2 null
+<Arress> 0 002353
+$Arress<~Scribe.141~>098 269 088 <~Scribe.142~><~Game.1991~><~Scribe.143~><~Game.2037~><~Scribe.144~> A19F4E
+$Saktan<~Scribe.141~>423 <~Scribe.142~><~Game.27~><~Scribe.143~><~Game.29~><~Scribe.144~> 58D4A8
+$Saktan<~Controls.644~>101 187 098 269 088 <~Controls.645~><~Game.2035~> AEC158
+$Saktan<~Scribe.141~>418 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1954~><~Scribe.144~> 6D6E4F
+$Arress<~Scribe.141~>426 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> EEC874
+$Arress<~Scribe.141~>258 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> F4AEE7
+$Arress<~Controls.644~>426 <~Controls.645~><~Game.2035~> 0CF436
+$Saktan<~Controls.757~>104 100 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 6889B1
+$Saktan<~Controls.762~>101 099 361 360 103 102 105 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 177A01
+$Arress<~Controls.726~>213 210 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> ED6F9C
+<~Game.7~>4 null
+$Arress<~Controls.731~>212 211 358 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> E4E02C
+$Saktan<~Controls.509~>162<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.509~>172<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Arress<~Controls.509~>117<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Arress<~Controls.509~>150<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Arress<~Scribe.141~>247 <~Scribe.142~><~Game.1911~><~Scribe.143~><~Game.1937~><~Scribe.144~> 69D86D
+$Arress<~Controls.323~>247 D85AAB
+$Arress<~Controls.323~>247 580FE3
+<Arress> declare B32D59
+<Saktan> 1e 1F5E9C
+$Saktan<~Controls.372~>101 DD9741
+$Saktan<~Controls.345~>099 361 360 103 102 105 104 100 <~Controls.346~>11 12 13 15 15 12 14 13 null
+$Saktan<~Controls.350~>099 361 360 103 102 105 104 100 null
+$Arress<~Controls.345~>212 211 358 213 210 <~Controls.346~>2 2 3 0 1 null
+$Arress<~HighlightLabel.86~>358<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> AFC02F
+$Arress<~Scribe.141~>299 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1970~><~Scribe.144~> 524E69
+$Arress<~Controls.644~>358 <~Controls.645~><~Game.2035~> 78519E
+$Saktan<~HighlightLabel.81~>361<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 4A8770
+<Saktan> Dale B2FEFE
+$Saktan<~Controls.840~>162 041854
+$Arress<~Controls.840~>150 6D84B0
+<auto> playchosen FF3964
+<auto><~Controls.3~>reveal 150 ED4912D2C622D6BC3794CB57B1642D875CDF7C5E 1<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> BF6B93
+<auto><~Controls.866~>reveal 162 6912AF45E9957301A2F3E2FA81EE83F0EA45FD5E 6<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 2F6AF3
+<auto> playchosen C68785
+<game> Saktan<~Controls.1~> 4 1 1 3 2 null
+<game> Saktan<~Controls.1~> 1 5 3 null
+<Saktan> 0 EFBDD7
+<game> Arress<~Controls.1~> 4 1 null
+<game> Arress<~Controls.1~> 2 null
+<Arress> 2 C81B83
+$Saktan<~Scribe.141~>024 023 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.2036~><~Scribe.144~> 798431
+<Saktan> stop/draw 7C479E
+$Saktan<~Controls.509~>208<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.644~>361 162 024 023 150 <~Controls.645~><~Game.2035~> 3CEBE6
+$Arress<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 2AF002
+$Arress<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> FB3F5A
+$Arress<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 278718
+<game> Saktan<~Controls.1~> 1 3 4 null
+<Saktan> safe 8E5638
+$Saktan<~HighlightLabel.81~>105<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> F8E4DF
+$Saktan<~Controls.819~> 41168F
+$Saktan<~HighlightLabel.81~>360<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 94C935
+$Saktan<~Scribe.141~>253 038 039 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1928~><~Scribe.144~> 31A840
+$Saktan<~Scribe.141~>037 <~Scribe.142~><~Game.1969~><~Scribe.143~><~Game.1954~><~Scribe.144~> CAFD7C
+$Saktan<~Controls.644~>360 <~Controls.645~><~Game.2035~> 2D1D9F
+<Arress> pass 4A0BA0
+$Saktan<~HighlightLabel.81~>105<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 66BF5A
+<Saktan> Lorien 1A943F
+$Saktan<~Controls.840~>164 C6C856
+<auto> playchosen 9A0BB8
+<auto><~Controls.866~>reveal 164 E6522081B34301DE8A5CE9594C147EB94373F785 0<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> E65334
+<game> Saktan<~Controls.1~> 6 2 2 4 3 null
+<game> Saktan<~Controls.1~> 2 5 5 2 null
+<Saktan> 1 8C80E6
+<game> Arress<~Controls.1~> 1 3 5 null
+<game> Arress<~Controls.1~> 5 null
+<Arress> 2 FD2F8D
+$Saktan<~Scribe.141~>012 011 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.2036~><~Scribe.144~> F81A7A
+$Arress<~Controls.304~>092 <~Controls.305~><~Game.1992~> F71F0B
+$Arress<~Controls.313~>269 <~Controls.308~><~Controls.314~><~Game.1992~> 7CD4A8
+<Saktan> press/draw E7E228
+$Saktan<~Controls.304~>035 <~Controls.305~><~Game.1928~> 3AABE8
+$Saktan<~Controls.313~>024 <~Controls.307~><~Controls.314~><~Game.1928~> CB56C6
+$Saktan<~Controls.509~>185<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.662~>164 012 011 <~Controls.663~><~Game.2035~> 1578CE
+<Saktan> nc 6331D2
+<Arress> nc 5F058F
+<game> Saktan<~Controls.1~> 4 1 4 5 6 null
+<game> Saktan<~Controls.1~> 2 2 3 6 null
+<Saktan> 2 8F9710
+<game> Arress<~Controls.1~> 3 5 2 null
+<game> Arress<~Controls.1~> 1 null
+<Arress> 1 D36210
+$Saktan<~Scribe.141~>024 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.2037~><~Scribe.144~> F9398D
+$Arress<~Scribe.141~>093 <~Scribe.142~><~Game.1992~><~Scribe.143~><~Game.2036~><~Scribe.144~> 32F0C0
+$Saktan<~Controls.644~>105 093 024 <~Controls.645~><~Game.2035~> 92134B
+$Arress<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> F66B67
+$Arress<~Controls.509~>134<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Arress<~Controls.644~>211 <~Controls.645~><~Game.2035~> 84F143
+$Saktan<~HighlightLabel.81~>099<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> DCD596
+<Saktan> Lorien E1E73B
+$Saktan<~Controls.840~>172 168E0B
+$Arress<~Controls.840~>124 EBAF47
+<auto> playchosen 13157B
+<auto><~Controls.3~>reveal 124 3F0F659EF1BE450EADCF1E2708BC295DEC13616B 17<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 7A858A
+<auto><~Controls.866~>reveal 172 D89580A50AA1E3A2146F95899D35C6C68FF7DB9A 7<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 8966E3
+<auto> playchosen BED4B1
+<game> Saktan<~Controls.1~> 4 1 2 3 4 null
+<game> Saktan<~Controls.1~> 4 5 1 5 1 null
+<Saktan> ... D49B3D
+<game> Arress<~Controls.1~> 3 2 null
+<game> Arress<~Controls.1~> 5 null
+<Arress> 1 34A3C0
+<Saktan> 1 13DC21
+$Saktan<~Scribe.141~>013 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.2036~><~Scribe.144~> 3A416F
+$Arress<~Scribe.141~>087 <~Scribe.142~><~Game.1992~><~Scribe.143~><~Game.2037~><~Scribe.144~> C001EC
+$Saktan<~Controls.509~>159<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.644~>099 172 013 124 087 <~Controls.645~><~Game.2035~> 53371E
+$Arress<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 949442
+$Arress<~CardBuffet.9~>reveal 133 2E12AEA3A60F90D04EF9D3DC1F587AD9BA6A87D2 16<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> EC8B3A
+$Arress<~Scribe.141~>241 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.1944~><~Scribe.144~> 3FA5C9
+$Arress<~Scribe.141~>244 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1944~><~Scribe.144~> 0FB008
+$Arress<~Scribe.141~>242 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> 709281
+$Arress<~Controls.644~>212 133 <~Controls.645~><~Game.2035~> CC52B5
+$Saktan<~HighlightLabel.81~>100<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 3EEB05
+<Saktan> Lorien F4B628
+$Saktan<~Controls.840~>185 6A525C
+<auto> playchosen 1B4BBD
+<auto><~Controls.866~>reveal 185 5F1D1194E69A19C6E484E84E105993961D8C2D45 23<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> A5E83B
+<Saktan> auto 805570
+<game> Arress<~Controls.1~> 3 null
+<game> Arress<~Controls.1~> 3 null
+$Arress<~Scribe.141~>097 269 <~Scribe.142~><~Game.1992~><~Scribe.143~><~Game.2037~><~Scribe.144~> 27842F
+$Saktan<~Scribe.141~>423 <~Scribe.142~><~Game.29~><~Scribe.143~><~Game.31~><~Scribe.144~> CCD571
+$Saktan<~Controls.509~>178<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.644~>100 185 097 269 <~Controls.645~><~Game.2035~> E65CBD
+$Arress<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 47287B
+$Arress<~Controls.323~>241 20191C
+$Arress<~Scribe.141~>359 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.2037~><~Scribe.144~> 76DB87
+$Arress<~Controls.644~>213 359 <~Controls.645~><~Game.2035~> 2A6018
+$Saktan<~HighlightLabel.81~>104<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 30F398
+$Saktan<~CardBuffet.14~>reveal 178 3983C08887C3B1BAC1D11079E26BFE0B08BF0500 20<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 1B4B1D
+$Saktan<~Controls.304~>027 028 <~Controls.305~><~Game.1954~> 61CF5C
+$Saktan<~Controls.313~>036 035 <~Controls.309~><~Controls.314~><~Game.1954~> AAAAE4
+$Saktan<~Controls.644~>104 178 <~Controls.645~><~Game.2035~> 2DEC69
+<Arress> pass 055D09
+$Saktan<~Controls.757~>103 102 101 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> AC54AF
+$Saktan<~Controls.762~>104 100 099 105 360 361 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 5415B1
+$Saktan<~Controls.509~>160<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.509~>175<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Arress<~Controls.726~>210 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> C876AF
+<~Game.7~>5 null
+$Arress<~Controls.731~>213 359 212 211 358 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 28C575
+$Arress<~Controls.509~>108<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Arress<~Controls.509~>111<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Saktan<~Controls.281~>208 <~Controls.282~><~Controls.46~><~Controls.283~><~Game.2041~> FF4C7C
+$Arress<~Scribe.141~>247 <~Scribe.142~><~Game.1937~><~Scribe.143~><~Game.1942~><~Scribe.144~> 73456F
+$Arress<~Controls.323~>247 ABB145
+$Arress<~Controls.323~>247 6879D2
+<Saktan> 1e 09936D
+$Arress<~Scribe.141~>247 <~Scribe.142~><~Game.1942~><~Scribe.143~><~Game.1948~><~Scribe.144~> 878590
+$Saktan<~Controls.372~>104 15FE3B
+<Arress> there actually 107ED6
+<Saktan> ok 773C9E
+$Saktan<~Controls.345~>100 099 105 360 361 103 102 101 <~Controls.346~>14 10 15 15 13 13 15 15 null
+$Saktan<~Controls.350~>100 099 105 360 361 103 102 101 null
+<Saktan> ... 4627CF
+$Arress<~Controls.345~>213 359 212 211 358 210 <~Controls.346~>3 0 4 1 3 0 null
+<Saktan> *sigh* haha 19EF98
+$Arress<~HighlightLabel.86~>359<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> AE375F
+$Arress<~Scribe.141~>302 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1970~><~Scribe.144~> 3B8E71
+$Arress<~Controls.644~>359 <~Controls.645~><~Game.2035~> EC1947
+<Saktan> hmm 6D8006
+$Saktan<~HighlightLabel.81~>361<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> A5A3E9
+$Saktan<~Scribe.141~>040 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.1948~><~Scribe.144~> 16CF8C
+$Saktan<~Scribe.141~>253 038 039 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.1954~><~Scribe.144~> 1CE519
+$Saktan<~Controls.644~>361 <~Controls.645~><~Game.2035~> FDF684
+$Arress<~HighlightLabel.86~>358<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> C1C65E
+$Arress<~Scribe.141~>301 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1970~><~Scribe.144~> 8B7EE7
+$Arress<~Controls.644~>358 <~Controls.645~><~Game.2035~> 1ED1B8
+<Saktan> thinking DAF513
+<Arress> sure, tyt B471F0
+$Saktan<~HighlightLabel.81~>103<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 57879E
+<Saktan> Dale 9BEDA6
+$Saktan<~Controls.840~>160 655B60
+$Arress<~Controls.840~>147 3C1BE5
+<auto> playchosen BD78C5
+<auto><~Controls.3~>reveal 147 3A8052A465BB9E178221D7209D646D5E64D2473D 20<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 467035
+<auto><~Controls.866~>reveal 160 963A5B47D4C5908F374F318CA7A7AD7B789FDB44 10<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> B6E215
+<auto> playchosen 8CBAAD
+<Arress> pre 09A2D2
+<game> Arress<~Controls.1~> 1 6 2 null
+<Arress> 1 0D74BC
+$Saktan<~Scribe.141~>025 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.2036~><~Scribe.144~> F4CA4B
+<Saktan> ff2 A2E49E
+<game> Saktan<~Controls.1~> 5 4 3 5 5 null
+<game> Saktan<~Controls.1~> 6 5 null
+<Saktan> 4 6D2320
+<game> Arress<~Controls.1~> 2 6 5 6 null
+<game> Arress<~Controls.1~> 6 null
+<Arress> 4 D0C4EA
+<Arress> bloody combat 0E2ED3
+<Saktan> very 2BFD65
+$Saktan<~Scribe.141~>035 036 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.2036~><~Scribe.144~> ED0E59
+$Arress<~Controls.304~>299 <~Controls.305~><~Game.1970~> 912EEC
+$Arress<~Controls.313~>065 <~Controls.308~><~Controls.314~><~Game.1970~> 0BDD14
+$Arress<~Controls.304~>302 <~Controls.305~><~Game.1970~> 151A21
+$Arress<~Controls.313~>308 <~Controls.307~><~Controls.314~><~Game.1970~> 7DC746
+$Arress<~Controls.304~>301 <~Controls.305~><~Game.1970~> 280BA8
+$Arress<~Controls.313~>307 <~Controls.307~><~Controls.314~><~Game.1970~> E149C1
+$Arress<~Scribe.141~>066 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.2037~><~Scribe.144~> E70C2A
+<Saktan> hmm 2E8C4B
+<Saktan> i think i must ACD1C9
+<Saktan> but not sure A59A83
+<Arress> tough call 44B954
+<Saktan> esp with 2/3 musters showing 24BE16
+<Saktan> stop/draw 8E3E15
+$Saktan<~Controls.509~>166<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.644~>103 160 035 036 025 147 066 <~Controls.645~><~Game.2035~> 2527DB
+$Arress<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 2AC72A
+$Arress<~Scribe.141~>300 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1970~><~Scribe.144~> 48A14F
+$Arress<~Controls.644~>213 <~Controls.645~><~Game.2035~> 8EB039
+<Saktan> pass C2A748
+$Arress<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 6A36A5
+$Arress<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> AE7499
+$Arress<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 2784B8
+<game> Saktan<~Controls.1~> 1 1 5 5 3 null
+<game> Saktan<~Controls.1~> 5 null
+<Saktan> safe D003F9
+$Saktan<~HighlightLabel.81~>099<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 2964E2
+$Saktan<~Scribe.141~>028 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1917~><~Scribe.144~> F0C296
+$Saktan<~Scribe.141~>027 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1956~><~Scribe.144~> CFC876
+$Saktan<~Controls.644~>099 <~Controls.645~><~Game.2035~> 9F268F
+<Saktan> srry can i change 91328B
+<Arress> k B5CE66
+$Saktan<~Controls.819~> FC5DDA
+$Saktan<~Controls.819~> 4EF44F
+$Saktan<~Controls.819~> 820850
+$Saktan<~Controls.819~> 310EA4
+<Saktan> thx 6E990D
+$Saktan<~HighlightLabel.81~>100<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> A2D944
+$Saktan<~CardBuffet.14~>reveal 166 C6D1F8BCC27917F78BB3917AF6C377FE9B20FBFF 5<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 954E78
+$Saktan<~Scribe.141~>253 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1928~><~Scribe.144~> ADF686
+$Saktan<~Scribe.141~>037 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1967~><~Scribe.144~> 5943BE
+$Saktan<~Scribe.141~>039 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1959~><~Scribe.144~> 860CD7
+<Saktan> ok rolling 26E479
+<game> Saktan<~Controls.1~> 5 4 5 5 4 null
+<Arress> CDC94D
+<game> Saktan<~Controls.1~> 2 null
+<Saktan> 3 8E0FE0
+$Saktan<~Controls.624~>216<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Arress> random 4BEE10
+$Arress<~Scribe.141~>247 <~Scribe.142~><~Game.1948~><~Scribe.143~><~Game.1967~><~Scribe.144~> 99E856
+$Saktan<~Controls.637~>245<~Controls.638~><~Game.1998~><~Controls.639~><~Game.2037~> null
+$Arress<~Controls.323~>247 B4FFA1
+$Arress<~Scribe.141~>245 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.1921~><~Scribe.144~> CC8337
+$Saktan<~Controls.644~>100 166 216 <~Controls.645~><~Game.2035~> EC218B
+<Arress> I think that works right CE45F8
+<Saktan> yes F5B224
+<Saktan> 2 from original FSP spot BD2703
+$Arress<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> FB3584
+$Arress<~Controls.323~>247 627C04
+$Arress<~Controls.644~>210 <~Controls.645~><~Game.2035~> A21B21
+$Saktan<~HighlightLabel.81~>099<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 9E823B
+$Saktan<~HighlightLabel.96~>261<~HighlightLabel.97~><~Game.2001~><~HighlightLabel.98~><~Game.2002~> 184BDC
+$Saktan<~Controls.644~>099 <~Controls.645~><~Game.2035~> 759967
+$Arress<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 638D06
+$Arress<~Scribe.141~>260 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> 472F82
+$Arress<~Controls.644~>212 <~Controls.645~><~Game.2035~> 84ADE9
+<Arress> pass BD2ED0
+$Saktan<~Controls.757~>105 360 102 101 104 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 6C8746
+$Saktan<~Controls.762~>099 100 103 361 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> B42EC4
+$Arress<~Controls.726~>211 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 2400DB
+<~Game.7~>6 null
+$Arress<~Controls.731~>212 210 213 358 359 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 3C23CA
+$Saktan<~Controls.509~>209<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.509~>184<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Arress<~Controls.509~>107<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Arress<~Controls.509~>114<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Saktan<~Controls.281~>175 <~Controls.282~><~Controls.46~><~Controls.283~><~Game.2041~> F21655
+$Arress<~Controls.296~>112 <~Controls.297~><~Controls.45~> 61BCC4
+<Arress> fp ok 505E35
+<Saktan> 1e D4C8C0
+$Saktan<~Controls.372~>099 593E08
+$Saktan<~Controls.345~>100 103 361 105 360 102 101 104 <~Controls.346~>13 12 12 10 10 10 12 12 null
+$Saktan<~Controls.350~>100 103 361 105 360 102 101 104 null
+$Arress<~Controls.345~>212 210 213 358 359 211 <~Controls.346~>1 1 1 3 2 1 null
+<Saktan> lol 61DC93
+<Arress> swingy dice 7DDF75
+<Saktan> very 3F559E
+$Arress<~HighlightLabel.86~>359<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> FB2AB4
+$Arress<~CardBuffet.9~>reveal 114 14D81A2DC1B7269F7DE76F4C3D8BBCE90B009AAB 10<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> 53CBA3
+<Saktan> oof E69564
+$Arress<~Scribe.141~>305 306 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1970~><~Scribe.144~> 0CE438
+$Arress<~Controls.509~>110<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Arress<~Controls.644~>359 114 <~Controls.645~><~Game.2035~> 897B6A
+$Saktan<~HighlightLabel.81~>360<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 212F98
+$Saktan<~HighlightLabel.101~>261<~HighlightLabel.102~><~Game.2002~><~HighlightLabel.103~><~Game.2003~> 3A3562
+$Saktan<~Controls.644~>360 <~Controls.645~><~Game.2035~> D93DE5
+$Arress<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> FE479E
+$Arress<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 4D0F79
+$Arress<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 84D803
+<game> Saktan<~Controls.1~> 1 null
+<game> Saktan<~Controls.1~> 6 null
+$Saktan<~Controls.624~>220<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Saktan> 1r E316C7
+$Saktan<~Controls.637~>243<~Controls.638~><~Game.1998~><~Controls.639~><~Game.2036~> null
+$Saktan<~Controls.819~> 867798
+<Saktan> srry CA627D
+<Arress> uhh E68E80
+$Arress<~Scribe.141~>247 <~Scribe.142~><~Game.1967~><~Scribe.143~><~Game.1976~><~Scribe.144~> EE24F1
+$Arress<~Controls.323~>247 E95E8B
+<Arress> I will go random 66EE64
+<Saktan> was hovering over it and accidentally clicked B50170
+$Saktan<~Controls.637~>242<~Controls.638~><~Game.1999~><~Controls.639~><~Game.2036~> null
+$Arress<~Scribe.141~>243 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> 755FBB
+$Arress<~Controls.644~>242 220 <~Controls.645~><~Game.2035~> 897AEA
+$Saktan<~HighlightLabel.81~>361<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 07F4EF
+$Saktan<~Scribe.141~>056 052 051 050 <~Scribe.142~><~Game.1986~><~Scribe.143~><~Game.1984~><~Scribe.144~> EFEC54
+$Saktan<~Scribe.141~>054 053 <~Scribe.142~><~Game.1987~><~Scribe.143~><~Game.1984~><~Scribe.144~> 82CAE8
+$Saktan<~Controls.644~>361 <~Controls.645~><~Game.2035~> C83C2E
+$Arress<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> F36808
+$Arress<~Controls.323~>247 609C26
+$Arress<~Controls.644~>213 <~Controls.645~><~Game.2035~> 15BC6C
+$Saktan<~HighlightLabel.81~>105<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> C1861E
+$Saktan<~Scribe.141~>332 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1919~><~Scribe.144~> 4BD641
+$Saktan<~Scribe.141~>331 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1919~><~Scribe.144~> A8575B
+$Saktan<~Scribe.141~>331 <~Scribe.142~><~Game.1919~><~Scribe.143~><~Game.1914~><~Scribe.144~> EBD12F
+$Saktan<~Scribe.141~>330 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1910~><~Scribe.144~> 0668D1
+$Saktan<~Controls.644~>105 <~Controls.645~><~Game.2035~> 946380
+$Arress<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 15F474
+$Arress<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 871593
+$Arress<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 8CC2E0
+<game> Saktan<~Controls.1~> 2 null
+<Saktan> safe A58785
+$Saktan<~HighlightLabel.81~>100<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 8F8BE8
+$Saktan<~CardBuffet.14~>reveal 209 2AF6605C7411B28C4D1E4AB2A3B1FFFEEF78FE0E 21<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 71A5C2
+$Saktan<~Scribe.141~>247 <~Scribe.142~><~Game.1976~><~Scribe.143~><~Game.1967~><~Scribe.144~> 848013
+$Saktan<~Controls.644~>100 209 <~Controls.645~><~Game.2035~> 81FC67
+$Arress<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 4164A5
+$Arress<~Controls.790~>248<~Controls.791~><~Game.2015~><~Controls.792~><~Game.2016~> 731C58
+$Arress<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 4CEAE5
+<game> Saktan<~Controls.1~> 4 null
+<Saktan> 1 3D88FC
+$Saktan<~Controls.624~>229<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Arress<~Scribe.141~>243 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2036~><~Scribe.144~> C8A3D1
+$Arress<~Scribe.141~>246 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1925~><~Scribe.144~> A6FB73
+$Arress<~Scribe.141~>364 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1999~><~Scribe.144~> 357248
+$Arress<~Controls.644~>243 229 <~Controls.645~><~Game.2035~> 56FC52
+$Saktan<~HighlightLabel.81~>102<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 697B0C
+$Saktan<~Controls.304~>332 005 <~Controls.305~><~Game.1919~> 124DD4
+$Saktan<~Controls.313~>325 326 <~Controls.309~><~Controls.314~><~Game.1919~> 3283CB
+$Saktan<~Controls.644~>102 <~Controls.645~><~Game.2035~> 7A5D58
+<Arress> pass 57E9BA
+$Saktan<~HighlightLabel.81~>101<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 8DDDB6
+<Saktan> Fords 11C1D4
+<Saktan> nc BE1F9C
+$Arress<~Scribe.141~>reveal 110 ADCDF2D6ACEEDBF94AD8DE8F77B930A58D69C4B8 6 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> 55FC95
+<game> Saktan<~Controls.1~> 2 1 6 null
+<game> Saktan<~Controls.1~> 5 3 null
+<Saktan> 1 C1DA47
+<game> Arress<~Controls.1~> 4 3 null
+<game> Arress<~Controls.1~> 1 null
+<Arress> 0 18800B
+$Arress<~Scribe.141~>069 <~Scribe.142~><~Game.1918~><~Scribe.143~><~Game.2036~><~Scribe.144~> 54CC18
+<Saktan> press 6E239E
+$Arress<~Scribe.141~>074 070 <~Scribe.142~><~Game.1918~><~Scribe.143~><~Game.1923~><~Scribe.144~> 6D7782
+$Saktan<~Scribe.141~>325 326 006 004 <~Scribe.142~><~Game.1919~><~Scribe.143~><~Game.1918~><~Scribe.144~> D544BC
+$Saktan<~Controls.644~>101 069 110 <~Controls.645~><~Game.2035~> 4AE99F
+$Saktan<~HighlightLabel.91~>259<~HighlightLabel.92~><~Game.2000~><~HighlightLabel.93~><~Game.2001~> AB3CF9
+$Arress<~HighlightLabel.86~>358<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 69182A
+$Arress<~Scribe.141~>251 <~Scribe.142~><~Game.2010~><~Scribe.143~><~Game.2011~><~Scribe.144~> 41FEB6
+$Arress<~Scribe.141~>246 073 072 <~Scribe.142~><~Game.1925~><~Scribe.143~><~Game.1923~><~Scribe.144~> 4EAE35
+$Arress<~Scribe.141~>059 <~Scribe.142~><~Game.1973~><~Scribe.143~><~Game.1965~><~Scribe.144~> 1C834E
+$Arress<~Controls.644~>358 <~Controls.645~><~Game.2035~> 0DFEFF
+$Saktan<~HighlightLabel.81~>104<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 1A0A90
+$Saktan<~CardBuffet.14~>reveal 159 B51E6D2CCFC0061EDD605B714F95E56AA6127C25 9<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> D050EA
+$Saktan<~Scribe.141~>253 008 007 015 014 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.1918~><~Scribe.144~> A69253
+$Saktan<~Controls.644~>104 159 <~Controls.645~><~Game.2035~> D3ED61
+<Arress> pass D0FC46
+$Saktan<~Controls.276~>103<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> CAD6EB
+<Saktan> HD AC568C
+$Arress<~Scribe.141~>246 074 073 072 070 071 <~Scribe.142~><~Game.1923~><~Scribe.143~><~Game.1993~><~Scribe.144~> 78D74B
+$Saktan<~Scribe.141~>253 325 326 006 004 008 007 015 014 <~Scribe.142~><~Game.1918~><~Scribe.143~><~Game.1923~><~Scribe.144~> 8E3B9C
+$Saktan<~Controls.644~>103 <~Controls.645~><~Game.2035~> 7A1EC2
+$Arress<~Scribe.141~>259 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> BBA5CE
+<Arress> pass 7C4991
+$Saktan<~Controls.757~>099 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 1662F0
+$Saktan<~Controls.762~>103 104 101 102 100 105 361 360 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 68B059
+$Saktan<~Controls.509~>158<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.509~>196<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Arress<~Scribe.141~>247 <~Scribe.142~><~Game.1967~><~Scribe.143~><~Game.524~><~Scribe.144~> A10090
+$Arress<~Controls.509~>144<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Arress<~Controls.509~>121<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Saktan<~Controls.281~>220 <~Controls.282~><~Game.2045~><~Controls.283~><~Game.2044~> B5ED54
+$Saktan<~Scribe.141~>414 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1928~><~Scribe.144~> 8611CC
+$Arress<~Controls.296~>111 <~Controls.297~><~Controls.45~> DBCFC1
+<Arress> fp ok 8A7BC6
+<Saktan> 1e 27DB43
+$Arress<~Controls.726~>212 210 211 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 53EB8E
+<~Game.7~>7 null
+$Arress<~Controls.731~>358 213 359 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 481AAC
+$Saktan<~Controls.372~>103 5810A8
+$Saktan<~Controls.345~>104 101 102 100 105 361 360 099 <~Controls.346~>11 10 11 13 15 14 13 12 null
+$Saktan<~Controls.350~>104 101 102 100 105 361 360 099 null
+$Arress<~Controls.345~>358 213 359 212 210 211 <~Controls.346~>0 4 1 0 1 4 null
+<Saktan> he's running! E7DCBC
+$Arress<~HighlightLabel.86~>358<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 25B6C5
+$Arress<~Controls.790~>247<~Controls.791~><~Game.524~><~Controls.792~><~Game.525~> 761BFB
+$Arress<~Controls.795~>358<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 4C5625
+$Saktan<~Controls.624~>228<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Arress<~Scribe.141~>252 <~Scribe.142~><~Game.2015~><~Scribe.143~><~Game.2017~><~Scribe.144~> 15B9E7
+$Arress<~Controls.323~>247 559E86
+$Arress<~Controls.644~>228 <~Controls.645~><~Game.2035~> E8CEFC
+$Saktan<~HighlightLabel.81~>099<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 34CEEB
+$Saktan<~Controls.819~> DE36C4
+$Saktan<~HighlightLabel.81~>361<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 88CD9F
+$Saktan<~CardBuffet.14~>reveal 165 480C135F4E46322C9103F1F1840AC4FF399D0A3A 3<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 2BB0F2
+$Saktan<~Controls.281~>236 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2044~> F64E57
+$Saktan<~Controls.644~>361 165 <~Controls.645~><~Game.2035~> 78F349
+$Arress<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 5DA808
+$Arress<~Controls.819~> DE0110
+$Arress<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 24D014
+$Arress<~Controls.323~>247 A4A9BA
+$Arress<~Controls.644~>212 <~Controls.645~><~Game.2035~> A9A025
+$Saktan<~HighlightLabel.81~>100<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 6479F8
+$Saktan<~CardBuffet.14~>reveal 173 96C971AA4D8CBEE82B62CBE11C4923D36764EDF1 9<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> B99B11
+$Saktan<~Controls.281~>237 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2044~> A56D11
+$Saktan<~Controls.644~>100 173 <~Controls.645~><~Game.2035~> 4412EA
+$Arress<~HighlightLabel.86~>359<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 5E95B4
+$Arress<~CardBuffet.9~>reveal 117 2DEB6937041C576671D0A66FA638DF2696629559 10<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> 43400D
+$Arress<~Scribe.141~>117 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2029~><~Scribe.144~> 17867E
+$Arress<~Controls.644~>359 <~Controls.645~><~Game.2035~> 392C81
+$Saktan<~HighlightLabel.81~>360<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 2AA221
+$Saktan<~CardBuffet.14~>reveal 158 62E95F721A2319160D00559DA093602DCBCD31C6 17<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 17830F
+$Saktan<~Controls.281~>239 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2044~> 721C89
+$Saktan<~Controls.644~>360 158 <~Controls.645~><~Game.2035~> BB3439
+$Arress<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> F8F881
+$Arress<~Controls.790~>247<~Controls.791~><~Game.525~><~Controls.792~><~Game.528~> 9E2C59
+$Arress<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 7211BA
+$Saktan<~Controls.624~>223<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Arress<~Scribe.141~>252 <~Scribe.142~><~Game.2017~><~Scribe.143~><~Game.2018~><~Scribe.144~> EC8152
+$Arress<~Controls.644~>223 <~Controls.645~><~Game.2035~> 929CF4
+$Saktan<~HighlightLabel.81~>099<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 5FC4F9
+<Saktan> HD DCC928
+$Saktan<~Controls.840~>184 4C0C74
+$Arress<~Controls.840~>144 CEADA9
+<auto> playchosen 3886F3
+<auto><~Controls.3~>reveal 144 395B3B9DA42D5E77A26AE2ADF10528AE3E0F05EE 11<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> DA1936
+<auto><~Controls.866~>reveal 184 2B53092BBBE940626838CB3432D8580CA1AE7CE9 17<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 1CD23C
+<auto> playchosen 5899BB
+<game> Saktan<~Controls.1~> 2 4 6 5 6 null
+<game> Saktan<~Controls.1~> 1 2 null
+<Saktan> 3 18E36C
+<game> Arress<~Controls.1~> 4 3 2 5 null
+<game> Arress<~Controls.1~> 1 3 null
+<Arress> 2 A1168F
+$Saktan<~Scribe.141~>007 008 <~Scribe.142~><~Game.1923~><~Scribe.143~><~Game.2036~><~Scribe.144~> CD09F6
+$Arress<~Scribe.141~>074 073 <~Scribe.142~><~Game.1993~><~Scribe.143~><~Game.2037~><~Scribe.144~> 128DE8
+<Saktan> press/draw 62B10E
+$Saktan<~Controls.304~>326 <~Controls.305~><~Game.1923~> 66120F
+$Saktan<~Controls.313~>332 <~Controls.307~><~Controls.314~><~Game.1923~> BF8682
+$Saktan<~Controls.509~>186<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.662~>184 007 008 144 074 073 <~Controls.663~><~Game.2035~> 329662
+$Arress<~Controls.296~>184 007 008 <~Controls.297~><~Game.2036~> F72F40
+<Saktan> NC 77B663
+<Arress> nc 804C9C
+<game> Saktan<~Controls.1~> 5 1 2 2 1 null
+<game> Saktan<~Controls.1~> 6 3 2 6 null
+<Saktan> 2 BFE4FE
+<game> Arress<~Controls.1~> 3 5 3 null
+<game> Arress<~Controls.1~> 5 null
+<Arress> 2 7DA262
+$Saktan<~Scribe.141~>015 014 <~Scribe.142~><~Game.1923~><~Scribe.143~><~Game.2036~><~Scribe.144~> 7D611A
+$Arress<~Scribe.141~>070 071 <~Scribe.142~><~Game.1993~><~Scribe.143~><~Game.2037~><~Scribe.144~> 1AD3A4
+<Saktan> press, nc E5BA0C
+$Saktan<~Controls.304~>006 <~Controls.305~><~Game.1923~> B8DEF3
+$Saktan<~Controls.313~>005 <~Controls.307~><~Controls.314~><~Game.1923~> B4AC75
+$Saktan<~Controls.662~>015 014 070 071 <~Controls.663~><~Game.2035~> FE5DDC
+<Arress> nc E128B3
+<game> Saktan<~Controls.1~> 3 2 5 6 null
+<Saktan> 1 E9629D
+<game> Arress<~Controls.1~> 3 null
+<game> Arress<~Controls.1~> 2 null
+<Arress> 0 8CEAA7
+$Saktan<~Scribe.141~>423 <~Scribe.142~><~Game.31~><~Scribe.143~><~Game.33~><~Scribe.144~> DB409A
+$Arress<~Scribe.141~>246 072 <~Scribe.142~><~Game.1993~><~Scribe.143~><~Game.2037~><~Scribe.144~> 54948B
+$Saktan<~Scribe.141~>420 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1923~><~Scribe.144~> E3C632
+$Saktan<~HighlightLabel.101~>259<~HighlightLabel.102~><~Game.2002~><~HighlightLabel.103~><~Game.2003~> B02874
+$Saktan<~Controls.644~>099 246 072 <~Controls.645~><~Game.2035~> 853691
+$Arress<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 41D550
+$Arress<~Scribe.141~>292 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1925~><~Scribe.144~> 2855EC
+$Arress<~Scribe.141~>293 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1929~><~Scribe.144~> 080764
+$Arress<~Controls.644~>213 <~Controls.645~><~Game.2035~> 90EFD9
+$Saktan<~HighlightLabel.81~>102<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> D28B94
+<Saktan> Westemnet 5C36B2
+<Saktan> nc BAFBB2
+$Arress<~Scribe.141~>reveal 121 599124EBFFAC9C50D8D825D102FD6659790E0CEC 3 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> E32B9A
+$Arress<~Scribe.141~>292 <~Scribe.142~><~Game.1925~><~Scribe.143~><~Game.1929~><~Scribe.144~> 8EEA32
+$Saktan<~Scribe.141~>419 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1925~><~Scribe.144~> A20D10
+$Saktan<~Scribe.141~>332 <~Scribe.142~><~Game.1923~><~Scribe.143~><~Game.1925~><~Scribe.144~> 8922D8
+$Saktan<~Controls.644~>102 121 <~Controls.645~><~Game.2035~> 823803
+<Arress> pass BE6D33
+$Saktan<~HighlightLabel.81~>101<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> A7CF8D
+$Saktan<~Scribe.141~>255 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1969~><~Scribe.144~> E6DE2C
+$Saktan<~Scribe.141~>362 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2037~><~Scribe.144~> 7E5A05
+$Saktan<~Controls.644~>101 362 <~Controls.645~><~Game.2035~> 7B9C86
+$Arress<~Scribe.141~>427 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 4BE932
+$Arress<~Controls.509~>129<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Arress<~Controls.644~>427 <~Controls.645~><~Game.2035~> 76FF9C
+$Saktan<~HighlightLabel.81~>104<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 7E525E
+$Saktan<~CardBuffet.14~>reveal 192 B87CDA0A759E2213EFAAE4C26F305D4C8DEE2CA2 6<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> F57871
+$Arress<~Scribe.141~>077 076 075 <~Scribe.142~><~Game.1920~><~Scribe.143~><~Game.1995~><~Scribe.144~> ED3E6E
+<Saktan> DA leave 1 30C974
+$Saktan<~Scribe.141~>055 057 049 048 047 046 045 043 042 <~Scribe.142~><~Game.1932~><~Scribe.143~><~Game.1920~><~Scribe.144~> 50E142
+$Saktan<~Controls.644~>104 192 <~Controls.645~><~Game.2035~> 636DEE
+$Saktan<~HighlightLabel.101~>260<~HighlightLabel.102~><~Game.2002~><~HighlightLabel.103~><~Game.2003~> 1D5A4D
+$Arress<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 766CCD
+$Arress<~Scribe.141~>296 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1970~><~Scribe.144~> A81E14
+$Arress<~Scribe.141~>278 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1924~><~Scribe.144~> 646CAD
+$Arress<~Controls.644~>211 <~Controls.645~><~Game.2035~> E67899
+$Saktan<~Controls.757~>105 103 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 5247D9
+$Saktan<~Controls.762~>104 101 362 102 099 360 100 361 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 1B77CB
+$Saktan<~Controls.509~>168<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.509~>171<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Arress<~Controls.726~>210 358 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 462849
+<~Game.7~>8 null
+$Arress<~Controls.731~>211 213 359 212 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 23DE4E
+$Arress<~Controls.509~>142<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Arress<~Controls.509~>156<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+<Arress> fp ok F1E948
+<Saktan> 1e 5DD258
+$Saktan<~Controls.372~>104 E171E5
+$Saktan<~Controls.345~>101 362 102 099 360 100 361 105 103 <~Controls.346~>10 14 10 15 10 15 15 12 14 null
+$Saktan<~Controls.350~>101 362 102 099 360 100 361 105 103 null
+$Arress<~Controls.345~>211 213 359 212 210 358 <~Controls.346~>2 0 3 1 3 2 null
+$Arress<~HighlightLabel.86~>359<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 7050BF
+$Arress<~CardBuffet.9~>reveal 156 1CE031718E4DA25E1BAE21B352B87537EDFA30A7 12<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> 099D37
+$Arress<~Scribe.141~>272 273 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1995~><~Scribe.144~> 9D7CF5
+<Saktan> very nice C5725F
+$Arress<~Controls.644~>359 156 <~Controls.645~><~Game.2035~> 30408F
+$Saktan<~HighlightLabel.81~>103<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> B7C4AB
+$Saktan<~CardBuffet.14~>reveal 168 CC56355CE697F465ECF39E33FC25491E0D6006FD 8<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 9CB950
+$Saktan<~Scribe.141~>253 <~Scribe.142~><~Game.1923~><~Scribe.143~><~Game.1920~><~Scribe.144~> 749D34
+<Arress> pretty lucky with that one 167845
+$Saktan<~Scribe.141~>039 <~Scribe.142~><~Game.1959~><~Scribe.143~><~Game.1920~><~Scribe.144~> 4DC455
+$Saktan<~Scribe.141~>040 <~Scribe.142~><~Game.1948~><~Scribe.143~><~Game.1920~><~Scribe.144~> 4CD5A8
+$Saktan<~Scribe.141~>037 <~Scribe.142~><~Game.1967~><~Scribe.143~><~Game.1920~><~Scribe.144~> 73A850
+$Saktan<~Scribe.141~>168 <~Scribe.142~><~Game.2036~><~Scribe.143~><~Game.2034~><~Scribe.144~> 24D584
+<Saktan> DA 91C752
+$Saktan<~Controls.840~>171 2B966C
+$Arress<~Controls.840~>129 0680B7
+<auto> playchosen 17A8FF
+<auto><~Controls.3~>reveal 129 DEBE40A3E775BBF492678809A1E8A0B3A220C4DE 23<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 3AC72B
+<auto><~Controls.866~>reveal 171 783370C02C03FCDE304B45943E1308BD72A8729B 16<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 816693
+<auto> playchosen A9CDB8
+<game> Saktan<~Controls.1~> 6 3 3 3 3 null
+<game> Saktan<~Controls.1~> 5 5 4 3 null
+<Saktan> 3 5E4924
+<game> Arress<~Controls.1~> 3 6 5 2 null
+<game> Arress<~Controls.1~> 6 null
+<Arress> 4 BA0057
+$Arress<~Scribe.141~>273 077 <~Scribe.142~><~Game.1995~><~Scribe.143~><~Game.2037~><~Scribe.144~> CADCCC
+$Saktan<~Scribe.141~>045 043 049 042 <~Scribe.142~><~Game.1920~><~Scribe.143~><~Game.2036~><~Scribe.144~> 4BEDF7
+<Saktan> press/draw 163903
+$Saktan<~Controls.304~>055 <~Controls.305~><~Game.1920~> 9D763A
+$Saktan<~Controls.313~>357 <~Controls.307~><~Controls.314~><~Game.1920~> 52805C
+$Saktan<~Controls.509~>197<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.662~>171 045 043 049 042 129 273 077 <~Controls.663~><~Game.2035~> 79520A
+<Saktan> NC 87CBEF
+<Arress> nc 075361
+<game> Saktan<~Controls.1~> 1 2 5 3 3 null
+<game> Saktan<~Controls.1~> 6 6 2 3 4 null
+<Saktan> 2 3296AB
+<game> Arress<~Controls.1~> 6 6 null
+<Arress> 2 704198
+$Saktan<~Scribe.141~>057 <~Scribe.142~><~Game.1920~><~Scribe.143~><~Game.2037~><~Scribe.144~> E5E122
+$Saktan<~Scribe.141~>168 <~Scribe.142~><~Game.2034~><~Scribe.143~><~Game.2036~><~Scribe.144~> CCC34C
+$Arress<~Scribe.141~>272 076 075 <~Scribe.142~><~Game.1995~><~Scribe.143~><~Game.2037~><~Scribe.144~> DF5DBB
+$Saktan<~Scribe.141~>423 <~Scribe.142~><~Game.33~><~Scribe.143~><~Game.389~><~Scribe.144~> EEFAC8
+$Saktan<~Scribe.141~>412 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1920~><~Scribe.144~> 7645CB
+<Saktan> all these combats been very close 0908C4
+$Saktan<~Controls.644~>103 168 272 057 076 075 <~Controls.645~><~Game.2035~> 796AE4
+<Arress> a bit too close for comfort if you ask me :) D263C6
+$Arress<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> C2C912
+$Arress<~Scribe.141~>281 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1931~><~Scribe.144~> F0D3E7
+$Arress<~Scribe.141~>297 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1970~><~Scribe.144~> B24FE6
+$Arress<~Controls.644~>210 <~Controls.645~><~Game.2035~> 2BE612
+$Saktan<~HighlightLabel.81~>105<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> EB1A5D
+$Saktan<~Controls.819~> 5E128B
+$Saktan<~HighlightLabel.81~>102<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> FEB504
+$Saktan<~Scribe.141~>057 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1932~><~Scribe.144~> 4DAEE7
+$Saktan<~Controls.644~>102 <~Controls.645~><~Game.2035~> 571F14
+$Arress<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> D1FE1A
+$Arress<~Controls.790~>247<~Controls.791~><~Game.528~><~Controls.792~><~Game.529~> D681EA
+$Arress<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> C2739F
+$Saktan<~Controls.624~>237<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Arress> hmm B01B18
+$Arress<~Scribe.141~>247 <~Scribe.142~><~Game.529~><~Scribe.143~><~Game.528~><~Scribe.144~> BF7CEF
+<Arress> no mithril CF4394
+<Saktan> ok 88CDED
+<Saktan> plz 6! 1850FD
+<game> Saktan<~Controls.1~> 2 null
+<Saktan> boo C661E6
+$Arress<~Scribe.141~>252 <~Scribe.142~><~Game.2018~><~Scribe.143~><~Game.2020~><~Scribe.144~> 1C4777
+$Arress<~Controls.644~>237 <~Controls.645~><~Game.2035~> 6876B8
+$Saktan<~HighlightLabel.81~>105<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 2CDB09
+$Saktan<~Controls.819~> 22B78F
+$Saktan<~HighlightLabel.81~>362<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 51503F
+$Saktan<~CardBuffet.14~>reveal 197 2A5E88F52B67247DE0CF3534C8224D0E9F0A0C95 15<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 185222
+$Saktan<~Scribe.141~>333 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1920~><~Scribe.144~> B26F90
+$Saktan<~Controls.644~>362 197 <~Controls.645~><~Game.2035~> F18D22
+$Arress<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> F60DAD
+$Arress<~Controls.509~>119<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Arress<~Controls.644~>211 <~Controls.645~><~Game.2035~> 3ECE69
+$Saktan<~HighlightLabel.81~>105<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> AC664B
+<Saktan> Lamedon 1B6248
+<Saktan> nc 1764D7
+$Arress<~Scribe.141~>reveal 119 36F47346062A5D5B9FA42C220F69213166414C11 15 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> 99713B
+$Arress<~Scribe.141~>278 <~Scribe.142~><~Game.1924~><~Scribe.143~><~Game.1931~><~Scribe.144~> 36BB90
+$Saktan<~Scribe.141~>417 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1924~><~Scribe.144~> 3CDC6D
+$Saktan<~Scribe.141~>253 037 040 039 333 357 048 047 046 <~Scribe.142~><~Game.1920~><~Scribe.143~><~Game.1924~><~Scribe.144~> 5A57B4
+$Saktan<~Controls.644~>105 119 <~Controls.645~><~Game.2035~> C97B73
+$Arress<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> BED742
+$Arress<~Scribe.141~>241 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.1937~><~Scribe.144~> CD11C6
+$Arress<~Scribe.141~>240 <~Scribe.142~><~Game.1921~><~Scribe.143~><~Game.1960~><~Scribe.144~> 8EDECD
+$Arress<~Controls.644~>212 <~Controls.645~><~Game.2035~> 86ACFF
+$Saktan<~HighlightLabel.81~>360<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> BFE4F6
+$Saktan<~Scribe.141~>055 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1932~><~Scribe.144~> 94E108
+$Saktan<~Controls.644~>360 <~Controls.645~><~Game.2035~> A9532A
+$Arress<~HighlightLabel.86~>358<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 2414EA
+$Arress<~CardBuffet.9~>reveal 108 CEDBBBDA98C16912FFA51555A99E7BEE6A58AD7E 20<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> 339057
+<Arress> you wanna draw or me B67416
+<Saktan> you draw A168FC
+$Arress<~Controls.624~>236<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2036~> null
+<Saktan> damn 8049DB
+$Arress<~Scribe.141~>236 <~Scribe.142~><~Game.2036~><~Scribe.143~><~Game.2032~><~Scribe.144~> F0D667
+$Arress<~Controls.624~>219<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2036~> null
+$Arress<~Scribe.141~>219 <~Scribe.142~><~Game.2036~><~Scribe.143~><~Game.2033~><~Scribe.144~> 8884DF
+<Saktan> 1 more! 5D6591
+$Arress<~Controls.624~>217<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2036~> null
+<Saktan> boo B51618
+<Arress> oof 727499
+<Saktan> thats probably gg A63C5B
+$Arress<~Controls.281~>236 <~Controls.282~><~Game.2032~><~Controls.283~><~Game.2046~> 9FAC35
+$Arress<~Controls.281~>219 <~Controls.282~><~Game.2033~><~Controls.283~><~Game.2046~> F51865
+$Arress<~Controls.281~>217 <~Controls.282~><~Game.2036~><~Controls.283~><~Game.2044~> 19E406
+$Arress<~Controls.644~>358 108 <~Controls.645~><~Game.2035~> FD855A
+$Saktan<~Controls.276~>101<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> D51C61
+$Saktan<~Controls.323~>255 903903
+$Saktan<~Scribe.141~>325 005 004 <~Scribe.142~><~Game.1923~><~Scribe.143~><~Game.1925~><~Scribe.144~> 3C1D52
+$Saktan<~Scribe.141~>055 057 041 <~Scribe.142~><~Game.1932~><~Scribe.143~><~Game.1938~><~Scribe.144~> 805161
+$Saktan<~Controls.644~>101 <~Controls.645~><~Game.2035~> 439644
+$Saktan<~Controls.757~>099 100 361 104 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> FF5024
+$Saktan<~Controls.762~>101 360 105 362 102 103 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 2CBAF7
+$Saktan<~Controls.509~>204<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.509~>189<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Arress<~Controls.726~>213 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 6E69F6
+<~Game.7~>9 null
+$Arress<~Controls.731~>358 212 211 210 359 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 79DE0A
+$Arress<~Controls.509~>109<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Arress<~Controls.509~>130<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+<Arress> fp ok 62EAFC
+<Saktan> 1e 089995
+$Saktan<~Controls.372~>101 3A9D93
+$Saktan<~Controls.345~>360 105 362 102 103 099 100 361 104 <~Controls.346~>11 10 12 14 13 15 14 13 12 null
+$Saktan<~Controls.350~>360 105 362 102 103 099 100 361 104 null
+$Arress<~Controls.345~>358 212 211 210 359 213 <~Controls.346~>0 0 1 2 4 2 null
+$Arress<~HighlightLabel.86~>358<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> D1F146
+$Arress<~CardBuffet.9~>reveal 107 7292AB5B47A1097558575D452D9869F637E8DA03 19<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> BC672F
+<Arress> lamedon E969C1
+<game> Arress<~Controls.1~> 3 null
+$Saktan<~Scribe.141~>333 357 <~Scribe.142~><~Game.1924~><~Scribe.143~><~Game.2037~><~Scribe.144~> 689625
+$Saktan<~Scribe.141~>253 037 040 039 048 047 046 <~Scribe.142~><~Game.1924~><~Scribe.143~><~Game.1920~><~Scribe.144~> FC93CA
+$Arress<~Scribe.141~>241 <~Scribe.142~><~Game.1937~><~Scribe.143~><~Game.1924~><~Scribe.144~> A393DF
+$Arress<~Scribe.141~>277 279 280 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1924~><~Scribe.144~> C84AEF
+$Arress<~Controls.281~>417 <~Controls.282~><~Game.1924~><~Controls.283~><~Game.2040~> 82ECC8
+$Arress<~Controls.644~>358 107 333 357 <~Controls.645~><~Game.2035~> 7A8E89
+$Saktan<~HighlightLabel.81~>102<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> E1774E
+$Saktan<~CardBuffet.14~>reveal 186 9362900CD4DB9C372B15E3FC32D0E0086128FFF9 5<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> C9A7B5
+$Saktan<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2037~><~Scribe.144~> DBE5A7
+$Saktan<~Controls.644~>102 186 212 <~Controls.645~><~Game.2035~> E055B4
+$Arress<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> BD4274
+$Arress<~CardBuffet.9~>reveal 109 060768DE2FD806529923022549B0AF49E0F718A4 5<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> BF0DF8
+$Arress<~Controls.304~>280 <~Controls.305~><~Game.1924~> 1CB70E
+$Arress<~Controls.313~>276 <~Controls.309~><~Controls.314~><~Game.1924~> 39D963
+$Arress<~Controls.509~>131<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Arress<~Controls.509~>113<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Arress<~Controls.644~>213 109 <~Controls.645~><~Game.2035~> 6EC4F2
+$Saktan<~HighlightLabel.81~>105<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> DFA4E9
+$Saktan<~Scribe.141~>347 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1932~><~Scribe.144~> 2AEC3A
+$Saktan<~Controls.644~>105 <~Controls.645~><~Game.2035~> 94BA29
+<Arress> pass 78226F
+$Saktan<~HighlightLabel.81~>360<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 8B851F
+$Saktan<~Scribe.141~>346 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1932~><~Scribe.144~> B3E823
+$Saktan<~Controls.644~>360 <~Controls.645~><~Game.2035~> 83D51D
+<Arress> pass 79C32B
+$Saktan<~HighlightLabel.81~>362<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> C3BB64
+$Saktan<~Scribe.141~>032 031 030 <~Scribe.142~><~Game.1977~><~Scribe.143~><~Game.1969~><~Scribe.144~> 1A31E2
+$Saktan<~Scribe.141~>346 347 <~Scribe.142~><~Game.1932~><~Scribe.143~><~Game.1938~><~Scribe.144~> 0F5D1E
+$Saktan<~Controls.644~>362 <~Controls.645~><~Game.2035~> 5FF0E7
+<Arress> pass 04AB66
+$Saktan<~HighlightLabel.81~>361<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> A5CD27
+$Saktan<~Controls.819~> 407450
+$Saktan<~HighlightLabel.81~>100<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 095255
+$Saktan<~Controls.509~>203<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.644~>100 <~Controls.645~><~Game.2035~> 962FCA
+$Arress<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 3968AC
+$Arress<~Controls.790~>247<~Controls.791~><~Game.528~><~Controls.792~><~Game.529~> 18151A
+$Arress<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> A0548A
+$Saktan<~Controls.624~>221<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Saktan> 2r 2CD0F2
+$Arress<~Scribe.141~>252 <~Scribe.142~><~Game.2020~><~Scribe.143~><~Game.2022~><~Scribe.144~> 228C8C
+$Arress<~Controls.323~>247 BFD55D
+$Arress<~Controls.644~>221 <~Controls.645~><~Game.2035~> 730272
+$Saktan<~HighlightLabel.81~>103<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> D3DE15
+$Saktan<~CardBuffet.14~>reveal 204 96B66BF41879328B99D5912A8B6420D3C590F2EB 15<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> BE1A84
+$Saktan<~Controls.624~>222<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Saktan<~Controls.644~>103 204 222 <~Controls.645~><~Game.2035~> 93679A
+$Arress<~HighlightLabel.86~>359<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 7DAD43
+<Arress> dalw to wlr 97FF36
+<Arress> dale^ F77924
+$Saktan<~Scribe.141~>038 344 029 026 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1991~><~Scribe.144~> A117AD
+$Arress<~Scribe.141~>297 296 068 300 305 306 307 308 065 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.1954~><~Scribe.144~> 030A37
+$Arress<~Controls.644~>359 <~Controls.645~><~Game.2035~> 497D5C
+$Saktan<~HighlightLabel.81~>361<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> D63C1C
+$Saktan<~Scribe.141~>253 037 039 040 <~Scribe.142~><~Game.1920~><~Scribe.143~><~Game.1938~><~Scribe.144~> 0CA993
+$Saktan<~Scribe.141~>039 <~Scribe.142~><~Game.1938~><~Scribe.143~><~Game.1984~><~Scribe.144~> F8F8A6
+$Saktan<~Scribe.141~>255 <~Scribe.142~><~Game.1969~><~Scribe.143~><~Game.1938~><~Scribe.144~> BBDA8F
+$Saktan<~Scribe.141~>037 <~Scribe.142~><~Game.1938~><~Scribe.143~><~Game.1969~><~Scribe.144~> 385A49
+$Saktan<~Scribe.141~>037 <~Scribe.142~><~Game.1969~><~Scribe.143~><~Game.1938~><~Scribe.144~> B76881
+$Saktan<~Controls.644~>361 <~Controls.645~><~Game.2035~> 7736BF
+$Arress<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 104BA2
+$Arress<~CardBuffet.9~>reveal 130 D4F541655AC8AD7609BE4454102BF191A417F90B 2<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> 958569
+$Arress<~Scribe.141~>264 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1954~><~Scribe.144~> E56A79
+$Arress<~Controls.509~>138<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Arress<~Controls.644~>210 130 <~Controls.645~><~Game.2035~> A4203E
+$Saktan<~HighlightLabel.81~>104<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> E90EB4
+<Saktan> Pel B9D1B4
+$Saktan<~Controls.840~>203 F8748F
+$Arress<~Controls.840~>113 F839A7
+<auto> playchosen D0F5B7
+<auto><~Controls.3~>reveal 113 DDE957EF19A5AEC8C7E70E52D1E4B173615F6418 21<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> EF46DF
+<auto><~Controls.866~>reveal 203 D47D0106BDC82A99F2366F521CF09C6BC7F32050 4<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> D7D083
+<auto> playchosen 3001B7
+<Saktan> ff2 C356C1
+<game> Saktan<~Controls.1~> 3 2 2 null
+<game> Saktan<~Controls.1~> 6 3 5 null
+<Saktan> 1 1C1B05
+<game> Arress<~Controls.1~> 3 3 3 null
+<Arress> 0 543913
+<Saktan> press 23F7AC
+$Arress<~Scribe.141~>278 281 <~Scribe.142~><~Game.1931~><~Scribe.143~><~Game.1924~><~Scribe.144~> C4D447
+$Arress<~Scribe.141~>078 <~Scribe.142~><~Game.1931~><~Scribe.143~><~Game.2037~><~Scribe.144~> DC9FA8
+$Saktan<~Scribe.141~>253 255 037 040 346 347 055 057 <~Scribe.142~><~Game.1938~><~Scribe.143~><~Game.1931~><~Scribe.144~> C71050
+$Saktan<~Scribe.141~>423 <~Scribe.142~><~Game.389~><~Scribe.143~><~Game.391~><~Scribe.144~> FE9D81
+$Saktan<~Scribe.141~>417 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1931~><~Scribe.144~> 89DBB8
+$Saktan<~Controls.509~>194<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.644~>104 203 113 078 <~Controls.645~><~Game.2035~> 13C67F
+$Arress<~Controls.757~>099 101 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 173310
+$Arress<~Controls.762~>104 361 103 100 362 360 105 102 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> C27181
+$Arress<~Controls.726~>211 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 50428F
+<~Game.7~>10 null
+$Arress<~Controls.731~>210 359 213 212 358 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> D26F51
+$Arress<~Controls.509~>149<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Arress<~Controls.509~>140<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Saktan<~Controls.509~>182<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.509~>176<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<Saktan> 1e 6C2665
+$Saktan<~Controls.372~>104 4B15F9
+$Saktan<~Controls.345~>361 103 100 362 360 105 102 099 101 <~Controls.346~>12 10 15 12 10 10 14 12 14 null
+$Saktan<~Controls.350~>361 103 100 362 360 105 102 099 101 null
+$Arress<~Controls.345~>210 359 213 212 358 211 <~Controls.346~>1 1 1 1 4 1 null
+<Saktan> lol D572F4
+$Arress<~HighlightLabel.86~>358<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> E8C485
+$Arress<~Scribe.141~>282 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1935~><~Scribe.144~> 16BBCF
+$Arress<~Scribe.141~>295 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1929~><~Scribe.144~> 81D0E8
+$Arress<~Controls.644~>358 <~Controls.645~><~Game.2035~> 0C111C
+$Saktan<~HighlightLabel.81~>102<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 06E8BB
+$Saktan<~CardBuffet.14~>reveal 194 BC1B74DE21CA9DE5B557371CB3EA3D16A257A7B7 7<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 03F8E3
+$Saktan<~Scribe.141~>252 <~Scribe.142~><~Game.2022~><~Scribe.143~><~Game.2023~><~Scribe.144~> 5960D6
+$Saktan<~Controls.644~>102 194 <~Controls.645~><~Game.2035~> FBCBAD
+$Arress<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 61B2EB
+$Arress<~Controls.323~>247 02FCB4
+$Arress<~Controls.644~>211 <~Controls.645~><~Game.2035~> A23B5B
+$Saktan<~HighlightLabel.81~>105<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> F44BB9
+$Saktan<~Scribe.141~>251 <~Scribe.142~><~Game.2011~><~Scribe.143~><~Game.2037~><~Scribe.144~> F13F51
+<Saktan> changing to Eye D43643
+<Arress> k 268E7C
+$Saktan changes 105  to E C8F36F
+$Saktan<~Scribe.141~>105 <~Scribe.142~><~Game.2035~><~Scribe.143~><~Game.1997~><~Scribe.144~> D3DAB6
+<Saktan> now i can play another dice right? A12859
+$Arress<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 332E88
+<Saktan> since it is technically not an action? 466360
+$Arress<~Controls.819~> DFA4BD
+<Arress> yes 62F132
+<Saktan> ok 15EF3E
+$Saktan<~HighlightLabel.81~>099<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 0FB967
+<Saktan> Lamedon from WK 47BA0D
+$Saktan<~Controls.840~>182 17D344
+$Arress<~Controls.840~>140 2B2476
+<auto> playchosen BAC474
+<auto><~Controls.3~>reveal 140 159C05B43FFB0CBCF15F85F56992C92D3155C57A 4<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 505B57
+<auto><~Controls.866~>reveal 182 8D98A78D4A2A0C569B7DB68563BD7A52964C574F 2<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 53B427
+<auto> playchosen 50B95D
+$Arress<~Scribe.141~>241 276 278 281 277 279 <~Scribe.142~><~Game.1924~><~Scribe.143~><~Game.1913~><~Scribe.144~> 75DC45
+$Saktan<~Scribe.141~>416 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1924~><~Scribe.144~> 204645
+$Saktan<~Scribe.141~>057 <~Scribe.142~><~Game.1931~><~Scribe.143~><~Game.1924~><~Scribe.144~> 1C04BE
+$Saktan<~Controls.509~>177<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.644~>099 182 140 251 <~Controls.645~><~Game.2035~> DB94DA
+$Arress<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 5361FB
+<Arress> wlr 639873
+$Arress<~Controls.840~>131 C1D5DB
+<Saktan> nc E96F8B
+<auto> playchosen BB8F6F
+<auto><~Controls.861~>reveal 131 2DE3BE2AB2A64271568A3CE61356B8314829E418 13<~Controls.862~><~Controls.45~><~Controls.863~><~Game.2037~> 9B08F9
+<game> Arress<~Controls.1~> 5 1 3 3 5 null
+<game> Arress<~Controls.1~> 1 3 6 null
+<game> Saktan<~Controls.1~> 5 5 5 null
+<Arress> 1+1 7122C0
+<Saktan> 3 995EED
+$Saktan<~Scribe.141~>026 029 <~Scribe.142~><~Game.1991~><~Scribe.143~><~Game.2037~><~Scribe.144~> 206136
+$Arress<~Scribe.141~>308 065 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.2036~><~Scribe.144~> 31C4A8
+$Arress<~Controls.304~>300 <~Controls.305~><~Game.1954~> C1EBFD
+$Arress<~Controls.313~>066 <~Controls.308~><~Controls.314~><~Game.1954~> 76F2ED
+<Arress> press 97120B
+$Arress<~Controls.304~>264 <~Controls.305~><~Game.1954~> E2E6B1
+$Arress<~Controls.313~>269 <~Controls.308~><~Controls.314~><~Game.1954~> 281450
+$Arress<~Controls.296~>308 065 <~Controls.297~><~Game.2036~> B59198
+$Arress<~Controls.296~>131 026 029 <~Controls.297~><~Game.2037~> E5103F
+<Arress> nc C9B256
+<Saktan> nc FDBBF9
+<game> Arress<~Controls.1~> 2 1 2 2 2 null
+<game> Arress<~Controls.1~> 5 3 3 null
+<Arress> 0 939102
+<game> Saktan<~Controls.1~> 6 null
+<Saktan> 1 3573B8
+<Saktan> strong orc A4DD4D
+$Arress<~Scribe.141~>269 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.2036~><~Scribe.144~> DC4E27
+$Arress<~Controls.644~>213 269 <~Controls.645~><~Game.2035~> 4E16EF
+<Arress> yeah 57050B
+$Saktan<~HighlightLabel.81~>101<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> CE27AF
+$Saktan<~CardBuffet.14~>reveal 177 7DEC2C6EDCEF97AEF84F6097396F6251B36D07E2 11<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> CFF932
+$Saktan<~Controls.281~>238 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2044~> 74F979
+$Saktan<~Controls.644~>101 177 <~Controls.645~><~Game.2035~> D7DAF0
+$Arress<~HighlightLabel.86~>359<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 350AC9
+<Arress> wlr, nc 5AFEDF
+<Saktan> nc E3FB67
+<game> Arress<~Controls.1~> 1 4 6 6 null
+<game> Saktan<~Controls.1~> 4 null
+<game> Saktan<~Controls.1~> 4 null
+$Saktan<~Scribe.141~>038 344 <~Scribe.142~><~Game.1991~><~Scribe.143~><~Game.2037~><~Scribe.144~> 6E62B3
+$Arress<~Scribe.141~>359 <~Scribe.142~><~Game.2035~><~Scribe.143~><~Game.388~><~Scribe.144~> 65A520
+$Arress<~Scribe.141~>359 <~Scribe.142~><~Game.388~><~Scribe.143~><~Game.2036~><~Scribe.144~> EF78BA
+$Arress<~Scribe.141~>423 <~Scribe.142~><~Game.391~><~Scribe.143~><~Game.388~><~Scribe.144~> B18811
+$Arress<~Controls.644~>359 038 344 <~Controls.645~><~Game.2035~> 867A6F
+$Saktan<~HighlightLabel.81~>103<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 12F27E
+$Saktan<~Scribe.141~>345 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1987~><~Scribe.144~> 1557E2
+$Saktan<~Controls.644~>103 <~Controls.645~><~Game.2035~> 8C9E74
+<Arress> pass 43FF56
+$Saktan<~HighlightLabel.81~>362<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 736823
+$Saktan<~Scribe.141~>039 056 054 053 052 051 050 <~Scribe.142~><~Game.1984~><~Scribe.143~><~Game.1980~><~Scribe.144~> DB03BB
+$Saktan<~Scribe.141~>345 <~Scribe.142~><~Game.1987~><~Scribe.143~><~Game.1980~><~Scribe.144~> 374BAA
+$Saktan<~Controls.644~>362 <~Controls.645~><~Game.2035~> 78639E
+$Arress<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 70969A
+$Arress<~Controls.790~>247<~Controls.791~><~Game.529~><~Controls.792~><~Game.532~> F0C985
+$Arress<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> B51BF1
+$Saktan<~Controls.624~>239<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Arress<~Scribe.141~>247 <~Scribe.142~><~Game.532~><~Scribe.143~><~Game.529~><~Scribe.144~> 1CE7AC
+$Arress<~Controls.323~>247 284F48
+$Arress<~Scribe.141~>252 <~Scribe.142~><~Game.2023~><~Scribe.143~><~Game.2024~><~Scribe.144~> 6E57E9
+$Arress<~Controls.644~>239 <~Controls.645~><~Game.2035~> F50C53
+$Saktan<~HighlightLabel.81~>361<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 7C8115
+$Saktan<~Scribe.141~>415 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1970~><~Scribe.144~> EDF84B
+$Saktan<~Scribe.141~>039 345 056 054 053 052 051 050 <~Scribe.142~><~Game.1980~><~Scribe.143~><~Game.1970~><~Scribe.144~> 4C3EB6
+$Saktan<~Scribe.141~>423 <~Scribe.142~><~Game.388~><~Scribe.143~><~Game.389~><~Scribe.144~> 9DA61E
+$Saktan<~Scribe.141~>057 <~Scribe.142~><~Game.1924~><~Scribe.143~><~Game.1920~><~Scribe.144~> 91F769
+$Saktan<~Controls.644~>361 <~Controls.645~><~Game.2035~> 47296E
+$Arress<~Controls.271~>212<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 4765CF
+$Arress<~Scribe.141~>250 <~Scribe.142~><~Game.2009~><~Scribe.143~><~Game.2011~><~Scribe.144~> B4DC7E
+$Arress<~Scribe.141~>265 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1954~><~Scribe.144~> D50136
+$Arress<~Controls.644~>212 <~Controls.645~><~Game.2035~> D53BEE
+$Saktan<~Controls.276~>360<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> CC0707
+<Saktan> WLR 28A66C
+$Arress<~Scribe.141~>297 296 068 265 066 305 306 307 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1991~><~Scribe.144~> 3AC8AA
+$Saktan<~Scribe.141~>039 345 056 054 053 052 051 050 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.1954~><~Scribe.144~> 4A8504
+$Saktan<~Controls.281~>418 <~Controls.282~><~Game.1954~><~Controls.283~><~Game.2040~> CD8C30
+$Saktan<~Controls.644~>360 <~Controls.645~><~Game.2035~> 416793
+$Arress<~Controls.726~>210 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 042F80
+$Arress<~Controls.731~>212 359 213 211 358 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> A3BD47
+$Arress<~Controls.509~>136<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Arress<~Controls.509~>118<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Saktan<~Controls.757~>105 100 104 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 9EF235
+<~Game.7~>11 null
+$Saktan<~Controls.762~>360 361 362 103 101 099 102 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> DACC37
+$Saktan<~Controls.509~>201<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.509~>207<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<Arress> fp ok A61618
+<Saktan> 1e 622D73
+$Saktan<~Controls.372~>360 89D166
+$Saktan<~Controls.345~>361 362 103 101 099 102 105 100 104 <~Controls.346~>12 14 13 10 11 13 14 11 12 null
+$Saktan<~Controls.350~>361 362 103 101 099 102 105 100 104 null
+$Arress<~Controls.345~>212 359 213 211 358 210 <~Controls.346~>2 1 3 1 4 1 null
+$Arress<~HighlightLabel.86~>359<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> D719C2
+$Arress<~Controls.323~>247 16DA3A
+$Arress<~Controls.644~>359 <~Controls.645~><~Game.2035~> 8141EA
+<Saktan> i hate it but i think i have to do this again lol 1C68DD
+$Saktan<~HighlightLabel.81~>362<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 9F9001
+$Saktan<~Scribe.141~>250 <~Scribe.142~><~Game.2011~><~Scribe.143~><~Game.2037~><~Scribe.144~> 14BB2B
+<Saktan> to eye 37FBFF
+$Saktan changes 362  to E D61C83
+$Saktan<~Scribe.141~>362 <~Scribe.142~><~Game.2035~><~Scribe.143~><~Game.1997~><~Scribe.144~> 6E171C
+<Saktan> now action 7280FD
+<Arress> k 7B4421
+$Saktan<~HighlightLabel.81~>102<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 60E817
+$Saktan<~Scribe.141~>253 040 037 <~Scribe.142~><~Game.1931~><~Scribe.143~><~Game.1954~><~Scribe.144~> 4B20D3
+$Saktan<~Scribe.141~>255 <~Scribe.142~><~Game.1931~><~Scribe.143~><~Game.1920~><~Scribe.144~> 4771DE
+<Saktan> ok B18FB4
+$Saktan<~Controls.644~>102 250 <~Controls.645~><~Game.2035~> AAFD64
+$Arress<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 5B8952
+$Arress<~CardBuffet.9~>reveal 136 B2996F345EDEB65E49E57C7C1FCFBFFE90AA22EA 17<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> 43F8F6
+<Saktan> nice 1D89EB
+$Arress<~Controls.281~>235 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2044~> 480A30
+$Arress<~Controls.644~>212 136 <~Controls.645~><~Game.2035~> E3A09D
+<Arress> first one I drew all game 65312B
+<Saktan> oof F7FAA6
+$Saktan<~HighlightLabel.81~>104<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 74142C
+<Saktan> WLR C43E8B
+$Saktan<~Controls.840~>201 3C36AA
+$Arress<~Controls.840~>138 BFDCDE
+<auto> playchosen C84293
+<auto><~Controls.3~>reveal 138 11232546F0F8BBCAF830EA756BA5ED2720B50D2A 0<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> F850D7
+<auto><~Controls.866~>reveal 201 A39F46D8B3682D6DBCCDED4EE309478D8957A7FF 12<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> C0DA9C
+<auto> playchosen 1F6581
+<game> Saktan<~Controls.1~> 4 1 2 1 2 null
+<game> Saktan<~Controls.1~> 3 5 5 null
+<Saktan> 0 6058F3
+<game> Arress<~Controls.1~> 5 4 4 1 3 null
+<Arress> 3 2B4DD0
+$Saktan<~Scribe.141~>054 051 050 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.2036~><~Scribe.144~> 93E019
+<Saktan> wlr is very confusing apparently 17BE08
+<Saktan> stop/draw F2B541
+<Arress> you'd think it be easier the second go around CD5A61
+<Saktan> right? 13BEF1
+$Saktan<~Controls.509~>191<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.644~>104 201 054 051 050 138 <~Controls.645~><~Game.2035~> 880755
+$Arress<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> F8B04B
+$Arress<~Controls.790~>247<~Controls.791~><~Game.529~><~Controls.792~><~Game.532~> CAAFA6
+$Arress<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 4D2724
+$Saktan<~Controls.624~>215<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Saktan> ah dang D5D06E
+$Arress<~Controls.644~>215 <~Controls.645~><~Game.2035~> 432498
+<Saktan> most likely it C788CA
+$Saktan<~HighlightLabel.81~>100<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> E8ABF0
+<Saktan> WLR 67F8A2
+$Saktan<~Controls.840~>191 75557B
+<Arress> I mean this mordor track has been..bad AFAB33
+<Saktan> true 762323
+$Arress<~Controls.840~>134 C079A6
+<auto> playchosen 79D0AA
+<auto><~Controls.3~>reveal 134 85749A6655FE8C50F00FA96AD3B97A4E9772F133 9<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> EB0CB0
+<auto><~Controls.866~>reveal 191 D70D1ED2C86072C84A0BB9F733487CC4BE7DA337 1<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 71CBF1
+<auto> playchosen 34595E
+<Arress> pre 437468
+<game> Arress<~Controls.1~> 3 5 5 null
+<Arress> 2 FE99AF
+$Saktan<~Controls.304~>056 <~Controls.305~><~Game.1954~> 6DE13D
+$Saktan<~Controls.313~>054 <~Controls.307~><~Controls.314~><~Game.1954~> 15C19E
+$Saktan<~Controls.304~>345 <~Controls.305~><~Game.1954~> B45896
+$Saktan<~Controls.313~>051 <~Controls.307~><~Controls.314~><~Game.1954~> 40EFA5
+<game> Saktan<~Controls.1~> 1 1 3 3 null
+<game> Saktan<~Controls.1~> 3 6 3 1 null
+<Saktan> 1 431AC2
+<game> Arress<~Controls.1~> 2 1 5 4 4 null
+<Arress> 1 47F8E3
+$Saktan<~Scribe.141~>051 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.2036~><~Scribe.144~> CAE957
+<Saktan> stop/draw 1B4D7D
+$Arress<~Controls.304~>265 <~Controls.305~><~Game.1991~> A847CB
+$Arress<~Controls.313~>269 <~Controls.308~><~Controls.314~><~Game.1991~> 3968A3
+$Saktan<~Controls.509~>169<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.644~>100 191 051 134 <~Controls.645~><~Game.2035~> 635C6D
+<Saktan> 5/6 to win on hunt 9367E4
+<Saktan> with mithril CB93F6
+<Arress> 3 bad tile, seems right 54DF0D
+<Saktan> only 2 bad 1FE007
+<Saktan> 3 and eye A1AB64
+<Arress> 2r? ED49D1
+<Saktan> reveal to reduce by 1 0DC1EC
+<Saktan> gollum 3D4D39
+<Arress> right D1F4AA
+$Arress<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 1A1EA8
+$Arress<~Controls.790~>247<~Controls.791~><~Game.532~><~Controls.792~><~Game.533~> E0C7C2
+$Arress<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 146F10
+<Saktan> let the tiles decide! 81E2CD
+$Saktan<~Controls.624~>214<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Saktan> gg E3F73F
+<Arress> gg! AF318B
+<Saktan> man! tough go that one 266A0A

@@ -1,0 +1,1140 @@
+<auto> silent null
+<auto><~Scribe.141~>363 397 398 402 401 400 399 403 404 376 375 374 373 377 378 <~Scribe.142~><~Game.2038~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>365 366 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 367 368 369 370 371 372 <~Scribe.142~><~Game.2040~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>230 231 <~Scribe.142~><~Game.2044~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>155 152 <~Scribe.142~><~Game.2004~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>137 151 <~Scribe.142~><~Game.2005~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>161 198 <~Scribe.142~><~Game.2006~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>163 188 <~Scribe.142~><~Game.2007~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Controls.323~>364 null
+<auto> noisy null
+<auto> silent null
+<auto><~Scribe.141~>312 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1965~><~Scribe.144~> null
+<auto> noisy null
+<~Game.7~>1 null
+<auto> silent null
+<auto><~Scribe.141~>363 397 398 402 401 400 399 403 404 376 375 374 373 377 378 <~Scribe.142~><~Game.2038~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>365 366 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 367 368 369 370 371 372 <~Scribe.142~><~Game.2040~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>230 231 <~Scribe.142~><~Game.2044~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>155 152 <~Scribe.142~><~Game.2004~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>137 151 <~Scribe.142~><~Game.2005~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>161 198 <~Scribe.142~><~Game.2006~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>163 188 <~Scribe.142~><~Game.2007~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Controls.323~>364 null
+<auto> noisy null
+$base silent null
+$TEST<~Scribe.141~>312 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1965~><~Scribe.144~> null
+$base noisy null
+<game> tybo<~Controls.408~>[WOTR-Gandalf2 wotr base2] null
+<~Talker.31~> null
+<hrafhraf> hi 
+<tybo> hello! 
+<tybo> Want to agree on rings/tokens 
+<hrafhraf> sure 
+<tybo> and roll to see who plays what first 
+<hrafhraf> yep 
+<hrafhraf> standard 2 tokens? 
+<tybo> looks good to me 
+<hrafhraf> good 
+<tybo> higher gets sp? 
+<hrafhraf> sure 
+<game> tybo<~Controls.1~> 4 null
+<game> hrafhraf<~Controls.1~> 6 null
+<tybo> gl hf! 
+$hrafhraf<~Controls.479~>04294BC9CB1B58EF3FCDA8B54B6A40EE1335F95E FCB93B71C506F69553295A3EDEFC681E 24 76B58407AC5DE592420CF1B477E8746381677568 367C82489B017F91A586AD88752845AE DF4DE9F15CC1EF6B4755CB8761203CC02374D6AE CF36B2D5E75EF4BBBB8BDFE68E8B61D8 C5C27C1680D31651F421C69259793E25CC126622 474C21C428895D13A71CF1448D44ED70 D697A501723019E07996CF231D727204CBBFC66F D4602BC1CF6F65C88844B4C91F7A9258 93DD130B3D31DB5B0C6364C5A9C16B2F68CFD0C9 ACD55341361B78C3776C41144792DF48 5C9B449E2ECEF0918B2A17F9BA933256457CE352 8434FE2ECF0B914FA69C4E3BB7462436 BADAE2C06A38E0242AF766A0967920FE0955D1BA 534F43CBA0D83390C62B5711612A1B64 702DD0CC1C40EF414EDAE21BACD3F60272F4B062 5B189244EEC0ABC1A98084064C742D6F 783EDD19D0FA81039731EE1CE37F4BDC10565AF8 69763764382546CB29CA2E0DAB23A87A D9457C8EA4BAA4AF450A35625F648126EB08D312 5A99D893671B07DE47D1D6212AD1167A 642B2CBD071FB9B6CDF5E73E1B7E00A1AC5BB61C E1929F82429296A69649E8E18BC169CA 739FDE0E25ACB5EF5088BBA0F02BA57B3F69B6E3 8837920727B817A2DA43A6F7710DD27B 3FBB5E689C36799FCFCB5A5194C2E96B7149D2A1 F48B87EFF7988302EBA699F37CF29750 2DBD86E3344931A2EC97767846B96F25C3D35024 6C42B02152273B0BDFD2F37E95A1DC6C 3BE2FDD47AAA7ECB2A6E7E739635DC67BB342CC9 9C0CEBA10425142967D2D5148A1E7A70 8492977E185F4F57CD76308332D15717D316461F 95C5652CBE9E673579BE8EB4DC04497C 3DF5B39C4101844DF7CD68E018DBB17C8F5583A3 17B8986E08EFDF382F38EA3AD7453DD0 635E89F3F33B80FABE552E2C80FE8E164CA89E33 1285B9BE767C2FBCEE1CD25EE33348ED DBF7A27526B5CB474AE665ACB11F716F4EB7EAAF 6A6E97E819A7B8D1CAD8142C1A6FFFB5 15AEC0A80D474AD8F496BB2AB76F66E0F67D51E9 FA09AB7D3899C2C629FB53681A87ED00 0F6DEBE4E69D32284E110BDC8DC5866DE7536331 DCA03F9A40EF5D0CA6F134981B666A98 E8EFE42C96DAA647208991FA8A2C56E1CF3FE077 E6BE3C53F86AD7D2370D288843D9263B F3A159C67366F53790C5AE38717121073E5DB778 76B67AD3F825C6E59135B8DA38CA77E7 E57A61FC609DBCD67BDDA5B40B5DEDDE0CA77F52 721CF56C5BF7A525CAEE9760F7FD2277 24 17CFB3A1A6AE91F741CD877F6FC73242C04D656A 8A80DAA5B300C60D4095C6FAE46C384B 45D8F95A660D557E9BEC85CEBC9D45EDA3CE1204 C0E5A8333D965EC5B9F372B72188A0CC 0A51FA88D49521B31F03D30B07D02A2894D908C0 29BF7A4B55F62078CB97EE5C2200B9B7 3EB060B5C57E9045AB8AC86C39788E12AFDEE0AE F474A0162B84C6007E8857ED81E0DE3C DCDCFF5E21A942256B11EFDE42942362F7A985DB ABB5DE21B7794C262F43D4FF0E155EBE 85BB11318EBBC1593393C4D48C603C1EC6FAEF09 B9176A74EA44E4D5B62298632AAC2B7B 83BD45A05DC423E9864A273350A4CC8BDE6146DF 2BCF3C962504705FCB94A40B546A5176 14E527633A2437A7868CB3B028DAA3F87810EC64 BA7BEB23EED5E5FBA5C19D12048346EA 5D6D0C008A36001265B767BB6ECCB810CBB9A17C 0953EADCE1EF6BF3E3894FF2B78ADA2E D94F218861840C24090AC04368E64CB3BE57D098 2A2B8420E3B0AAEFAFFEE92C4BF61415 729D1DF0D0C775342E895ADC58E7B220CDE26ED6 6629D9119E22F13420B8CA5C8CBBBCDF 7EE46929865376DA4E6F591F42610A7530D1CE39 3D1953A4289E9B25E0AD1A4D0EE7607E 0401119C60FFB96789878A90BECBE83C649A96BB ABAF596C0588F30D0E76DEA73C3BF4F4 DDC22DD96DD3A4D65ADBBC2BD32CCF32895A3C84 AC3EF18B4F57BA6E650E9157B12C9BA0 329EB4D05D459E032D14C7D2EC32619A6EAAFA6C 029D9284335C01F19D933FC1C6CF6CA4 DFEA3AC3DBC01FB5E2340672FCFF6DD93F4A2EFC 354633379FF912B2118B9EEA6B8BDC5B 3AF5D311D3188AB2AD59B6B6C52196D2164DA62F DBF6604539464971A1A2F7CB3AA58B75 477B99744313939CC7278856FB65C610F6387EFC 1949C43A9248F956D90A59F2C9FA9EDD 8CD5884FE265482DC9C73721A0C36D31EA082915 691592099B4259FA52CF5D113F7CA603 24EA7E34B4C911C90930106495AA2E2C5DB06F3E 9D9BAB1E57C0BB1F58D178B7293CE942 53B5E7DCEFE6B1F4B8BB3BD2B0BF0998C0254B79 23B8A98FD25DE077CD48226A8E28C24D 20FC43A4B3CD9388C540793798D3EA76B0D1CD87 89A90F165178B6BF4CEFE18A40C1E6D2 9CF1D946CF185068D5628C7676E1DC1AB850C6AB 432AA6E3CA3EFDBC91392E79745F3217 207E17005FB785C8445D38FD764E03EBB5273BE0 ACE2C71496D5EF2A1743BB0194E225B5 0 0 6E1778
+$tybo<~Controls.464~>169BB116FE8F492A982CE2B5C223F124D8AABF78 0BA6AF45A852C44C273A3E15C12E742B 24 77E523C222650DE16B10ED0AC5F33FB99ED833A0 6A50089A3338D19E9CDF424C3B3709A7 955B710225119CFED91F40CD191DE393A584948F EFEAB3472BD303E19C211D0D4FA63FA2 E344898C5A8C7FA25CF6C387AE6ED6960E4B8BB2 C57ECFB0D606B2F655E172D869E7B518 F76B8C04119C017810637A6D9BF32AF3D1BDBC00 AABF2D2B1889F7CE46C1AE71C3012089 A455F501FA1FF12219AD0AA0F56F35B926BC1432 F2B839A129255B84DE433B683EFC2AF8 6AA8B9D8B4656ACD2DF74B97580A9A9574BCF122 D0C6E8F787F578ED63B0FEA4762A1238 C8A9E5AF04EEC7F1BCE17B385FC3CE6E52C016C0 D85FFC122CC9C1C515E2B51C10B7939C 28FD0083BA81DE5766D197989679FCA0AAFFD219 BF72D8850328AFF993650AB155FFF27F C969592DAAC2A906DA7468C0E090BC3C2B2AB669 655C3B1898AACEB37C8822E104948C81 0401FB0DF0A6E21478E5DFB0601A878138C2C646 15BA70FF0F99FE2E583F30E563F3684A AE523B64EAE755848D4517D3FED7267C75636E7B 0B9C6846570561E9B9056E0997507855 D506190EBC89E7F400FA97BA22743F5E5BF39053 36DCB05D9FD429EA9D1C47D235FCF2B8 3F109BE14171FE0624B1BDA67E1893F27EC894A1 3E9DE637086CBF6516CB5A871842FF11 E14AF1691F6505B22775BA6062C6BC416D46D8AE C73512FC9BF4EC1E2C85E0FB74D07664 7DBDEA3EBB7027E83506BEBE74AF02662DBD7CC9 F70BC0057C6A609C021DEDB22BFCB23B 878094BF7528B78E2359D5D5DA572C1959568083 3625CD3660EB9D46366277235F76E86F 00389AD172E4389B1B6F6243139781A3BA872F72 346E06213CF834178ED3FCD44747104B EBB0B123792ED4B801FBCE1B7ACF62EE08580481 2FFF25223E9E9BF5D0468D284622E519 BFE2C640CD1F4F44323A0A354517180694A6B2B0 75E0A99300BBDEABF0AA0EDD3967598E E2D45EAEDA7484EE6DD2A7DCA72A732D84BE3165 2813B4CDFBCF95747048F81610655B5A 06A725AA798958E808A837B68A1371C98356A301 41E2DB1839197C270324D7ED9FB10289 D744397709DF6E4DDFE7FFD000A8960E0C29D186 D6BFD4324EDBF7917467E322B6AA9AE2 92B602E65DA9893ECF755973F63DCDA2AA9D2DA0 9F324FAD881CF45FC6F408B66E74ABF2 3565959F6816BC9E63C388A253FF83F0ABC92120 B697BCE1653D005F9B874300C5086487 24 C7C16C355C690695633580A1DD1AEA4A3FF3245E 9EBCE62F4524ECCCD90851DD6D2CDDFC 53C7703B64CAAC9AE616A971AFE33BF72D4A3E49 8595D8BC60F04EB38AF8C239E05CD6B5 DAF549FF6986A0EA22C172A2C8A4875167828BBA CD93A56BF967D1250312A227B70B0B74 C96B5CA8EFF1AE8576504FB5A2C35CDF1471B6CB C8607196D395F420488E65E93CBB4F15 A835EBFE3BA5ECED744FB0FE1995CEE5C99F1797 C300F26BE449A005AEA831533DD08BA5 6EF41510913A13B970D8213886E2954A2A4E7572 45A2C25048714C7AC249677B232D9EE1 582E40CC10C41E7E532BF6D40B85658A3B6C7F38 989D7D4C7879534069FCC81F42EA87B1 41EC9005311A551AFC2D7E360C78D980F9B4698C 8868F834BB322B2A489117F271BF19DA 688D66AAA8393D46BC9BA163EF525CF89231DFED 6A8264CEDBE5246965144B60DDF21515 031881ED03868F88A763C9ED82396BB04AA8C8B7 609CC4911C912C660EF9B2771AE181DB 814BA06BCF19EB0FCCD35E25A15BC241D3169777 DA8155DC69800A04F99F92717A72FFC5 F9069347896D471D5673ECDCB8F155FE52CFA78F 5F857E56D0B429B2AC9B7DE9A211B85B 38A3B56EC493576E9F8D387358348F21ED382845 8C75D5CF30CF18001F5709F459F7E72E BCB3BD2C7A3BD8B395F5A6531D50948D033A4EF2 5D5EFE4B317222439F02A06DA3DFB107 099FD53BD1613A7D44CF99F365F5212017372423 AB9AEFB9734FB563F4EA9A2F0E7CD0B7 88410E6D9FACD9FBF4A47E84A4D23452C6C04BE3 F5F9A6C00954238FC59E88134B373CB5 95F75B44A365B801C0F07693F5EA7EE4E408967D 62FEE42928A8C2863B86E51BFF1D314C 26C7AD8C28026EDC8AC4CFFDBEDACC59EEB5ECCF 06774FF91B76F2BEE5D0D3F4DB006AB3 686A25BC6727162A33DCF5133FB55BBA7E60A940 64FAACEC7AAC30D2DBDDC9A0EA23237D 448EDB78EA09BB31C6693A2C6E4652F75D8E443C 3305FF7C9A2F8DC52582FC4A290FC845 E92C6312F7687F8077A92A126BB7FFE6383E5B2C 64C15808472E9ABF5DD1BC455C545573 C453A00EEF3686BB21AA998D56EA16D94E1C9B54 64B9AC5DB08DC098924C57741F5EB0BF 41F7AA912A803FEAD4E75D7B00A108D5A8A9436E 9EFBABC6A2A0DABE6F9B7C303A9CC4E1 59638660858152D983C13ACA437E9FE214985403 437275F4F99D66659C331AF13AA15646 0 0 26D5DD
+<hrafhraf> same same A495B6
+$tybo<~Controls.509~>139<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$tybo<~Controls.509~>129<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$hrafhraf<~Controls.509~>194<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$hrafhraf<~Controls.509~>196<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<tybo> fsp ok D6750E
+$tybo<~Controls.281~>426 427 <~Controls.282~><~Game.2038~><~Controls.283~><~Game.2042~> BF2275
+$hrafhraf<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> B99490
+<hrafhraf> 1e A4D77C
+$hrafhraf<~Controls.345~>105 104 103 102 101 100 <~Controls.346~>15 11 14 14 13 13 null
+$hrafhraf<~Controls.350~>105 104 103 102 101 100 null
+$tybo<~Controls.345~>213 212 211 210 <~Controls.346~>1 3 1 1 null
+<tybo> pass D9FDB8
+<hrafhraf> woofff CFDA73
+<tybo> weird roll 4B7C07
+$hrafhraf<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> BBCB66
+$hrafhraf<~Controls.509~>187<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$hrafhraf<~Controls.644~>103 <~Controls.645~><~Game.2035~> 5D224A
+$tybo<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 6123D8
+$tybo<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 5A1EE1
+$tybo<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 8B6FFD
+<game> hrafhraf<~Controls.1~> 5 6 null
+$hrafhraf<~Controls.624~>217<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$tybo<~Scribe.141~>240 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2037~><~Scribe.144~> C56112
+$tybo<~Scribe.141~>241 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> D112AD
+$tybo<~Scribe.141~>247 <~Scribe.142~><~Game.1911~><~Scribe.143~><~Game.1915~><~Scribe.144~> 57E7F9
+$tybo<~Controls.323~>247 08716F
+$tybo<~Controls.644~>217 240 <~Controls.645~><~Game.2035~> 99B0B5
+$hrafhraf<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> C49F2F
+$hrafhraf<~Scribe.141~>039 036 029 028 027 026 <~Scribe.142~><~Game.1979~><~Scribe.143~><~Game.1977~><~Scribe.144~> 4611D0
+$hrafhraf<~Controls.819~> C2E7A4
+$hrafhraf<~Scribe.141~>001 <~Scribe.142~><~Game.1910~><~Scribe.143~><~Game.1917~><~Scribe.144~> ED8CDF
+$hrafhraf<~Scribe.141~>055 049 048 047 <~Scribe.142~><~Game.1968~><~Scribe.143~><~Game.1946~><~Scribe.144~> 1B03BD
+$hrafhraf<~Controls.644~>104 <~Controls.645~><~Game.2035~> 9D661E
+$tybo<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 5FC380
+$tybo<~Controls.323~>247 2BB41A
+$tybo<~Controls.644~>211 <~Controls.645~><~Game.2035~> 4786CD
+$hrafhraf<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 1F7204
+$hrafhraf<~Scribe.141~>039 036 029 028 027 026 <~Scribe.142~><~Game.1979~><~Scribe.143~><~Game.1977~><~Scribe.144~> D8DBE9
+$hrafhraf<~Controls.644~>100 <~Controls.645~><~Game.2035~> B0B8CF
+$tybo<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> A88166
+$tybo<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> B96BA7
+$tybo<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 5D020C
+<game> hrafhraf<~Controls.1~> 3 2 null
+<hrafhraf> safe E71A1D
+$hrafhraf<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> E55EAA
+$hrafhraf<~Controls.509~>209<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$hrafhraf<~Controls.644~>102 <~Controls.645~><~Game.2035~> A8ACCB
+$tybo<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> E12EBB
+$tybo<~Scribe.141~>256 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> 107628
+$tybo<~Controls.644~>212 <~Controls.645~><~Game.2035~> A2B850
+$hrafhraf<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 5DAB87
+$hrafhraf<~Scribe.141~>039 036 029 028 027 026 <~Scribe.142~><~Game.1977~><~Scribe.143~><~Game.1969~><~Scribe.144~> D77D54
+$hrafhraf<~Controls.644~>101 <~Controls.645~><~Game.2035~> 533DA9
+<tybo> pass 4A4C7C
+$tybo<~Controls.726~>210 213 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 05127B
+$tybo<~Controls.731~>212 211 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> B72096
+$hrafhraf<~Controls.757~>105 099 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 0D2337
+<~Game.7~>2 null
+$hrafhraf<~Controls.762~>101 102 100 104 103 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 51FFF8
+$tybo<~Controls.509~>126<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$tybo<~Controls.509~>122<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$hrafhraf<~Controls.509~>174<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$hrafhraf<~Controls.509~>189<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<tybo> fsp ok 027BD2
+<tybo> hmmm 9CFA53
+<tybo> yeah fsp ok 86B0BE
+$hrafhraf<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> 613819
+<hrafhraf> 1e 9C1B17
+$hrafhraf<~Controls.345~>101 102 100 104 103 105 <~Controls.346~>10 10 15 15 11 12 null
+$hrafhraf<~Controls.350~>101 102 100 104 103 105 null
+$tybo<~Controls.345~>212 211 210 213 <~Controls.346~>4 4 4 1 null
+$tybo<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 87B15F
+$tybo<~Controls.790~>248<~Controls.791~><~Game.2015~><~Controls.792~><~Game.2016~> 488BF3
+$tybo<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 8ED416
+<game> hrafhraf<~Controls.1~> 1 1 2 null
+<hrafhraf> safe 0E6EFF
+$hrafhraf<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 0FEADA
+$hrafhraf<~Scribe.141~>263 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> DB7244
+$hrafhraf<~Controls.644~>101 <~Controls.645~><~Game.2035~> B3508C
+$tybo<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> C47D7C
+$tybo<~Scribe.141~>260 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> 331F9C
+$tybo<~Controls.644~>210 <~Controls.645~><~Game.2035~> 6C2D0A
+$hrafhraf<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> DD5625
+$hrafhraf<~Scribe.141~>254 360 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2037~><~Scribe.144~> 732C5C
+$hrafhraf<~Scribe.141~>254 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.1919~><~Scribe.144~> F911FA
+$hrafhraf<~Controls.644~>102 360 <~Controls.645~><~Game.2035~> CDF995
+$tybo<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> AFB006
+$tybo<~Scribe.141~>073 072 <~Scribe.142~><~Game.1929~><~Scribe.143~><~Game.1925~><~Scribe.144~> 28CEB0
+$tybo<~Scribe.141~>065 <~Scribe.142~><~Game.1941~><~Scribe.143~><~Game.1957~><~Scribe.144~> 4A9598
+$tybo<~Controls.644~>211 <~Controls.645~><~Game.2035~> 2ED67A
+$hrafhraf<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> EE4302
+$hrafhraf<~Scribe.141~>reveal 196 A055530B08A330B743C8C6F36616A9B607246B0F 8 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 677392
+$hrafhraf<~Scribe.141~>321 335 336 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1917~><~Scribe.144~> 8F1C3E
+$hrafhraf<~Controls.644~>103 196 <~Controls.645~><~Game.2035~> 8DB851
+$tybo<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 927C3C
+$tybo<~Scribe.141~>256 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> 6FA798
+$tybo<~Controls.644~>212 <~Controls.645~><~Game.2035~> 338276
+$hrafhraf<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 0A687F
+$hrafhraf<~Scribe.141~>032 031 030 <~Scribe.142~><~Game.1977~><~Scribe.143~><~Game.1974~><~Scribe.144~> 47E7B6
+$hrafhraf<~Scribe.141~>321 335 336 001 008 007 <~Scribe.142~><~Game.1917~><~Scribe.143~><~Game.1927~><~Scribe.144~> 069C99
+$hrafhraf<~Controls.644~>105 <~Controls.645~><~Game.2035~> 27FC52
+<tybo> pass D88941
+<tybo> no C7673E
+<tybo> wait 2B1D99
+$hrafhraf<~Controls.757~>100 104 099 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 3518AE
+$hrafhraf<~Controls.762~>105 103 102 360 101 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 3133EA
+$tybo<~Scribe.141~>426 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 70C8EC
+$tybo<~Scribe.141~>256 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 9E0141
+<tybo> this 3CF2E9
+$tybo<~Controls.644~>426 <~Controls.645~><~Game.2035~> C8CC8F
+$tybo<~Controls.726~>213 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> B89CE5
+<~Game.7~>3 null
+$tybo<~Controls.731~>212 211 210 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 91F3FA
+<hrafhraf> sure 680B1F
+$tybo<~Controls.509~>149<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$tybo<~Controls.509~>110<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$hrafhraf<~Controls.509~>179<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$hrafhraf<~Controls.509~>175<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<tybo> fsp ok 675E49
+$hrafhraf<~Controls.296~>209 <~Controls.297~><~Controls.46~> 9F1B3B
+$hrafhraf<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> CBFD3B
+<hrafhraf> 1e 78B9B9
+$hrafhraf<~Controls.345~>105 103 102 360 101 100 104 <~Controls.346~>15 15 14 11 11 13 11 null
+$hrafhraf<~Controls.350~>105 103 102 360 101 100 104 null
+$tybo<~Controls.345~>212 211 210 213 <~Controls.346~>0 2 3 4 null
+$tybo<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> A8A169
+$tybo<~Scribe.141~>266 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1928~><~Scribe.144~> 46C65C
+$tybo<~Controls.644~>210 <~Controls.645~><~Game.2035~> CA97C1
+$hrafhraf<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 9C1807
+$hrafhraf<~Scribe.141~>262 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> C20029
+$hrafhraf<~Controls.644~>104 <~Controls.645~><~Game.2035~> D6FA53
+<tybo> pass 4D0534
+$hrafhraf<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 21A959
+<hrafhraf> hmm 23B08F
+<hrafhraf> Lorien 51AECE
+$tybo<~Scribe.141~>097 266 093 092 087 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.1992~><~Scribe.144~> 6E3B1F
+$hrafhraf<~Scribe.141~>321 335 336 001 008 007 <~Scribe.142~><~Game.1927~><~Scribe.143~><~Game.1928~><~Scribe.144~> FFC3D4
+$hrafhraf<~Controls.644~>100 <~Controls.645~><~Game.2035~> AAEC7E
+$tybo<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 23A755
+$tybo<~Scribe.141~>358 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.2037~><~Scribe.144~> 523277
+$tybo<~Scribe.141~>240 <~Scribe.142~><~Game.2039~><~Scribe.143~><~Game.1921~><~Scribe.144~> BA4B39
+$tybo<~Controls.323~>240 1DBF91
+$tybo<~Controls.644~>212 358 <~Controls.645~><~Game.2035~> 94F3BB
+$hrafhraf<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 74F3BF
+$hrafhraf<~Scribe.141~>040 035 015 014 013 012 <~Scribe.142~><~Game.1956~><~Scribe.143~><~Game.1951~><~Scribe.144~> FF0A62
+$hrafhraf<~Scribe.141~>056 052 051 050 <~Scribe.142~><~Game.1986~><~Scribe.143~><~Game.1984~><~Scribe.144~> 7BF598
+$hrafhraf<~Controls.644~>101 <~Controls.645~><~Game.2035~> 6F94A3
+$tybo<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> EA791A
+$tybo<~Scribe.141~>259 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> 952947
+$tybo<~Controls.644~>213 <~Controls.645~><~Game.2035~> 94A59E
+$hrafhraf<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 28046A
+$hrafhraf<~Scribe.141~>reveal 187 F63FD5D49373ED93AE901829B27C9BFCDB3748FA 1 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 068608
+$hrafhraf<~Scribe.141~>040 035 015 014 013 012 <~Scribe.142~><~Game.1951~><~Scribe.143~><~Game.1930~><~Scribe.144~> FB056F
+$hrafhraf<~Scribe.141~>040 035 015 014 013 012 <~Scribe.142~><~Game.1930~><~Scribe.143~><~Game.1928~><~Scribe.144~> 30F7D6
+$hrafhraf<~Scribe.141~>034 033 <~Scribe.142~><~Game.1971~><~Scribe.143~><~Game.1977~><~Scribe.144~> 632D96
+$hrafhraf<~Scribe.141~>034 033 <~Scribe.142~><~Game.1977~><~Scribe.143~><~Game.1974~><~Scribe.144~> F53E6E
+$hrafhraf<~Controls.644~>102 187 <~Controls.645~><~Game.2035~> A15CC0
+$tybo<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 937336
+$tybo<~Scribe.141~>reveal 110 F9E8840A942620AE258DB889D18494638B112A18 19 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2036~><~Scribe.144~> 3EADA8
+$tybo<~Scribe.141~>311 313 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1965~><~Scribe.144~> E2C2AF
+$tybo<~Controls.644~>211 110 <~Controls.645~><~Game.2035~> B1FD7B
+$hrafhraf<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> F9D416
+$hrafhraf<~Scribe.141~>253 361 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2037~><~Scribe.144~> 8F2FAD
+$tybo<~Controls.323~>258 257 9E6306
+$tybo<~Controls.323~>259 81E4B8
+$tybo<~Controls.323~>260 BC72BC
+$hrafhraf<~Scribe.141~>253 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.1928~><~Scribe.144~> 87717E
+$hrafhraf<~Controls.644~>360 361 <~Controls.645~><~Game.2035~> 2163EF
+<tybo> pass A0A445
+$tybo<~Controls.731~>211 213 212 358 210 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 9BC2F1
+$tybo<~Controls.509~>136<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$hrafhraf<~Controls.757~>105 103 099 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> D418ED
+<~Game.7~>4 null
+$hrafhraf<~Controls.762~>360 361 102 101 100 104 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 95784A
+$tybo<~Controls.509~>153<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$tybo<~Controls.296~>122 <~Controls.297~><~Controls.45~> 8F9AD3
+<tybo> fsp ok 756394
+<hrafhraf> did you move last turn? C74D41
+<tybo> no AE11C1
+<hrafhraf> 0e 870F0A
+$hrafhraf<~Controls.345~>360 361 102 101 100 104 105 103 099 <~Controls.346~>13 15 10 12 15 13 10 14 13 null
+$hrafhraf<~Controls.350~>360 361 102 101 100 104 105 103 099 null
+$tybo<~Controls.345~>211 213 212 358 210 <~Controls.346~>1 1 1 0 4 null
+$tybo<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 0ADEEC
+$tybo<~Controls.790~>248<~Controls.791~><~Game.2016~><~Controls.792~><~Game.2017~> F645EE
+$tybo<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> B89E1C
+<hrafhraf> well, you will this turn D4D236
+<tybo> hahah 29BACC
+<game> hrafhraf<~Controls.1~> 1 1 null
+<tybo> i should AED24E
+<hrafhraf> safe B7F637
+<hrafhraf> oh I forgot to draw cards F3B551
+<tybo> go ahead! 2B53CA
+$hrafhraf<~Controls.509~>165<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$hrafhraf<~Controls.509~>184<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$hrafhraf<~Controls.296~>194 <~Controls.297~><~Controls.46~> BCDBE5
+$hrafhraf<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 4B9FC0
+$hrafhraf<~Scribe.141~>037 <~Scribe.142~><~Game.1969~><~Scribe.143~><~Game.1928~><~Scribe.144~> 47730D
+$hrafhraf<~Scribe.141~>038 <~Scribe.142~><~Game.1974~><~Scribe.143~><~Game.1928~><~Scribe.144~> 329F57
+$hrafhraf<~Controls.644~>099 <~Controls.645~><~Game.2035~> 235EBC
+$tybo<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 8CC760
+$tybo<~Controls.790~>248<~Controls.791~><~Game.2017~><~Controls.792~><~Game.2018~> 5CEF95
+$tybo<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 62CE21
+<game> hrafhraf<~Controls.1~> 4 3 null
+<hrafhraf> safe 17F625
+$hrafhraf<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> B998A3
+$hrafhraf<~Scribe.141~>reveal 179 7B424F285E7A8A0FA1756FC556A405BA62FCD80E 16 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2029~><~Scribe.144~> AC4F69
+<hrafhraf> Lorien 347B7B
+<tybo> test 6E7495
+$hrafhraf<~Controls.840~>165 C8308F
+<tybo> ok tyt 496FA5
+<auto> playchosen D0A3D2
+<auto><~Controls.866~>reveal 165 75FD88AC6A63ACFFA2F00C490C4C1B92ACE08998 20<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> B17691
+<hrafhraf> sorry just thinking AB5836
+<tybo> np:) EEF095
+<game> hrafhraf<~Controls.1~> 1 4 5 6 5 null
+<game> hrafhraf<~Controls.1~> 3 4 null
+<hrafhraf> 3 3C4400
+<game> tybo<~Controls.1~> 3 5 5 1 null
+<game> tybo<~Controls.1~> 6 null
+<tybo> 3 324929
+$tybo<~Scribe.141~>266 <~Scribe.142~><~Game.1992~><~Scribe.143~><~Game.2037~><~Scribe.144~> BA0B99
+$hrafhraf<~Scribe.141~>012 008 007 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.2036~><~Scribe.144~> 892ECE
+$tybo<~Controls.304~>093 <~Controls.305~><~Game.1992~> 445D3F
+$tybo<~Controls.313~>269 <~Controls.307~><~Controls.314~><~Game.1992~> E94F2C
+$hrafhraf<~Controls.662~>165 012 008 007 266 <~Controls.663~><~Game.2035~> 3EC297
+$tybo<~Scribe.141~>179 <~Scribe.142~><~Game.2029~><~Scribe.143~><~Game.2030~><~Scribe.144~> 9A0DA7
+<tybo> R2 33C54C
+<hrafhraf> yep F0698C
+$hrafhraf<~Controls.840~>175 D8A1FD
+$tybo<~Controls.840~>153 E4C07E
+<auto> playchosen 5C08C7
+<auto><~Controls.3~>reveal 153 CDF1EFF762DDF4B7980D6DF10594E53308C6056A 6<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 06D028
+<auto><~Controls.866~>reveal 175 9055152105C233F5F056E1A1CB6FD6A53130A0DE 10<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 3BC9A8
+<auto> playchosen 33B8DD
+<game> hrafhraf<~Controls.1~> 5 1 4 null
+<game> hrafhraf<~Controls.1~> 4 null
+<hrafhraf> 3 C3467E
+<game> tybo<~Controls.1~> 5 2 1 null
+<game> tybo<~Controls.1~> 2 null
+<tybo> 1 E5FDC5
+$tybo<~Scribe.141~>092 269 <~Scribe.142~><~Game.1992~><~Scribe.143~><~Game.2036~><~Scribe.144~> B33122
+$hrafhraf<~Scribe.141~>013 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.2036~><~Scribe.144~> 08DCD0
+$hrafhraf<~Controls.662~>175 092 013 269 153 <~Controls.663~><~Game.2035~> 89D3D7
+<hrafhraf> oh I should have drawn for the first round A5512C
+$tybo<~Scribe.141~>179 <~Scribe.142~><~Game.2030~><~Scribe.143~><~Game.2031~><~Scribe.144~> D6ABC7
+<tybo> go ahead 920EDE
+<hrafhraf> what was that card? 04D7AC
+<tybo> sorry? 90C924
+<tybo> strat E8CD0B
+<tybo> you draw strat 51CBC4
+<tybo> if it is your question 450524
+<hrafhraf> it was devilry of orthanc 5171CD
+<hrafhraf> one sec 06AA85
+<tybo> oh character 6C45CB
+<tybo> then 31D07F
+<tybo> dreadfull spells 8C1164
+$hrafhraf<~Controls.509~>208<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+<tybo> R3 57B62C
+$hrafhraf<~Controls.840~>189 9D9B88
+<tybo> nc AA65E1
+<auto> playchosen DF3EED
+<auto><~Controls.866~>reveal 189 2C7B3EB21D5B317F6D1A8E5C6D3F524410CB7E08 7<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> C7FE59
+<game> tybo<~Controls.1~> 6 null
+<tybo> 1 DA8316
+<game> hrafhraf<~Controls.1~> 5 5 5 4 5 null
+$tybo<~Scribe.141~>097 087 <~Scribe.142~><~Game.1992~><~Scribe.143~><~Game.2036~><~Scribe.144~> D2C35D
+<game> hrafhraf<~Controls.1~> 6 5 1 3 5 null
+$tybo<~Scribe.141~>179 <~Scribe.142~><~Game.2031~><~Scribe.143~><~Game.2036~><~Scribe.144~> 262E27
+$hrafhraf<~Scribe.141~>014 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.2036~><~Scribe.144~> 3DF368
+$hrafhraf<~Controls.644~>104 179 189 097 014 087 <~Controls.645~><~Game.2035~> 3B8753
+$hrafhraf<~Scribe.141~>423 <~Scribe.142~><~Game.27~><~Scribe.143~><~Game.29~><~Scribe.144~> 272BC3
+<tybo> pass BF07AF
+$hrafhraf<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 294B51
+$hrafhraf<~Scribe.141~>reveal 208 D4E1C7B65D635A40BB45021B5E018079A51E327A 12 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 4B4919
+$hrafhraf<~Scribe.141~>253 038 040 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.1969~><~Scribe.144~> 088340
+$hrafhraf<~Scribe.141~>321 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.1974~><~Scribe.144~> DE6DF6
+$hrafhraf<~Scribe.141~>037 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.1915~><~Scribe.144~> 23B094
+$hrafhraf<~Controls.323~>247 56B441
+$tybo<~Scribe.141~>247 <~Scribe.142~><~Game.1915~><~Scribe.143~><~Game.1912~><~Scribe.144~> 3B5EB4
+$tybo<~Scribe.141~>247 <~Scribe.142~><~Game.1912~><~Scribe.143~><~Game.1917~><~Scribe.144~> 0033C6
+$tybo<~Scribe.141~>247 <~Scribe.142~><~Game.1917~><~Scribe.143~><~Game.1927~><~Scribe.144~> 668DC0
+$tybo<~Scribe.141~>247 <~Scribe.142~><~Game.1927~><~Scribe.143~><~Game.1930~><~Scribe.144~> 172FDB
+<tybo> moria 75FE8A
+$tybo<~Scribe.141~>208 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2036~><~Scribe.144~> 96EC04
+$hrafhraf<~Controls.624~>225<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$tybo<~Scribe.141~>252 <~Scribe.142~><~Game.2014~><~Scribe.143~><~Game.2016~><~Scribe.144~> D2D49E
+$tybo<~Controls.644~>103 208 225 <~Controls.645~><~Game.2035~> 4160EC
+$tybo<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 523600
+$tybo<~Scribe.141~>reveal 149 975255805502A8288D2D38F962D1B1D295AFBF8B 12 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2036~><~Scribe.144~> D128BE
+$tybo<~Scribe.141~>245 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> F5D48A
+$tybo<~Scribe.141~>241 245 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.1937~><~Scribe.144~> AF91DB
+$tybo<~Scribe.141~>241 245 <~Scribe.142~><~Game.1937~><~Scribe.143~><~Game.1942~><~Scribe.144~> C9E5F6
+$tybo<~Scribe.141~>241 245 <~Scribe.142~><~Game.1942~><~Scribe.143~><~Game.1944~><~Scribe.144~> C50566
+$tybo<~Scribe.141~>252 <~Scribe.142~><~Game.2016~><~Scribe.143~><~Game.2015~><~Scribe.144~> 823429
+$tybo<~Controls.644~>212 149 <~Controls.645~><~Game.2035~> 466B9F
+$tybo<~Scribe.141~>243 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> 4AC01F
+<tybo> oh wait 3BA293
+<tybo> nvm 3DF30D
+<tybo> too late A4E092
+<tybo> you go 49E594
+$hrafhraf<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 7A4630
+$hrafhraf<~Scribe.141~>261 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> A16D3E
+$hrafhraf<~Controls.644~>102 <~Controls.645~><~Game.2035~> 95D26B
+<tybo> pass 5311FC
+$hrafhraf<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> DDFBA5
+$hrafhraf<~Scribe.141~>261 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 7B7CE2
+$hrafhraf<~Controls.644~>105 <~Controls.645~><~Game.2035~> 6B72E9
+$tybo<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> CEF400
+$tybo<~Scribe.141~>359 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.2037~><~Scribe.144~> BE2791
+$tybo<~Controls.323~>241 85CC93
+$tybo<~Controls.644~>358 359 <~Controls.645~><~Game.2035~> C8888B
+$hrafhraf<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 67263F
+$hrafhraf<~Scribe.141~>001 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.1930~><~Scribe.144~> B5096A
+$hrafhraf<~Scribe.141~>321 034 033 032 031 030 025 024 023 022 021 <~Scribe.142~><~Game.1974~><~Scribe.143~><~Game.1976~><~Scribe.144~> 4108A6
+$hrafhraf<~Controls.644~>101 <~Controls.645~><~Game.2035~> 97E1F9
+$tybo<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 490B01
+$tybo<~Scribe.141~>260 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> A77333
+$tybo<~Controls.644~>210 <~Controls.645~><~Game.2035~> E8F540
+$hrafhraf<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 599ED5
+$hrafhraf<~Scribe.141~>037 <~Scribe.142~><~Game.1915~><~Scribe.143~><~Game.1930~><~Scribe.144~> 9ABF57
+$hrafhraf<~Controls.644~>360 <~Controls.645~><~Game.2035~> 5DE508
+<tybo> pass 1D6062
+$tybo<~Controls.726~>211 213 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 3A4F62
+$tybo<~Controls.731~>210 358 359 212 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 1571B9
+$hrafhraf<~Controls.757~>361 100 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 6B14EC
+<~Game.7~>5 null
+$hrafhraf<~Controls.762~>360 101 105 102 103 104 099 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> F18BE3
+$tybo<~Controls.509~>128<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$tybo<~Controls.509~>134<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$hrafhraf<~Controls.509~>200<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$hrafhraf<~Controls.509~>176<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<tybo> fsp ok 387DEA
+$hrafhraf<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> 901842
+<hrafhraf> 1e A6BD79
+$hrafhraf<~Controls.345~>360 101 105 102 103 104 099 361 <~Controls.346~>15 14 10 14 10 12 13 11 null
+$hrafhraf<~Controls.350~>360 101 105 102 103 104 099 361 null
+$tybo<~Controls.345~>210 358 359 212 211 213 <~Controls.346~>0 3 3 0 1 1 null
+$tybo<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> F510B2
+$tybo<~Scribe.141~>reveal 134 900E6C59E0040F34958B9BF946AF78FC242135F7 4 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2036~><~Scribe.144~> 9B5926
+$tybo<~Scribe.141~>259 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> 5C76AC
+$tybo<~Scribe.141~>285 286 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1929~><~Scribe.144~> BCCF9F
+$tybo<~Controls.644~>212 134 <~Controls.645~><~Game.2035~> 4DB797
+$hrafhraf<~Scribe.141~>361 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> CBDFAE
+$hrafhraf<~Scribe.141~>253 038 040 039 036 029 028 027 026 020 019 018 017 016 <~Scribe.142~><~Game.1969~><~Scribe.143~><~Game.1955~><~Scribe.144~> CB9664
+$hrafhraf<~Scribe.141~>321 034 033 032 031 030 025 024 023 022 021 <~Scribe.142~><~Game.1976~><~Scribe.143~><~Game.1964~><~Scribe.144~> 810630
+$hrafhraf<~Controls.644~>361 <~Controls.645~><~Game.2035~> CAF3BC
+$tybo<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 519F62
+$tybo<~Scribe.141~>reveal 126 44291628BDF69D4796BE0CFDC87AF79D07E11F9B 5 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2036~><~Scribe.144~> 6457F3
+$tybo<~Controls.304~>083 <~Controls.305~><~Game.1944~> ED60E3
+$tybo<~Controls.313~>276 <~Controls.309~><~Controls.314~><~Game.1944~> E317E9
+$tybo<~Controls.509~>146<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$tybo<~Controls.509~>147<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$tybo<~Controls.644~>211 126 <~Controls.645~><~Game.2035~> 676513
+$hrafhraf<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 300F3B
+<hrafhraf> osg from WK B7BA7B
+<hrafhraf> nc 561D2B
+<tybo> n 4655EE
+<tybo> c 61E2B8
+<game> hrafhraf<~Controls.1~> 3 6 1 1 1 null
+<game> hrafhraf<~Controls.1~> 5 5 4 1 null
+<hrafhraf> 1 CAF542
+<game> tybo<~Controls.1~> 1 3 null
+<tybo> 0 BEB8F1
+<hrafhraf> press D51504
+$tybo<~Scribe.141~>080 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.2037~><~Scribe.144~> 2AD9C3
+$tybo<~Scribe.141~>079 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.1944~><~Scribe.144~> A586E1
+$hrafhraf<~Scribe.141~>253 038 040 039 036 029 028 027 026 020 019 018 017 016 <~Scribe.142~><~Game.1955~><~Scribe.143~><~Game.1943~><~Scribe.144~> 428B88
+$hrafhraf<~Controls.644~>099 080 <~Controls.645~><~Game.2035~> CD2769
+$tybo<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 79780E
+$tybo<~Scribe.141~>241 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.1942~><~Scribe.144~> E1AB62
+$tybo<~Scribe.141~>241 <~Scribe.142~><~Game.1942~><~Scribe.143~><~Game.1937~><~Scribe.144~> 66BB09
+$tybo<~Scribe.141~>240 <~Scribe.142~><~Game.1921~><~Scribe.143~><~Game.1930~><~Scribe.144~> 5466F7
+$tybo<~Scribe.141~>240 <~Scribe.142~><~Game.1930~><~Scribe.143~><~Game.1953~><~Scribe.144~> 1305BE
+$tybo<~Scribe.141~>240 <~Scribe.142~><~Game.1953~><~Scribe.143~><~Game.1949~><~Scribe.144~> 549B90
+$tybo<~Scribe.141~>240 <~Scribe.142~><~Game.1949~><~Scribe.143~><~Game.1958~><~Scribe.144~> 73C1D2
+$tybo<~Controls.644~>213 <~Controls.645~><~Game.2035~> 5AE454
+$tybo<~Scribe.141~>241 <~Scribe.142~><~Game.1937~><~Scribe.143~><~Game.1925~><~Scribe.144~> 6E4B8A
+<tybo> sry 0AD174
+<tybo> just change that 6E3633
+<tybo> you g 9459B2
+<hrafhraf> hmm 5EEBE0
+$hrafhraf<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> CD934D
+$hrafhraf<~Scribe.141~>055 057 049 048 047 046 045 044 <~Scribe.142~><~Game.1946~><~Scribe.143~><~Game.1938~><~Scribe.144~> C5FBEA
+$hrafhraf<~Controls.819~> E619E5
+<hrafhraf> MT 71450E
+$tybo<~Scribe.141~>245 085 276 084 079 082 081 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.1994~><~Scribe.144~> 6EB643
+$hrafhraf<~Scribe.141~>253 038 040 039 036 029 028 027 026 020 019 018 017 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.1944~><~Scribe.144~> 74C69B
+$hrafhraf<~Controls.644~>104 <~Controls.645~><~Game.2035~> D48537
+$tybo<~Scribe.141~>359 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 088FB5
+$tybo<~Scribe.141~>273 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1920~><~Scribe.144~> 8AF7A6
+$tybo<~Controls.644~>359 <~Controls.645~><~Game.2035~> B6FAC0
+$hrafhraf<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> CEB0F8
+$hrafhraf<~Scribe.141~>337 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1974~><~Scribe.144~> 042B26
+$hrafhraf<~Scribe.141~>014 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1917~><~Scribe.144~> 25580F
+$hrafhraf<~Controls.644~>103 <~Controls.645~><~Game.2035~> EA2B28
+<tybo> pass D17982
+$hrafhraf<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 16539F
+$hrafhraf<~Scribe.141~>347 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1946~><~Scribe.144~> D05699
+$hrafhraf<~Controls.644~>105 <~Controls.645~><~Game.2035~> C36D3D
+$tybo<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> ED7529
+$tybo<~Controls.323~>247 730F61
+$tybo<~Controls.644~>210 <~Controls.645~><~Game.2035~> FB074B
+$hrafhraf<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> CB0146
+$hrafhraf<~Controls.509~>170<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$hrafhraf<~Controls.644~>102 <~Controls.645~><~Game.2035~> 88F789
+$tybo<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> CBBA91
+$tybo<~Scribe.141~>274 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1920~><~Scribe.144~> B9C25F
+$tybo<~Controls.644~>358 <~Controls.645~><~Game.2035~> 7C4701
+$hrafhraf<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 7DD6C2
+<hrafhraf> I'll just trash it 8B4325
+$hrafhraf<~Controls.644~>101 <~Controls.645~><~Game.2035~> BD9830
+<tybo> ok 0C3A4A
+$tybo<~Controls.731~>358 210 359 213 211 212 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 76C7EE
+$tybo<~Controls.509~>107<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$tybo<~Controls.509~>121<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$hrafhraf<~Controls.757~>360 100 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 935D53
+<~Game.7~>6 null
+$hrafhraf<~Controls.762~>101 102 105 103 104 099 361 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 14D589
+$tybo<~Controls.296~>121 <~Controls.297~><~Controls.45~> F9108A
+$hrafhraf<~Controls.509~>193<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$hrafhraf<~Controls.509~>206<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$tybo<~Controls.296~>136 <~Controls.297~><~Controls.45~> C70E79
+$hrafhraf<~Controls.296~>174 <~Controls.297~><~Controls.46~> 927792
+<tybo> fsp ok 835505
+<hrafhraf> 0e 31C667
+$hrafhraf<~Controls.345~>101 102 105 103 104 099 361 360 100 <~Controls.346~>11 11 12 11 14 15 12 15 13 null
+$hrafhraf<~Controls.350~>101 102 105 103 104 099 361 360 100 null
+$tybo<~Controls.345~>358 210 359 213 211 212 <~Controls.346~>4 1 0 1 2 0 null
+$tybo<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 7C44FD
+$tybo<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> CCCB9B
+$tybo<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> B7922F
+<game> hrafhraf<~Controls.1~> 2 4 null
+<game> hrafhraf<~Controls.1~> 3 4 null
+<hrafhraf> safe 161788
+$hrafhraf<~Scribe.141~>361 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 35CD6B
+$hrafhraf<~Scribe.141~>017 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.1935~><~Scribe.144~> 36E6E5
+$hrafhraf<~Scribe.141~>347 057 055 049 048 047 046 <~Scribe.142~><~Game.1946~><~Scribe.143~><~Game.1932~><~Scribe.144~> 1AB727
+$hrafhraf<~Controls.644~>361 <~Controls.645~><~Game.2035~> 8F6F8C
+$tybo<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> FA7C76
+$tybo<~Scribe.141~>272 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1920~><~Scribe.144~> CA4449
+$tybo<~Scribe.141~>280 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1931~><~Scribe.144~> DCE000
+$tybo<~Controls.644~>358 <~Controls.645~><~Game.2035~> B29BB7
+$hrafhraf<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 482A3E
+$hrafhraf<~Scribe.141~>reveal 170 BFC825AC9A75FD935C3DE3299438DFFFD4F25F73 6 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 4612AD
+<hrafhraf> DA A19D7B
+$tybo<~Scribe.141~>272 274 273 077 076 075 <~Scribe.142~><~Game.1920~><~Scribe.143~><~Game.1995~><~Scribe.144~> 95985A
+$hrafhraf<~Scribe.141~>347 057 055 049 048 047 046 043 042 041 <~Scribe.142~><~Game.1932~><~Scribe.143~><~Game.1920~><~Scribe.144~> 1C55CB
+$hrafhraf<~Controls.644~>104 170 <~Controls.645~><~Game.2035~> EF476C
+<tybo> pass 06B7B9
+$hrafhraf<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> E26371
+$hrafhraf<~Scribe.141~>reveal 193 3ABEAC59E75CBAECD37BF24B400CCC744DAC42EA 3 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 90F893
+$hrafhraf<~Controls.281~>236 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2045~> DC71F4
+$hrafhraf<~Controls.644~>100 193 <~Controls.645~><~Game.2035~> 2D5E73
+$tybo<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> DB7F24
+$tybo<~Controls.790~>248<~Controls.791~><~Game.2015~><~Controls.792~><~Game.2016~> F74B27
+$tybo<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> CA6021
+<game> hrafhraf<~Controls.1~> 5 5 null
+$hrafhraf<~Controls.624~>226<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$tybo<~Scribe.141~>243 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2037~><~Scribe.144~> 1C64D1
+$tybo<~Scribe.141~>242 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> 4CE55C
+$tybo<~Controls.644~>226 243 <~Controls.645~><~Game.2035~> 899A52
+$hrafhraf<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> ED1657
+$hrafhraf<~Scribe.141~>321 034 033 032 031 030 025 024 023 022 021 <~Scribe.142~><~Game.1964~><~Scribe.143~><~Game.1959~><~Scribe.144~> 65586A
+$hrafhraf<~Scribe.141~>000 <~Scribe.142~><~Game.1914~><~Scribe.143~><~Game.1916~><~Scribe.144~> 983E93
+$hrafhraf<~Controls.644~>103 <~Controls.645~><~Game.2035~> 953D07
+$tybo<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 0458C6
+$tybo<~Controls.790~>248<~Controls.791~><~Game.2016~><~Controls.792~><~Game.2017~> 82EA63
+$tybo<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 0FA126
+<game> hrafhraf<~Controls.1~> 2 5 null
+<game> hrafhraf<~Controls.1~> 5 null
+$hrafhraf<~Controls.624~>229<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$tybo<~Scribe.141~>242 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2037~><~Scribe.144~> F3FB68
+$tybo<~Scribe.141~>252 <~Scribe.142~><~Game.2015~><~Scribe.143~><~Game.2016~><~Scribe.144~> 1CA139
+$tybo<~Scribe.141~>244 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> E60DC1
+$tybo<~Controls.644~>229 242 <~Controls.645~><~Game.2035~> A340D8
+$hrafhraf<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> A7AC25
+$hrafhraf<~Scribe.141~>321 034 033 032 031 030 025 024 023 022 021 <~Scribe.142~><~Game.1959~><~Scribe.143~><~Game.1942~><~Scribe.144~> 0D1C0A
+$hrafhraf<~Scribe.141~>000 <~Scribe.142~><~Game.1916~><~Scribe.143~><~Game.1919~><~Scribe.144~> 14C209
+$hrafhraf<~Controls.644~>102 <~Controls.645~><~Game.2035~> 87E2E9
+$tybo<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 1EA44B
+$tybo<~Scribe.141~>reveal 139 C94A9E9992374513199B8A4B5D8D8B85793FC96B 20 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> 236A6D
+$tybo<~Scribe.141~>139 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2036~><~Scribe.144~> 1DD879
+$tybo<~Controls.624~>214<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$tybo<~Scribe.141~>214 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2036~><~Scribe.144~> CA5B8E
+$tybo<~Controls.624~>220<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$tybo<~Scribe.141~>214 <~Scribe.142~><~Game.2036~><~Scribe.143~><~Game.2034~><~Scribe.144~> C03B05
+$tybo<~Scribe.141~>220 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2033~><~Scribe.144~> 57CE82
+$tybo<~Controls.624~>215<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$tybo<~Scribe.141~>215 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2034~><~Scribe.144~> B12ABF
+$tybo<~Controls.281~>220 <~Controls.282~><~Game.2033~><~Controls.283~><~Game.2046~> 6AF9B5
+$tybo<~Controls.281~>215 214 <~Controls.282~><~Game.2034~><~Controls.283~><~Game.2044~> 391D0F
+$tybo<~Controls.644~>211 139 <~Controls.645~><~Game.2035~> 9A2D20
+$hrafhraf<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> F3D4CE
+$hrafhraf<~Controls.304~>005 000 <~Controls.305~><~Game.1919~> 9EE5E0
+$hrafhraf<~Controls.313~>325 326 <~Controls.309~><~Controls.314~><~Game.1919~> 804603
+$hrafhraf<~Controls.644~>101 <~Controls.645~><~Game.2035~> 161A70
+$tybo<~Scribe.141~>359 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> E64B54
+$tybo<~Scribe.141~>285 286 <~Scribe.142~><~Game.1929~><~Scribe.143~><~Game.1925~><~Scribe.144~> 89FD14
+$tybo<~Scribe.141~>074 070 <~Scribe.142~><~Game.1918~><~Scribe.143~><~Game.1925~><~Scribe.144~> 02066B
+$tybo<~Controls.644~>359 <~Controls.645~><~Game.2035~> 873E53
+$hrafhraf<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 1832A5
+$hrafhraf<~Scribe.141~>reveal 206 1F4C42786313BA4F6DF4E32FB4CC1908020BD7F8 22 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2029~><~Scribe.144~> A02ABF
+<hrafhraf> 1 leader 168B61
+$tybo<~Scribe.141~>085 <~Scribe.142~><~Game.1994~><~Scribe.143~><~Game.2029~><~Scribe.144~> A27ABA
+$hrafhraf<~Controls.644~>105 <~Controls.645~><~Game.2035~> D9C59F
+<tybo> pass B16DF7
+$tybo<~Controls.726~>213 210 212 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 12D598
+$tybo<~Controls.731~>359 211 358 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> F7AB5F
+$hrafhraf<~Controls.757~>099 360 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> C1E01C
+<~Game.7~>7 null
+$hrafhraf<~Controls.762~>105 101 102 103 100 104 361 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> EA161C
+$tybo<~Controls.509~>127<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$tybo<~Controls.509~>124<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$hrafhraf<~Controls.509~>158<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$hrafhraf<~Controls.509~>199<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$tybo<~Controls.296~>107 <~Controls.297~><~Controls.45~> B65006
+<tybo> declare A75257
+$tybo<~Scribe.141~>247 <~Scribe.142~><~Game.1930~><~Scribe.143~><~Game.1967~><~Scribe.144~> 0B32B1
+$tybo<~Controls.323~>247 2E9BDB
+$tybo<~Controls.323~>247 7DB06E
+<tybo> fsp ok D8552F
+$hrafhraf<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> 355CA9
+<hrafhraf> 1e 66CCBA
+$hrafhraf<~Controls.345~>105 101 102 103 100 104 361 099 <~Controls.346~>14 12 13 13 11 13 12 10 null
+$hrafhraf<~Controls.350~>105 101 102 103 100 104 361 099 null
+$tybo<~Controls.345~>359 211 358 213 210 212 <~Controls.346~>2 2 0 3 1 3 null
+$tybo<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 08AD60
+$tybo<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> CAC93E
+$tybo<~Controls.795~>358<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 1216BD
+<game> hrafhraf<~Controls.1~> 4 null
+<hrafhraf> safe 2D4186
+$hrafhraf<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 3654F3
+<hrafhraf> MT B7E70A
+$hrafhraf<~Controls.840~>158 CE63AA
+$hrafhraf<~Scribe.141~>reveal 158 6976A5CE5D35CEBB5D68ED665E2F82DD3C0AA984 19 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 0C33B4
+<game> hrafhraf<~Controls.1~> 3 1 2 3 1 null
+<game> hrafhraf<~Controls.1~> 6 3 6 5 6 null
+<hrafhraf> 4 B87A23
+<game> tybo<~Controls.1~> 6 6 5 1 2 null
+<game> tybo<~Controls.1~> 2 null
+<tybo> 3 DB5BD4
+$tybo<~Scribe.141~>084 276 <~Scribe.142~><~Game.1994~><~Scribe.143~><~Game.2037~><~Scribe.144~> BB0D8A
+$hrafhraf<~Scribe.141~>020 019 018 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.2037~><~Scribe.144~> 4F85D7
+<hrafhraf> press and draw 1F41AC
+$hrafhraf<~Controls.509~>160<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$hrafhraf<~Controls.662~>158 084 276 020 019 018 <~Controls.663~><~Game.2035~> 247408
+$hrafhraf<~Controls.840~>184 BD91E3
+<auto><~Controls.866~>reveal 184 1A0E2FCEEFE11C197ABD6BAD06786BF0CA851690 19<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> E89EA6
+$tybo<~Controls.304~>036 <~Controls.305~><~Game.1944~> 36B3DF
+$tybo<~Controls.313~>020 <~Controls.307~><~Controls.314~><~Game.1944~> CCE33F
+<game> hrafhraf<~Controls.1~> 6 1 6 6 2 null
+<hrafhraf> 3 08F097
+<game> tybo<~Controls.1~> 3 3 6 null
+<tybo> 33 745F41
+<tybo> 3* 28D19E
+$tybo<~Scribe.141~>245 079 082 081 <~Scribe.142~><~Game.1994~><~Scribe.143~><~Game.2036~><~Scribe.144~> B3D01F
+<hrafhraf> :) 473AF7
+$hrafhraf<~Scribe.141~>028 027 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.2036~><~Scribe.144~> 42501B
+$hrafhraf<~Controls.644~>103 184 245 028 027 079 082 081 <~Controls.645~><~Game.2035~> 8598A0
+$tybo<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 39F44B
+$tybo<~Controls.790~>248<~Controls.791~><~Game.2015~><~Controls.792~><~Game.2016~> 389F30
+$tybo<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 23B92C
+$hrafhraf<~Scribe.141~>423 <~Scribe.142~><~Game.29~><~Scribe.143~><~Game.31~><~Scribe.144~> 5D79D8
+<tybo> I moved 8B38D0
+<hrafhraf> oh DB7E58
+<tybo> :) 61D6FB
+<game> hrafhraf<~Controls.1~> 2 null
+<hrafhraf> safe 64DBAE
+$hrafhraf<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 514C7E
+$hrafhraf<~Scribe.141~>346 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1946~><~Scribe.144~> 555A0C
+$hrafhraf<~Controls.644~>099 <~Controls.645~><~Game.2035~> D7DB8F
+<tybo> pass 239454
+$hrafhraf<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 43C792
+$hrafhraf<~Scribe.141~>345 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1946~><~Scribe.144~> 861AE6
+$hrafhraf<~Controls.644~>100 <~Controls.645~><~Game.2035~> BB8B46
+<tybo> pass D0C744
+$hrafhraf<~Scribe.141~>361 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> F4BDF2
+$hrafhraf<~Scribe.141~>345 346 045 044 <~Scribe.142~><~Game.1946~><~Scribe.143~><~Game.1938~><~Scribe.144~> B6F7D7
+$hrafhraf<~Scribe.141~>056 052 051 050 <~Scribe.142~><~Game.1984~><~Scribe.143~><~Game.1987~><~Scribe.144~> 0BB23E
+$hrafhraf<~Controls.819~> 0BCF93
+$hrafhraf<~Controls.819~> 94C80B
+$hrafhraf<~Scribe.141~>346 345 045 044 <~Scribe.142~><~Game.1946~><~Scribe.143~><~Game.1938~><~Scribe.144~> E8E743
+$hrafhraf<~Scribe.141~>056 052 051 050 <~Scribe.142~><~Game.1984~><~Scribe.143~><~Game.1987~><~Scribe.144~> F63497
+$hrafhraf<~Controls.644~>361 <~Controls.645~><~Game.2035~> 5894BC
+$tybo<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> D124DB
+$tybo<~Scribe.141~>reveal 127 B9A58C2B884FBB8C01EBACA9E5BAD2A099822598 7 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> CD9236
+$tybo<~Controls.281~>233 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2045~> 309E3F
+$tybo<~Controls.644~>211 127 <~Controls.645~><~Game.2035~> CE7D11
+$hrafhraf<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 38E160
+$hrafhraf<~Scribe.141~>253 038 040 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.1920~><~Scribe.144~> 6F2643
+$hrafhraf<~Scribe.141~>037 <~Scribe.142~><~Game.1930~><~Scribe.143~><~Game.1920~><~Scribe.144~> 677AE9
+$hrafhraf<~Controls.644~>104 <~Controls.645~><~Game.2035~> F1BE67
+$tybo<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 91826B
+$tybo<~Scribe.141~>281 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1924~><~Scribe.144~> 42448A
+$tybo<~Scribe.141~>278 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1931~><~Scribe.144~> 46CBA7
+$tybo<~Controls.644~>212 <~Controls.645~><~Game.2035~> F9A0AC
+$hrafhraf<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 9249B9
+$tybo<~Controls.296~>206 085 <~Controls.297~><~Game.2029~> 0F0F2D
+$hrafhraf<~Scribe.141~>321 034 033 032 031 030 025 <~Scribe.142~><~Game.1942~><~Scribe.143~><~Game.1943~><~Scribe.144~> C64624
+$hrafhraf<~Scribe.141~>001 <~Scribe.142~><~Game.1930~><~Scribe.143~><~Game.1928~><~Scribe.144~> 85A6C6
+$hrafhraf<~Controls.644~>101 <~Controls.645~><~Game.2035~> AD24E2
+$tybo<~Scribe.141~>427 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 56DF1F
+$tybo<~Controls.509~>106<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$tybo<~Controls.644~>427 <~Controls.645~><~Game.2035~> 1B974E
+$hrafhraf<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> F656EA
+<hrafhraf> Lamedon EEA2D0
+<hrafhraf> nc 287479
+$tybo<~Controls.840~>124 15DA14
+<auto><~Controls.861~>reveal 124 3456B8EC5786F75DB17294C56AE60F571F9AA505 0<~Controls.862~><~Controls.45~><~Controls.863~><~Game.2037~> 88EC03
+<game> hrafhraf<~Controls.1~> 1 5 3 6 4 null
+<game> tybo<~Controls.1~> 3 null
+<tybo> 1 AFDB29
+$tybo<~Scribe.141~>281 <~Scribe.142~><~Game.1924~><~Scribe.143~><~Game.2037~><~Scribe.144~> 0E819A
+$hrafhraf<~Scribe.141~>041 <~Scribe.142~><~Game.1920~><~Scribe.143~><~Game.2037~><~Scribe.144~> 2C27CF
+$hrafhraf<~Scribe.141~>042 <~Scribe.142~><~Game.1920~><~Scribe.143~><~Game.1924~><~Scribe.144~> 02D801
+$hrafhraf<~Controls.644~>102 124 041 281 <~Controls.645~><~Game.2035~> D2BEC8
+$tybo<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 0ACC69
+$tybo<~Scribe.141~>259 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 43185D
+$tybo<~Controls.644~>213 <~Controls.645~><~Game.2035~> 1E7B1A
+$hrafhraf<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 15D3EB
+$hrafhraf<~Scribe.141~>reveal 200 DD58E15C12B8665B85388DAE209F3527CDC039C2 21 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> C6A74E
+<hrafhraf> sorry 164FDA
+<tybo> np haha D817FD
+<tybo> i was expecting it 6300A5
+$hrafhraf<~Scribe.141~>200 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.1960~><~Scribe.144~> 19A83B
+$hrafhraf<~Controls.819~> 28852E
+$hrafhraf<~Scribe.141~>247 <~Scribe.142~><~Game.1967~><~Scribe.143~><~Game.1960~><~Scribe.144~> 0047C9
+$hrafhraf<~Controls.644~>105 200 <~Controls.645~><~Game.2035~> E53866
+$tybo<~Scribe.141~>359 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 163D96
+$tybo<~Controls.366~>251<~Controls.367~><~Game.2010~><~Controls.368~><~Game.2011~> AC475E
+$tybo<~Controls.790~>248<~Controls.791~><~Game.2016~><~Controls.792~><~Game.2017~> 4730A3
+$tybo<~Controls.795~>359<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 82B9A9
+<game> hrafhraf<~Controls.1~> 6 null
+$hrafhraf<~Controls.624~>215<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$tybo<~Scribe.141~>247 <~Scribe.142~><~Game.1960~><~Scribe.143~><~Game.1974~><~Scribe.144~> 3AFB2E
+$tybo<~Controls.323~>247 788FD4
+<hrafhraf> oh well A3DDD1
+$tybo<~Scribe.141~>215 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2036~><~Scribe.144~> FB5F53
+<tybo> another 2779B2
+<hrafhraf> morannon 75360B
+$hrafhraf<~Controls.624~>223<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$tybo<~Scribe.141~>252 <~Scribe.142~><~Game.2016~><~Scribe.143~><~Game.2017~><~Scribe.144~> 6C62D9
+$tybo<~Controls.644~>215 223 <~Controls.645~><~Game.2035~> 96D22F
+$tybo<~Controls.726~>359 210 358 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> F05763
+$tybo<~Controls.731~>213 212 211 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 6DF99A
+$tybo<~Controls.509~>148<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$tybo<~Controls.509~>118<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$tybo<~Controls.296~>148 <~Controls.297~><~Controls.45~> A06A50
+$tybo<~Scribe.141~>247 <~Scribe.142~><~Game.1974~><~Scribe.143~><~Game.524~><~Scribe.144~> C7D087
+$hrafhraf<~Controls.757~>360 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 186F38
+<~Game.7~>8 null
+$hrafhraf<~Controls.762~>105 102 101 104 361 100 099 103 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 8C31EF
+$hrafhraf<~Controls.509~>167<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$hrafhraf<~Controls.509~>159<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$tybo<~Controls.281~>236 233 <~Controls.282~><~Game.2045~><~Controls.283~><~Game.2044~> 7CF2EA
+<tybo> fsp ok 3A1C36
+$hrafhraf<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> CDC265
+<hrafhraf> 1 953252
+$hrafhraf<~Controls.345~>105 102 101 104 361 100 099 103 <~Controls.346~>13 13 10 15 11 14 13 11 null
+$hrafhraf<~Controls.350~>105 102 101 104 361 100 099 103 null
+$tybo<~Controls.345~>213 212 211 359 210 358 <~Controls.346~>4 3 3 4 2 3 null
+<tybo> oh 295CF0
+<tybo> alright hahaha F68D06
+<tybo> I see 9709B8
+<hrafhraf> i guess we fight FE3152
+<tybo> I guess! 57C4A5
+<tybo> no choice uh FA8DDB
+<tybo> I pass 52A4DF
+$hrafhraf<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 8A047F
+<hrafhraf> Pel from Osg 47E9C3
+<hrafhraf> nc 1A1BD5
+<tybo> nc 4C8229
+<game> hrafhraf<~Controls.1~> 2 5 2 2 5 null
+<game> hrafhraf<~Controls.1~> 2 null
+<hrafhraf> 0 91CA0C
+<game> tybo<~Controls.1~> 2 1 5 null
+<tybo> 1 E57158
+$hrafhraf<~Scribe.141~>016 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.2037~><~Scribe.144~> 8A9C2A
+<hrafhraf> press E8A527
+<tybo> stay no choice 294D8A
+<hrafhraf> yep 848A55
+<hrafhraf> nc 51081A
+<tybo> nc D15FC7
+<game> hrafhraf<~Controls.1~> 2 1 6 4 4 null
+<game> hrafhraf<~Controls.1~> 1 null
+<hrafhraf> 1 B43339
+<game> tybo<~Controls.1~> 2 3 4 null
+<tybo> 0 EDA5A5
+<hrafhraf> press DFBD30
+$tybo<~Scribe.141~>280 <~Scribe.142~><~Game.1931~><~Scribe.143~><~Game.2037~><~Scribe.144~> 15823F
+<hrafhraf> nc CB21E0
+<game> hrafhraf<~Controls.1~> 4 2 1 6 5 null
+<hrafhraf> 2 DAAC97
+<game> tybo<~Controls.1~> 3 2 null
+<tybo> 0 081427
+$tybo<~Scribe.141~>278 078 <~Scribe.142~><~Game.1931~><~Scribe.143~><~Game.2037~><~Scribe.144~> 8A49D4
+$hrafhraf<~Scribe.141~>321 034 033 032 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.1931~><~Scribe.144~> 3E0AAC
+$hrafhraf<~Controls.644~>099 016 278 078 280 <~Controls.645~><~Game.2035~> DF2067
+$tybo<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> F3B127
+$tybo<~Scribe.141~>241 074 285 286 073 070 072 <~Scribe.142~><~Game.1925~><~Scribe.143~><~Game.1923~><~Scribe.144~> 8F1F70
+$tybo<~Scribe.141~>059 <~Scribe.142~><~Game.1973~><~Scribe.143~><~Game.1965~><~Scribe.144~> EDCA98
+$tybo<~Controls.644~>213 <~Controls.645~><~Game.2035~> 59C718
+$hrafhraf<~Scribe.141~>423 <~Scribe.142~><~Game.31~><~Scribe.143~><~Game.32~><~Scribe.144~> 4EA40B
+$hrafhraf<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 5F1412
+$hrafhraf<~Scribe.141~>346 345 045 044 <~Scribe.142~><~Game.1938~><~Scribe.143~><~Game.1931~><~Scribe.144~> C491E3
+$hrafhraf<~Scribe.141~>031 030 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.1942~><~Scribe.144~> 8392D8
+$hrafhraf<~Controls.644~>103 <~Controls.645~><~Game.2035~> 038D92
+$tybo<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 60610B
+$tybo<~Scribe.141~>289 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1929~><~Scribe.144~> C27E70
+$tybo<~Controls.644~>358 <~Controls.645~><~Game.2035~> 807ED8
+$hrafhraf<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 4114CB
+$hrafhraf<~Scribe.141~>255 362 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2037~><~Scribe.144~> A07041
+$hrafhraf<~Scribe.141~>255 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.1917~><~Scribe.144~> B6165D
+$hrafhraf<~Controls.644~>101 362 <~Controls.645~><~Game.2035~> D0A50F
+$tybo<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> B1BDE6
+$tybo<~Scribe.141~>288 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1929~><~Scribe.144~> 3CD614
+$tybo<~Controls.644~>211 <~Controls.645~><~Game.2035~> 37F394
+$hrafhraf<~Scribe.141~>361 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> E45F93
+$hrafhraf<~Scribe.141~>321 346 345 045 044 034 033 <~Scribe.142~><~Game.1931~><~Scribe.143~><~Game.1924~><~Scribe.144~> 10C608
+$hrafhraf<~Scribe.141~>039 020 029 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.1942~><~Scribe.144~> 714071
+$hrafhraf<~Controls.644~>361 <~Controls.645~><~Game.2035~> 3CF771
+$tybo<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> F6DEC1
+$tybo<~Controls.366~>250<~Controls.367~><~Game.2009~><~Controls.368~><~Game.2012~> DDEF85
+$tybo<~Controls.323~>247 8ACB57
+$tybo<~Controls.644~>212 <~Controls.645~><~Game.2035~> D32A01
+$hrafhraf<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> E79F40
+$hrafhraf<~Controls.366~>250<~Controls.367~><~Game.2012~><~Controls.368~><~Game.2041~> 2BC939
+$hrafhraf changes 102  to A B2FD13
+$hrafhraf<~Scribe.141~>321 346 345 <~Scribe.142~><~Game.1924~><~Scribe.143~><~Game.1920~><~Scribe.144~> 607BBD
+$hrafhraf<~Scribe.141~>039 020 029 031 030 024 023 022 021 <~Scribe.142~><~Game.1942~><~Scribe.143~><~Game.1933~><~Scribe.144~> C5DC2D
+$hrafhraf<~Controls.644~>102 <~Controls.645~><~Game.2035~> F8732E
+$tybo<~Scribe.141~>359 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> E80AC5
+$tybo<~Scribe.141~>287 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1929~><~Scribe.144~> DCBB92
+$tybo<~Controls.644~>359 <~Controls.645~><~Game.2035~> B5B8CB
+$hrafhraf<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 891AF1
+$hrafhraf<~Scribe.141~>reveal 199 248C21E7F95A2FA6A18B473D30514437E6D4CAB4 20 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> FB15C2
+$hrafhraf<~Controls.304~>021 022 <~Controls.305~><~Game.1933~> ABE903
+$hrafhraf<~Controls.313~>334 036 <~Controls.309~><~Controls.314~><~Game.1933~> B9AC8F
+$hrafhraf<~Controls.644~>100 199 <~Controls.645~><~Game.2035~> 87B795
+$tybo<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 9CBAFA
+$tybo<~Controls.509~>157<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$tybo<~Controls.296~>118 <~Controls.297~><~Controls.45~> 3C41A9
+$tybo<~Controls.644~>210 <~Controls.645~><~Game.2035~> B2F711
+$hrafhraf<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> B1F4E2
+<hrafhraf> DA E85182
+$hrafhraf<~Controls.840~>176 C027C4
+$tybo<~Controls.840~>146 FD73B1
+<auto> playchosen 74B0BD
+<auto><~Controls.3~>reveal 146 D8B07A31489C43A3D8FC28C1AE9E4F3A6BA31F12 1<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 41A8D2
+<auto><~Controls.866~>reveal 176 05BC023C7A9C6565B0C30664F1335B15A6D62B47 17<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 91531D
+<auto> playchosen FDF2B7
+<game> hrafhraf<~Controls.1~> 2 4 1 3 3 null
+<game> hrafhraf<~Controls.1~> 5 6 1 4 4 null
+<hrafhraf> 1 38E620
+<game> tybo<~Controls.1~> 1 6 2 1 1 null
+<game> tybo<~Controls.1~> 1 null
+<tybo> 1+1 9283F9
+$hrafhraf<~Scribe.141~>046 043 <~Scribe.142~><~Game.1920~><~Scribe.143~><~Game.2036~><~Scribe.144~> E60618
+<hrafhraf> stop and draw F48FA5
+$tybo<~Scribe.141~>077 <~Scribe.142~><~Game.1995~><~Scribe.143~><~Game.2037~><~Scribe.144~> 1573F8
+$hrafhraf<~Controls.509~>197<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$hrafhraf<~Controls.644~>105 176 046 043 146 077 <~Controls.645~><~Game.2035~> 12B0B0
+$tybo<~Controls.731~>210 359 212 211 358 213 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> DBE787
+$tybo<~Controls.509~>125<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$tybo<~Controls.509~>119<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$hrafhraf<~Controls.509~>181<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$hrafhraf<~Controls.509~>172<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$tybo<~Controls.296~>125 <~Controls.297~><~Controls.45~> 47352E
+<tybo> fsp ok BE50DE
+$tybo<~Controls.757~>104 360 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 4BA186
+<~Game.7~>9 null
+$tybo<~Controls.762~>105 100 102 361 101 362 103 099 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> F86252
+<tybo> fsp ok E36B64
+<hrafhraf> did you move last turn? A907B9
+<hrafhraf> or flip? ABCC55
+<tybo> no only hide 2C4B3B
+<tybo> yeah ACAB62
+<hrafhraf> ok F300B5
+<tybo> hid DC8185
+$hrafhraf<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> 4152E9
+<hrafhraf> 1 18C05E
+$hrafhraf<~Controls.345~>105 100 102 361 101 362 103 099 104 <~Controls.346~>14 13 15 15 12 10 15 10 11 null
+$hrafhraf<~Controls.350~>105 100 102 361 101 362 103 099 104 null
+$tybo<~Controls.345~>210 359 212 211 358 213 <~Controls.346~>1 2 1 1 2 1 null
+$tybo<~Scribe.141~>359 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> B32D68
+$tybo<~Scribe.141~>reveal 106 DF867E4FB1572AD7F305060961D81178029A96E9 12 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2036~><~Scribe.144~> F1FF82
+$tybo<~Scribe.141~>271 275 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1995~><~Scribe.144~> F05FE7
+$tybo<~Controls.644~>359 106 <~Controls.645~><~Game.2035~> E91AEF
+<hrafhraf> yep.. B330E3
+<tybo> 13 hit point army and 5 waiting, you should be good hahaha 04F4CA
+<tybo> but we never know E158ED
+<hrafhraf> hmm 303E79
+$hrafhraf<~Scribe.141~>362 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 55E776
+$hrafhraf<~Controls.819~> B4F741
+$hrafhraf<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> F5AA08
+<hrafhraf> Edoras 88BC7C
+<hrafhraf> nc 63587B
+<tybo> nc EE10D0
+<game> hrafhraf<~Controls.1~> 6 4 1 3 6 null
+<game> hrafhraf<~Controls.1~> 1 null
+<game> tybo<~Controls.1~> 2 2 6 null
+<tybo> 1 C9C3E5
+<hrafhraf> 2 4392C3
+$hrafhraf<~Scribe.141~>023 <~Scribe.142~><~Game.1933~><~Scribe.143~><~Game.2037~><~Scribe.144~> C2911C
+$tybo<~Controls.304~>289 288 <~Controls.305~><~Game.1929~> 0C29B1
+$tybo<~Controls.313~>294 295 <~Controls.307~><~Controls.314~><~Game.1929~> 192A0F
+<hrafhraf> press CC1A48
+$tybo<~Scribe.141~>287 294 295 <~Scribe.142~><~Game.1929~><~Scribe.143~><~Game.1925~><~Scribe.144~> 811F92
+$hrafhraf<~Scribe.141~>031 030 024 <~Scribe.142~><~Game.1933~><~Scribe.143~><~Game.1929~><~Scribe.144~> E927F8
+$hrafhraf<~Controls.644~>101 023 <~Controls.645~><~Game.2035~> 007F61
+$tybo<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 1931F2
+$tybo<~Controls.790~>247<~Controls.791~><~Game.524~><~Controls.792~><~Game.525~> 5A4CEB
+$tybo<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 8577FD
+$hrafhraf<~Controls.624~>218<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$tybo<~Scribe.141~>244 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2037~><~Scribe.144~> CB0803
+$tybo<~Scribe.141~>246 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> E2C607
+$tybo<~Controls.323~>247 D47543
+$tybo<~Controls.644~>218 244 <~Controls.645~><~Game.2035~> 89BAFC
+$hrafhraf<~Scribe.141~>423 <~Scribe.142~><~Game.32~><~Scribe.143~><~Game.33~><~Scribe.144~> 88504C
+$hrafhraf<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> CA97BE
+<hrafhraf> westernmet from folde FF0469
+<hrafhraf> nc 78A852
+<tybo> nc AFDC68
+<game> hrafhraf<~Controls.1~> 3 4 4 5 null
+<game> hrafhraf<~Controls.1~> 1 null
+<hrafhraf> 1 F55ABC
+<game> tybo<~Controls.1~> 5 5 1 null
+<tybo> 2 73F57A
+$hrafhraf<~Controls.304~>036 <~Controls.305~><~Game.1933~> 01271B
+$hrafhraf<~Controls.313~>023 <~Controls.307~><~Controls.314~><~Game.1933~> 5FC67E
+$hrafhraf<~Controls.304~>334 <~Controls.305~><~Game.1933~> 0843FE
+$hrafhraf<~Controls.313~>021 <~Controls.307~><~Controls.314~><~Game.1933~> 40C742
+$tybo<~Controls.304~>287 <~Controls.305~><~Game.1925~> 225F1B
+$tybo<~Controls.313~>293 <~Controls.307~><~Controls.314~><~Game.1925~> 22C908
+<hrafhraf> hmm 5F31CF
+<hrafhraf> press 2437C1
+<tybo> stay 5082B0
+<hrafhraf> nc B323B3
+<tybo> nc C908BA
+<game> hrafhraf<~Controls.1~> 5 3 3 1 null
+<game> hrafhraf<~Controls.1~> 3 null
+<hrafhraf> 1 B7DD39
+<game> tybo<~Controls.1~> 1 5 3 null
+<tybo> 1 AC9863
+$hrafhraf<~Scribe.141~>029 <~Scribe.142~><~Game.1933~><~Scribe.143~><~Game.2037~><~Scribe.144~> 8FE4E5
+$tybo<~Scribe.141~>293 <~Scribe.142~><~Game.1925~><~Scribe.143~><~Game.2036~><~Scribe.144~> DFBBAB
+<hrafhraf> press 659FB9
+<tybo> stay 577927
+<game> hrafhraf<~Controls.1~> 2 3 6 null
+<game> hrafhraf<~Controls.1~> 1 null
+<hrafhraf> 1 E2392A
+<game> tybo<~Controls.1~> 1 5 null
+<tybo> 1 FC83CC
+$tybo<~Scribe.141~>294 <~Scribe.142~><~Game.1925~><~Scribe.143~><~Game.2036~><~Scribe.144~> E5E939
+$hrafhraf<~Scribe.141~>020 <~Scribe.142~><~Game.1933~><~Scribe.143~><~Game.2037~><~Scribe.144~> 4D658A
+<hrafhraf> press 16331F
+<tybo> stay 97F262
+<game> hrafhraf<~Controls.1~> 5 6 null
+<game> tybo<~Controls.1~> 2 null
+<tybo> 0 278B51
+$tybo<~Scribe.141~>295 <~Scribe.142~><~Game.1925~><~Scribe.143~><~Game.2037~><~Scribe.144~> 737628
+$hrafhraf<~Scribe.141~>023 <~Scribe.142~><~Game.1933~><~Scribe.143~><~Game.1925~><~Scribe.144~> 4C64D8
+$hrafhraf<~Controls.644~>104 294 293 020 029 295 <~Controls.645~><~Game.2035~> 2F8306
+$tybo<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 8B2D60
+$tybo<~Controls.323~>247 6A7EE6
+$tybo<~Controls.644~>212 <~Controls.645~><~Game.2035~> 5A2EB2
+$hrafhraf<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> EE55B3
+$hrafhraf<~Scribe.141~>reveal 172 311DEBA6AF1B46785B92AF61839E9B0965ED952C 14 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 509315
+$hrafhraf<~Scribe.141~>022 029 020 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1956~><~Scribe.144~> 15EA76
+$hrafhraf<~Scribe.141~>027 028 016 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1922~><~Scribe.144~> 941CD7
+$hrafhraf<~Controls.644~>105 172 <~Controls.645~><~Game.2035~> E066B2
+$tybo<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 0D6486
+$tybo<~Scribe.141~>reveal 157 98BBF03CFCCDF49754BF8C22C7C52C9CD95FD98F 23 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> 314024
+<game> tybo<~Controls.1~> 2 3 2 null
+<tybo> 0 DEB8F4
+$tybo<~Controls.644~>210 157 <~Controls.645~><~Game.2035~> 479ADC
+$hrafhraf<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> EC0B9D
+$hrafhraf<~Scribe.141~>328 327 005 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1910~><~Scribe.144~> 3386F1
+$hrafhraf<~Scribe.141~>328 327 <~Scribe.142~><~Game.1910~><~Scribe.143~><~Game.1914~><~Scribe.144~> CBC72C
+$hrafhraf<~Scribe.141~>328 <~Scribe.142~><~Game.1914~><~Scribe.143~><~Game.1919~><~Scribe.144~> 0370D3
+$hrafhraf<~Controls.644~>099 <~Controls.645~><~Game.2035~> F00530
+$tybo<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> FE14E7
+$tybo<~Controls.509~>142<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$tybo<~Controls.644~>358 <~Controls.645~><~Game.2035~> 4F591D
+$hrafhraf<~Scribe.141~>362 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> E74E4F
+$hrafhraf<~Controls.304~>003 004 328 <~Controls.305~><~Game.1919~> EB711E
+$hrafhraf<~Controls.313~>322 323 324 <~Controls.309~><~Controls.314~><~Game.1919~> 5786DF
+$hrafhraf<~Controls.819~> B9B89F
+$hrafhraf<~Controls.819~> 21167E
+$hrafhraf<~Controls.304~>004 328 <~Controls.305~><~Game.1919~> DE2A94
+$hrafhraf<~Controls.313~>323 324 <~Controls.309~><~Controls.314~><~Game.1919~> F972B0
+$hrafhraf<~Controls.644~>362 <~Controls.645~><~Game.2035~> 8E26F7
+$tybo<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 0CEF02
+$tybo<~Controls.790~>247<~Controls.791~><~Game.525~><~Controls.792~><~Game.528~> 475CDA
+$tybo<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 25376F
+$hrafhraf<~Controls.624~>233<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$tybo<~Scribe.141~>252 <~Scribe.142~><~Game.2017~><~Scribe.143~><~Game.2016~><~Scribe.144~> 81A88F
+$tybo<~Controls.644~>233 <~Controls.645~><~Game.2035~> 0D9AF0
+$hrafhraf<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 569FF4
+<hrafhraf> Fords 5E02DD
+<hrafhraf> nc D2DEC9
+<tybo> nc EC1156
+<game> hrafhraf<~Controls.1~> 1 6 1 2 3 null
+<hrafhraf> 1 E073DA
+<game> tybo<~Controls.1~> 4 null
+<tybo> 0 30E09B
+$tybo<~Scribe.141~>069 <~Scribe.142~><~Game.1918~><~Scribe.143~><~Game.2037~><~Scribe.144~> A3B4A5
+<hrafhraf> hmm. stay. 43ECB3
+$hrafhraf<~Controls.644~>100 069 <~Controls.645~><~Game.2035~> D16295
+$tybo<~Controls.726~>211 213 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 59BDC9
+$tybo<~Controls.731~>358 210 212 359 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> DC67C4
+$tybo<~Controls.509~>141<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$tybo<~Controls.509~>150<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$tybo<~Controls.296~>141 <~Controls.297~><~Controls.45~> 52C705
+$hrafhraf<~Controls.757~>102 361 103 360 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> F76862
+<~Game.7~>10 null
+$hrafhraf<~Controls.762~>100 362 099 105 104 101 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 707774
+$hrafhraf<~Controls.509~>182<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$hrafhraf<~Controls.509~>207<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<tybo> fsp ok ECB46A
+$hrafhraf<~Controls.296~>167 <~Controls.297~><~Controls.46~> F814BA
+$hrafhraf<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> 2532B7
+$hrafhraf<~Controls.345~>100 362 099 105 104 101 102 361 103 <~Controls.346~>10 12 14 14 13 10 13 12 10 null
+$hrafhraf<~Controls.350~>100 362 099 105 104 101 102 361 103 null
+$tybo<~Controls.345~>358 210 212 359 211 213 <~Controls.346~>3 1 4 0 1 1 null
+$tybo<~Scribe.141~>359 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> A81F43
+$tybo<~Controls.790~>247<~Controls.791~><~Game.528~><~Controls.792~><~Game.529~> F34563
+$tybo<~Controls.795~>359<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 6992F2
+$hrafhraf<~Controls.624~>236<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$tybo<~Scribe.141~>247 <~Scribe.142~><~Game.529~><~Scribe.143~><~Game.528~><~Scribe.144~> 699AA9
+$tybo<~Controls.323~>247 A1EB85
+$tybo<~Scribe.141~>246 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2037~><~Scribe.144~> 32F73E
+$tybo<~Scribe.141~>364 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1999~><~Scribe.144~> A1FCF4
+$tybo<~Controls.644~>236 246 <~Controls.645~><~Game.2035~> AE6036
+$hrafhraf<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 873A03
+$hrafhraf<~Scribe.141~>reveal 182 3BD6D8E14DF3BEF793181C1DC64E0A1F7040E6BE 13 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 02E986
+$hrafhraf<~Scribe.141~>252 <~Scribe.142~><~Game.2016~><~Scribe.143~><~Game.2018~><~Scribe.144~> C1F86F
+$hrafhraf<~Controls.644~>105 182 <~Controls.645~><~Game.2035~> E9322A
+$tybo<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 083F0A
+$tybo<~Controls.323~>247 F88925
+$tybo<~Controls.644~>210 <~Controls.645~><~Game.2035~> 9D884C
+$hrafhraf<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> B8AAB0
+$hrafhraf<~Scribe.141~>reveal 181 3A73782D7C8D1D1744C1E801519D26899E0CD6A9 18 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> EE3447
+$hrafhraf<~Controls.624~>222<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2036~> null
+<tybo> ouch 42D206
+$hrafhraf<~Controls.644~>099 222 181 <~Controls.645~><~Game.2035~> 3E3269
+$tybo<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 847687
+$tybo<~Scribe.141~>reveal 128 B86E746008D6B77E3D2CFC273ECD4EABA7C2DB2E 2 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> D7A79B
+<hrafhraf> i think that might be it 6692DF
+$tybo<~Scribe.141~>252 <~Scribe.142~><~Game.2018~><~Scribe.143~><~Game.2017~><~Scribe.144~> DD6A92
+<tybo> move 9E6698
+<tybo> imoove 4946AE
+<hrafhraf> yep CB5F8B
+<tybo> you draw 384C1B
+$tybo<~Scribe.141~>247 <~Scribe.142~><~Game.528~><~Scribe.143~><~Game.529~><~Scribe.144~> 9813CD
+$hrafhraf<~Controls.624~>227<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2036~> null
+$tybo<~Scribe.141~>252 <~Scribe.142~><~Game.2017~><~Scribe.143~><~Game.2019~><~Scribe.144~> B38BB1
+$tybo<~Controls.323~>247 4A3DE4
+$tybo<~Controls.644~>211 227 128 <~Controls.645~><~Game.2035~> A06634
+$hrafhraf<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> E9CEBB
+$hrafhraf<~Controls.304~>002 003 <~Controls.305~><~Game.1919~> AAB74B
+$hrafhraf<~Controls.313~>322 <~Controls.309~><~Controls.314~><~Game.1919~> B52A74
+$hrafhraf<~Controls.644~>101 <~Controls.645~><~Game.2035~> 3219FD
+$tybo<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> D16219
+$tybo<~Controls.323~>247 A115B8
+$tybo<~Controls.644~>213 <~Controls.645~><~Game.2035~> 2F7A4F
+$hrafhraf<~Scribe.141~>361 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 52EE61
+$hrafhraf<~Scribe.141~>322 323 324 325 326 006 <~Scribe.142~><~Game.1919~><~Scribe.143~><~Game.1918~><~Scribe.144~> 2D5B46
+$hrafhraf<~Scribe.141~>031 030 024 <~Scribe.142~><~Game.1929~><~Scribe.143~><~Game.1925~><~Scribe.144~> 700F3B
+$hrafhraf<~Controls.644~>361 <~Controls.645~><~Game.2035~> ED4E22
+$tybo<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 77F650
+$tybo<~Scribe.141~>283 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1923~><~Scribe.144~> 50D5D0
+$tybo<~Scribe.141~>268 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1954~><~Scribe.144~> 69C8DE
+$tybo<~Controls.644~>358 <~Controls.645~><~Game.2035~> D03DEC
+$hrafhraf<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 2CF349
+<hrafhraf> HD F635F4
+$tybo<~Scribe.141~>241 283 074 285 286 073 070 072 071 <~Scribe.142~><~Game.1923~><~Scribe.143~><~Game.1993~><~Scribe.144~> 9E8C04
+$hrafhraf<~Scribe.141~>322 323 324 325 326 006 <~Scribe.142~><~Game.1918~><~Scribe.143~><~Game.1923~><~Scribe.144~> 471FAA
+$hrafhraf<~Controls.644~>102 <~Controls.645~><~Game.2035~> A878D4
+<tybo> pass 864BD7
+$hrafhraf<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 1D1AD3
+$hrafhraf<~Scribe.141~>036 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1956~><~Scribe.144~> F06DDB
+$hrafhraf<~Controls.644~>103 <~Controls.645~><~Game.2035~> BE53BD
+<tybo> pass D2F4B6
+$hrafhraf<~Scribe.141~>362 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> D566B0
+$hrafhraf<~Scribe.141~>031 030 024 023 <~Scribe.142~><~Game.1925~><~Scribe.143~><~Game.1923~><~Scribe.144~> 90D19C
+$hrafhraf<~Scribe.141~>035 335 336 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.1930~><~Scribe.144~> 726963
+$hrafhraf<~Controls.644~>362 <~Controls.645~><~Game.2035~> F5B633
+<tybo> pass 591473
+$hrafhraf<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> A603FF
+$hrafhraf<~Scribe.141~>039 <~Scribe.142~><~Game.1933~><~Scribe.143~><~Game.1923~><~Scribe.144~> CC1243
+$hrafhraf<~Scribe.141~>253 <~Scribe.142~><~Game.1920~><~Scribe.143~><~Game.1923~><~Scribe.144~> C943E7
+$hrafhraf<~Controls.644~>104 <~Controls.645~><~Game.2035~> DC7FE3
+$tybo<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 066AF7
+$tybo<~Controls.366~>249<~Controls.367~><~Game.2008~><~Controls.368~><~Game.2012~> FC0A73
+$tybo<~Controls.790~>247<~Controls.791~><~Game.529~><~Controls.792~><~Game.532~> 5D358F
+$tybo<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 6FD40D
+$hrafhraf<~Scribe.141~>420 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1925~><~Scribe.144~> D78FE5
+$hrafhraf<~Scribe.141~>419 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1929~><~Scribe.144~> 553DE5
+$hrafhraf<~Scribe.141~>418 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1933~><~Scribe.144~> 05D2EE
+<tybo> you draw a tile F7224B
+<tybo> i just moved 2CC4CF
+<hrafhraf> yep 66B980
+$hrafhraf<~Controls.624~>216<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$tybo<~Scribe.141~>252 <~Scribe.142~><~Game.2019~><~Scribe.143~><~Game.2020~><~Scribe.144~> 870EEE
+$tybo<~Controls.644~>216 <~Controls.645~><~Game.2035~> B605E4
+$hrafhraf<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> C28B7B
+$hrafhraf<~Controls.323~>255 348E1C
+<hrafhraf> HD 0927F3
+$hrafhraf<~Controls.840~>160 2114FA
+$tybo<~Controls.840~>119 6BAB85
+<auto> playchosen A7DC70
+<auto><~Controls.3~>reveal 119 46231EA2066A16DBA5758ED8BBFC04CA56ADD47E 2<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> BF1E17
+<auto><~Controls.866~>reveal 160 4530F7318AA557A5F6D20671F2891477D408EAC3 0<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> EA839F
+<auto> playchosen D72D3D
+<hrafhraf> cancel aragorn 26F9EF
+<tybo> yes 25D061
+<game> hrafhraf<~Controls.1~> 6 2 2 6 6 null
+<game> hrafhraf<~Controls.1~> 6 4 null
+<hrafhraf> 4 00C4CB
+<tybo> lol 17D64F
+<game> tybo<~Controls.1~> 2 2 1 4 6 null
+<game> tybo<~Controls.1~> 6 5 1 null
+<tybo> 4 BAA0AB
+$tybo<~Scribe.141~>073 286 <~Scribe.142~><~Game.1993~><~Scribe.143~><~Game.2037~><~Scribe.144~> 89A7C3
+$hrafhraf<~Controls.304~>326 006 <~Controls.305~><~Game.1923~> FEDD72
+$hrafhraf<~Controls.313~>003 002 <~Controls.307~><~Controls.314~><~Game.1923~> 9349BE
+$hrafhraf<~Scribe.141~>002 003 <~Scribe.142~><~Game.1923~><~Scribe.143~><~Game.2036~><~Scribe.144~> FDC849
+<hrafhraf> press and draw 916653
+$hrafhraf<~Controls.662~>160 002 003 119 073 286 <~Controls.663~><~Game.2035~> 9F8054
+$hrafhraf<~Controls.304~>325 <~Controls.305~><~Game.1923~> 83B4C9
+$hrafhraf<~Controls.313~>002 <~Controls.307~><~Controls.314~><~Game.1923~> 6D1CCF
+$hrafhraf<~Controls.509~>168<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$tybo<~Controls.840~>142 51474B
+$tybo deselects A99567
+<tybo> card? BD0B7C
+<hrafhraf> yeah, one sec 9F86CF
+$hrafhraf<~Controls.840~>207 DA559D
+$tybo<~Controls.840~>142 10E9F1
+<auto> playchosen 5D744A
+<auto><~Controls.3~>reveal 142 C218D8D29FA700F4F3151FBC44F6F746FF675DB6 6<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 8F32A4
+<auto><~Controls.866~>reveal 207 D8B9650ED2CEB4936C6A5578A66EA8B60E0B615C 4<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 7F50C4
+<auto> playchosen 80D1E6
+<game> hrafhraf<~Controls.1~> 6 1 6 1 1 null
+<game> hrafhraf<~Controls.1~> 4 4 1 null
+<hrafhraf> 2 07D32F
+<game> tybo<~Controls.1~> 4 2 6 6 null
+<game> tybo<~Controls.1~> 3 1 null
+<tybo> 2 1DB04B
+$tybo<~Scribe.141~>241 <~Scribe.142~><~Game.1993~><~Scribe.143~><~Game.2037~><~Scribe.144~> 5C1ECF
+$tybo<~Scribe.141~>211 <~Scribe.142~><~Game.2039~><~Scribe.143~><~Game.2037~><~Scribe.144~> 46FDD5
+$hrafhraf<~Scribe.141~>023 024 <~Scribe.142~><~Game.1923~><~Scribe.143~><~Game.2036~><~Scribe.144~> 96F45C
+<hrafhraf> take 4 on the onslaught AF4263
+$hrafhraf<~Controls.304~>324 323 322 <~Controls.305~><~Game.1923~> A2F9A5
+$hrafhraf<~Controls.313~>328 004 003 <~Controls.307~><~Controls.314~><~Game.1923~> F67440
+$hrafhraf<~Scribe.141~>030 <~Scribe.142~><~Game.1923~><~Scribe.143~><~Game.2036~><~Scribe.144~> 04FA0D
+<game> hrafhraf<~Controls.1~> 3 2 5 3 null
+<hrafhraf> hehe 1 96DAEE
+$tybo<~Scribe.141~>070 <~Scribe.142~><~Game.1993~><~Scribe.143~><~Game.2037~><~Scribe.144~> 6FCF4F
+$tybo<~Controls.644~>100 207 030 023 024 211 142 241 070 <~Controls.645~><~Game.2035~> C3A324
+$tybo<~Controls.726~>212 359 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 32CD50
+$tybo<~Controls.731~>211 358 213 210 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 8F5E0F
+$hrafhraf<~Controls.757~>360 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 7DF9A1
+<~Game.7~>11 null
+$hrafhraf<~Controls.762~>100 104 362 103 102 361 101 099 105 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 50D4F7
+$tybo<~Controls.509~>132<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$tybo<~Controls.509~>111<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$hrafhraf<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> BAA5D9
+$tybo<~Controls.281~>359 <~Controls.282~><~Game.2042~><~Controls.283~><~Game.2039~> 3D7D87
+$hrafhraf<~Controls.509~>166<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$hrafhraf<~Controls.509~>171<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<tybo> fsp ok 6A109A
+<hrafhraf> sure is 71F4F8
+<tybo> ? 7F49FE
+$hrafhraf<~Controls.345~>100 104 362 103 102 361 101 099 105 <~Controls.346~>10 14 15 13 14 14 10 14 12 null
+$hrafhraf<~Controls.350~>100 104 362 103 102 361 101 099 105 null
+$tybo<~Controls.345~>211 358 213 210 212 <~Controls.346~>2 1 3 2 0 null
+$tybo<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 6A5939
+$tybo<~Controls.790~>247<~Controls.791~><~Game.532~><~Controls.792~><~Game.533~> 6BFA5C
+$tybo<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 3A9135
+<hrafhraf> the fellowship seems to be ok 84408B
+<tybo> it is 62474D
+<hrafhraf> sure is A12BE7
+<tybo> gg! 440E72
+<hrafhraf> gg A46F66
+$hrafhraf<~Controls.624~>219<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<tybo> Thank you for the game 112FE6
+$tybo<~Scribe.141~>252 <~Scribe.142~><~Game.2020~><~Scribe.143~><~Game.2022~><~Scribe.144~> EEDF30
+<hrafhraf> gg 97D6C2
+<tybo> Have a good one, I have to go pretty soon 41DB65
+<tybo> see ya! DF8D4D
+<hrafhraf> can't play the 2nd game today 5B05DD
+<hrafhraf> maybe tomorrow 95B091

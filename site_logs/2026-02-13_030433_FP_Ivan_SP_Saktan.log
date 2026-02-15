@@ -1,0 +1,996 @@
+<auto> silent null
+<auto><~Scribe.141~>363 397 398 402 401 400 399 403 404 376 375 374 373 377 378 <~Scribe.142~><~Game.2038~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>365 366 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 367 368 369 370 371 372 <~Scribe.142~><~Game.2040~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>230 231 <~Scribe.142~><~Game.2044~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>155 152 <~Scribe.142~><~Game.2004~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>137 151 <~Scribe.142~><~Game.2005~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>161 198 <~Scribe.142~><~Game.2006~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>163 188 <~Scribe.142~><~Game.2007~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Controls.323~>364 null
+<auto> noisy null
+<auto> silent null
+<auto><~Scribe.141~>312 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1965~><~Scribe.144~> null
+<auto> noisy null
+<~Game.7~>1 null
+<auto> silent null
+<auto><~Scribe.141~>363 397 398 402 401 400 399 403 404 376 375 374 373 377 378 <~Scribe.142~><~Game.2038~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>365 366 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 367 368 369 370 371 372 <~Scribe.142~><~Game.2040~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>230 231 <~Scribe.142~><~Game.2044~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>155 152 <~Scribe.142~><~Game.2004~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>137 151 <~Scribe.142~><~Game.2005~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>161 198 <~Scribe.142~><~Game.2006~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>163 188 <~Scribe.142~><~Game.2007~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Controls.323~>364 null
+<auto> noisy null
+$base silent null
+$TEST<~Scribe.141~>312 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1965~><~Scribe.144~> null
+$base noisy null
+<game> Saktan<~Controls.408~>[WOTR-Gandalf2 wotr base2] null
+<~Talker.31~> null
+<game> NewPlayer<~Controls.437~>Ivan. 
+<Saktan> hey! 
+<Ivan> Hi 
+<Saktan> do you remember what our first game was? 
+<Ivan> 2 tokens, and I was SP 
+<Saktan> ok 
+<Ivan> just checked the log 
+<Saktan> nice 
+<Saktan> i'll brb, gotta change laundry srry haha 
+<Ivan> no worries 
+<Saktan> ok back 
+<Saktan> so i'm SP and you're FP with 2 tokens for Hobbit game 2 
+<Ivan> Yeah 
+$Ivan<~Controls.464~>EA6B255483B2647021FAFAB767BC582EE3C0F1C7 1E15C250CD312462BD645B1D27A69B14 24 78862E35DA3488EC466B7A9FEA19518BA2962AEA 778B1EFA921BCF333DD44F67ABBDE194 55D102ACE88FF4B40BAD7371365C8C4DDE911AA9 C8435AD086CFEC3EAA8B1E36864C9762 AED3050DCA2E4D58E22643E8C9203611872FD6D5 7C19EF06AA5C7BCFE34C06D9DC151A9D CBDFA1334462F96191ED9B366C0EAABB0EB9819C 4DC3FA50FBB20E4B8DC6A339BCCAC2F2 51A894449C5E928AFCBB42BEE581E39F4CF38B69 C4D3B88C9B73E9C137F280F66E77B4BF 64CDF067F8B953EA632000DCEB636977CA7072DB 00BE7DDF5110D6BBBFB0B9440FF2A4E9 62B9BA6D5FEB499BF4624E63A49AE308C1064B02 B5E2D6A533EE2DB9F348235F5F1EA5A6 AB0FBF7FF4A5821FF648E57718F6C3137F920C84 77E92F63A17F230D7AAC1A90D91A0936 E4E9A83519DEAB58AEA792C5F52350545680DD82 38EA9DFB75893FBEF5A6F73604ABFD5B 828873101BD03AF7634EEE7595DCD1A6A517413E 0F2B756D780751FC605B61B90973595B 22E4279EC2132603D6839065C8CFDC51A2F1ABD9 3A76566F1764122BBEB3A2ED84D80D3B B924295F7A4E2BE4124B15A3B2E95E5FC68E3A96 664CAD8656F7BD25F5A6E3EB9E9C8476 54F584633D87D4497A1078C8FBACEB1F552A9EF3 2D77689A0301F714F67816335B837437 42EB26F04609D98DA1D9F7DC442E80C70FBA05C4 DFBF4ABA2F920B452059B6E9309C88E5 1A4E3C02D495A84124DBBB18AB8A62F2352418B4 84CEC9D4DA19E7E1E602679CD8FFDA09 292BF3E37AA0B63137B9F32C57BEFC71718ED00F 21754DB0ED88544FAE445BFB6717FD22 E3135720EB39258E5C26949DEFB2295648F1282F 3AEB01816C41AA2AFC9062A59FC0544F C2CC2D400F8CC5CDFFC575EFC15D26C44B72691E 98BD9376EB44E97DCFFDDB5A81E33678 C4F50257548B289BDBD427B27E5D06270604BDB2 4C7654354156FC9E4B56CFED274D9D8D D9BBF809B2915851F2BB33FC6E68E4595DF7436A F340B3387B025BE7972253C5D0E3DE21 A88985ABF18BAB72A341221E979404121D9BFEB9 3A0FE5F913C51F5C08CA70CB3C88AE5B 4946E388673E059F6686C1201ECF9FB9A1FFD561 A4014C8962BBDF737E33267C3A381664 FD6FE7C1AD88E44474A4D7A05CB7B5BFBE46D193 8A18E63B529B85090E88368C7E4669A3 67C6C66724F888248AF7D63AC53B0DFFFCA91061 6371078C57E158D1E1FB7125B8BB81D4 24 8FE437CC5EA2B71467CCF73AA6A92C7EA6CEAFF7 459424469F69751A5BC1360EE1344A0E C09F9A47D18B59928EDCD6684FE96268774169D9 AC95B54387E8868A7F8A6BA9D7D2D6D1 713E4F155539B7E76C6176A967B312C6D3825DDE 7910830751F6DEC6913C56A52C0F6534 113B41DC7C46E0B21B5855363ECFD7DF2C6D9E5A 3C3C3A8414A2338CFCB9B7603A8AC3B9 A610D898034EF2170119E3D237842B07CCF25670 B5A335B0F3BFBFA876E6BFA07A262012 8FD9663CE138AB13CC2D10B7C2AAB4D26FAFDA10 973F3C8C91665D326149FBA515054CEF 6C4B375C584DE14F942CC3316875B6C3E358A56E 90F9D036C44FC66E74F28D24BB376A9E 2945FFFA4E950BA243C640521CB5D3B9B2817433 85DBC8168810AD6E9A842523B43BF72C 054A38B27B4123AFD43954E68F078E7E817D8865 226F7E26355C1DC0198B467634926418 90008F186C148813572B92D722057ECB056E37C1 91115DC9F4C6C0B8F77C3701F20965EF 875A4364428544722CA1CC41A969135A714B5F63 883FE72F6FBB884098120E4DFB8DBBC8 DC0501464663B87B93AD7727FB10C1EB77233BCF 891D073FC7971540ABD18977C28D27FE D3BF36D0F94A1E8936A0AA785546CDD0C9570DE9 65C0A8D6CA253E9F47F3B0307C522780 4708227786401FCCC10A5417F9107B7DCD50C88D 01FA919565E299465008D315AAD5F939 63C05728337B097C98C56D7091B3419CCD010294 5CAE633D57C823BE1F00E774F7ECCE11 2F622657C7C110D244E3336A167F2C00852A0BBD D0F4EC4D279232A26175708A43DFADE0 6E7738C3635727CE7540AF9C8B973885EE2F93C3 9789B88258A75E4A3F6572E8FFB68765 A0499442B9072B2174F0DD7AACB3694038DAFA9E 90534185DA28BD22BFB4B394BBE56B68 A7436CFDFA3584C7E64DCB71A82E65A55C0B4545 4302C359C2D05A926928FCE1FC0C2B83 2B1569B28A1ACE85C67917F435F00876E7ACA557 220868083D9958012DB2364952001DED E1D5D5177F5A9F40EFB52A06E7721951A3D7F770 1175E688C25EB7008439D0EEAA547C25 38F5E2C06BBC35E4105BB0D62EB6E98C0EE1E723 2875B18786F1FE8CD44178CCE0101BEC 3C44BA40FD23E44DED6733635DF88B761296705A B777FDC1354AC0661813DB09985359F8 0FEB81C6E748B6FBCAB289AEDE623559B4DA4A0C 8A42313DDED5B9FFC048432E4E0280B3 0 0 BCF6B2
+<Saktan> ok great 
+$Ivan<~Controls.509~>123<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Ivan<~Controls.509~>110<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+<Ivan> GL, HF 82DCCF
+$Saktan<~Controls.479~>A4CB103EE1366A874C41BF7FC555314548104486 A8EB7786BE7627FF3ABE37DBBE45E52D 24 B2F83572929E176FD210D9DB4C65EFAE862A5E24 013FE45996D4189127E1B1FFA33954E2 1F972CA3D940840443A59660BB4B8523FF292036 E6FFFA7971EA3C357B399C2EA1BDD99C A77DD889CB2C5C0684ACC15BC630F117E85B48F5 BD4B9F6163C430F2BB658941BC0EF05B 1351FC6C03F92D2B06169AF97BB7B6B26407B83A 0AD4A6262E139D44B0C92B1886B93E8F 62D286B06B9971D810FF2CCA7BC73361D6E4C1C2 CCDD3B96D3C193686A360126D7BB54FE AEB9E0CBE0F82EB2EB2E887E122D2EB8DA3F1083 275355D66CD0B874888EC24ABC8D76A4 E128756E839819839D48345BB70BACFCD7C01C37 42CB6BF139889D79B7EA7277AF458FB4 048441B5BCBE8FD8166812589D2722011147A2EB 72AC9CA2F75C92AE78029EE5084C93BD A73DE34C8E8BF2E5E776522E5BB40E1737360305 97CCDA87780FA51425DD0D09B3519679 9B75ECF625F7E8A8D279F36E8F32DA99C8C915EE C633DE8F70E5C555350F3C52237EBDC7 4023456B98312CA456D944984994F44FA7891497 28E57AF08C0A688ABE07434186085276 2BC4546137789CBEB73613F19DA4B1F447850EBF 21D2203AC86E9ED83B3258E23AB0C715 9B8205930DF0AA349A5A825EA296D820C6508020 B35BC5A401B6F7FD8FF01F4E7FC8CD02 0DDCD895370DAD16658DD1A94636A169F1F32FA1 2506998BC90C710E49B1B82D6CCBB813 C0636B8218C3496B9808784C33A29976470594C4 DF42F22D7AF6006029A66A0C27A8FDF7 0C9393889CD9A8338D504A21BC0CD7F947A114E9 9874004F8D68B868E3DEBDB3504057EE 1D029BF32B540BC2D300B7A44783AB1B40B299DF B29168B12CC7898622CC9032BDC8C142 757EA468DCF5F8D454E4D6306A62AAE1CFD08F40 E4081FD20497AA50CF6EE5106C01FF3F 10225516AF5AEB0638ACA4A9666DDE4523165D52 19CCE8B460F87D5C92B7BBA0B5781154 5D8203378A178E40DEFEDEE92CBDC759DE35B24B 97A52737733F43C898DAB32CBF4D4CF3 1CD412FEBB2C8261EB991F56463BB863D2E55752 633B34C1F43DA575979B9BCF342678DD 2CD601588BCB1D9E202AAB3FF3CC8900DB01B4F7 E464CA85F011FC8A0ED6B520384B6553 7452C337846C948B8FB3F03EE0D76E67F51CC11E C6B632E0DB8DDC8CD1C5BB3796214E44 A043FC0EE5CAAE9224A4F4797C11ECF4C6585159 21691E07E78DAD77C4D38B3D3C71ECB0 24 36D67760FAAA4B75BA5C09710F37868F0745096C D9FBD8D198CEAC93E6EA7133E92F5759 ED6E37737BC331CC8A175E36E9E3824FCC5CD464 473DC5F9981852029199317F24C3E519 1622C6793E23FBB5DCA12FBEE522981595A17FF0 18975139C7D59803FF82BA4D6FEDB02D 42F04D15D740C81C76DDACCBF45B8FD2C28520F1 75C5E9359663A5C910E5F3F5BCDA1862 B53F14E9F38341E32C65F680A482C38D39CDC51A 645C2AF295B6BC124936942820003B51 B08706CF84306008C27F23E1587B879FD09D6B32 6DBFFCEA4923DA312020C625C6C2B920 0F48E49B804ABAE615D0FCA216AB93EC64DA9224 806F8833436098467659AC25251AE361 B6568B25A8C58AAEDE1E900765A30BA72E020F8E 16D3503B6D15E0126425EA2175A16257 4541D17A24433026BDA7F9930303B22ECEA9A06A 95DCA425A68C1FA1397A6EC45ECC7E96 71B3A2B14D7DB6428EA20AB05A68950D30FA57B5 F832F81B9157F41DC3141C37F232A82D EF6B4A5EB43699F3E9B5F5ED4148DED141433DB6 AFC01314AAFE684DCEFBC838DD281DDB 8A1A8D4A2A74447C6D2F92D9EC3BE9FA20973453 C3CC8589990D769BE937B44ADB13D38B 7BCB67F23ED6C42845C58EC51A8FC5D7D14A1685 3D029875CA1097426FC338166935FA27 94907EA19DADF3C18A780C2650E34DAB92935AED C80994D43D583987C5F670B1BFDB8766 76328FA0BFA1DA67CC337713D8F3B768CF02B94F 959985989A93D3CCE0F4ED0AFC2D7EF7 4654CA8E1C04CFD7D92861C699FEC853DD70C6EB 7E1F3383889BD2DE09DCDA24A307683C 7844A1B7E83AB856452D93E54F1770CB7F59EF97 6D69F4E03EFC784DE4BE1B8F4697F222 BB358DF7469731D9CE64340F36AABABCF471D1C3 FFEFA0065915942AADA974AA80B4F59D BDF5BD8A588D9DC9F9A8886B12B2FE46301AE719 63A7452CF0E2C2CCC537C51C2721D7F8 8168623B8397D4B21260A755578482D3F5AE55D3 887AEC4EE5C337E76D7D29B4C2294497 F297D673D90A21B3EDF6365CDC957ADDCCCA7FDE 77D4BD1B7DD19F28D04999FC39590013 5B2763064E909A7AD4F17D54204E9C1B2F193CEA FCDB6618339C6F7B4605AB7DCB333F7A B3AC0CD878743FFF38BBBF7DE75249C2B5B8B0F8 8C4535BEC8617EC5D6AFAFF4432DEA4D 56D7001BD4CCA4BBF2EFC67166B41432D2352CF9 62DF03A99E10D6D1FDC3B1AE6E4E93D7 0 0 174D79
+<Saktan> you also! 4744A9
+$Saktan<~Controls.509~>168<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.509~>187<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<Ivan> fsp ok F26AF3
+<Saktan> tokens! 7A78F0
+<Saktan> 1e BACC6D
+$Ivan<~Controls.281~>426 427 <~Controls.282~><~Game.2038~><~Controls.283~><~Game.2042~> 85BAEA
+<Ivan> thx 69D0BA
+$Saktan<~Controls.372~>105 3809B1
+$Saktan<~Controls.345~>104 103 102 101 100 099 <~Controls.346~>14 15 11 12 10 10 null
+$Saktan<~Controls.350~>104 103 102 101 100 099 null
+$Ivan<~Controls.345~>213 212 211 210 <~Controls.346~>1 3 0 1 null
+<Ivan> pass 348AB2
+$Saktan<~HighlightLabel.81~>099<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 6F0B50
+$Saktan<~HighlightLabel.101~>263<~HighlightLabel.102~><~Game.2002~><~HighlightLabel.103~><~Game.2003~> F9DDB7
+$Saktan<~Controls.644~>099 <~Controls.645~><~Game.2035~> BA8FEF
+$Ivan<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> C9B477
+$Ivan<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> F3B4AA
+$Ivan<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 1A12B7
+<game> Saktan<~Controls.1~> 3 1 null
+<Saktan> safe F8A4F7
+$Saktan<~HighlightLabel.81~>100<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 9772C3
+$Saktan<~HighlightLabel.101~>262<~HighlightLabel.102~><~Game.2002~><~HighlightLabel.103~><~Game.2003~> A837FA
+$Saktan<~Controls.644~>100 <~Controls.645~><~Game.2035~> 27D22F
+$Ivan<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 4EBADE
+$Ivan<~Controls.790~>248<~Controls.791~><~Game.2015~><~Controls.792~><~Game.2016~> 8CA3E3
+$Ivan<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 1AADAD
+<game> Saktan<~Controls.1~> 3 1 null
+<Saktan> safe A160E6
+$Saktan<~HighlightLabel.81~>101<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 079FE7
+$Saktan<~Scribe.141~>039 036 029 028 027 026 <~Scribe.142~><~Game.1979~><~Scribe.143~><~Game.1977~><~Scribe.144~> 86FBB1
+$Saktan<~Scribe.141~>055 049 048 047 <~Scribe.142~><~Game.1968~><~Scribe.143~><~Game.1946~><~Scribe.144~> 3936F2
+$Saktan<~Controls.644~>101 <~Controls.645~><~Game.2035~> 1435F5
+$Ivan<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> E4F7CE
+$Ivan<~Controls.790~>248<~Controls.791~><~Game.2016~><~Controls.792~><~Game.2017~> 96A766
+$Ivan<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 2C3767
+<game> Saktan<~Controls.1~> 1 4 null
+$Saktan<~Controls.624~>224<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Ivan<~Scribe.141~>240 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2037~><~Scribe.144~> 5C9930
+$Ivan<~Controls.644~>224 240 <~Controls.645~><~Game.2035~> 60AD49
+$Ivan<~Scribe.141~>241 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> 49D27C
+<Saktan> the ever annoying dilemma of a 1 D46C75
+<Ivan> not sure if thats correct but lol 6D1135
+$Saktan<~HighlightLabel.81~>104<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 8208DE
+<Ivan> with 3 moves already its probably better to take him AB2C70
+$Saktan<~Controls.509~>183<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.644~>104 <~Controls.645~><~Game.2035~> B4B568
+$Ivan<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> C0403F
+<Saktan> true 7D3137
+$Ivan<~Scribe.141~>256 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> DFF3EF
+$Ivan<~Controls.644~>212 <~Controls.645~><~Game.2035~> EAD9BF
+$Saktan<~HighlightLabel.81~>102<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 44723A
+$Saktan<~Scribe.141~>039 036 029 028 027 032 <~Scribe.142~><~Game.1977~><~Scribe.143~><~Game.1969~><~Scribe.144~> B7585B
+$Saktan<~Scribe.141~>001 <~Scribe.142~><~Game.1910~><~Scribe.143~><~Game.1917~><~Scribe.144~> EAEF1A
+$Saktan<~Controls.644~>102 <~Controls.645~><~Game.2035~> 7E1232
+<Ivan> Pass 6A5D9E
+$Saktan<~Controls.757~>103 105 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> AA189F
+$Saktan<~Controls.762~>102 104 101 100 099 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 94E491
+$Ivan<~Controls.726~>211 210 213 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 14EF27
+<~Game.7~>2 null
+$Ivan<~Controls.731~>212 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> B63F74
+$Ivan<~Controls.509~>132<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Ivan<~Controls.509~>106<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Saktan<~Controls.509~>182<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.509~>189<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<Ivan> fsp ok AA01B8
+<Saktan> 1e B142DC
+$Saktan<~Controls.372~>102 75832E
+$Saktan<~Controls.345~>104 101 100 099 103 105 <~Controls.346~>10 12 10 12 12 11 null
+$Saktan<~Controls.350~>104 101 100 099 103 105 null
+$Ivan<~Controls.345~>212 211 210 213 <~Controls.346~>4 1 4 1 null
+<Ivan> pass 238E03
+$Saktan<~HighlightLabel.81~>100<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 7EAF05
+$Saktan<~Scribe.141~>254 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1919~><~Scribe.144~> 8D781B
+$Saktan<~Scribe.141~>360 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2037~><~Scribe.144~> A64743
+$Saktan<~Controls.644~>100 360 <~Controls.645~><~Game.2035~> 2EADD1
+<Ivan> pass 90D6CB
+$Saktan<~HighlightLabel.81~>104<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 4A383C
+$Saktan<~CardBuffet.14~>reveal 189 AA309233C3233041769E4BA8A1515CFA53A7A6EE 13<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> A50F76
+$Saktan<~Scribe.141~>342 343 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1956~><~Scribe.144~> 85E3A3
+$Saktan<~Scribe.141~>340 341 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1917~><~Scribe.144~> 95EDCD
+$Saktan<~Scribe.141~>338 337 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1922~><~Scribe.144~> 62194A
+$Saktan<~Controls.644~>104 189 <~Controls.645~><~Game.2035~> BC9AAD
+$Ivan<~Scribe.141~>426 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 5802F9
+$Ivan<~Scribe.141~>256 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> 8262B6
+$Ivan<~Controls.644~>426 <~Controls.645~><~Game.2035~> 56D2AB
+$Saktan<~HighlightLabel.81~>103<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 7D4845
+$Saktan<~Scribe.141~>040 035 342 343 015 014 013 012 011 <~Scribe.142~><~Game.1956~><~Scribe.143~><~Game.1958~><~Scribe.144~> 108467
+$Saktan<~Scribe.141~>039 037 036 029 028 027 032 020 019 018 017 016 <~Scribe.142~><~Game.1969~><~Scribe.143~><~Game.1964~><~Scribe.144~> 1C2DE4
+$Saktan<~Controls.644~>103 <~Controls.645~><~Game.2035~> FFD007
+$Ivan<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 3B654C
+$Ivan<~Scribe.141~>065 <~Scribe.142~><~Game.1941~><~Scribe.143~><~Game.1957~><~Scribe.144~> 667092
+$Ivan<~Scribe.141~>073 072 <~Scribe.142~><~Game.1929~><~Scribe.143~><~Game.1925~><~Scribe.144~> FB81EB
+$Ivan<~Controls.644~>212 <~Controls.645~><~Game.2035~> 4FB8A4
+$Saktan<~HighlightLabel.81~>099<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 91118D
+<Saktan> OFR 36600F
+<Saktan> nc C81477
+<Ivan> nc A9DBB3
+<game> Saktan<~Controls.1~> 2 4 1 5 3 null
+<Saktan> 1 4B9712
+<game> Ivan<~Controls.1~> 3 null
+$Ivan<~Scribe.141~>065 <~Scribe.142~><~Game.1957~><~Scribe.143~><~Game.2037~><~Scribe.144~> 2F2507
+$Saktan<~Scribe.141~>040 035 342 343 015 014 013 012 011 <~Scribe.142~><~Game.1958~><~Scribe.143~><~Game.1957~><~Scribe.144~> B8C918
+$Saktan<~Controls.323~>258 25406C
+$Saktan<~Controls.644~>099 065 <~Controls.645~><~Game.2035~> 2B1B18
+$Ivan<~Scribe.141~>258 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> EEC06B
+$Ivan<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 56D3AC
+$Ivan<~Controls.790~>248<~Controls.791~><~Game.2017~><~Controls.792~><~Game.2018~> FE86FD
+$Ivan<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 8C235B
+<game> Saktan<~Controls.1~> 4 null
+<Saktan> safe E44C48
+$Saktan<~HighlightLabel.81~>101<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 7DB24C
+<Saktan> WLR 8A560A
+$Ivan<~Scribe.141~>098 094 088 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1991~><~Scribe.144~> 860127
+$Saktan<~Scribe.141~>040 035 342 343 015 014 013 012 011 <~Scribe.142~><~Game.1957~><~Scribe.143~><~Game.1954~><~Scribe.144~> C5574F
+$Saktan<~Controls.644~>101 <~Controls.645~><~Game.2035~> E23395
+$Ivan<~Scribe.141~>256 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> EA6CDD
+$Ivan<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 67E127
+$Ivan<~Controls.790~>248<~Controls.791~><~Game.2018~><~Controls.792~><~Game.2019~> 5CD91C
+$Ivan<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> B6F659
+<game> Saktan<~Controls.1~> 3 null
+<Saktan> safe B3B1B0
+<Saktan> man 28AEE3
+<Saktan> these sprint games lol 0013F2
+<Ivan> yeah... crazy 54D604
+$Saktan<~HighlightLabel.81~>105<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 335EA1
+$Saktan<~Scribe.141~>253 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1954~><~Scribe.144~> 5BD106
+$Saktan<~Controls.323~>259 257 E6BFF0
+$Saktan<~Controls.323~>260 29B3E4
+$Saktan<~Scribe.141~>361 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2037~><~Scribe.144~> 2CFEF8
+$Saktan<~Controls.644~>105 361 <~Controls.645~><~Game.2035~> 25D283
+$Ivan<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 70FBA4
+$Ivan<~Scribe.141~>249 <~Scribe.142~><~Game.2008~><~Scribe.143~><~Game.2011~><~Scribe.144~> E96B2C
+$Ivan<~Controls.790~>248<~Controls.791~><~Game.2019~><~Controls.792~><~Game.2020~> B9F2D2
+$Ivan<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> D316AA
+<game> Saktan<~Controls.1~> 1 null
+<Saktan> bruh 37C79C
+<Ivan> omfg C05A4E
+$Ivan<~Controls.726~>210 213 211 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 598665
+$Ivan<~Controls.731~>212 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 753CCF
+$Ivan<~Controls.509~>154<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Saktan<~Controls.757~>102 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 695BCB
+<~Game.7~>3 null
+$Saktan<~Controls.762~>105 361 101 099 103 104 100 360 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 6BC959
+$Ivan<~Controls.509~>113<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Saktan<~Controls.509~>162<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.509~>170<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<Ivan> fsp ok EE7820
+<Saktan> 1e 03ED99
+$Saktan<~Controls.372~>105 7FCC8D
+$Saktan<~Controls.345~>361 101 099 103 104 100 360 102 <~Controls.346~>10 15 14 15 15 13 15 14 null
+$Saktan<~Controls.350~>361 101 099 103 104 100 360 102 null
+<Saktan> or not 49B9E7
+<Ivan> LOL 165C3E
+$Ivan<~Controls.345~>212 210 213 211 <~Controls.346~>1 1 0 1 null
+<Saktan> smh C822AD
+<Saktan> lol 5D6D5B
+<Ivan> thats so rough dude C7EE37
+<Ivan> sorry B42E1B
+<Saktan> eh it happens 68788F
+<Saktan> part of the game 4D29BB
+$Ivan<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> D5D0F9
+$Ivan<~Controls.790~>248<~Controls.791~><~Game.2020~><~Controls.792~><~Game.2021~> 6CA59C
+$Ivan<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> D1568A
+<game> Saktan<~Controls.1~> 4 6 2 3 5 null
+<Saktan> hey a hit! 37939E
+$Saktan<~Controls.624~>214<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Ivan<~Scribe.141~>247 <~Scribe.142~><~Game.1911~><~Scribe.143~><~Game.1915~><~Scribe.144~> 22152F
+$Ivan<~Scribe.141~>247 <~Scribe.142~><~Game.1915~><~Scribe.143~><~Game.1912~><~Scribe.144~> 67983F
+$Ivan<~Scribe.141~>247 <~Scribe.142~><~Game.1912~><~Scribe.143~><~Game.1917~><~Scribe.144~> 3A94B3
+$Ivan<~Scribe.141~>247 <~Scribe.142~><~Game.1917~><~Scribe.143~><~Game.1927~><~Scribe.144~> 1ED7FB
+$Ivan<~Scribe.141~>247 <~Scribe.142~><~Game.1927~><~Scribe.143~><~Game.1930~><~Scribe.144~> 65789B
+$Ivan<~Scribe.141~>247 <~Scribe.142~><~Game.1930~><~Scribe.143~><~Game.1937~><~Scribe.144~> 9F9140
+$Ivan<~Scribe.141~>247 <~Scribe.142~><~Game.1937~><~Scribe.143~><~Game.1942~><~Scribe.144~> 97F0D6
+$Ivan<~Controls.323~>247 47130C
+$Ivan<~Scribe.141~>214 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2036~><~Scribe.144~> E66991
+$Saktan<~Controls.624~>223<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Ivan<~Scribe.141~>252 <~Scribe.142~><~Game.2014~><~Scribe.143~><~Game.2015~><~Scribe.144~> E94652
+$Ivan<~Controls.644~>214 223 <~Controls.645~><~Game.2035~> 3CE61B
+$Saktan<~HighlightLabel.81~>102<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> D156C4
+$Saktan<~CardBuffet.14~>reveal 187 4F7B3F5826BDB4533E9D2B6940987D6E72383936 21<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 8D7AC6
+$Saktan<~Scribe.141~>323 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1954~><~Scribe.144~> EE1821
+$Saktan<~Controls.644~>102 187 <~Controls.645~><~Game.2035~> 4389ED
+$Ivan<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> E24FF1
+$Ivan<~Controls.323~>247 5B359F
+$Ivan<~Controls.644~>210 <~Controls.645~><~Game.2035~> 7DBB01
+$Saktan<~HighlightLabel.81~>361<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 1D3D47
+$Saktan<~HighlightLabel.96~>261<~HighlightLabel.97~><~Game.2001~><~HighlightLabel.98~><~Game.2002~> C75FD2
+$Saktan<~Controls.644~>361 <~Controls.645~><~Game.2035~> CD9350
+$Ivan<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 87542A
+$Ivan<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> D0829C
+$Ivan<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 5D66E8
+<game> Saktan<~Controls.1~> 4 2 6 5 6 null
+<Saktan> 3 A69C48
+$Saktan<~Controls.624~>227<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Saktan> nice 4E0799
+<Saktan> lol C97B37
+<Ivan> hehe D65237
+<Ivan> Random 8030E8
+$Saktan<~Controls.637~>246<~Controls.638~><~Game.1998~><~Controls.639~><~Game.2036~> null
+$Ivan<~Scribe.141~>246 <~Scribe.142~><~Game.2036~><~Scribe.143~><~Game.1944~><~Scribe.144~> FA0F5D
+$Ivan<~Scribe.141~>246 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.1933~><~Scribe.144~> 7691B3
+$Ivan<~Scribe.141~>246 <~Scribe.142~><~Game.1933~><~Scribe.143~><~Game.1925~><~Scribe.144~> 2497F5
+$Ivan<~Scribe.141~>248 252 <~Scribe.142~><~Game.2015~><~Scribe.143~><~Game.2017~><~Scribe.144~> 129726
+$Ivan<~Scribe.141~>248 <~Scribe.142~><~Game.2017~><~Scribe.143~><~Game.2015~><~Scribe.144~> F54B99
+$Ivan<~Controls.644~>227 <~Controls.645~><~Game.2035~> B3CEF2
+$Saktan<~HighlightLabel.81~>099<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> E3596B
+$Saktan<~CardBuffet.14~>reveal 182 76FCC6E19DFB910C6459A7E0AFE1B22209FDAE8C 22<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 492F31
+<game> Saktan<~Controls.1~> 2 5 4 null
+<Saktan> 2 753E1C
+$Ivan<~Scribe.141~>252 <~Scribe.142~><~Game.2017~><~Scribe.143~><~Game.2019~><~Scribe.144~> 74E587
+$Saktan<~Controls.644~>099 182 <~Controls.645~><~Game.2035~> A10B08
+$Ivan<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 76FC2F
+$Ivan<~Scribe.141~>240 <~Scribe.142~><~Game.2039~><~Scribe.143~><~Game.1921~><~Scribe.144~> 1C0E90
+$Ivan<~Scribe.141~>359 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.2037~><~Scribe.144~> B1A03B
+$Ivan<~Controls.323~>240 7C27FC
+$Ivan<~Controls.644~>213 359 <~Controls.645~><~Game.2035~> D3474F
+$Saktan<~HighlightLabel.81~>100<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 1D7F75
+$Saktan<~CardBuffet.14~>reveal 168 068C8424DFEAC8B194D930548FC715BE94476980 12<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 8B6DD3
+$Saktan<~Scribe.141~>038 <~Scribe.142~><~Game.1974~><~Scribe.143~><~Game.1942~><~Scribe.144~> 58ED3C
+$Saktan<~Scribe.141~>037 <~Scribe.142~><~Game.1964~><~Scribe.143~><~Game.1954~><~Scribe.144~> C1F4A4
+$Saktan<~Scribe.141~>039 <~Scribe.142~><~Game.1964~><~Scribe.143~><~Game.1959~><~Scribe.144~> A469E2
+$Saktan<~Scribe.141~>040 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1943~><~Scribe.144~> 6FCEC5
+<Saktan> ok 626989
+$Ivan<~Scribe.141~>247 <~Scribe.142~><~Game.1942~><~Scribe.143~><~Game.1943~><~Scribe.144~> D68F1B
+$Ivan<~Controls.323~>247 E74B7D
+$Saktan<~Controls.644~>100 168 <~Controls.645~><~Game.2035~> EF6B3F
+$Saktan<~Controls.757~>101 103 104 360 105 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> BB4064
+$Saktan<~Controls.762~>100 099 361 102 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 16D473
+$Ivan<~Controls.726~>211 212 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> FB08C1
+<~Game.7~>4 null
+$Ivan<~Controls.731~>213 359 210 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 99E14D
+$Ivan<~Controls.509~>107<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Saktan<~Controls.509~>201<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Ivan<~Controls.509~>156<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Saktan<~Controls.509~>171<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Ivan<~Controls.281~>107 <~Controls.282~><~Controls.45~><~Controls.283~><~Game.2039~> B9F757
+$Ivan<~Controls.281~>154 <~Controls.282~><~Controls.45~><~Controls.283~><~Game.2039~> 1CD965
+<Ivan> f ok 76FF9B
+<Saktan> 1e ABABDF
+$Saktan<~Controls.372~>100 68CA09
+$Saktan<~Controls.345~>099 361 102 101 103 104 360 105 <~Controls.346~>14 12 13 10 15 15 11 11 null
+$Saktan<~Controls.350~>099 361 102 101 103 104 360 105 null
+$Ivan<~Controls.345~>213 359 210 211 212 <~Controls.346~>4 4 4 2 3 null
+<Ivan> lol A65779
+<Saktan> yikes 246E6B
+<Ivan> pass CAE007
+<Ivan> nvm 35EC31
+$Ivan<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 7AA687
+$Ivan<~Controls.323~>247 1833AC
+$Ivan<~Controls.644~>212 <~Controls.645~><~Game.2035~> 1A7B13
+$Saktan<~HighlightLabel.81~>361<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> D69729
+<Saktan> WLR 3AA558
+$Saktan<~Controls.840~>162 0692FA
+$Ivan<~Controls.840~>106 C818D9
+<auto> playchosen 9ADDEF
+<auto><~Controls.3~>reveal 106 98D661D16EF9D3A2792F7E24A973282FC6BE5C1F 0<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 6D6D2D
+<auto><~Controls.866~>reveal 162 F106141FF2A165485B013D9231C5DA755CFEAECF 8<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 6F7D92
+<auto> playchosen 6A8E22
+<game> Saktan<~Controls.1~> 6 6 1 5 1 null
+<game> Saktan<~Controls.1~> 2 null
+<Saktan> 2 9675AF
+<game> Ivan<~Controls.1~> 6 3 null
+<Ivan> 1+2 11EDDC
+$Ivan<~Scribe.141~>094 <~Scribe.142~><~Game.1991~><~Scribe.143~><~Game.2037~><~Scribe.144~> 80A198
+$Saktan<~Scribe.141~>343 342 011 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.2036~><~Scribe.144~> A15060
+<Saktan> press/draw 5911C0
+$Saktan<~Controls.304~>035 <~Controls.305~><~Game.1954~> B1D09B
+$Saktan<~Controls.313~>344 <~Controls.307~><~Controls.314~><~Game.1954~> 65DDA9
+$Saktan<~Controls.509~>203<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.644~>361 162 343 342 011 106 094 <~Controls.645~><~Game.2035~> B084EC
+$Saktan<~Controls.819~> 6B259C
+$Saktan<~Controls.662~>162 343 342 011 106 094 <~Controls.663~><~Game.2035~> E671FE
+<Saktan> nc DA2D43
+<Ivan> nc 42E13F
+<game> Saktan<~Controls.1~> 2 6 5 6 3 null
+<game> Ivan<~Controls.1~> 4 null
+<game> Ivan<~Controls.1~> 1 null
+$Ivan<~Scribe.141~>098 088 <~Scribe.142~><~Game.1991~><~Scribe.143~><~Game.2037~><~Scribe.144~> 183994
+$Saktan<~Scribe.141~>423 <~Scribe.142~><~Game.27~><~Scribe.143~><~Game.29~><~Scribe.144~> BCA738
+$Saktan<~Controls.644~>361 098 088 <~Controls.645~><~Game.2035~> 13A579
+<Ivan> pass 33267F
+$Saktan<~Scribe.141~>413 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1954~><~Scribe.144~> B03470
+$Saktan<~HighlightLabel.81~>101<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 040E2F
+$Saktan<~HighlightLabel.101~>261<~HighlightLabel.102~><~Game.2002~><~HighlightLabel.103~><~Game.2003~> 107B5A
+$Saktan<~Controls.644~>101 <~Controls.645~><~Game.2035~> BECA61
+$Ivan<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> B4848A
+$Ivan<~Scribe.141~>reveal 132 D47216F7B68F4254F80022E0FAFD28BBA4D53DDE 12 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2036~><~Scribe.144~> 5B62E9
+$Ivan<~Scribe.141~>245 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1944~><~Scribe.144~> 6846B7
+$Ivan<~Scribe.141~>252 <~Scribe.142~><~Game.2019~><~Scribe.143~><~Game.2018~><~Scribe.144~> D8226D
+$Ivan<~Controls.644~>211 132 <~Controls.645~><~Game.2035~> 25003E
+$Saktan<~HighlightLabel.81~>360<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 5EA3A5
+$Saktan<~Scribe.141~>055 057 049 048 047 046 045 <~Scribe.142~><~Game.1946~><~Scribe.143~><~Game.1932~><~Scribe.144~> 55F5EB
+$Saktan<~Scribe.141~>253 037 323 344 015 014 013 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1957~><~Scribe.144~> 0DAE01
+$Saktan<~Controls.644~>360 <~Controls.645~><~Game.2035~> ABE60F
+<Saktan> srry can i cahnge 60ADA7
+<Saktan> change* 10C569
+<Ivan> yeah its fine 141D61
+$Saktan<~Scribe.141~>253 037 323 344 015 014 013 <~Scribe.142~><~Game.1957~><~Scribe.143~><~Game.1954~><~Scribe.144~> 51124F
+$Saktan<~Scribe.141~>338 337 010 <~Scribe.142~><~Game.1922~><~Scribe.143~><~Game.1934~><~Scribe.144~> BEFD6A
+$Saktan<~Controls.644~><~Controls.645~><~Game.2035~> 0E9418
+<Saktan> ok 7C4219
+<Saktan> thx 5C4606
+<Ivan> yep 5B3152
+$Ivan<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 3BBEBC
+$Ivan<~Scribe.141~>reveal 156 3A100FD69806E0F93495774B30740C8E6EEF4B72 3 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> FDF591
+<Ivan> WLR 460391
+<game> Ivan<~Controls.1~> 5 2 1 2 5 null
+<Ivan> 2 E43EB3
+$Saktan<~Scribe.141~>013 014 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.2037~><~Scribe.144~> 188CE2
+<Saktan> nice 8F4EBA
+$Ivan<~Controls.644~>213 156 013 014 <~Controls.645~><~Game.2035~> 91E67F
+$Saktan<~HighlightLabel.81~>105<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> ACBF52
+$Saktan<~Scribe.141~>338 337 010 <~Scribe.142~><~Game.1934~><~Scribe.143~><~Game.1941~><~Scribe.144~> 955CE0
+$Saktan<~HighlightLabel.96~>258<~HighlightLabel.97~><~Game.2001~><~HighlightLabel.98~><~Game.2002~> 0241C2
+$Saktan<~Scribe.141~>026 031 030 <~Scribe.142~><~Game.1977~><~Scribe.143~><~Game.1969~><~Scribe.144~> 4D5709
+$Saktan<~Controls.819~> 02D433
+$Saktan<~Scribe.141~>036 029 028 027 032 020 019 018 017 016 <~Scribe.142~><~Game.1964~><~Scribe.143~><~Game.1959~><~Scribe.144~> 6B2054
+$Saktan<~Controls.644~>105 <~Controls.645~><~Game.2035~> EAA2F2
+$Ivan<~Scribe.141~>359 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> BB6449
+$Ivan<~Scribe.141~>059 <~Scribe.142~><~Game.1973~><~Scribe.143~><~Game.1965~><~Scribe.144~> C5BFF4
+$Ivan<~Scribe.141~>079 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.1942~><~Scribe.144~> 4066EC
+$Ivan<~Controls.644~>359 <~Controls.645~><~Game.2035~> 43E09D
+$Saktan<~HighlightLabel.81~>099<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 8A6DAF
+$Saktan<~CardBuffet.14~>reveal 203 FC783DA35D9FF5588582CCC9FB46D8D733B2B98F 11<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 281559
+$Saktan<~Controls.281~>238 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2045~> C1F3E7
+$Saktan<~Controls.644~>099 203 <~Controls.645~><~Game.2035~> 57C9DE
+$Ivan<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 2DD136
+$Ivan<~Scribe.141~>250 <~Scribe.142~><~Game.2009~><~Scribe.143~><~Game.2012~><~Scribe.144~> 361CFF
+$Ivan<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 856C72
+$Ivan<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> A39013
+<game> Saktan<~Controls.1~> 6 3 3 null
+<game> Saktan<~Controls.1~> 5 null
+<Saktan> 1 14D18E
+$Saktan<~Controls.624~>217<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Ivan<~Scribe.141~>247 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.1955~><~Scribe.144~> 601C65
+$Ivan<~Controls.323~>247 C92D2E
+$Ivan<~Scribe.141~>252 <~Scribe.142~><~Game.2018~><~Scribe.143~><~Game.2019~><~Scribe.144~> 66B3BA
+$Ivan<~Controls.644~>217 <~Controls.645~><~Game.2035~> B0234F
+$Saktan<~HighlightLabel.81~>102<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 01A9E5
+$Saktan<~Scribe.141~>040 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.1955~><~Scribe.144~> E00D17
+$Saktan<~Scribe.141~>038 <~Scribe.142~><~Game.1942~><~Scribe.143~><~Game.1959~><~Scribe.144~> B3F3D1
+$Saktan<~Scribe.141~>253 037 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1959~><~Scribe.144~> 3C3DA7
+$Saktan<~Controls.644~>102 <~Controls.645~><~Game.2035~> 6E22F3
+$Ivan<~Controls.726~>210 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> AA310D
+$Ivan<~Controls.731~>359 213 211 212 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 7862B3
+$Saktan<~Controls.757~>103 104 100 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> F101D1
+<~Game.7~>5 null
+$Saktan<~Controls.762~>102 099 105 360 101 361 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 74AF0D
+$Ivan<~Controls.509~>109<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Ivan<~Controls.509~>114<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Saktan<~Controls.509~>200<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.509~>190<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<Ivan> fsp ok 4BA89E
+<Saktan> 2e 85D703
+$Saktan<~Controls.372~>102 8A0405
+$Saktan<~Controls.372~>099 979724
+$Saktan<~Controls.345~>105 360 101 361 103 104 100 <~Controls.346~>13 15 14 12 10 12 14 null
+$Saktan<~Controls.350~>105 360 101 361 103 104 100 null
+$Ivan<~Controls.345~>359 213 211 212 210 <~Controls.346~>2 0 1 2 0 null
+$Ivan<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 3C2014
+$Ivan<~Scribe.141~>260 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> BE23AC
+$Ivan<~Controls.644~>213 <~Controls.645~><~Game.2035~> 648BC7
+$Saktan<~HighlightLabel.81~>100<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 26BE1F
+$Saktan<~CardBuffet.14~>reveal 170 4AD03927FF5AD612C909768110A045C1496B7622 5<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> CF62BC
+$Ivan<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2037~><~Scribe.144~> 7F26A5
+$Saktan<~Controls.644~>100 170 210 <~Controls.645~><~Game.2035~> 4B0861
+<Ivan> pass 0FC688
+$Saktan<~HighlightLabel.81~>361<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> B155A7
+<Saktan> Osg 251078
+$Saktan<~Controls.840~>200 774D30
+<Ivan> nc 6F72BB
+<auto><~Controls.866~>reveal 200 62A46A640A5C7FA892097FD52F5D5C200AB9F5CA 1<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 3EC2E7
+<game> Saktan<~Controls.1~> 3 2 3 5 5 null
+<game> Saktan<~Controls.1~> 2 6 3 5 2 null
+<Saktan> 1 6E561C
+<game> Ivan<~Controls.1~> 1 null
+$Ivan<~Scribe.141~>080 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.2037~><~Scribe.144~> 7CBF1A
+$Saktan<~Scribe.141~>253 037 038 039 036 029 028 027 032 020 019 018 017 016 <~Scribe.142~><~Game.1959~><~Scribe.143~><~Game.1943~><~Scribe.144~> 178703
+$Saktan<~Controls.509~>174<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.644~>361 200 080 <~Controls.645~><~Game.2035~> 6BDA6C
+$Ivan<~Scribe.141~>260 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> A4E05D
+<Ivan> pass 927200
+$Saktan<~HighlightLabel.81~>101<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> C0693A
+$Saktan<~CardBuffet.14~>reveal 174 4942403EE18BF31A6EF2F134AF991C5F2A7566E2 15<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> A33969
+$Saktan<~Controls.624~>222<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Saktan<~Controls.644~>101 174 222 <~Controls.645~><~Game.2035~> A071B5
+<Saktan> boo 59E98E
+$Ivan<~Scribe.141~>359 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> A48592
+$Ivan<~Controls.323~>247 9E7182
+$Ivan<~Controls.644~>359 <~Controls.645~><~Game.2035~> B3DC2B
+<Ivan> lol 97C83E
+$Saktan<~HighlightLabel.81~>104<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 2ECDBF
+$Saktan<~Scribe.141~>032 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.1955~><~Scribe.144~> 0AFEFA
+$Saktan<~Scribe.141~>055 057 049 048 047 046 045 043 042 041 <~Scribe.142~><~Game.1932~><~Scribe.143~><~Game.1938~><~Scribe.144~> 050879
+$Saktan<~Controls.644~>104 <~Controls.645~><~Game.2035~> A66EA4
+$Ivan<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 59EB15
+$Ivan<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> A65203
+$Ivan<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> C05B25
+<game> Saktan<~Controls.1~> 4 4 4 null
+<game> Saktan<~Controls.1~> 1 2 null
+<Saktan> bruh DFD55E
+<Saktan> lol 44864A
+<Ivan> yeah un4ch 60569B
+$Saktan<~HighlightLabel.81~>105<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> BDC5C4
+<Saktan> MT 1108B8
+$Ivan<~Scribe.141~>245 085 084 083 082 081 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.1994~><~Scribe.144~> FBF0E4
+$Saktan<~Scribe.141~>253 037 038 039 036 029 028 027 020 019 018 017 016 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.1944~><~Scribe.144~> 1FE783
+$Saktan<~Controls.644~>105 <~Controls.645~><~Game.2035~> 02D85D
+$Ivan<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> F9D706
+$Ivan<~Scribe.141~>reveal 110 0E13B551ACE9C2A08EC24D2E38FA747023E82F20 14 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> 675C5C
+<Saktan> nice 366227
+$Ivan<~Scribe.141~>272 273 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1994~><~Scribe.144~> 32B2C0
+$Ivan<~Controls.644~>212 110 <~Controls.645~><~Game.2035~> 3C55B5
+<Ivan> lol turn 1 card 129CED
+$Saktan<~Controls.276~>103<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 2D7FA3
+$Saktan<~Scribe.141~>250 <~Scribe.142~><~Game.2012~><~Scribe.143~><~Game.2037~><~Scribe.144~> A787C6
+$Ivan<~CardBuffet.9~>reveal 123 CE041183652E05BF7A96329AAE138BE238A3EE41 15<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> 579929
+<Saktan> MT 7EC142
+$Ivan<~Controls.819~> A63EF6
+<Ivan> oops sorry EF8C9A
+<Saktan> oop B9364B
+<Ivan> lol AA0915
+<Saktan> still MT lol D3F31B
+<Ivan> ya AECC84
+$Saktan<~Controls.840~>171 CFF172
+$Ivan<~Controls.840~>114 6AE99D
+<auto> playchosen C25987
+<auto><~Controls.3~>reveal 114 0F19C2374BBCB85035A3BB33E3106ED646457BC4 5<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 8BC436
+<auto><~Controls.866~>reveal 171 6EF4DE40F76AC52E1C244893A8E287F2C6F2FA64 19<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 3E92E6
+<auto> playchosen A4E59A
+<game> Saktan<~Controls.1~> 4 1 2 5 2 null
+<game> Saktan<~Controls.1~> 4 3 2 6 null
+<Saktan> 3 C3A6D1
+<game> Ivan<~Controls.1~> 2 2 6 4 5 null
+<game> Ivan<~Controls.1~> 1 3 null
+<Ivan> 4 DE6203
+$Saktan<~Scribe.141~>017 016 028 029 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.2036~><~Scribe.144~> C76DE5
+<Saktan> stop/draw F889A7
+$Ivan<~Scribe.141~>084 <~Scribe.142~><~Game.1994~><~Scribe.143~><~Game.2037~><~Scribe.144~> 4A0A26
+$Ivan<~Controls.304~>273 <~Controls.305~><~Game.1994~> 29DB2E
+$Ivan<~Controls.313~>080 <~Controls.308~><~Controls.314~><~Game.1994~> BFA8D6
+$Saktan<~Controls.509~>197<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.644~>103 171 017 016 028 029 114 250 084 <~Controls.645~><~Game.2035~> ED8AB5
+$Ivan<~Scribe.141~>427 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 47691E
+$Ivan<~Controls.509~>135<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Ivan<~Controls.644~>427 <~Controls.645~><~Game.2035~> 2BC5A1
+$Saktan<~Controls.757~>360 099 102 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> BA5842
+$Saktan<~Controls.762~>103 105 104 101 361 100 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 118F19
+$Ivan<~Controls.726~>211 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 926508
+<~Game.7~>6 null
+$Ivan<~Controls.731~>212 359 210 213 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> E0A226
+$Saktan<~Controls.509~>169<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.509~>159<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Ivan<~Controls.509~>139<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Ivan<~Controls.509~>131<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Ivan<~Scribe.141~>247 <~Scribe.142~><~Game.1955~><~Scribe.143~><~Game.524~><~Scribe.144~> 193AF9
+<game> Saktan<~Controls.397~> 
+<~Talker.31~> null
+$Saktan sendTokens FREE_PEOPLE.EA6B255483B2647021FAFAB767BC582EE3C0F1C7 1E15C250CD312462BD645B1D27A69B14 24 78862E35DA3488EC466B7A9FEA19518BA2962AEA 778B1EFA921BCF333DD44F67ABBDE194 55D102ACE88FF4B40BAD7371365C8C4DDE911AA9 C8435AD086CFEC3EAA8B1E36864C9762 AED3050DCA2E4D58E22643E8C9203611872FD6D5 7C19EF06AA5C7BCFE34C06D9DC151A9D CBDFA1334462F96191ED9B366C0EAABB0EB9819C 4DC3FA50FBB20E4B8DC6A339BCCAC2F2 51A894449C5E928AFCBB42BEE581E39F4CF38B69 C4D3B88C9B73E9C137F280F66E77B4BF 64CDF067F8B953EA632000DCEB636977CA7072DB 00BE7DDF5110D6BBBFB0B9440FF2A4E9 62B9BA6D5FEB499BF4624E63A49AE308C1064B02 B5E2D6A533EE2DB9F348235F5F1EA5A6 AB0FBF7FF4A5821FF648E57718F6C3137F920C84 77E92F63A17F230D7AAC1A90D91A0936 E4E9A83519DEAB58AEA792C5F52350545680DD82 38EA9DFB75893FBEF5A6F73604ABFD5B 828873101BD03AF7634EEE7595DCD1A6A517413E 0F2B756D780751FC605B61B90973595B 22E4279EC2132603D6839065C8CFDC51A2F1ABD9 3A76566F1764122BBEB3A2ED84D80D3B B924295F7A4E2BE4124B15A3B2E95E5FC68E3A96 664CAD8656F7BD25F5A6E3EB9E9C8476 54F584633D87D4497A1078C8FBACEB1F552A9EF3 2D77689A0301F714F67816335B837437 42EB26F04609D98DA1D9F7DC442E80C70FBA05C4 DFBF4ABA2F920B452059B6E9309C88E5 1A4E3C02D495A84124DBBB18AB8A62F2352418B4 84CEC9D4DA19E7E1E602679CD8FFDA09 292BF3E37AA0B63137B9F32C57BEFC71718ED00F 21754DB0ED88544FAE445BFB6717FD22 E3135720EB39258E5C26949DEFB2295648F1282F 3AEB01816C41AA2AFC9062A59FC0544F C2CC2D400F8CC5CDFFC575EFC15D26C44B72691E 98BD9376EB44E97DCFFDDB5A81E33678 C4F50257548B289BDBD427B27E5D06270604BDB2 4C7654354156FC9E4B56CFED274D9D8D D9BBF809B2915851F2BB33FC6E68E4595DF7436A F340B3387B025BE7972253C5D0E3DE21 A88985ABF18BAB72A341221E979404121D9BFEB9 3A0FE5F913C51F5C08CA70CB3C88AE5B 4946E388673E059F6686C1201ECF9FB9A1FFD561 A4014C8962BBDF737E33267C3A381664 FD6FE7C1AD88E44474A4D7A05CB7B5BFBE46D193 8A18E63B529B85090E88368C7E4669A3 67C6C66724F888248AF7D63AC53B0DFFFCA91061 6371078C57E158D1E1FB7125B8BB81D4 24 8FE437CC5EA2B71467CCF73AA6A92C7EA6CEAFF7 459424469F69751A5BC1360EE1344A0E C09F9A47D18B59928EDCD6684FE96268774169D9 AC95B54387E8868A7F8A6BA9D7D2D6D1 713E4F155539B7E76C6176A967B312C6D3825DDE 7910830751F6DEC6913C56A52C0F6534 113B41DC7C46E0B21B5855363ECFD7DF2C6D9E5A 3C3C3A8414A2338CFCB9B7603A8AC3B9 A610D898034EF2170119E3D237842B07CCF25670 B5A335B0F3BFBFA876E6BFA07A262012 8FD9663CE138AB13CC2D10B7C2AAB4D26FAFDA10 973F3C8C91665D326149FBA515054CEF 6C4B375C584DE14F942CC3316875B6C3E358A56E 90F9D036C44FC66E74F28D24BB376A9E 2945FFFA4E950BA243C640521CB5D3B9B2817433 85DBC8168810AD6E9A842523B43BF72C 054A38B27B4123AFD43954E68F078E7E817D8865 226F7E26355C1DC0198B467634926418 90008F186C148813572B92D722057ECB056E37C1 91115DC9F4C6C0B8F77C3701F20965EF 875A4364428544722CA1CC41A969135A714B5F63 883FE72F6FBB884098120E4DFB8DBBC8 DC0501464663B87B93AD7727FB10C1EB77233BCF 891D073FC7971540ABD18977C28D27FE D3BF36D0F94A1E8936A0AA785546CDD0C9570DE9 65C0A8D6CA253E9F47F3B0307C522780 4708227786401FCCC10A5417F9107B7DCD50C88D 01FA919565E299465008D315AAD5F939 63C05728337B097C98C56D7091B3419CCD010294 5CAE633D57C823BE1F00E774F7ECCE11 2F622657C7C110D244E3336A167F2C00852A0BBD D0F4EC4D279232A26175708A43DFADE0 6E7738C3635727CE7540AF9C8B973885EE2F93C3 9789B88258A75E4A3F6572E8FFB68765 A0499442B9072B2174F0DD7AACB3694038DAFA9E 90534185DA28BD22BFB4B394BBE56B68 A7436CFDFA3584C7E64DCB71A82E65A55C0B4545 4302C359C2D05A926928FCE1FC0C2B83 2B1569B28A1ACE85C67917F435F00876E7ACA557 220868083D9958012DB2364952001DED E1D5D5177F5A9F40EFB52A06E7721951A3D7F770 1175E688C25EB7008439D0EEAA547C25 38F5E2C06BBC35E4105BB0D62EB6E98C0EE1E723 2875B18786F1FE8CD44178CCE0101BEC 3C44BA40FD23E44DED6733635DF88B761296705A B777FDC1354AC0661813DB09985359F8 0FEB81C6E748B6FBCAB289AEDE623559B4DA4A0C 8A42313DDED5B9FFC048432E4E0280B3 0 0 
+$Saktan sendTokens SHADOW.A4CB103EE1366A874C41BF7FC555314548104486 A8EB7786BE7627FF3ABE37DBBE45E52D 24 B2F83572929E176FD210D9DB4C65EFAE862A5E24 013FE45996D4189127E1B1FFA33954E2 1F972CA3D940840443A59660BB4B8523FF292036 E6FFFA7971EA3C357B399C2EA1BDD99C A77DD889CB2C5C0684ACC15BC630F117E85B48F5 BD4B9F6163C430F2BB658941BC0EF05B 1351FC6C03F92D2B06169AF97BB7B6B26407B83A 0AD4A6262E139D44B0C92B1886B93E8F 62D286B06B9971D810FF2CCA7BC73361D6E4C1C2 CCDD3B96D3C193686A360126D7BB54FE AEB9E0CBE0F82EB2EB2E887E122D2EB8DA3F1083 275355D66CD0B874888EC24ABC8D76A4 E128756E839819839D48345BB70BACFCD7C01C37 42CB6BF139889D79B7EA7277AF458FB4 048441B5BCBE8FD8166812589D2722011147A2EB 72AC9CA2F75C92AE78029EE5084C93BD A73DE34C8E8BF2E5E776522E5BB40E1737360305 97CCDA87780FA51425DD0D09B3519679 9B75ECF625F7E8A8D279F36E8F32DA99C8C915EE C633DE8F70E5C555350F3C52237EBDC7 4023456B98312CA456D944984994F44FA7891497 28E57AF08C0A688ABE07434186085276 2BC4546137789CBEB73613F19DA4B1F447850EBF 21D2203AC86E9ED83B3258E23AB0C715 9B8205930DF0AA349A5A825EA296D820C6508020 B35BC5A401B6F7FD8FF01F4E7FC8CD02 0DDCD895370DAD16658DD1A94636A169F1F32FA1 2506998BC90C710E49B1B82D6CCBB813 C0636B8218C3496B9808784C33A29976470594C4 DF42F22D7AF6006029A66A0C27A8FDF7 0C9393889CD9A8338D504A21BC0CD7F947A114E9 9874004F8D68B868E3DEBDB3504057EE 1D029BF32B540BC2D300B7A44783AB1B40B299DF B29168B12CC7898622CC9032BDC8C142 757EA468DCF5F8D454E4D6306A62AAE1CFD08F40 E4081FD20497AA50CF6EE5106C01FF3F 10225516AF5AEB0638ACA4A9666DDE4523165D52 19CCE8B460F87D5C92B7BBA0B5781154 5D8203378A178E40DEFEDEE92CBDC759DE35B24B 97A52737733F43C898DAB32CBF4D4CF3 1CD412FEBB2C8261EB991F56463BB863D2E55752 633B34C1F43DA575979B9BCF342678DD 2CD601588BCB1D9E202AAB3FF3CC8900DB01B4F7 E464CA85F011FC8A0ED6B520384B6553 7452C337846C948B8FB3F03EE0D76E67F51CC11E C6B632E0DB8DDC8CD1C5BB3796214E44 A043FC0EE5CAAE9224A4F4797C11ECF4C6585159 21691E07E78DAD77C4D38B3D3C71ECB0 24 36D67760FAAA4B75BA5C09710F37868F0745096C D9FBD8D198CEAC93E6EA7133E92F5759 ED6E37737BC331CC8A175E36E9E3824FCC5CD464 473DC5F9981852029199317F24C3E519 1622C6793E23FBB5DCA12FBEE522981595A17FF0 18975139C7D59803FF82BA4D6FEDB02D 42F04D15D740C81C76DDACCBF45B8FD2C28520F1 75C5E9359663A5C910E5F3F5BCDA1862 B53F14E9F38341E32C65F680A482C38D39CDC51A 645C2AF295B6BC124936942820003B51 B08706CF84306008C27F23E1587B879FD09D6B32 6DBFFCEA4923DA312020C625C6C2B920 0F48E49B804ABAE615D0FCA216AB93EC64DA9224 806F8833436098467659AC25251AE361 B6568B25A8C58AAEDE1E900765A30BA72E020F8E 16D3503B6D15E0126425EA2175A16257 4541D17A24433026BDA7F9930303B22ECEA9A06A 95DCA425A68C1FA1397A6EC45ECC7E96 71B3A2B14D7DB6428EA20AB05A68950D30FA57B5 F832F81B9157F41DC3141C37F232A82D EF6B4A5EB43699F3E9B5F5ED4148DED141433DB6 AFC01314AAFE684DCEFBC838DD281DDB 8A1A8D4A2A74447C6D2F92D9EC3BE9FA20973453 C3CC8589990D769BE937B44ADB13D38B 7BCB67F23ED6C42845C58EC51A8FC5D7D14A1685 3D029875CA1097426FC338166935FA27 94907EA19DADF3C18A780C2650E34DAB92935AED C80994D43D583987C5F670B1BFDB8766 76328FA0BFA1DA67CC337713D8F3B768CF02B94F 959985989A93D3CCE0F4ED0AFC2D7EF7 4654CA8E1C04CFD7D92861C699FEC853DD70C6EB 7E1F3383889BD2DE09DCDA24A307683C 7844A1B7E83AB856452D93E54F1770CB7F59EF97 6D69F4E03EFC784DE4BE1B8F4697F222 BB358DF7469731D9CE64340F36AABABCF471D1C3 FFEFA0065915942AADA974AA80B4F59D BDF5BD8A588D9DC9F9A8886B12B2FE46301AE719 63A7452CF0E2C2CCC537C51C2721D7F8 8168623B8397D4B21260A755578482D3F5AE55D3 887AEC4EE5C337E76D7D29B4C2294497 F297D673D90A21B3EDF6365CDC957ADDCCCA7FDE 77D4BD1B7DD19F28D04999FC39590013 5B2763064E909A7AD4F17D54204E9C1B2F193CEA FCDB6618339C6F7B4605AB7DCB333F7A B3AC0CD878743FFF38BBBF7DE75249C2B5B8B0F8 8C4535BEC8617EC5D6AFAFF4432DEA4D 56D7001BD4CCA4BBF2EFC67166B41432D2352CF9 62DF03A99E10D6D1FDC3B1AE6E4E93D7 0 0 
+<Saktan> ok hands 
+<Ivan> Ok good 
+$Ivan<~Controls.464~>EA6B255483B2647021FAFAB767BC582EE3C0F1C7 1E15C250CD312462BD645B1D27A69B14 24 78862E35DA3488EC466B7A9FEA19518BA2962AEA 778B1EFA921BCF333DD44F67ABBDE194 55D102ACE88FF4B40BAD7371365C8C4DDE911AA9 C8435AD086CFEC3EAA8B1E36864C9762 AED3050DCA2E4D58E22643E8C9203611872FD6D5 7C19EF06AA5C7BCFE34C06D9DC151A9D CBDFA1334462F96191ED9B366C0EAABB0EB9819C 4DC3FA50FBB20E4B8DC6A339BCCAC2F2 51A894449C5E928AFCBB42BEE581E39F4CF38B69 C4D3B88C9B73E9C137F280F66E77B4BF 64CDF067F8B953EA632000DCEB636977CA7072DB 00BE7DDF5110D6BBBFB0B9440FF2A4E9 62B9BA6D5FEB499BF4624E63A49AE308C1064B02 B5E2D6A533EE2DB9F348235F5F1EA5A6 AB0FBF7FF4A5821FF648E57718F6C3137F920C84 77E92F63A17F230D7AAC1A90D91A0936 E4E9A83519DEAB58AEA792C5F52350545680DD82 38EA9DFB75893FBEF5A6F73604ABFD5B 828873101BD03AF7634EEE7595DCD1A6A517413E 0F2B756D780751FC605B61B90973595B 22E4279EC2132603D6839065C8CFDC51A2F1ABD9 3A76566F1764122BBEB3A2ED84D80D3B B924295F7A4E2BE4124B15A3B2E95E5FC68E3A96 664CAD8656F7BD25F5A6E3EB9E9C8476 54F584633D87D4497A1078C8FBACEB1F552A9EF3 2D77689A0301F714F67816335B837437 42EB26F04609D98DA1D9F7DC442E80C70FBA05C4 DFBF4ABA2F920B452059B6E9309C88E5 1A4E3C02D495A84124DBBB18AB8A62F2352418B4 84CEC9D4DA19E7E1E602679CD8FFDA09 292BF3E37AA0B63137B9F32C57BEFC71718ED00F 21754DB0ED88544FAE445BFB6717FD22 E3135720EB39258E5C26949DEFB2295648F1282F 3AEB01816C41AA2AFC9062A59FC0544F C2CC2D400F8CC5CDFFC575EFC15D26C44B72691E 98BD9376EB44E97DCFFDDB5A81E33678 C4F50257548B289BDBD427B27E5D06270604BDB2 4C7654354156FC9E4B56CFED274D9D8D D9BBF809B2915851F2BB33FC6E68E4595DF7436A F340B3387B025BE7972253C5D0E3DE21 A88985ABF18BAB72A341221E979404121D9BFEB9 3A0FE5F913C51F5C08CA70CB3C88AE5B 4946E388673E059F6686C1201ECF9FB9A1FFD561 A4014C8962BBDF737E33267C3A381664 FD6FE7C1AD88E44474A4D7A05CB7B5BFBE46D193 8A18E63B529B85090E88368C7E4669A3 67C6C66724F888248AF7D63AC53B0DFFFCA91061 6371078C57E158D1E1FB7125B8BB81D4 24 8FE437CC5EA2B71467CCF73AA6A92C7EA6CEAFF7 459424469F69751A5BC1360EE1344A0E C09F9A47D18B59928EDCD6684FE96268774169D9 AC95B54387E8868A7F8A6BA9D7D2D6D1 713E4F155539B7E76C6176A967B312C6D3825DDE 7910830751F6DEC6913C56A52C0F6534 113B41DC7C46E0B21B5855363ECFD7DF2C6D9E5A 3C3C3A8414A2338CFCB9B7603A8AC3B9 A610D898034EF2170119E3D237842B07CCF25670 B5A335B0F3BFBFA876E6BFA07A262012 8FD9663CE138AB13CC2D10B7C2AAB4D26FAFDA10 973F3C8C91665D326149FBA515054CEF 6C4B375C584DE14F942CC3316875B6C3E358A56E 90F9D036C44FC66E74F28D24BB376A9E 2945FFFA4E950BA243C640521CB5D3B9B2817433 85DBC8168810AD6E9A842523B43BF72C 054A38B27B4123AFD43954E68F078E7E817D8865 226F7E26355C1DC0198B467634926418 90008F186C148813572B92D722057ECB056E37C1 91115DC9F4C6C0B8F77C3701F20965EF 875A4364428544722CA1CC41A969135A714B5F63 883FE72F6FBB884098120E4DFB8DBBC8 DC0501464663B87B93AD7727FB10C1EB77233BCF 891D073FC7971540ABD18977C28D27FE D3BF36D0F94A1E8936A0AA785546CDD0C9570DE9 65C0A8D6CA253E9F47F3B0307C522780 4708227786401FCCC10A5417F9107B7DCD50C88D 01FA919565E299465008D315AAD5F939 63C05728337B097C98C56D7091B3419CCD010294 5CAE633D57C823BE1F00E774F7ECCE11 2F622657C7C110D244E3336A167F2C00852A0BBD D0F4EC4D279232A26175708A43DFADE0 6E7738C3635727CE7540AF9C8B973885EE2F93C3 9789B88258A75E4A3F6572E8FFB68765 A0499442B9072B2174F0DD7AACB3694038DAFA9E 90534185DA28BD22BFB4B394BBE56B68 A7436CFDFA3584C7E64DCB71A82E65A55C0B4545 4302C359C2D05A926928FCE1FC0C2B83 2B1569B28A1ACE85C67917F435F00876E7ACA557 220868083D9958012DB2364952001DED E1D5D5177F5A9F40EFB52A06E7721951A3D7F770 1175E688C25EB7008439D0EEAA547C25 38F5E2C06BBC35E4105BB0D62EB6E98C0EE1E723 2875B18786F1FE8CD44178CCE0101BEC 3C44BA40FD23E44DED6733635DF88B761296705A B777FDC1354AC0661813DB09985359F8 0FEB81C6E748B6FBCAB289AEDE623559B4DA4A0C 8A42313DDED5B9FFC048432E4E0280B3 0 0 E7D40F
+$Saktan<~Controls.479~>A4CB103EE1366A874C41BF7FC555314548104486 A8EB7786BE7627FF3ABE37DBBE45E52D 24 B2F83572929E176FD210D9DB4C65EFAE862A5E24 013FE45996D4189127E1B1FFA33954E2 1F972CA3D940840443A59660BB4B8523FF292036 E6FFFA7971EA3C357B399C2EA1BDD99C A77DD889CB2C5C0684ACC15BC630F117E85B48F5 BD4B9F6163C430F2BB658941BC0EF05B 1351FC6C03F92D2B06169AF97BB7B6B26407B83A 0AD4A6262E139D44B0C92B1886B93E8F 62D286B06B9971D810FF2CCA7BC73361D6E4C1C2 CCDD3B96D3C193686A360126D7BB54FE AEB9E0CBE0F82EB2EB2E887E122D2EB8DA3F1083 275355D66CD0B874888EC24ABC8D76A4 E128756E839819839D48345BB70BACFCD7C01C37 42CB6BF139889D79B7EA7277AF458FB4 048441B5BCBE8FD8166812589D2722011147A2EB 72AC9CA2F75C92AE78029EE5084C93BD A73DE34C8E8BF2E5E776522E5BB40E1737360305 97CCDA87780FA51425DD0D09B3519679 9B75ECF625F7E8A8D279F36E8F32DA99C8C915EE C633DE8F70E5C555350F3C52237EBDC7 4023456B98312CA456D944984994F44FA7891497 28E57AF08C0A688ABE07434186085276 2BC4546137789CBEB73613F19DA4B1F447850EBF 21D2203AC86E9ED83B3258E23AB0C715 9B8205930DF0AA349A5A825EA296D820C6508020 B35BC5A401B6F7FD8FF01F4E7FC8CD02 0DDCD895370DAD16658DD1A94636A169F1F32FA1 2506998BC90C710E49B1B82D6CCBB813 C0636B8218C3496B9808784C33A29976470594C4 DF42F22D7AF6006029A66A0C27A8FDF7 0C9393889CD9A8338D504A21BC0CD7F947A114E9 9874004F8D68B868E3DEBDB3504057EE 1D029BF32B540BC2D300B7A44783AB1B40B299DF B29168B12CC7898622CC9032BDC8C142 757EA468DCF5F8D454E4D6306A62AAE1CFD08F40 E4081FD20497AA50CF6EE5106C01FF3F 10225516AF5AEB0638ACA4A9666DDE4523165D52 19CCE8B460F87D5C92B7BBA0B5781154 5D8203378A178E40DEFEDEE92CBDC759DE35B24B 97A52737733F43C898DAB32CBF4D4CF3 1CD412FEBB2C8261EB991F56463BB863D2E55752 633B34C1F43DA575979B9BCF342678DD 2CD601588BCB1D9E202AAB3FF3CC8900DB01B4F7 E464CA85F011FC8A0ED6B520384B6553 7452C337846C948B8FB3F03EE0D76E67F51CC11E C6B632E0DB8DDC8CD1C5BB3796214E44 A043FC0EE5CAAE9224A4F4797C11ECF4C6585159 21691E07E78DAD77C4D38B3D3C71ECB0 24 36D67760FAAA4B75BA5C09710F37868F0745096C D9FBD8D198CEAC93E6EA7133E92F5759 ED6E37737BC331CC8A175E36E9E3824FCC5CD464 473DC5F9981852029199317F24C3E519 1622C6793E23FBB5DCA12FBEE522981595A17FF0 18975139C7D59803FF82BA4D6FEDB02D 42F04D15D740C81C76DDACCBF45B8FD2C28520F1 75C5E9359663A5C910E5F3F5BCDA1862 B53F14E9F38341E32C65F680A482C38D39CDC51A 645C2AF295B6BC124936942820003B51 B08706CF84306008C27F23E1587B879FD09D6B32 6DBFFCEA4923DA312020C625C6C2B920 0F48E49B804ABAE615D0FCA216AB93EC64DA9224 806F8833436098467659AC25251AE361 B6568B25A8C58AAEDE1E900765A30BA72E020F8E 16D3503B6D15E0126425EA2175A16257 4541D17A24433026BDA7F9930303B22ECEA9A06A 95DCA425A68C1FA1397A6EC45ECC7E96 71B3A2B14D7DB6428EA20AB05A68950D30FA57B5 F832F81B9157F41DC3141C37F232A82D EF6B4A5EB43699F3E9B5F5ED4148DED141433DB6 AFC01314AAFE684DCEFBC838DD281DDB 8A1A8D4A2A74447C6D2F92D9EC3BE9FA20973453 C3CC8589990D769BE937B44ADB13D38B 7BCB67F23ED6C42845C58EC51A8FC5D7D14A1685 3D029875CA1097426FC338166935FA27 94907EA19DADF3C18A780C2650E34DAB92935AED C80994D43D583987C5F670B1BFDB8766 76328FA0BFA1DA67CC337713D8F3B768CF02B94F 959985989A93D3CCE0F4ED0AFC2D7EF7 4654CA8E1C04CFD7D92861C699FEC853DD70C6EB 7E1F3383889BD2DE09DCDA24A307683C 7844A1B7E83AB856452D93E54F1770CB7F59EF97 6D69F4E03EFC784DE4BE1B8F4697F222 BB358DF7469731D9CE64340F36AABABCF471D1C3 FFEFA0065915942AADA974AA80B4F59D BDF5BD8A588D9DC9F9A8886B12B2FE46301AE719 63A7452CF0E2C2CCC537C51C2721D7F8 8168623B8397D4B21260A755578482D3F5AE55D3 887AEC4EE5C337E76D7D29B4C2294497 F297D673D90A21B3EDF6365CDC957ADDCCCA7FDE 77D4BD1B7DD19F28D04999FC39590013 5B2763064E909A7AD4F17D54204E9C1B2F193CEA FCDB6618339C6F7B4605AB7DCB333F7A B3AC0CD878743FFF38BBBF7DE75249C2B5B8B0F8 8C4535BEC8617EC5D6AFAFF4432DEA4D 56D7001BD4CCA4BBF2EFC67166B41432D2352CF9 62DF03A99E10D6D1FDC3B1AE6E4E93D7 0 0 2CA41B
+<Saktan> mine looks good E7E18C
+<Ivan> Yep same EEA1C7
+<Saktan> you do hunt pool 9C98E7
+$Ivan<~Controls.281~>222 238 <~Controls.282~><~Game.2045~><~Controls.283~><~Game.2044~> 112415
+<Ivan> fsp ok B9378C
+<Saktan> 2e 72F658
+$Saktan<~Controls.372~>103 0F8430
+$Saktan<~Controls.372~>105 A13A64
+$Saktan<~Controls.345~>104 101 361 100 360 099 102 <~Controls.346~>13 12 15 12 12 12 15 null
+$Saktan<~Controls.350~>104 101 361 100 360 099 102 null
+$Ivan<~Controls.345~>212 359 210 213 211 <~Controls.346~>0 2 1 4 3 null
+$Ivan<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 20778E
+$Ivan<~Controls.790~>247<~Controls.791~><~Game.524~><~Controls.792~><~Game.525~> 56C63E
+$Ivan<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> B817FD
+$Saktan<~Controls.624~>226<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Ivan> random 0ED958
+$Saktan<~Controls.637~>242<~Controls.638~><~Game.1998~><~Controls.639~><~Game.2036~> null
+<Saktan> boo F176CE
+$Ivan<~Controls.644~>242 226 <~Controls.645~><~Game.2035~> CBCA11
+$Saktan<~HighlightLabel.81~>099<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 72158E
+<Ivan> lol 9BEC7F
+$Saktan<~CardBuffet.14~>reveal 190 ABDDD9872E3AFA79BF1B1700C2FA339E79CF0FC1 15<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> CD637A
+<Ivan> those eyes are scary 7282ED
+$Saktan<~Scribe.141~>336 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1944~><~Scribe.144~> F56BA9
+$Saktan<~Controls.644~>099 190 <~Controls.645~><~Game.2035~> 53B237
+$Ivan<~Scribe.141~>359 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> E56968
+$Ivan<~Scribe.141~>reveal 135 948F00C0744154EB15E77CF4400BCB87B776578F 17 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> 3CC5E0
+$Ivan<~Controls.281~>235 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2044~> EE2BFE
+$Ivan<~Controls.644~>359 135 <~Controls.645~><~Game.2035~> 6AE4D4
+$Saktan<~HighlightLabel.81~>101<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> E953FB
+<Saktan> MT 401037
+$Saktan<~Controls.840~>169 745898
+<Ivan> sry thinking 691178
+<Saktan> np 449C48
+<Ivan> nc C81122
+<auto><~Controls.866~>reveal 169 D3D0E89789837EC431CFEE09434DFD9B950A01C2 4<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 4635DB
+<Saktan> ff2 638FC7
+<game> Saktan<~Controls.1~> 4 4 4 3 4 null
+<Saktan> ... 503810
+<Ivan> bruh BCAE5C
+<game> Saktan<~Controls.1~> 1 5 1 null
+<Saktan> 0 A3D222
+<game> Ivan<~Controls.1~> 3 6 4 6 null
+<game> Ivan<~Controls.1~> 3 5 null
+<Ivan> 3 55D07B
+$Saktan<~Scribe.141~>036 027 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.2036~><~Scribe.144~> 593671
+<Saktan> stop/draw 59E22F
+$Saktan<~Controls.509~>160<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.644~>101 169 036 027 <~Controls.645~><~Game.2035~> 09ADD4
+<Ivan> java not playing fair 56FD25
+$Ivan<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> FED2CB
+<Saktan> nope lol 275383
+$Ivan<~Scribe.141~>reveal 123 CE041183652E05BF7A96329AAE138BE238A3EE41 15 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2029~><~Scribe.144~> 7B373F
+$Ivan<~Controls.644~>212 <~Controls.645~><~Game.2035~> 334598
+<Saktan> nice 8E7B39
+$Saktan<~HighlightLabel.81~>360<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> C7B68E
+<Saktan> Pel 56E637
+<Saktan> nc 0788DA
+<Ivan> nc EF212E
+<game> Saktan<~Controls.1~> 1 1 6 6 4 null
+<Saktan> 2 407DED
+<game> Ivan<~Controls.1~> 5 null
+$Ivan<~Scribe.141~>078 <~Scribe.142~><~Game.1931~><~Scribe.143~><~Game.2037~><~Scribe.144~> 1127EE
+$Saktan<~Scribe.141~>041 <~Scribe.142~><~Game.1938~><~Scribe.143~><~Game.2037~><~Scribe.144~> 396827
+$Saktan<~Scribe.141~>420 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1931~><~Scribe.144~> 3BE90A
+$Saktan<~Scribe.141~>055 057 049 048 047 046 045 043 042 <~Scribe.142~><~Game.1938~><~Scribe.143~><~Game.1931~><~Scribe.144~> DDB7D0
+$Saktan<~Scribe.141~>423 <~Scribe.142~><~Game.29~><~Scribe.143~><~Game.30~><~Scribe.144~> 876635
+$Saktan<~Controls.644~>360 041 078 <~Controls.645~><~Game.2035~> AD419A
+$Ivan<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 0EDE7A
+$Ivan<~Scribe.141~>279 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1924~><~Scribe.144~> ECE3DD
+$Ivan<~Scribe.141~>277 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1920~><~Scribe.144~> 0B944C
+$Ivan<~Controls.644~>211 <~Controls.645~><~Game.2035~> A24677
+$Saktan<~HighlightLabel.81~>100<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 50C42E
+$Saktan<~Scribe.141~>249 <~Scribe.142~><~Game.2011~><~Scribe.143~><~Game.2037~><~Scribe.144~> BBD6DF
+$Saktan<~Scribe.141~>255 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1969~><~Scribe.144~> 279336
+$Saktan<~Scribe.141~>362 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2037~><~Scribe.144~> F29C59
+$Saktan<~Controls.644~>100 362 249 <~Controls.645~><~Game.2035~> F58B67
+$Ivan<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> FD189E
+$Ivan<~Scribe.141~>276 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1920~><~Scribe.144~> 363814
+$Ivan<~Controls.644~>213 <~Controls.645~><~Game.2035~> 697A1F
+$Saktan<~HighlightLabel.81~>104<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> C970DF
+$Saktan<~Scribe.141~>255 <~Scribe.142~><~Game.1969~><~Scribe.143~><~Game.1931~><~Scribe.144~> E392A9
+$Saktan<~Scribe.141~>040 <~Scribe.142~><~Game.1955~><~Scribe.143~><~Game.1931~><~Scribe.144~> EF201C
+<Saktan> hm no 75E14E
+$Saktan<~Controls.819~> C978D5
+$Saktan<~Controls.819~> E1D022
+<Saktan> Dale 3BB6E8
+<Ivan> np 8D7BA9
+$Saktan<~Controls.840~>159 22F7AD
+<Saktan> from wlr 24108F
+<Ivan> lol that just has to be cancel my card... hmm 94E04D
+$Ivan<~Controls.840~>131 E58780
+<auto> playchosen 092D8E
+<auto><~Controls.3~>reveal 131 6AB6EC823FFBF9DF60FB25F2111D2B56C35BA3D7 4<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> BD3A30
+<auto><~Controls.866~>reveal 159 2CB6155D8A3D960EEBED931D1620E92BD90DF4B4 7<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 7CC502
+<auto> playchosen DCEE9B
+<Ivan> ah nvm C7D564
+$Ivan<~Scribe.141~>068 066 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.1965~><~Scribe.144~> 109735
+$Saktan<~Scribe.141~>012 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1970~><~Scribe.144~> 08838D
+$Saktan<~Scribe.141~>323 015 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1970~><~Scribe.144~> DD0834
+$Saktan<~Scribe.141~>423 <~Scribe.142~><~Game.30~><~Scribe.143~><~Game.31~><~Scribe.144~> 0500B3
+$Saktan<~Controls.644~>104 159 131 <~Controls.645~><~Game.2035~> E32879
+$Ivan<~Scribe.141~>258 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 92FC64
+$Ivan<~Controls.726~>210 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> D1B66A
+$Ivan<~Controls.731~>213 211 212 359 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> E4FC2B
+$Saktan<~Controls.757~>361 102 105 103 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> C8DBFC
+<~Game.7~>7 null
+$Saktan<~Controls.762~>104 100 362 360 101 099 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 92D1C4
+$Ivan<~Controls.509~>108<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Saktan<~Controls.509~>193<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.509~>172<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Ivan<~Controls.509~>140<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+<Ivan> fsp ok A032B9
+<Saktan> 2e 7B7233
+$Saktan<~Controls.372~>104 49AB5D
+$Saktan<~Controls.372~>100 0E5A94
+$Saktan<~Controls.345~>362 360 101 099 361 102 105 103 <~Controls.346~>15 13 14 10 13 14 13 15 null
+$Saktan<~Controls.350~>362 360 101 099 361 102 105 103 null
+$Ivan<~Controls.345~>213 211 212 359 210 <~Controls.346~>2 1 3 1 2 null
+$Ivan<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 3F9D9E
+$Ivan<~Controls.790~>247<~Controls.791~><~Game.525~><~Controls.792~><~Game.528~> 1FAADA
+$Ivan<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> F3F59E
+<Saktan> eye plz B8C53E
+$Saktan<~Controls.624~>216<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Saktan> ... 07D63D
+<Ivan> jeez D3297E
+$Ivan<~Scribe.141~>123 <~Scribe.142~><~Game.2029~><~Scribe.143~><~Game.2036~><~Scribe.144~> 2FD7BD
+$Ivan<~Controls.323~>247 C192B0
+$Ivan<~Controls.644~>123 216 <~Controls.645~><~Game.2035~> 721A4A
+$Saktan<~HighlightLabel.81~>102<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 322C24
+$Saktan<~CardBuffet.14~>reveal 160 304BDE8A2B247B5347BB4E147342D1B33DCBB625 14<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> DB9F2F
+<Saktan> plz strider 54E573
+$Saktan<~Controls.637~>244<~Controls.638~><~Game.1998~><~Controls.639~><~Game.2037~> null
+<Saktan> ... 4861BE
+<Ivan> welp E3C7FF
+<Saktan> i'm just gonna stop asking 69D7C9
+<Ivan> eliminate him 3C597B
+$Saktan<~Controls.644~>102 160 244 <~Controls.645~><~Game.2035~> 76C456
+$Ivan<~Controls.644~>102 160 244 <~Controls.645~><~Game.2035~> 7C3D60
+$Ivan<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> FB05E6
+$Ivan<~Controls.323~>247 2332AB
+$Ivan<~Controls.644~>213 <~Controls.645~><~Game.2035~> 24DDB6
+$Saktan<~HighlightLabel.81~>101<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 545ABD
+$Saktan<~CardBuffet.14~>reveal 197 C802D702FC6A85118E96AFB742DC453512F23839 1<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> DD9E54
+$Saktan<~Scribe.141~>338 337 010 <~Scribe.142~><~Game.1941~><~Scribe.143~><~Game.1970~><~Scribe.144~> AB9602
+$Saktan<~Scribe.141~>055 057 046 049 048 047 <~Scribe.142~><~Game.1931~><~Scribe.143~><~Game.1944~><~Scribe.144~> D1A553
+$Saktan<~Scribe.141~>419 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1935~><~Scribe.144~> 93888C
+$Saktan<~Scribe.141~>418 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1941~><~Scribe.144~> 476D43
+$Saktan<~Controls.644~>101 197 <~Controls.645~><~Game.2035~> C30E2F
+$Ivan<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 950FD5
+$Ivan<~Scribe.141~>reveal 108 8A338F1F5AD62A7AF7FBC7637BB2DC47730AE36D 22 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2029~><~Scribe.144~> 25EB00
+$Ivan<~Controls.644~>210 <~Controls.645~><~Game.2035~> 2B08DA
+<Saktan> smh these cards lol DD1E4E
+$Saktan<~HighlightLabel.81~>361<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 91E800
+<Saktan> MT DE91FF
+<Ivan> yeah wanna play corruption super safe 3BEAAC
+$Saktan<~Controls.840~>193 EF9DF3
+<Ivan> nc C1D9CB
+<auto><~Controls.866~>reveal 193 D7B6ED7AE2901E89DEC05C0D5577C1CAADF10630 19<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> EFB190
+<Saktan> ff1 C89756
+<game> Saktan<~Controls.1~> 1 2 3 6 1 null
+<game> Saktan<~Controls.1~> 6 1 5 2 null
+<Saktan> 3 4F3CB5
+<game> Ivan<~Controls.1~> 4 6 6 4 null
+<game> Ivan<~Controls.1~> 2 4 null
+<Ivan> 2 7E099E
+$Saktan<~Scribe.141~>019 020 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.2036~><~Scribe.144~> 518DE0
+$Ivan<~Scribe.141~>082 083 080 <~Scribe.142~><~Game.1994~><~Scribe.143~><~Game.2037~><~Scribe.144~> 2FBF21
+<Saktan> stop/draw FA5ACD
+$Saktan<~Controls.509~>166<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.644~>361 193 019 020 082 083 080 <~Controls.645~><~Game.2035~> 9522ED
+$Ivan<~Scribe.141~>359 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> E55A6F
+$Ivan<~Controls.790~>247<~Controls.791~><~Game.528~><~Controls.792~><~Game.529~> 575FDF
+$Ivan<~Controls.795~>359<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 5E5C49
+$Saktan<~Controls.624~>221<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Ivan<~Scribe.141~>108 <~Scribe.142~><~Game.2029~><~Scribe.143~><~Game.2036~><~Scribe.144~> 26CAFD
+<Saktan> 5r E0C7AB
+<Ivan> thinking 14901A
+<Saktan> tyt C1F6FD
+<Ivan> eh random 266A0C
+$Saktan<~Controls.637~>241<~Controls.638~><~Game.1999~><~Controls.639~><~Game.2037~> null
+$Ivan<~Scribe.141~>252 <~Scribe.142~><~Game.2019~><~Scribe.143~><~Game.2020~><~Scribe.144~> 61AD04
+$Ivan<~Controls.644~>108 221 241 <~Controls.645~><~Game.2035~> 6F48B3
+$Ivan<~Controls.323~>247 1C8009
+$Ivan<~Scribe.141~>243 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> 1329C8
+$Saktan<~HighlightLabel.81~>105<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 0388ED
+$Saktan<~CardBuffet.14~>reveal 166 AC0B02DC658F2C47B03C0C26720F51DFC58BA6A3 13<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> B33EB5
+$Saktan<~Scribe.141~>252 <~Scribe.142~><~Game.2020~><~Scribe.143~><~Game.2021~><~Scribe.144~> 3DDF2C
+$Saktan<~Controls.644~>105 166 <~Controls.645~><~Game.2035~> 3D46E6
+<Ivan> pass 3BC9DB
+<Saktan> hmm E1E99F
+$Saktan<~HighlightLabel.81~>099<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 577AA8
+$Saktan<~Controls.323~>255 48794B
+<Saktan> MT D4E923
+<Saktan> nc 5C16A9
+<Ivan> nc 11937C
+<game> Saktan<~Controls.1~> 3 4 2 5 6 null
+<Saktan> 1 CCA1CB
+<game> Ivan<~Controls.1~> 1 null
+<game> Ivan<~Controls.1~> 3 null
+$Ivan<~Scribe.141~>245 272 085 081 <~Scribe.142~><~Game.1994~><~Scribe.143~><~Game.2037~><~Scribe.144~> 88F609
+$Saktan<~Scribe.141~>423 <~Scribe.142~><~Game.31~><~Scribe.143~><~Game.33~><~Scribe.144~> 8DA990
+$Saktan<~Controls.644~>099 245 272 085 081 <~Controls.645~><~Game.2035~> 0DD499
+$Ivan<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 31C0DC
+$Ivan<~Scribe.141~>251 <~Scribe.142~><~Game.2010~><~Scribe.143~><~Game.2011~><~Scribe.144~> FFEA08
+$Ivan<~Controls.323~>251 073892
+$Ivan<~Controls.323~>247 417E63
+$Ivan<~Controls.644~>212 <~Controls.645~><~Game.2035~> 21BB2D
+$Saktan<~HighlightLabel.81~>360<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 4153A7
+$Saktan<~Scribe.141~>251 <~Scribe.142~><~Game.2011~><~Scribe.143~><~Game.2037~><~Scribe.144~> FDD5A8
+$Saktan<~Controls.509~>179<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.644~>360 251 <~Controls.645~><~Game.2035~> C1A8D0
+$Saktan<~Controls.757~>362 103 100 104 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 15A85F
+$Saktan<~Controls.762~>360 099 105 361 101 102 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 34F029
+$Ivan<~Controls.726~>359 211 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 669A2D
+<~Game.7~>8 null
+$Ivan<~Controls.731~>212 210 213 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> E20BDC
+$Ivan<~Controls.509~>133<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Saktan<~Controls.509~>181<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Ivan<~Controls.509~>120<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Saktan<~Controls.509~>176<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<Saktan> 1e 8CDEB6
+$Saktan<~Controls.372~>360 64D3CD
+<Ivan> fsp ok 56189D
+$Saktan<~Controls.345~>099 105 361 101 102 362 103 100 104 <~Controls.346~>14 12 15 13 14 13 14 12 12 null
+$Saktan<~Controls.350~>099 105 361 101 102 362 103 100 104 null
+$Ivan<~Controls.345~>212 210 213 359 211 <~Controls.346~>3 2 4 2 3 null
+<Saktan> aw man DDC90F
+<Ivan> lol 3B084F
+<Saktan> that hurts DF6C78
+<Ivan> well it certainly doesnt help A51C7F
+<Ivan> pass 0483D0
+$Saktan<~HighlightLabel.81~>100<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 2FD54B
+<Saktan> Druadan 4CEE63
+$Saktan<~Controls.840~>179 28EC75
+$Ivan<~Controls.840~>120 938098
+<auto> playchosen CDB2D3
+<auto><~Controls.3~>reveal 120 DC2887F59F71D9D901EA5B8686D3CB5729842AE1 15<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 23BC60
+<auto><~Controls.866~>reveal 179 89FB39C92727092D18790D1B3FD696ACD925F2C3 21<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 2599C2
+<auto> playchosen 59111F
+$Ivan<~Scribe.141~>079 <~Scribe.142~><~Game.1942~><~Scribe.143~><~Game.1933~><~Scribe.144~> 320A53
+$Saktan<~Scribe.141~>253 037 038 039 055 057 336 046 049 048 047 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.1942~><~Scribe.144~> 7777BC
+$Saktan<~Controls.509~>191<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.644~>100 179 120 <~Controls.645~><~Game.2035~> 202884
+$Ivan<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 42752C
+$Ivan<~Scribe.141~>reveal 140 2F742DD2CD19F3F58AB251E94717D410C667A9D8 8 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> 18FF02
+$Ivan<~Scribe.141~>283 289 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1925~><~Scribe.144~> C4BC41
+$Ivan<~Controls.644~>210 140 <~Controls.645~><~Game.2035~> D09606
+$Saktan<~HighlightLabel.81~>102<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> F6E77D
+$Saktan<~CardBuffet.14~>reveal 181 CB918C2839CF82F0DB20633C8F406620188970E1 9<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> AB8555
+$Saktan<~Controls.281~>237 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2044~> E6E983
+$Saktan<~Controls.644~>102 181 <~Controls.645~><~Game.2035~> 13E8C0
+<Ivan> pass FD5D94
+$Saktan<~HighlightLabel.81~>099<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 0F123D
+$Saktan<~CardBuffet.14~>reveal 191 770AF64458CE90ABD753FDBA58A2384777E2936E 17<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 999589
+<Ivan> lol D96F15
+$Saktan<~Controls.281~>239 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2044~> 934316
+$Saktan<~Controls.644~>099 191 <~Controls.645~><~Game.2035~> 7D3184
+<Saktan> hehe 4CEBAC
+<Ivan> pass A0BA98
+$Saktan<~HighlightLabel.81~>362<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 626169
+$Saktan<~Scribe.141~>253 037 038 039 055 057 336 046 049 048 <~Scribe.142~><~Game.1942~><~Scribe.143~><~Game.1937~><~Scribe.144~> BEC828
+$Saktan<~Controls.819~> FAD154
+$Saktan<~Controls.819~> C3CABC
+$Saktan<~HighlightLabel.81~>104<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 947283
+$Saktan<~Scribe.141~>040 032 <~Scribe.142~><~Game.1955~><~Scribe.143~><~Game.1943~><~Scribe.144~> FE6693
+$Saktan<~Scribe.141~>253 039 038 037 057 055 336 049 048 046 <~Scribe.142~><~Game.1942~><~Scribe.143~><~Game.1937~><~Scribe.144~> 69F757
+$Saktan<~Controls.644~>104 <~Controls.645~><~Game.2035~> CA557F
+$Ivan<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 9D92DB
+$Ivan<~Scribe.141~>246 283 289 073 <~Scribe.142~><~Game.1925~><~Scribe.143~><~Game.1923~><~Scribe.144~> BB6BFD
+$Ivan<~Scribe.141~>074 070 069 <~Scribe.142~><~Game.1918~><~Scribe.143~><~Game.1923~><~Scribe.144~> 08527D
+$Ivan<~Controls.644~>213 <~Controls.645~><~Game.2035~> 266B93
+$Saktan<~HighlightLabel.81~>105<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 0D83A1
+$Saktan<~Scribe.141~>056 052 051 050 <~Scribe.142~><~Game.1986~><~Scribe.143~><~Game.1984~><~Scribe.144~> 470261
+$Saktan<~Scribe.141~>253 039 038 037 057 055 336 046 049 048 <~Scribe.142~><~Game.1937~><~Scribe.143~><~Game.1930~><~Scribe.144~> 1404B1
+$Saktan<~Controls.644~>105 <~Controls.645~><~Game.2035~> 070337
+$Ivan<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 15D193
+$Ivan<~Scribe.141~>267 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1928~><~Scribe.144~> C8B05A
+$Ivan<~Controls.644~>212 <~Controls.645~><~Game.2035~> 509143
+$Saktan<~HighlightLabel.81~>103<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 9AA535
+$Saktan<~CardBuffet.14~>reveal 176 9ED3B30D7BCBD3BF1D842A3FC072D57E7F0A9D57 2<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 880CB8
+$Saktan<~Scribe.141~>001 341 008 007 <~Scribe.142~><~Game.1917~><~Scribe.143~><~Game.1927~><~Scribe.144~> 28E693
+$Saktan<~Scribe.141~>253 039 038 037 057 055 336 046 049 048 <~Scribe.142~><~Game.1930~><~Scribe.143~><~Game.1927~><~Scribe.144~> 7986E2
+$Saktan<~Scribe.141~>056 052 051 050 <~Scribe.142~><~Game.1984~><~Scribe.143~><~Game.1973~><~Scribe.144~> C1243C
+$Saktan<~Scribe.141~>042 <~Scribe.142~><~Game.1931~><~Scribe.143~><~Game.1935~><~Scribe.144~> BEA39D
+$Saktan<~Controls.644~>103 176 <~Controls.645~><~Game.2035~> BC5148
+$Ivan<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 816B1B
+$Ivan<~Scribe.141~>266 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1928~><~Scribe.144~> 38E327
+$Ivan<~Controls.644~>211 <~Controls.645~><~Game.2035~> 692A05
+$Saktan<~HighlightLabel.81~>101<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 8485A4
+<Saktan> Lorien 16D131
+$Ivan<~Scribe.141~>097 266 267 093 092 087 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.1993~><~Scribe.144~> 8AAA43
+$Ivan<~Scribe.141~>097 266 267 093 092 087 <~Scribe.142~><~Game.1993~><~Scribe.143~><~Game.1992~><~Scribe.144~> 26BC9E
+$Saktan<~Scribe.141~>253 039 038 037 057 055 336 001 046 049 048 341 008 007 <~Scribe.142~><~Game.1927~><~Scribe.143~><~Game.1928~><~Scribe.144~> 369852
+$Saktan<~Controls.644~>101 <~Controls.645~><~Game.2035~> 30F013
+$Ivan<~Scribe.141~>359 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 5EBB75
+$Ivan<~Controls.509~>117<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Ivan<~Controls.644~>359 <~Controls.645~><~Game.2035~> E608C8
+$Saktan<~HighlightLabel.81~>362<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 1129ED
+<Saktan> Lorien FDE2A0
+$Saktan<~Controls.840~>201 45D21C
+<Ivan> nc E6A987
+<auto><~Controls.866~>reveal 201 91A693E6AA12E45C2E2F8F86334ADA09DACE74BF 23<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> AE0E75
+<Saktan> pre 7BB5E9
+<game> Saktan<~Controls.1~> 3 3 3 null
+<Saktan> ... 4B4576
+<Ivan> lmfao EE64F5
+<Saktan> no comment lol CE3FF7
+<game> Saktan<~Controls.1~> 2 5 4 6 6 null
+<game> Saktan<~Controls.1~> 5 5 5 null
+<Saktan> 2 C6C943
+<game> Ivan<~Controls.1~> 5 1 2 6 5 null
+<game> Ivan<~Controls.1~> 3 null
+<Ivan> 3 D466E6
+$Ivan<~Controls.304~>267 266 <~Controls.305~><~Game.1992~> 711315
+$Ivan<~Controls.313~>269 088 <~Controls.309~>(1)/casualties(1)<~Controls.314~><~Game.1992~> 348339
+$Saktan<~Scribe.141~>336 007 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.2037~><~Scribe.144~> 0ED894
+<Saktan> press/draw C0C62B
+$Saktan<~Controls.304~>055 <~Controls.305~><~Game.1928~> A3F165
+$Saktan<~Controls.313~>041 <~Controls.307~><~Controls.314~><~Game.1928~> CC9D53
+<Saktan> actually sorry BFD103
+<Saktan> before i draw can i change casualties 5FC067
+<Ivan> yes 9F3BBF
+$Saktan<~Scribe.141~>336 007 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.1928~><~Scribe.144~> BA0014
+$Saktan<~Scribe.141~>007 341 008 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.2036~><~Scribe.144~> 314B1B
+$Saktan<~Controls.819~> B91AF0
+$Saktan<~Controls.819~> 2F3A30
+$Saktan<~Controls.819~> BCA537
+$Saktan<~Controls.819~> 08901D
+$Saktan<~Controls.819~> A28A35
+<Saktan> srry forgot i had already pressed BBE35A
+<Saktan> taking casualties now 6BF44A
+$Saktan<~Scribe.141~>008 007 341 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.2036~><~Scribe.144~> E7278D
+<Ivan> K 6DC52E
+<Saktan> press/draw FF169D
+$Saktan<~Controls.304~>336 <~Controls.305~><~Game.1928~> BCF3F6
+$Saktan<~Controls.313~>019 <~Controls.307~><~Controls.314~><~Game.1928~> 61D1A7
+$Saktan<~Controls.509~>202<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.662~>201 008 007 341 <~Controls.663~><~Game.2035~> 313E43
+$Saktan<~Controls.840~>172 00F266
+$Ivan<~Controls.840~>113 513C67
+<auto> playchosen E86770
+<auto><~Controls.3~>reveal 113 66B7A2E00ECD47C993E7F49C4EA770CF50FF7AB4 19<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 003680
+<auto><~Controls.866~>reveal 172 704A126AD403A48707F2617BBB57D71FC89495AC 20<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 358709
+<auto> playchosen 1E43E7
+<game> Saktan<~Controls.1~> 5 6 2 5 5 null
+<game> Saktan<~Controls.1~> 6 6 4 1 null
+<Saktan> 3 1ED133
+<game> Ivan<~Controls.1~> 5 1 6 6 4 null
+<game> Ivan<~Controls.1~> 3 null
+<Ivan> 4 5B316F
+$Ivan<~Scribe.141~>093 <~Scribe.142~><~Game.1992~><~Scribe.143~><~Game.2037~><~Scribe.144~> 37F76C
+<Saktan> hmm 8182FD
+$Ivan<~Controls.304~>092 <~Controls.305~><~Game.1992~> 20B7DA
+$Ivan<~Controls.313~>268 <~Controls.307~><~Controls.314~><~Game.1992~> FD088B
+$Saktan<~Scribe.141~>057 048 019 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.2036~><~Scribe.144~> F9EFF3
+<Saktan> post BEAD70
+<game> Saktan<~Controls.1~> 5 null
+<Saktan> 1 D74156
+$Ivan<~Scribe.141~>088 <~Scribe.142~><~Game.1992~><~Scribe.143~><~Game.2037~><~Scribe.144~> 1CF71C
+<Saktan> stop 996D33
+$Saktan<~Controls.644~>362 172 057 048 019 113 093 088 <~Controls.645~><~Game.2035~> 257690
+$Ivan<~Controls.731~>359 211 212 213 210 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 27A169
+$Saktan<~Controls.757~>361 360 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 28DA5F
+<~Game.7~>9 null
+$Saktan<~Controls.762~>362 101 103 105 104 099 102 100 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> D86330
+$Saktan<~Controls.509~>204<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Ivan<~Controls.509~>112<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Saktan<~Controls.509~>184<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Ivan<~Controls.509~>147<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+<Ivan> fsp ok 921B21
+<Saktan> 1e FC5CC0
+$Saktan<~Controls.372~>362 D5AAFE
+$Saktan<~Controls.345~>101 103 105 104 099 102 100 361 360 <~Controls.346~>13 12 15 11 12 13 14 15 12 null
+$Saktan<~Controls.350~>101 103 105 104 099 102 100 361 360 null
+$Ivan<~Controls.345~>359 211 212 213 210 <~Controls.346~>2 1 3 1 4 null
+$Ivan<~Scribe.141~>359 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 18CA31
+$Ivan<~Scribe.141~>reveal 147 DC623F42D0182C54CD48023B067F0EB762E35A77 21 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> 1E19B4
+<Ivan> lol sorry B8922A
+$Ivan<~Scribe.141~>265 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1992~><~Scribe.144~> C7DBA2
+$Ivan<~Controls.644~>359 147 <~Controls.645~><~Game.2035~> 781CC8
+<Ivan> i topdecked F56AC5
+<Saktan> it happens haha 513119
+<Ivan> yes whole game has been unlucky 4 u B2A2C9
+<Ivan> at least u got a break with me rolling 0 movement 05418F
+<Ivan> but thats it 76237D
+$Saktan<~HighlightLabel.81~>099<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 1C138C
+$Saktan<~Scribe.141~>323 338 337 010 015 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.1973~><~Scribe.144~> B5D502
+$Saktan<~Scribe.141~>323 056 052 051 338 337 010 015 <~Scribe.142~><~Game.1973~><~Scribe.143~><~Game.1970~><~Scribe.144~> 1D2F42
+$Saktan<~Scribe.141~>340 <~Scribe.142~><~Game.1917~><~Scribe.143~><~Game.1927~><~Scribe.144~> A7A55E
+$Saktan<~Controls.644~>099 <~Controls.645~><~Game.2035~> 35F4C2
+$Ivan<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 821B29
+$Ivan<~Controls.790~>247<~Controls.791~><~Game.529~><~Controls.792~><~Game.532~> 0F3679
+$Ivan<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> DA0563
+$Saktan<~Controls.624~>222<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Saktan> 3r 0900AB
+$Ivan<~Scribe.141~>243 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2037~><~Scribe.144~> 4CC2A6
+$Ivan<~Scribe.141~>252 <~Scribe.142~><~Game.2021~><~Scribe.143~><~Game.2022~><~Scribe.144~> D94099
+$Ivan<~Controls.323~>247 8BA905
+$Ivan<~Controls.644~>222 243 <~Controls.645~><~Game.2035~> B65866
+$Ivan<~Scribe.141~>364 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1999~><~Scribe.144~> 8D4102
+$Saktan<~HighlightLabel.81~>100<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 9AB629
+$Saktan<~CardBuffet.14~>reveal 204 8AA07191EB8698F5B3FCB81A3E3B1DA7AF1CB8DF 18<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 998E2E
+$Saktan<~Controls.624~>238<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Ivan> bruh 9BF63F
+$Ivan<~Scribe.141~>252 <~Scribe.142~><~Game.2022~><~Scribe.143~><~Game.2023~><~Scribe.144~> EEB108
+$Ivan<~Scribe.141~>252 <~Scribe.142~><~Game.2023~><~Scribe.143~><~Game.2024~><~Scribe.144~> 19B2E1
+$Ivan<~Scribe.141~>252 <~Scribe.142~><~Game.2024~><~Scribe.143~><~Game.2025~><~Scribe.144~> 6692FC
+$Saktan<~Controls.644~>100 204 238 <~Controls.645~><~Game.2035~> 513555
+$Ivan<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 35F7A5
+$Ivan<~Scribe.141~>reveal 139 16C0D1B6D75601C3C6689E6323683261E897F685 21 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> A8DE9E
+$Ivan<~Scribe.141~>252 <~Scribe.142~><~Game.2025~><~Scribe.143~><~Game.2024~><~Scribe.144~> 2128B4
+$Ivan<~Scribe.141~>252 <~Scribe.142~><~Game.2024~><~Scribe.143~><~Game.2023~><~Scribe.144~> 8040A4
+$Ivan<~Controls.644~>213 139 <~Controls.645~><~Game.2035~> F22EFD
+<Saktan> nice 18B0B9
+<Ivan> yep needed 8B4A58
+$Saktan<~HighlightLabel.81~>102<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> AEA3BF
+$Saktan<~Scribe.141~>253 039 037 038 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.1970~><~Scribe.144~> BF73FE
+$Saktan<~Scribe.141~>040 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.1928~><~Scribe.144~> F468A2
+$Saktan<~Scribe.141~>038 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.1928~><~Scribe.144~> 8D5341
+$Saktan<~Controls.644~>102 <~Controls.645~><~Game.2035~> 3D1F62
+<Ivan> pass 69163A
+$Saktan<~HighlightLabel.81~>103<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 2F212D
+<Saktan> Erebor 94AB4C
+$Ivan<~Scribe.141~>068 062 312 061 066 059 060 <~Scribe.142~><~Game.1965~><~Scribe.143~><~Game.1988~><~Scribe.144~> 5EF132
+$Saktan<~Scribe.141~>253 039 037 323 056 052 051 338 337 010 015 012 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.1965~><~Scribe.144~> B08526
+$Saktan<~Scribe.141~>417 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1970~><~Scribe.144~> 50E0F6
+$Saktan<~Controls.644~>103 <~Controls.645~><~Game.2035~> FEC602
+$Ivan<~Scribe.141~>257 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> C84B50
+<Ivan> pass 9BDA33
+$Saktan<~Scribe.141~>257 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> 08AB50
+$Saktan<~HighlightLabel.81~>360<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> AF245A
+<Saktan> Erebor 7FC0E3
+$Saktan<~Controls.840~>184 80946A
+$Ivan<~Controls.840~>112 872B19
+<auto> playchosen A59CB8
+<auto><~Controls.3~>reveal 112 BB715EBF1C98C6FD4A709A2F6E73DFB501B90FCB 6<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 315715
+<auto><~Controls.866~>reveal 184 ADD3938FCEE6F14C9F82F1F9767B54C590ACF7FF 0<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 0CA95E
+<auto> playchosen 45F529
+<game> Saktan<~Controls.1~> 1 1 4 2 1 null
+<game> Saktan<~Controls.1~> 6 6 5 3 4 null
+<game> Ivan<~Controls.1~> 1 2 6 2 5 null
+<game> Ivan<~Controls.1~> 5 1 null
+<Saktan> 2 5DA506
+<Ivan> 3 DD8405
+$Ivan<~Scribe.141~>068 <~Scribe.142~><~Game.1988~><~Scribe.143~><~Game.2037~><~Scribe.144~> 0375C5
+$Saktan<~Scribe.141~>010 015 012 <~Scribe.142~><~Game.1965~><~Scribe.143~><~Game.2036~><~Scribe.144~> C6F374
+$Ivan<~Controls.304~>061 <~Controls.305~><~Game.1988~> 8E418A
+$Ivan<~Controls.313~>317 <~Controls.307~><~Controls.314~><~Game.1988~> A6AB7F
+<Saktan> stop/draw 1E3CA9
+$Saktan<~Controls.509~>178<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.644~>360 184 010 015 012 112 068 <~Controls.645~><~Game.2035~> 837D16
+$Ivan<~Scribe.141~>257 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> D513E7
+$Ivan<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> CE7889
+$Ivan<~Scribe.141~>259 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> C7B3BD
+$Ivan<~Controls.644~>212 <~Controls.645~><~Game.2035~> 0819D5
+$Saktan<~HighlightLabel.81~>104<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 53DDBD
+$Saktan<~Scribe.141~>050 <~Scribe.142~><~Game.1973~><~Scribe.143~><~Game.1965~><~Scribe.144~> 0D0194
+$Saktan<~Scribe.141~>340 <~Scribe.142~><~Game.1927~><~Scribe.143~><~Game.1928~><~Scribe.144~> 60DBD3
+$Saktan<~Scribe.141~>416 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1973~><~Scribe.144~> CC6929
+$Saktan<~Controls.644~>104 <~Controls.645~><~Game.2035~> 4C6435
+$Ivan<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 68DF4D
+$Ivan<~Scribe.141~>259 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> CA7AF5
+$Ivan<~Controls.644~>210 <~Controls.645~><~Game.2035~> ABC8B4
+$Saktan<~HighlightLabel.81~>101<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 53F6EC
+$Saktan<~CardBuffet.14~>reveal 202 4AF468226516A18D082467D4D48436DA7959E497 10<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 99B83F
+<Saktan> plz no eye or 0 C02F02
+$Saktan<~Controls.624~>237<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Saktan> ooh fun F903DB
+<Ivan> welp lol 9096ED
+<Saktan> 3 or more plz! 1C5493
+<game> Saktan<~Controls.1~> 3 null
+<Saktan> gg 92B1FC
+$Ivan<~Scribe.141~>252 <~Scribe.142~><~Game.2023~><~Scribe.143~><~Game.2024~><~Scribe.144~> 14C6D6
+$Ivan<~Scribe.141~>252 <~Scribe.142~><~Game.2024~><~Scribe.143~><~Game.2025~><~Scribe.144~> 4CCD4A
+$Ivan<~Scribe.141~>252 <~Scribe.142~><~Game.2025~><~Scribe.143~><~Game.2026~><~Scribe.144~> 697E0C
+<Ivan> gg 3C8491
+<Saktan> bruh 381FAE
+<Saktan> what a crazy game 7E3C5A
+<Ivan> 2 reds on hunt draws lol 162517
+<Ivan> unforch 707C66
+<Saktan> very DAE992
+<Saktan> i would have liked those more on the movement though for the stopping but i will take it 8DF9E1

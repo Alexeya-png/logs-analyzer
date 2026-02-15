@@ -1,0 +1,1550 @@
+<auto> silent null
+<auto><~Scribe.141~>363 397 398 402 401 400 399 403 404 376 375 374 373 377 378 <~Scribe.142~><~Game.2038~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>365 366 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 367 368 369 370 371 372 <~Scribe.142~><~Game.2040~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>230 231 <~Scribe.142~><~Game.2044~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>155 152 <~Scribe.142~><~Game.2004~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>137 151 <~Scribe.142~><~Game.2005~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>161 198 <~Scribe.142~><~Game.2006~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>163 188 <~Scribe.142~><~Game.2007~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Controls.323~>364 null
+<auto> noisy null
+<auto> silent null
+<auto><~Scribe.141~>312 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1965~><~Scribe.144~> null
+<auto> noisy null
+<~Game.7~>1 null
+<auto> silent null
+<auto><~Scribe.141~>363 397 398 402 401 400 399 403 404 376 375 374 373 377 378 <~Scribe.142~><~Game.2038~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>365 366 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 367 368 369 370 371 372 <~Scribe.142~><~Game.2040~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>230 231 <~Scribe.142~><~Game.2044~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>155 152 <~Scribe.142~><~Game.2004~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>137 151 <~Scribe.142~><~Game.2005~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>161 198 <~Scribe.142~><~Game.2006~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>163 188 <~Scribe.142~><~Game.2007~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Controls.323~>364 null
+<auto> noisy null
+$base silent null
+$TEST<~Scribe.141~>312 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1965~><~Scribe.144~> null
+$base noisy null
+<game> NewPlayer<~Controls.408~>[WOTR-Gandalf2 wotr base2] null
+<game> NewPlayer<~Controls.437~>Saktan. 
+<~Talker.31~> null
+<Saktan> hello! 
+<GandalfTheFly> sweet, League game 
+<Saktan> game 2 yes 
+$GandalfTheFly<~Controls.281~>427 426 <~Controls.282~><~Game.2038~><~Controls.283~><~Game.2042~> 
+$Saktan<~Controls.479~>77809EA6B211A6588EC635DEFAFB749BC63C9044 75D0F7BFBB7CC47F049CCDD17B192F54 24 3C8F6B387219633E5F8F434B683BACC03B9218A4 BE27F47BFAA6DF4B659388B4446D8CE1 4BC095F235BFA071CE59807720FA4413B7BCCC2B 91A9D471E8ED0F28531AA4F3FDB65C78 FC8FA9B1F67644E390F66D6A235B0C1CA2A35C09 30FCEF436D86B9BEFB778CEC453B2876 B5099477353AF576AD4874E720A3C05FFA1D2216 4DAB46F75149C89CB0660B5A6123D826 EC5C285BE85C9B4A84B99D68BFE1BA6D72839B93 BCC72410DB6AECE9B69C4FD686374AE2 C4E67F6AC92B7E1FBAAF32A0103453452BB7070F 6A4E1192BA88F8F85D8EA3595779EF74 39D44C4CEF75BC54636ED4F084A55FEA65652A37 8D8AD8F32932782451BD051EAC625BD8 CA8133983A01F0FEF7FF33536D8C4B7174A92673 1CE79D3B4D4E6473302926F094CCC182 D3597F791FD664EF830B63F5D7B672E9207A8A91 82E3B464E1044D905DB571C29DC2BDF7 F1103A2429FAFAEB4D9104F71603A515E47AFC36 8D1FC860140DA7F813980DB852C69B19 E737520294D6E357FEE44AEF7CD76A5A1B0CD7E6 ACB2D022B186645CBC26329104470615 2757329C6E39CD54F97B4A2E092666D286F2A684 5942CF4B80C1DFBD839375B9CD519BB9 1DBD4579EFD4DB40C1C0A9E4FFABB8AAFA996A56 D48B5B1AEC96A07128708C58D1BDDE04 158B530184029360496C957CFAB43D91B14743CE 115536EEE539EBFA120A0FE8C7586C72 F24CD6F8A4CF697040AFF7660E6571109674E77F F2F8540307A19167AAF32F82B7D781F0 D553C783C4567C6FAE9691D86929793AF99CD3D4 B8029D6BFBEE6E19E64E417F049030CB 9F6B574CF9E36C55572351AD30393E14D1D60E93 B78CF9E61D7D866023ADABFFAD3C0367 1B592B3F1189C08EDCBD848B5BCD00E777A4B893 4956DB1D5F6C364C3798D2B6CF53E4AD F0D969799201329836BA10758999C6BD795DB572 04C5CF3D6CE08736C618900E6EB0D5D2 A8DFF0F8E7EF20CE3D771700D50B7D11D4DE27C0 2F45EAC91049A5B0D4CDB17B7494D2C2 3C3677CBDDAC873E039CDB29A14275C4C6349AD0 71BD7E0CD65D21359C69775FF94641B7 BC34F144A6A7B5B5A2C93B7DA0FBD94737E42A65 CB096364F2AF3FD29FA7BBF1C4D2E9E8 7843BC36A372A9E613C5A5B1719E615496F006C7 C7B1D84061F61976FF0F6E9811A9BB1D A2061834DE83F6970934DE72DF9555C8A019D183 F14D9F134E788BA60C1C9584942C0480 24 1FD55F28789BC4B01750654659E0597DA8FCA7EA 8650C393B7397ED91F907500BD6854E7 567F3D9F9DAB2C5EF4BA6ECAE3B21153C10CC75F 6B25C41450CECBDDA61EF5363D79740A 5B0F204F2C7F68F1476FD03FBF80937D8B6EA6F9 60DDE75FA7F69D7B80A81B5FC965A74A 1C210D495E9DBB902E5BC188C965518D18934ECD 75D841C8886B59B38BAEF7B01E766A43 911BEEC0D184A0BE866484B1536E9D56CC88B494 BC235530A27BDF7D7AC85FC0444207A3 6057DE30F93C15992435726D0761BEC3E32EA757 3F7E92716A5F993EEB34544716030028 55B1B3BAAF1706446BD1D779DEBED3F252E90DBC 34397D453E678AF1B8D660DA00E7D1D9 052549A9B5C6FCA5A0FB360338AC56FAC130201B 6F674125CE67D4A38C3391D60A6F0199 7408F02185477CCE6FFEDE523E8751AFBAB1E266 171039F2B708ECB5B9478D471618211F 3C68396F7BB9711E72DE72BCB03D521029F215DA 9C5885F770D9706A49438FD665D4C22B 40A8151AB7520C8A4BD3215C01BD688D3A71E6D6 E8D9BB7D6950772552844FA55F19495B 4354F16BF0EA838F314D0EF6C233BD752618E88E D494F7BC711851AC8E62057C93859478 62859B0A267499A74974781D84304493DE8473C6 DD39A02A5750C27F2AA070ECFB62D7BE D5DD2B1F1575816EDD4EFEA3436CB17093D1DC2B 16B83196D4A058C8DE93C8168589A8B5 583F95DFE904832BCD3CA2DEB64676040E9007E7 6047791EA84C83183D60AB05CE65031B 8773B21B9A513B8535B346CA46DE6153B37F2E67 D9615C0E029F59C04ECCF81C30287BB5 54036523B740F90077BD4383CAF9CB488CE8C023 92609128245CEF755A9129B2FE5FC338 BB3BF3687BC813F10AA3709BF6355F31D130A481 84AFF8CB4618ED7007326D7C0D871070 877D6CEA0E317ADDCF7F79BBD2562BDD2A0D8712 C3CCC0D1BB981CB3A5AEE55C7741F738 082F5846CDDA67FD0EC1B9080D3FC8B057011BF2 F3866EB252A3F75FC7AAF9DC9B559916 AE0C53E8F6218A36AD7CDE484FE5B557376D0494 FB2E86B2FEDF49AD15D82A4F67A05B24 15ABA2C155BE73537FBFEAD61EACECCBCA5E72CB F9B029DAB9B0DCF461BA6777D9895051 86E9A1529DE853D270E8EB7AB8C8E750C06871A7 75C8CAC7A4232EBDF718AD0FC2BD3636 FE32BB173F22E5F509E5C0B41D7C697A775CAE56 D8C34FF47263A28B38B13C06CC2CA4AF 0 0 7589B1
+$GandalfTheFly<~Controls.464~>58FB16075C437F8D0EF5F1A0377E5028FD7A925A 44BE26F76D7C49043038A55C1CC6ABB2 24 A66E02DA05E60A1BB076394F1912BB5DEB5FD46D AC4089D5BA36B538E0CBD95CA13FC04D 7C972A29C5990B641DAFE2978349FD329273A6B1 B6967E550BF91F4B929D62BA705BE466 6C45C7AA26F57DA50B91D274F51032DF4DCE6C60 314D9679802BBF3BBE01FACCCB9D2C3C 1BE2FC9B4BA8B5580CDDA6351B73EB2FCAC5832B 95283FEF5F126FCE5AB32CE6E635EF25 3C462BC668F7D8A58DDBB7E11025E33251A15341 440F0D1903A5A0A9C891ADEC01B036BC 08DFDA350D97E12225CE840319603C68DCC720B1 12D4FC8E1460D904EFD88C5FB834E5CA ADFFCAD2C91662D38B9B233C095C4207EBC11C73 07A5CBF5F88621FBA637E86C99E9FB8A 725507CF900BAFA831DBD6A7B6013BF0FEAB8BE7 632290E38888901A59681B21F7469F52 070C831C813BCFCE961772F62E5882538B96326E E1611FAE067BEE00E62FCF09FD76AA2D 9E79CE4305866730D580DFD3F4546D62D335DDD2 4062A8C74FE35C69C8E6BE6505123153 16D53CBF1E681389EFF5B0776DFAE4E618E3E464 FEB294CB4C3B681F76F0EAEC2ACC6F82 603B3A109A972F67CA973276401FBC3FC5BAB60A 665465A9AEEB06AC0DC570D71BE8A120 1E361B64357794C357206CDD6669EB73F414E82E CD132FD1DAAC21082C71A76132833AB2 47ACDBAA1970334EC182583D971D52B5DF39FE4D 17E8C9C520838C291EB0A91CC40E5E8A A4B5F523E331810DB0708D1FAABA9A64E7793475 8012FBA733CA164A3E0465C1BA8A696C 2F305F6142B015D05AC2647EF92C836FBFBD0569 99071AD4D503CC779771D77B60551A52 EC0A9DF864811AB73205C741683820E95B8131BC 8F642C75D15DE668CABE9B227CA4C29E 70F70D68A30F081AC807E089D7DDECAA03D9AFA0 B374756D2E238F0034607E16A2FB231A 099C002B655ABFB307D14708D8BF31EA5D470D8D 350B3A59A18C982A4F71D384C7334A0D D40E15C0AC51C8E37F07071E84231059C49A129D 33B541F543A41F275960E80F13E8568E 3031FF1C817C0CE6F996A1B25621C57E9D5B5624 F287AA538330BC72323072E9FA5BD646 8A336D1DA00C466AA01FF3598E01A3F3513B69BA 6A0F35075DDACFC78A7483CD8D2E34F8 6D12A3C91DD3AF52591F65324D0013AF02B3875D 0721828BCB02E5503B6CA3070C6F7774 E21701CBF06ECD6D1E48D946C7F12811C8A6D10A AD9614787CFB20CEF2DD5161C0E6D243 24 ABCBE27727D79DCD49C85F611D4BCB6310BE49AF FD358588C396D4DF159BD90F07AC0F6B A3FC75F848EB6F04B918FE76BDF94DA4F2DF927F D64777C6D14271C9E0CC0D19B052A5B8 44FF9140A71D1279A15777E2EE110C2E9D6CD1FC 1EA4C07D2724D831D16FAC41884DB437 170E69AB3D9365C0DD8DE5DB023168A922459597 C235207145E35BBB46A1E21E35554C4E 6808254C1BEDCCDA54769B2B8F07D36CA9A77F6E FA3A0AA2A72125CE63A315ED41E8B118 ECDC8DF4F79A171285DEEA2CBCFBCCD5DF7043A9 D1C5C108F1C934D639BBDD127938F392 1838B51AE326D41FCEBA8E3A0FFC6D3B797650F9 E4406BB768AF3E32244D4ED678194E76 B082B81159D517E946A6BA523534FB654F248ED9 69FC3BFBA4304A8574DB78867EC4ED8D 1ACE49CE71390A90981EB746C66A7D51A00EAF1E 7307A74E83D1AD614ECBCED98585A0F7 8B83165838070ED90D9490BDD7E4A8DB34540AE4 73D9A7066100D6E3D413E04D96A592E6 B00D597232251AD2DD0F5E013916B83022431829 02904F08857A96CD833B331C58261D41 DEE8C18278EFA9047CFFD8A00D6FCE5D87D975AB DCC4C1FADD03C9BADD47D5ACE9228CDC 4DD32B504BD0113AFA567965B85D7C253E4449F4 2F401A11EE65F3C447830608F0E9A943 2ED75278AD03EE6FABD3ABEB963522AEA79EA1A0 160B85EF05EAD938333D537FF224194C D280C97FD69D6BA4018A5E7CD420F19FCD865F85 5FA6665BB2C2822D81E8B5D9E5A05944 5AB773FF4AF0E78FCD29B8A0FC8FF64DCB447281 94690A60761882DB223C52A0028CF80D BB012285F13D8F3E3A50B531C12502A683B3DDE6 394E29A4BBADAD7CFE392F80DF3C26EE 2BE7A2C2D08CB184B337117B262C298634A29EF6 51ABFBA8044ED26A184050FBBCD6F87F 3834FCBCDF3BB51DAFA1D7E81297C58AB8C77056 27A5AC25647CF4C6EE87EB261C5F44D0 7C65CF00C83245AD75AE7A2E75CA9082A6D2F21C 4A552E423415497D25B87EE7971866E8 DE847D4DEC7B6780720B3D60955C032A96FB6E21 D8EED9F6FFD6A943656C68D4EE36EAA4 D8ECD514FB69FE6994C9AF3A272DFADE0A2555E4 FF6237ABC10615B482D7B7A56040D0B3 44BA15F902F7250D9FFDC0192D3E16CB5C83B4E1 C149FC7951A306D2DBE351263BB0A39D B98C43960040A9FC9E96B752AB1669831003E5A8 F6120A6B1ADC6CC307769D1CB5AEE341 0 0 144924
+$GandalfTheFly<~Controls.509~>116<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$GandalfTheFly<~Controls.509~>106<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+<GandalfTheFly> fsp ok and all that A7D0BC
+<Saktan> hello 0E4DAE
+<Saktan> okay, sorry i got frozen out there for a sec CFB6E3
+<GandalfTheFly> hi 6B6A54
+$Saktan<~Controls.509~>174<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.509~>196<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<Saktan> ok 6938DC
+<Saktan> 1e 9A2781
+$Saktan<~Controls.372~>105 6A4546
+$Saktan<~Controls.345~>104 103 102 101 100 099 <~Controls.346~>11 13 12 13 13 14 null
+$Saktan<~Controls.350~>104 103 102 101 100 099 null
+$GandalfTheFly<~Controls.345~>213 212 211 210 <~Controls.346~>1 2 2 3 null
+<GandalfTheFly> pass BB3A2C
+$Saktan<~HighlightLabel.81~>099<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> CA585C
+$Saktan<~Controls.509~>197<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.644~>099 <~Controls.645~><~Game.2035~> 04B95B
+<GandalfTheFly> pass 713C0B
+$Saktan<~HighlightLabel.81~>104<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 6C8CA7
+$Saktan<~HighlightLabel.101~>262<~HighlightLabel.102~><~Game.2002~><~HighlightLabel.103~><~Game.2003~> FF2EFC
+$Saktan<~Controls.644~>104 <~Controls.645~><~Game.2035~> 565CDB
+$GandalfTheFly<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 176F3E
+$GandalfTheFly<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> F11D86
+$GandalfTheFly<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> DE4C11
+<game> Saktan<~Controls.1~> 3 null
+<Saktan> safe 533F12
+$Saktan<~HighlightLabel.81~>102<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> B7755B
+$Saktan<~Scribe.141~>040 035 015 014 013 012 011 <~Scribe.142~><~Game.1956~><~Scribe.143~><~Game.1958~><~Scribe.144~> 665BF7
+$Saktan<~Scribe.141~>039 036 029 028 027 026 <~Scribe.142~><~Game.1979~><~Scribe.143~><~Game.1977~><~Scribe.144~> 948C29
+$Saktan<~Controls.644~>102 <~Controls.645~><~Game.2035~> 5B2CB0
+$GandalfTheFly<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> D8000F
+$GandalfTheFly<~Scribe.141~>258 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> B46E5B
+$GandalfTheFly<~Controls.644~>210 <~Controls.645~><~Game.2035~> F0EE57
+$Saktan<~HighlightLabel.81~>100<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 3BDE3F
+$Saktan<~Scribe.141~>040 035 015 014 013 012 011 <~Scribe.142~><~Game.1958~><~Scribe.143~><~Game.1957~><~Scribe.144~> 8EC35B
+$Saktan<~Controls.323~>258 CBA14E
+$Saktan<~Controls.644~>100 <~Controls.645~><~Game.2035~> 0F897D
+$GandalfTheFly<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> BDC14D
+$GandalfTheFly<~Scribe.141~>reveal 106 C7B02A5DFA7EF4966DFC5B298CB4DBB0117BF6A2 17 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> C4AC26
+$GandalfTheFly<~Scribe.141~>270 276 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1943~><~Scribe.144~> 13F1AF
+$GandalfTheFly<~Controls.509~>143<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$GandalfTheFly<~Controls.644~>211 106 <~Controls.645~><~Game.2035~> 130E61
+$Saktan<~HighlightLabel.81~>101<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> E733DD
+<Saktan> WLR 4AA349
+$GandalfTheFly<~Scribe.141~>098 094 088 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1991~><~Scribe.144~> 765822
+$Saktan<~Scribe.141~>040 035 015 014 013 012 011 <~Scribe.142~><~Game.1957~><~Scribe.143~><~Game.1954~><~Scribe.144~> 87E11D
+$GandalfTheFly<~Scribe.141~>256 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> 6BADA1
+$Saktan<~Controls.644~>101 <~Controls.645~><~Game.2035~> 285CDF
+$GandalfTheFly<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 4395F5
+$GandalfTheFly<~Controls.509~>120<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$GandalfTheFly<~Controls.644~>212 <~Controls.645~><~Game.2035~> D0BA32
+$Saktan<~HighlightLabel.81~>103<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> E53ACF
+$Saktan<~Scribe.141~>039 036 029 028 027 026 <~Scribe.142~><~Game.1977~><~Scribe.143~><~Game.1969~><~Scribe.144~> 1C5AF4
+<Saktan> hmm 009149
+<Saktan> actuallt 3CD3B6
+$Saktan<~Scribe.141~>039 036 029 028 027 026 <~Scribe.142~><~Game.1969~><~Scribe.143~><~Game.1977~><~Scribe.144~> D4171B
+<Saktan> WLR 4C7233
+<GandalfTheFly> alright 9E3FD1
+<GandalfTheFly> card? ADF8CB
+$GandalfTheFly<~Scribe.141~>256 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> DF89CF
+$Saktan<~Controls.840~>196 9AF3AC
+$GandalfTheFly<~Controls.840~>120 D8959E
+<auto> playchosen 2DECF5
+<auto><~Controls.3~>reveal 120 D03AD4DCBEC250590DEB2830611D038D5A38B966 5<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 29C230
+<auto><~Controls.866~>reveal 196 EBE4A952BE8E4A8D974C75AA88BE6B7E9B4B7DB3 12<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 8C2B50
+<auto> playchosen C8F4EF
+<Saktan> hmm 6B3F11
+<Saktan> no relentless D5166A
+<GandalfTheFly> alright 339E1A
+<Saktan> actually F64E92
+<Saktan> nah B4C305
+<Saktan> no relent 0FAD1F
+<game> Saktan<~Controls.1~> 1 5 6 4 3 null
+<game> Saktan<~Controls.1~> 2 null
+<Saktan> 1 C139D0
+<game> GandalfTheFly<~Controls.1~> 5 6 null
+<GandalfTheFly> 2 98100C
+$GandalfTheFly<~Controls.304~>094 <~Controls.305~><~Game.1991~> 358E1F
+$GandalfTheFly<~Controls.313~>269 <~Controls.307~><~Controls.314~><~Game.1991~> 3065DA
+$Saktan<~Scribe.141~>014 015 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.2037~><~Scribe.144~> 1D25A8
+$Saktan<~Scribe.141~>014 015 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2036~><~Scribe.144~> 1870D1
+<Saktan> stop EEEA44
+$Saktan<~Controls.644~>103 196 014 015 120 <~Controls.645~><~Game.2035~> D30C91
+<GandalfTheFly> nt 89E509
+$GandalfTheFly<~Controls.726~>213 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 78B99C
+$GandalfTheFly<~Controls.731~>212 211 210 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 874784
+$Saktan<~Controls.757~>105 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 774A49
+<~Game.7~>2 null
+$Saktan<~Controls.762~>103 101 100 102 104 099 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 926F48
+$Saktan<~Controls.509~>166<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.509~>186<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$GandalfTheFly<~Controls.509~>149<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$GandalfTheFly<~Controls.509~>153<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+<GandalfTheFly> fsp ok 504EF2
+<Saktan> 1e FC5627
+$Saktan<~Controls.372~>103 903811
+$Saktan<~Controls.345~>101 100 102 104 099 105 <~Controls.346~>13 12 15 15 11 12 null
+$Saktan<~Controls.350~>101 100 102 104 099 105 null
+<Saktan> or 3 F4F45C
+$GandalfTheFly<~Controls.345~>212 211 210 213 <~Controls.346~>2 1 1 3 null
+<GandalfTheFly> yeah it's one of those games CE46BD
+$GandalfTheFly<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> C92DB2
+$GandalfTheFly<~Controls.790~>248<~Controls.791~><~Game.2015~><~Controls.792~><~Game.2016~> E9D69F
+$GandalfTheFly<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 80964C
+<game> Saktan<~Controls.1~> 6 3 2 null
+<Saktan> 1 F67F9D
+$Saktan<~Controls.624~>218<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<GandalfTheFly> man 1D2504
+<Saktan> at least a 2! D8210D
+<GandalfTheFly> yeah 4C717C
+$GandalfTheFly<~Controls.296~>240 <~Controls.297~><~Game.1999~> 81826D
+$GandalfTheFly<~Scribe.141~>241 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> BB1243
+$GandalfTheFly<~Controls.323~>248 DD7095
+$GandalfTheFly<~Scribe.141~>247 <~Scribe.142~><~Game.1911~><~Scribe.143~><~Game.1912~><~Scribe.144~> D9D450
+$GandalfTheFly<~Controls.644~>218 <~Controls.645~><~Game.2035~> 936B4B
+$Saktan<~HighlightLabel.81~>105<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 3D8C79
+$Saktan<~Scribe.141~>039 036 029 028 027 032 <~Scribe.142~><~Game.1977~><~Scribe.143~><~Game.1974~><~Scribe.144~> 540759
+$Saktan<~Scribe.141~>001 <~Scribe.142~><~Game.1910~><~Scribe.143~><~Game.1912~><~Scribe.144~> A507C5
+$Saktan<~Controls.644~>105 <~Controls.645~><~Game.2035~> 154946
+$GandalfTheFly<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 27CFEF
+$GandalfTheFly<~Controls.323~>248 0995EB
+$GandalfTheFly<~Controls.644~>212 <~Controls.645~><~Game.2035~> 97EB9D
+$Saktan<~HighlightLabel.81~>100<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> F33F27
+<Saktan> WLR 17CA00
+<Saktan> nc 3725AE
+$GandalfTheFly<~Controls.840~>153 ECA237
+<auto> playchosen 1E18A1
+<auto><~Controls.861~>reveal 153 1ED0A3EF8CBCD377334A4EEC61E5563D35F5E8E6 0<~Controls.862~><~Controls.45~><~Controls.863~><~Game.2037~> 86ECA4
+<Saktan> nice 7BAFE5
+<game> Saktan<~Controls.1~> 3 4 1 1 null
+<GandalfTheFly> yp 4782EF
+<Saktan> oof 995547
+<game> Saktan<~Controls.1~> 3 null
+<Saktan> 0 254E2E
+<GandalfTheFly> ouch 8ECA5C
+<game> GandalfTheFly<~Controls.1~> 1 5 null
+<game> GandalfTheFly<~Controls.1~> 1 null
+<GandalfTheFly> 1+2 1CD4AF
+$Saktan<~Scribe.141~>035 013 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.2037~><~Scribe.144~> 6E7B03
+<Saktan> stop F7290D
+<GandalfTheFly> well 24DF6A
+$Saktan<~Scribe.141~>256 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 228DD7
+<GandalfTheFly> thranduil is staying strong B9FB1E
+$Saktan<~Controls.644~>100 153 035 013 <~Controls.645~><~Game.2035~> 95D4BA
+<Saktan> haha he is BC6317
+$GandalfTheFly<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> E74D81
+$GandalfTheFly<~Scribe.141~>reveal 149 F7320E3187FDF3FB4A9E0CB23DE764964AC2FCF4 22 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> 12C6A0
+$GandalfTheFly<~Scribe.141~>149 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2029~><~Scribe.144~> 180011
+$GandalfTheFly<~Controls.644~>211 <~Controls.645~><~Game.2035~> 7F3891
+$Saktan<~HighlightLabel.81~>099<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 4A928A
+$Saktan<~Scribe.141~>253 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1974~><~Scribe.144~> E47655
+$Saktan<~Scribe.141~>360 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2037~><~Scribe.144~> 84CB38
+$GandalfTheFly<~Controls.323~>259 257 D2EE4B
+$GandalfTheFly<~Controls.323~>260 CDEB84
+$Saktan<~Controls.644~>099 360 <~Controls.645~><~Game.2035~> CDA7C4
+$GandalfTheFly<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> F9E157
+$GandalfTheFly<~Scribe.141~>258 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> FFAD6C
+$GandalfTheFly<~Controls.644~>213 <~Controls.645~><~Game.2035~> EA7C06
+$Saktan<~HighlightLabel.81~>101<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 50DA2E
+$Saktan<~Scribe.141~>253 039 038 036 029 028 027 032 025 024 023 022 021 <~Scribe.142~><~Game.1974~><~Scribe.143~><~Game.1976~><~Scribe.144~> 8C7EB4
+$Saktan<~Controls.644~>101 <~Controls.645~><~Game.2035~> 6BF611
+$GandalfTheFly<~Controls.296~>426 <~Controls.297~><~Game.2042~> 242AF4
+<GandalfTheFly> nt D9FFED
+$GandalfTheFly<~Controls.819~> 9B1EB5
+<GandalfTheFly> sorry 083957
+<Saktan> np 1469B5
+$GandalfTheFly<~Controls.726~>210 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 0FD7B9
+$GandalfTheFly<~Controls.731~>213 211 212 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> FB1A19
+$Saktan<~Controls.757~>102 104 103 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 00AE21
+<~Game.7~>3 null
+$Saktan<~Controls.762~>101 099 360 100 105 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 30F603
+$Saktan<~Controls.509~>181<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.509~>164<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$GandalfTheFly<~Controls.509~>144<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$GandalfTheFly<~Controls.509~>121<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+<GandalfTheFly> fsp ok 110E64
+<Saktan> 1e 913B95
+$Saktan<~Controls.372~>101 07AAED
+$Saktan<~Controls.345~>099 360 100 105 102 104 103 <~Controls.346~>15 11 10 14 11 11 15 null
+$Saktan<~Controls.350~>099 360 100 105 102 104 103 null
+$GandalfTheFly<~Controls.345~>213 211 212 210 <~Controls.346~>4 4 0 3 null
+<GandalfTheFly> well then CBEF25
+<Saktan> haha E675CC
+<GandalfTheFly> pass 81FA13
+$Saktan<~HighlightLabel.81~>100<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 132B6D
+$Saktan<~Controls.819~> 50A65D
+$Saktan<~HighlightLabel.81~>360<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 8C0411
+$Saktan<~Scribe.141~>253 039 038 036 029 028 027 032 025 024 023 022 021 <~Scribe.142~><~Game.1976~><~Scribe.143~><~Game.1972~><~Scribe.144~> 729000
+$Saktan<~Controls.644~>360 <~Controls.645~><~Game.2035~> DFAFBC
+$GandalfTheFly<~Scribe.141~>426 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 356123
+$GandalfTheFly<~Scribe.141~>258 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 647D37
+$GandalfTheFly<~Controls.644~>426 <~Controls.645~><~Game.2035~> D41C2E
+$Saktan<~HighlightLabel.81~>104<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> A6A939
+$Saktan<~Scribe.141~>055 049 048 047 <~Scribe.142~><~Game.1968~><~Scribe.143~><~Game.1946~><~Scribe.144~> B77A3F
+$Saktan<~Scribe.141~>253 039 038 036 029 028 027 032 025 024 023 022 021 <~Scribe.142~><~Game.1972~><~Scribe.143~><~Game.1975~><~Scribe.144~> 7C39FA
+$Saktan<~Controls.644~>104 <~Controls.645~><~Game.2035~> 15F8BF
+$GandalfTheFly<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> A17956
+$GandalfTheFly<~Scribe.141~>299 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1970~><~Scribe.144~> 975D54
+$GandalfTheFly<~Controls.644~>210 <~Controls.645~><~Game.2035~> AA0EF6
+$Saktan<~HighlightLabel.81~>105<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> D5B7C5
+$Saktan<~CardBuffet.14~>reveal 186 25612306D830AC0A40EB513C6BBC0FEAFD85F016 9<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> A0D37E
+$Saktan<~Scribe.141~>253 039 038 036 029 028 027 032 025 024 021 <~Scribe.142~><~Game.1975~><~Scribe.143~><~Game.1966~><~Scribe.144~> B57C77
+$Saktan<~Scribe.141~>253 039 038 036 029 028 027 032 025 024 021 <~Scribe.142~><~Game.1966~><~Scribe.143~><~Game.1957~><~Scribe.144~> 198DF9
+$Saktan<~Scribe.141~>253 039 038 036 029 028 027 032 025 024 021 <~Scribe.142~><~Game.1957~><~Scribe.143~><~Game.1954~><~Scribe.144~> B080BC
+$Saktan<~Controls.644~>105 186 <~Controls.645~><~Game.2035~> 92D8F7
+$GandalfTheFly<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 92A684
+$GandalfTheFly<~Scribe.141~>300 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1970~><~Scribe.144~> 669B5A
+$GandalfTheFly<~Controls.644~>211 <~Controls.645~><~Game.2035~> A3CC36
+$Saktan<~HighlightLabel.81~>102<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 7C3848
+<Saktan> Dale from WLR 75AA76
+<GandalfTheFly> yep AF3C8F
+$Saktan<~Controls.840~>164 8A235C
+$GandalfTheFly<~Controls.840~>143 D202E9
+<auto> playchosen 9BEB95
+<auto><~Controls.3~>reveal 143 00DAE33600D70B441DEAA8D205621A7F28FFC973 1<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 1468AD
+<auto><~Controls.866~>reveal 164 7E02B09F8E2013CCC2F092D6216D4071A2796F88 11<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 88EC3E
+<auto> playchosen D4DDB5
+<game> Saktan<~Controls.1~> 2 3 1 4 5 null
+<game> Saktan<~Controls.1~> 3 4 5 5 2 null
+<Saktan> 0 875DA9
+<game> GandalfTheFly<~Controls.1~> 1 6 2 null
+<game> GandalfTheFly<~Controls.1~> 6 null
+<GandalfTheFly> 2 270E77
+$Saktan<~Scribe.141~>012 021 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.2036~><~Scribe.144~> E9C06D
+<Saktan> press 612525
+<Saktan> draw D0A186
+<GandalfTheFly> hmm F13D08
+<GandalfTheFly> thinking 2F16B2
+$Saktan<~Controls.509~>171<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<GandalfTheFly> stay 1A73C6
+<Saktan> ok 0D1CFF
+$Saktan<~Controls.662~>164 012 021 143 <~Controls.663~><~Game.2035~> 4EC03C
+<GandalfTheFly> card? 441A7D
+$Saktan<~Controls.840~>181 F6BC62
+$GandalfTheFly<~Controls.840~>121 CFAEBB
+<auto> playchosen 8C67D4
+<auto><~Controls.3~>reveal 121 923028954ABEF2DCA8F8B06EEBF939BB428B5ECC 18<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 016A3A
+<auto><~Controls.866~>reveal 181 732A931697A38046617F45E7F805BFFF629EC9D7 14<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> F7857F
+<auto> playchosen 1628DB
+<Saktan> ff1 C23716
+<GandalfTheFly> yep 1132EE
+<game> Saktan<~Controls.1~> 4 5 4 4 4 null
+<game> Saktan<~Controls.1~> 6 2 6 5 null
+<Saktan> 4 298108
+<game> GandalfTheFly<~Controls.1~> 2 4 4 null
+<game> GandalfTheFly<~Controls.1~> 5 null
+<GandalfTheFly> 3 118AA6
+$Saktan<~Scribe.141~>036 029 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.2036~><~Scribe.144~> 22C5CF
+$GandalfTheFly<~Controls.296~>300 <~Controls.297~><~Game.1970~> C957FA
+$GandalfTheFly<~Controls.296~>299 <~Controls.297~><~Game.1970~> C20E6C
+<Saktan> press B8D910
+<GandalfTheFly> now retreat 3DC534
+$GandalfTheFly<~Scribe.141~>068 066 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.1965~><~Scribe.144~> 0167ED
+$Saktan<~Scribe.141~>011 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1970~><~Scribe.144~> 9620CC
+$Saktan<~Scribe.141~>423 <~Scribe.142~><~Game.27~><~Scribe.143~><~Game.28~><~Scribe.144~> CE255D
+$Saktan<~Controls.644~>102 181 036 029 121 <~Controls.645~><~Game.2035~> 5E4E5D
+<Saktan> strong men! 1DF942
+$GandalfTheFly<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 1BA752
+$Saktan<~Scribe.141~>412 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1970~><~Scribe.144~> 7233C7
+$GandalfTheFly<~Scribe.141~>059 <~Scribe.142~><~Game.1973~><~Scribe.143~><~Game.1965~><~Scribe.144~> A55ED8
+$GandalfTheFly<~Scribe.141~>073 072 <~Scribe.142~><~Game.1929~><~Scribe.143~><~Game.1925~><~Scribe.144~> F5E914
+$GandalfTheFly<~Controls.644~>213 <~Controls.645~><~Game.2035~> 05402E
+$Saktan<~HighlightLabel.81~>100<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 2F2816
+$Saktan<~HighlightLabel.101~>263<~HighlightLabel.102~><~Game.2002~><~HighlightLabel.103~><~Game.2003~> 03FBD2
+$Saktan<~Controls.644~>100 <~Controls.645~><~Game.2035~> 5D2AF4
+$GandalfTheFly<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> BC15A3
+$GandalfTheFly<~Scribe.141~>358 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.2037~><~Scribe.144~> 01D367
+$GandalfTheFly<~Scribe.141~>240 <~Scribe.142~><~Game.2039~><~Scribe.143~><~Game.1921~><~Scribe.144~> 11D7D5
+$GandalfTheFly<~Controls.323~>240 62F749
+<GandalfTheFly> yeah 0677DC
+$GandalfTheFly<~Controls.644~>212 358 <~Controls.645~><~Game.2035~> 4B6E8B
+$Saktan<~Controls.757~>099 103 101 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> FB246B
+$Saktan<~Controls.762~>100 102 105 104 360 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 30F0C0
+<GandalfTheFly> nt 0DAD6B
+$GandalfTheFly<~Controls.731~>212 358 213 211 210 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 396285
+<~Game.7~>4 null
+$Saktan<~Controls.509~>173<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.509~>187<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$GandalfTheFly<~Controls.509~>126<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$GandalfTheFly<~Controls.509~>124<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+<GandalfTheFly> fsp ok 1060D7
+<Saktan> 1e DA346C
+$Saktan<~Controls.372~>100 C298A2
+$Saktan<~Controls.345~>102 105 104 360 099 103 101 <~Controls.346~>14 10 14 12 13 10 12 null
+$Saktan<~Controls.350~>102 105 104 360 099 103 101 null
+$GandalfTheFly<~Controls.345~>212 358 213 211 210 <~Controls.346~>4 3 1 1 2 null
+$GandalfTheFly<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 2D6B1C
+$GandalfTheFly<~Controls.509~>113<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$GandalfTheFly<~Controls.644~>210 <~Controls.645~><~Game.2035~> CB36EA
+$Saktan<~HighlightLabel.81~>104<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 6CF046
+$Saktan<~CardBuffet.14~>reveal 171 384078E81EDC8427B2D3A11E6268F49AFF1B932C 20<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 3EFA22
+$Saktan<~Controls.304~>027 028 <~Controls.305~><~Game.1954~> DC9683
+$Saktan<~Controls.313~>035 036 <~Controls.309~><~Controls.314~><~Game.1954~> 84D806
+$Saktan<~Controls.644~>104 171 <~Controls.645~><~Game.2035~> CEA276
+<GandalfTheFly> pass D7898F
+$Saktan<~HighlightLabel.81~>103<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 4C7D44
+$Saktan<~Scribe.141~>254 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1919~><~Scribe.144~> AB1517
+$Saktan<~Scribe.141~>361 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2037~><~Scribe.144~> F56211
+$Saktan<~Controls.644~>103 361 <~Controls.645~><~Game.2035~> FD77BE
+<GandalfTheFly> pass 5BDADB
+$Saktan<~HighlightLabel.81~>360<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 8FDB8A
+<Saktan> WLR 80507E
+<GandalfTheFly> yep 8F37FC
+$Saktan<~Controls.840~>187 3699FC
+<GandalfTheFly> nc B8E2AA
+<auto><~Controls.866~>reveal 187 976EBA55AF9FC0F300CCB8615D7C345A3E337F42 7<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 487AA3
+<game> Saktan<~Controls.1~> 2 6 6 1 1 null
+<Saktan> 2 23CF80
+<game> GandalfTheFly<~Controls.1~> 6 4 null
+<game> GandalfTheFly<~Controls.1~> 2 null
+<GandalfTheFly> 1 4E62EB
+$GandalfTheFly<~Controls.296~>098 269 088 <~Controls.297~><~Game.1991~> 802E5E
+$Saktan<~Controls.304~>036 <~Controls.305~><~Game.1954~> 3A26D2
+$Saktan<~Controls.313~>027 <~Controls.307~><~Controls.314~><~Game.1954~> 78C9E9
+<Saktan> wk draw A6C5A8
+$Saktan<~Controls.509~>159<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Saktan<~Scribe.141~>423 <~Scribe.142~><~Game.28~><~Scribe.143~><~Game.30~><~Scribe.144~> 2F568D
+$Saktan<~Controls.644~>360 187 <~Controls.645~><~Game.2035~> 29FDDC
+$Saktan<~Scribe.141~>417 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1954~><~Scribe.144~> C12497
+$GandalfTheFly<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 0A8094
+$GandalfTheFly<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 2DE4BE
+$GandalfTheFly<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> DA7BCD
+<game> Saktan<~Controls.1~> 6 null
+<Saktan> yikes 2524C9
+<GandalfTheFly> sigh 558C72
+$Saktan<~Controls.624~>224<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<GandalfTheFly> oh 2C08C2
+<Saktan> at least 1! CC60B0
+<GandalfTheFly> thats very plesant 2B806E
+$GandalfTheFly<~Scribe.141~>149 <~Scribe.142~><~Game.2029~><~Scribe.143~><~Game.2036~><~Scribe.144~> 8B39FB
+<Saktan> haha very 10A66C
+$GandalfTheFly<~Controls.644~>149 224 <~Controls.645~><~Game.2035~> 8C17C3
+$Saktan<~HighlightLabel.81~>105<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> C22F90
+$Saktan<~Scribe.141~>321 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1917~><~Scribe.144~> F84075
+$Saktan<~Scribe.141~>320 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1969~><~Scribe.144~> 38E219
+$Saktan<~Controls.644~>105 <~Controls.645~><~Game.2035~> FFEE63
+$GandalfTheFly<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> A8DBC9
+$GandalfTheFly<~Controls.790~>248<~Controls.791~><~Game.2015~><~Controls.792~><~Game.2016~> 7BE013
+$GandalfTheFly<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 4381C6
+<game> Saktan<~Controls.1~> 2 null
+<game> Saktan<~Controls.1~> 6 null
+<Saktan> aw 72F8CF
+<Saktan> no fun AA4B86
+<GandalfTheFly> good job urkahai 654FE9
+$Saktan<~Controls.624~>217<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Saktan> ahhh 4F7379
+<GandalfTheFly> no thats lurtz doing his job 545726
+<Saktan> not as pleasent 447F36
+$GandalfTheFly<~Scribe.141~>252 <~Scribe.142~><~Game.2014~><~Scribe.143~><~Game.2015~><~Scribe.144~> 3F57B2
+<Saktan> haha yup, he's working for the promotion 556FC2
+$GandalfTheFly<~Controls.323~>248 E5930D
+$GandalfTheFly<~Scribe.141~>247 <~Scribe.142~><~Game.1912~><~Scribe.143~><~Game.1927~><~Scribe.144~> 2642FD
+$Saktan<~Scribe.141~>217 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2036~><~Scribe.144~> 755900
+<Saktan> moria 576594
+<GandalfTheFly> take 1 and reveal 387345
+<GandalfTheFly> yep A7548F
+$Saktan<~Controls.624~>223<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<GandalfTheFly> just take 1 4B58E5
+$GandalfTheFly<~Scribe.141~>252 <~Scribe.142~><~Game.2015~><~Scribe.143~><~Game.2016~><~Scribe.144~> 000201
+<Saktan> ok 4B2BBB
+$GandalfTheFly<~Controls.644~>217 223 <~Controls.645~><~Game.2035~> C77538
+$Saktan<~HighlightLabel.81~>101<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 05618E
+$Saktan<~Scribe.141~>253 039 038 040 035 027 032 025 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1957~><~Scribe.144~> D095A8
+$Saktan<~Scribe.141~>321 008 <~Scribe.142~><~Game.1917~><~Scribe.143~><~Game.1927~><~Scribe.144~> 0CF1A4
+$Saktan<~Controls.644~>101 <~Controls.645~><~Game.2035~> FC7365
+$GandalfTheFly<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 3B68C2
+$GandalfTheFly<~Scribe.141~>267 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1928~><~Scribe.144~> C13FC5
+$GandalfTheFly<~Controls.644~>358 <~Controls.645~><~Game.2035~> 1A672F
+$Saktan<~HighlightLabel.81~>099<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 8163F5
+$Saktan<~Controls.819~> EA7849
+$Saktan<~HighlightLabel.81~>102<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 3DD283
+$Saktan<~CardBuffet.14~>reveal 166 11847EF463B7EE7DBD9A20138C57ECADE43404AD 13<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 317AED
+$Saktan<~Scribe.141~>252 <~Scribe.142~><~Game.2016~><~Scribe.143~><~Game.2018~><~Scribe.144~> 8C6FEF
+$Saktan<~Controls.644~>102 166 <~Controls.645~><~Game.2035~> 169A01
+$GandalfTheFly<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 13AF26
+$GandalfTheFly<~Scribe.141~>reveal 113 F9E446832E60382937E2B9E9E60F108B56D8DFBE 4 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> B79DD6
+$GandalfTheFly<~Scribe.141~>259 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> D9099E
+$GandalfTheFly<~Scribe.141~>283 289 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1929~><~Scribe.144~> 489BAF
+$GandalfTheFly<~Controls.644~>212 113 <~Controls.645~><~Game.2035~> 21ABD0
+$Saktan<~Controls.276~>099<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 236EFF
+<Saktan> Carrock from WK 8D7305
+<Saktan> nc 0DC346
+<GandalfTheFly> nc E644FD
+<game> Saktan<~Controls.1~> 1 4 4 1 null
+<game> Saktan<~Controls.1~> 2 5 6 5 null
+<Saktan> 1 17F628
+<game> GandalfTheFly<~Controls.1~> 1 null
+<GandalfTheFly> 0 D79ADA
+$GandalfTheFly<~Controls.296~>065 <~Controls.297~><~Game.1941~> 254A9C
+$Saktan<~Scribe.141~>025 <~Scribe.142~><~Game.1957~><~Scribe.143~><~Game.1941~><~Scribe.144~> E51017
+$Saktan<~Controls.644~>099 <~Controls.645~><~Game.2035~> 6770CD
+$Saktan<~Controls.757~>100 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 544DED
+$Saktan<~Controls.762~>099 102 101 105 360 103 361 104 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 70CD33
+$GandalfTheFly<~Controls.726~>211 213 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 0E3A50
+<~Game.7~>5 null
+$GandalfTheFly<~Controls.731~>212 358 210 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 5B3E1A
+$Saktan<~Controls.509~>193<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.509~>190<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$GandalfTheFly<~Controls.509~>141<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$GandalfTheFly<~Controls.509~>122<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+<GandalfTheFly> fsp ok 85D084
+<Saktan> 1e 2F7ACC
+$Saktan<~Controls.372~>099 E1AE17
+$Saktan<~Controls.345~>102 101 105 360 103 361 104 100 <~Controls.346~>14 10 14 12 11 11 12 13 null
+$Saktan<~Controls.350~>102 101 105 360 103 361 104 100 null
+$GandalfTheFly<~Controls.345~>212 358 210 211 213 <~Controls.346~>2 1 3 1 4 null
+$GandalfTheFly<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 6284F2
+$GandalfTheFly<~Controls.281~>212 <~Controls.282~><~Game.2035~><~Controls.283~><~Game.2042~> 748B39
+<GandalfTheFly> pass 918E84
+$Saktan<~HighlightLabel.81~>101<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> A8E45A
+$Saktan<~Controls.819~> 694FA5
+$Saktan<~HighlightLabel.81~>360<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 1F72DF
+$Saktan<~Scribe.141~>056 052 051 050 <~Scribe.142~><~Game.1986~><~Scribe.143~><~Game.1984~><~Scribe.144~> 4E6EC3
+$Saktan<~Scribe.141~>023 022 <~Scribe.142~><~Game.1975~><~Scribe.143~><~Game.1966~><~Scribe.144~> D6625F
+$Saktan<~Controls.644~>360 <~Controls.645~><~Game.2035~> 4BA7A1
+<GandalfTheFly> pass 5FE43F
+$Saktan<~HighlightLabel.81~>101<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 30D0DE
+$Saktan<~HighlightLabel.96~>261<~HighlightLabel.97~><~Game.2001~><~HighlightLabel.98~><~Game.2002~> CD4576
+$Saktan<~Controls.644~>101 <~Controls.645~><~Game.2035~> E22292
+$GandalfTheFly<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> A00FBC
+$GandalfTheFly<~Controls.281~>211 <~Controls.282~><~Game.2035~><~Controls.283~><~Game.2042~> 771B91
+$GandalfTheFly<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 5ABA71
+$GandalfTheFly<~Scribe.141~>283 289 <~Scribe.142~><~Game.1929~><~Scribe.143~><~Game.1925~><~Scribe.144~> 07D5A8
+$GandalfTheFly<~Controls.644~>211 <~Controls.645~><~Game.2035~> E7918F
+$Saktan<~HighlightLabel.81~>361<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 4741E3
+$Saktan<~HighlightLabel.101~>261<~HighlightLabel.102~><~Game.2002~><~HighlightLabel.103~><~Game.2003~> 53E590
+$Saktan<~Controls.644~>361 <~Controls.645~><~Game.2035~> 87D76A
+<GandalfTheFly> pass EDC875
+$Saktan<~HighlightLabel.81~>104<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 020EFE
+$Saktan<~Scribe.141~>253 039 038 040 035 027 032 <~Scribe.142~><~Game.1957~><~Scribe.143~><~Game.1970~><~Scribe.144~> ED8431
+$Saktan<~Scribe.141~>056 052 051 050 <~Scribe.142~><~Game.1984~><~Scribe.143~><~Game.1973~><~Scribe.144~> F7D256
+$Saktan<~HighlightLabel.91~>257<~HighlightLabel.92~><~Game.2000~><~HighlightLabel.93~><~Game.2001~> 74BB99
+$Saktan<~Scribe.141~>413 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1973~><~Scribe.144~> BA83A1
+$Saktan<~Controls.644~>104 <~Controls.645~><~Game.2035~> 28D37E
+$GandalfTheFly<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 72E4B2
+$GandalfTheFly<~Controls.323~>248 A7513A
+$GandalfTheFly<~Controls.644~>212 <~Controls.645~><~Game.2035~> 5AAC2B
+$Saktan<~HighlightLabel.81~>103<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> FE8C60
+$Saktan<~Scribe.141~>056 052 051 <~Scribe.142~><~Game.1973~><~Scribe.143~><~Game.1970~><~Scribe.144~> 522358
+$Saktan<~Scribe.141~>023 022 <~Scribe.142~><~Game.1966~><~Scribe.143~><~Game.1970~><~Scribe.144~> 8030FC
+$Saktan<~Controls.644~>103 <~Controls.645~><~Game.2035~> 03F404
+$GandalfTheFly<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 755FE9
+$GandalfTheFly<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 289C4F
+$GandalfTheFly<~Controls.795~>358<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> C86CB6
+<game> Saktan<~Controls.1~> 5 null
+<game> Saktan<~Controls.1~> 1 null
+<Saktan> aw 74B40C
+<GandalfTheFly> man that nazgul is not good at his job 65BAF5
+<GandalfTheFly> lurtz was better 93E749
+<Saktan> not at all! 43C2F3
+$Saktan<~HighlightLabel.81~>105<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 0E3FAD
+<Saktan> maybe this will help 06BFA3
+$Saktan<~CardBuffet.14~>reveal 173 D8898B8262E07A7A29C29105FC0512CC6C17B99E 21<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 5C8A9E
+$Saktan<~Scribe.141~>247 <~Scribe.142~><~Game.1927~><~Scribe.143~><~Game.1917~><~Scribe.144~> DAF970
+$Saktan<~Controls.644~>105 173 <~Controls.645~><~Game.2035~> CEF2B1
+$GandalfTheFly<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 4975B8
+$GandalfTheFly<~Scribe.141~>reveal 122 2246AA81138D935699DA2821A5AB2223350D8650 12 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> 61619A
+$GandalfTheFly<~Scribe.141~>271 274 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1920~><~Scribe.144~> FB464C
+$GandalfTheFly<~Controls.644~>210 122 <~Controls.645~><~Game.2035~> DF6A3B
+$Saktan<~HighlightLabel.81~>100<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> F859DC
+<Saktan> Erebor BDCD13
+<Saktan> from WK 086919
+<GandalfTheFly> yep B19F92
+<GandalfTheFly> card? 834E2B
+<Saktan> field? A7F625
+<GandalfTheFly> no retreat sorry D46E79
+$GandalfTheFly<~Scribe.141~>068 062 312 061 066 059 060 <~Scribe.142~><~Game.1965~><~Scribe.143~><~Game.1988~><~Scribe.144~> A7B629
+$Saktan<~Scribe.141~>253 039 038 040 056 035 052 051 023 022 027 032 011 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.1965~><~Scribe.144~> BBB081
+$Saktan<~HighlightLabel.96~>257<~HighlightLabel.97~><~Game.2001~><~HighlightLabel.98~><~Game.2002~> 0A548A
+$Saktan<~Controls.644~>100 <~Controls.645~><~Game.2035~> 4752B2
+<GandalfTheFly> thought we were in siege already 08F4F6
+<Saktan> almost! haha 65077F
+$GandalfTheFly<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> B30D76
+$GandalfTheFly<~Scribe.141~>283 289 073 072 <~Scribe.142~><~Game.1925~><~Scribe.143~><~Game.1923~><~Scribe.144~> 0A9EB7
+$GandalfTheFly<~Scribe.141~>074 069 <~Scribe.142~><~Game.1918~><~Scribe.143~><~Game.1923~><~Scribe.144~> 418A70
+$GandalfTheFly<~Controls.644~>213 <~Controls.645~><~Game.2035~> 3E4DC3
+$Saktan<~HighlightLabel.81~>102<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> C22BBA
+$Saktan<~CardBuffet.14~>reveal 174 144A9470AAA58C87C95EB76019F35E7ED5441FC5 12<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 42C12B
+$Saktan<~Scribe.141~>037 <~Scribe.142~><~Game.1969~><~Scribe.143~><~Game.1917~><~Scribe.144~> F74BCF
+$Saktan<~Scribe.141~>320 <~Scribe.142~><~Game.1969~><~Scribe.143~><~Game.1946~><~Scribe.144~> DFF1FF
+<Saktan> ok E2CD35
+$GandalfTheFly<~Controls.323~>248 771C65
+$GandalfTheFly<~Scribe.141~>247 <~Scribe.142~><~Game.1917~><~Scribe.143~><~Game.1927~><~Scribe.144~> 9F62B0
+<Saktan> moria 996960
+<GandalfTheFly> yep, new hunt ED6496
+$Saktan<~Controls.624~>225<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<GandalfTheFly> random 7751CD
+<Saktan> i draw? 5ED888
+<GandalfTheFly> yep D10F09
+$Saktan<~Controls.637~>246<~Controls.638~><~Game.1998~><~Controls.639~><~Game.2037~> null
+<GandalfTheFly> ok 3C6863
+$GandalfTheFly<~Scribe.141~>252 <~Scribe.142~><~Game.2018~><~Scribe.143~><~Game.2019~><~Scribe.144~> AA7796
+$GandalfTheFly<~Scribe.141~>246 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.1928~><~Scribe.144~> F0B2CC
+<Saktan> pippin hanging out with the elves eating lembas 9132C7
+$Saktan<~Controls.644~>102 174 225 <~Controls.645~><~Game.2035~> F6C779
+<GandalfTheFly> yep BF785B
+$GandalfTheFly<~Controls.726~>358 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> E2CC31
+$GandalfTheFly<~Controls.731~>213 210 212 211 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> B95D7F
+$Saktan<~Controls.757~>099 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 61FD71
+<~Game.7~>6 null
+$Saktan<~Controls.762~>102 100 105 103 104 361 101 360 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> E51613
+$Saktan<~Controls.509~>162<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.509~>180<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$GandalfTheFly<~Controls.509~>127<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$GandalfTheFly<~Controls.509~>111<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$GandalfTheFly<~Controls.296~>144 <~Controls.297~><~Controls.45~> 4A06D0
+<GandalfTheFly> fsp ok A75EDE
+<Saktan> 1e 368849
+$Saktan<~Controls.372~>102 755746
+$Saktan<~Controls.345~>100 105 103 104 361 101 360 099 <~Controls.346~>14 13 12 15 13 10 12 15 null
+$Saktan<~Controls.350~>100 105 103 104 361 101 360 099 null
+$GandalfTheFly<~Controls.345~>213 210 212 211 358 <~Controls.346~>3 2 1 4 1 null
+<GandalfTheFly> pass 1A51E4
+$Saktan<~HighlightLabel.81~>360<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 6F5285
+<Saktan> Erebor EE9FEB
+<GandalfTheFly> yep 3C7E4F
+$Saktan<~Controls.840~>159 653AE3
+$GandalfTheFly<~Controls.840~>124 94CD37
+<auto> playchosen CA9B46
+<auto><~Controls.3~>reveal 124 B769740038CA273918B4766DC579C9C1D418FD9A 22<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> C397DE
+<auto><~Controls.866~>reveal 159 72D91F520072BBDA4CD82A3E08CAA267D13A024C 17<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> ED0D0F
+<auto> playchosen D05D93
+<Saktan> nice! D0950E
+<game> Saktan<~Controls.1~> 6 6 6 1 6 null
+<Saktan> ... 9E9AF6
+<GandalfTheFly> pfftt 2B15E1
+<game> Saktan<~Controls.1~> 3 null
+<GandalfTheFly> dwves at war right 5B2686
+<Saktan> i'm so sorry 7054F3
+<Saktan> from this attack yes 6E88C7
+$GandalfTheFly<~Scribe.141~>257 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 995D02
+$Saktan<~HighlightLabel.101~>257<~HighlightLabel.102~><~Game.2002~><~HighlightLabel.103~><~Game.2003~> 11E235
+<game> GandalfTheFly<~Controls.1~> 2 6 6 5 3 null
+<game> GandalfTheFly<~Controls.1~> 1 5 null
+<Saktan> 4 612562
+<GandalfTheFly> 4 back at least 3DF12B
+$GandalfTheFly<~Controls.296~>312 <~Controls.297~><~Game.1988~> 493399
+$GandalfTheFly<~Controls.296~>061 <~Controls.297~><~Game.1988~> 227058
+$Saktan<~Scribe.141~>035 032 011 <~Scribe.142~><~Game.1965~><~Scribe.143~><~Game.2036~><~Scribe.144~> E302C4
+<Saktan> stop/draw 4B2CE3
+$Saktan<~Controls.509~>170<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.644~>360 159 035 032 011 124 <~Controls.645~><~Game.2035~> E50947
+$GandalfTheFly<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 929CFF
+$GandalfTheFly<~Controls.323~>248 37E9AA
+$GandalfTheFly<~Controls.644~>210 <~Controls.645~><~Game.2035~> 4668DC
+$Saktan<~HighlightLabel.81~>103<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 79B659
+$Saktan<~Scribe.141~>320 055 057 049 048 047 046 045 <~Scribe.142~><~Game.1946~><~Scribe.143~><~Game.1932~><~Scribe.144~> 5E7642
+$Saktan<~Scribe.141~>050 <~Scribe.142~><~Game.1973~><~Scribe.143~><~Game.1965~><~Scribe.144~> 182321
+$Saktan<~Controls.644~>103 <~Controls.645~><~Game.2035~> 97527C
+$GandalfTheFly<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 6B2571
+$GandalfTheFly<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> BBBD3E
+$GandalfTheFly<~Controls.795~>358<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 1B0205
+<game> Saktan<~Controls.1~> 1 6 5 null
+<game> Saktan<~Controls.1~> 3 4 null
+<Saktan> 1 939917
+<GandalfTheFly> ouch 2645FB
+$Saktan<~Controls.624~>227<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Saktan> oof 8267A5
+<GandalfTheFly> random, you draw E4A7E3
+$Saktan<~Controls.637~>241<~Controls.638~><~Game.1999~><~Controls.639~><~Game.2036~> null
+<Saktan> dang B46F99
+<GandalfTheFly> yeah, full corruption at least 005EE6
+<Saktan> at least efficient 3FD21D
+$GandalfTheFly<~Controls.644~>241 227 <~Controls.645~><~Game.2035~> BEE993
+$GandalfTheFly<~Scribe.141~>243 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> 244BBE
+$Saktan<~HighlightLabel.81~>361<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 9291D9
+<Saktan> Erebor EB116C
+<GandalfTheFly> yep CE98AC
+$Saktan<~Controls.840~>170 2E9386
+<GandalfTheFly> card? F1EA96
+$GandalfTheFly<~Controls.840~>111 0CBDEF
+<auto> playchosen 8EB46C
+<auto><~Controls.3~>reveal 111 57BD5C54DCD4262BD208799669B9A521E2C51B08 6<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> DE7601
+<auto><~Controls.866~>reveal 170 6D66496B773B9AB68671763B7B924A9257123177 18<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> F0A6C4
+<auto> playchosen 590EE0
+<Saktan> nice 9166D6
+<game> Saktan<~Controls.1~> 4 4 1 null
+<game> Saktan<~Controls.1~> 4 5 6 null
+<Saktan> 1 CDBDDC
+<game> GandalfTheFly<~Controls.1~> 5 1 2 null
+<game> GandalfTheFly<~Controls.1~> 1 4 null
+<GandalfTheFly> 1 499863
+<Saktan> +1 B73476
+$GandalfTheFly<~Controls.296~>066 <~Controls.297~><~Game.1988~> A280D6
+$Saktan<~Scribe.141~>027 <~Scribe.142~><~Game.1965~><~Scribe.143~><~Game.2036~><~Scribe.144~> 8CCC96
+$GandalfTheFly<~Controls.296~>059 <~Controls.297~><~Game.1988~> 18CE23
+<Saktan> press/draw B64B7F
+$Saktan<~Controls.304~>056 <~Controls.305~><~Game.1965~> 8B3B33
+$Saktan<~Controls.313~>357 <~Controls.307~><~Controls.314~><~Game.1965~> F815EA
+$Saktan<~Controls.509~>183<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.662~>170 027 111 <~Controls.663~><~Game.2035~> F6E77E
+<Saktan> nc EF040F
+<GandalfTheFly> nc 4F5022
+<game> Saktan<~Controls.1~> 1 2 3 6 2 null
+<Saktan> 1 1B4656
+<game> GandalfTheFly<~Controls.1~> 5 null
+<GandalfTheFly> 1 F69047
+$Saktan<~Scribe.141~>022 <~Scribe.142~><~Game.1965~><~Scribe.143~><~Game.2037~><~Scribe.144~> 573021
+$GandalfTheFly<~Controls.296~>068 062 060 <~Controls.297~><~Game.1988~> 4D2DE9
+$Saktan<~Scribe.141~>423 <~Scribe.142~><~Game.30~><~Scribe.143~><~Game.32~><~Scribe.144~> D4454B
+$Saktan<~Scribe.141~>420 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1965~><~Scribe.144~> 84E5F0
+$Saktan<~Controls.644~>361 022 <~Controls.645~><~Game.2035~> DEC8D3
+$GandalfTheFly<~Scribe.141~>427 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 896AFD
+$GandalfTheFly<~Controls.509~>156<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$GandalfTheFly<~Controls.644~>427 <~Controls.645~><~Game.2035~> 20AB22
+$Saktan<~HighlightLabel.81~>101<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> BB450F
+<Saktan> hmm 8D6FF3
+$Saktan<~Scribe.141~>330 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1919~><~Scribe.144~> 2B82A6
+$Saktan<~Scribe.141~>331 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1914~><~Scribe.144~> A38F51
+$Saktan<~Scribe.141~>329 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1910~><~Scribe.144~> 88F219
+$Saktan<~Controls.644~>101 <~Controls.645~><~Game.2035~> 3237CF
+$GandalfTheFly<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 00C310
+$GandalfTheFly<~Scribe.141~>reveal 127 34BD6F4A13206D4E54EFF12F257BF7062F26874B 9 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> AF6B1B
+$GandalfTheFly<~Controls.281~>232 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2045~> 06DF78
+$GandalfTheFly<~Controls.644~>212 127 <~Controls.645~><~Game.2035~> E6D5EA
+$Saktan<~HighlightLabel.81~>100<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 39C123
+$Saktan<~CardBuffet.14~>reveal 180 36E809193D59A802C14E4759E69E220D6287FBE1 14<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 927596
+$Saktan<~Scribe.141~>021 013 014 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1956~><~Scribe.144~> FD4E06
+$Saktan<~Scribe.141~>015 344 338 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1922~><~Scribe.144~> E4E312
+$Saktan<~Controls.644~>100 180 <~Controls.645~><~Game.2035~> EF22DC
+$GandalfTheFly<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> C8B02A
+$GandalfTheFly<~Scribe.141~>266 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1928~><~Scribe.144~> 8045CE
+$GandalfTheFly<~Controls.644~>213 <~Controls.645~><~Game.2035~> 47BD16
+$Saktan<~HighlightLabel.81~>105<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 6EE73E
+$Saktan<~CardBuffet.14~>reveal 193 CF80FB37F94DE41364E525CAF186F882D66F80ED 9<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 63F166
+$Saktan<~Controls.281~>237 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2045~> E8DD13
+$Saktan<~Controls.644~>105 193 <~Controls.645~><~Game.2035~> 8EB745
+$GandalfTheFly<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 5CEDF1
+<GandalfTheFly> hmm 454646
+$GandalfTheFly<~Scribe.141~>067 <~Scribe.142~><~Game.1899~><~Scribe.143~><~Game.1902~><~Scribe.144~> C257D6
+$GandalfTheFly<~Scribe.141~>058 <~Scribe.142~><~Game.1891~><~Scribe.143~><~Game.1887~><~Scribe.144~> A7341C
+$GandalfTheFly<~Controls.644~>211 <~Controls.645~><~Game.2035~> E373B0
+$Saktan<~Controls.757~>104 099 102 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> C82E82
+$Saktan<~Controls.762~>105 100 101 361 103 360 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> BA4BF7
+$Saktan<~Controls.509~>203<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.509~>199<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$GandalfTheFly<~Controls.726~>358 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 64A6A4
+<~Game.7~>7 null
+$GandalfTheFly<~Controls.731~>211 213 212 210 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 83E756
+$GandalfTheFly<~Controls.509~>112<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$GandalfTheFly<~Controls.509~>140<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+<GandalfTheFly> fsp dec 952376
+<Saktan> ok 0842F2
+$GandalfTheFly<~Scribe.141~>247 <~Scribe.142~><~Game.1927~><~Scribe.143~><~Game.1928~><~Scribe.144~> E647F8
+$GandalfTheFly<~Scribe.141~>248 <~Scribe.142~><~Game.2015~><~Scribe.143~><~Game.2014~><~Scribe.144~> 7F7581
+$GandalfTheFly<~Scribe.141~>252 <~Scribe.142~><~Game.2019~><~Scribe.143~><~Game.2018~><~Scribe.144~> 55D198
+<Saktan> 1e 7B247A
+$Saktan<~Controls.372~>105 396D4C
+$Saktan<~Controls.345~>100 101 361 103 360 104 099 102 <~Controls.346~>11 10 13 14 10 14 12 10 null
+$Saktan<~Controls.350~>100 101 361 103 360 104 099 102 null
+$GandalfTheFly<~Controls.345~>211 213 212 210 358 <~Controls.346~>3 4 2 2 4 null
+<Saktan> lol C33B1C
+<Saktan> guess they are staying DF7F03
+<GandalfTheFly> pass A30110
+<GandalfTheFly> i mean they kind of need to at the moment 2A3FC2
+<Saktan> true 68D67B
+$Saktan<~HighlightLabel.81~>360<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> CDC98F
+$Saktan<~Scribe.141~>326 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1910~><~Scribe.144~> B5D312
+$Saktan<~Controls.644~>360 <~Controls.645~><~Game.2035~> 7FC1E7
+$GandalfTheFly<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> B69EC8
+$GandalfTheFly<~Controls.281~>212 <~Controls.282~><~Game.2035~><~Controls.283~><~Game.2042~> 8D611F
+<GandalfTheFly> pass C201C7
+$Saktan<~HighlightLabel.81~>102<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> EEC741
+$Saktan<~Scribe.141~>324 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1910~><~Scribe.144~> 14A9DE
+$Saktan<~Controls.644~>102 <~Controls.645~><~Game.2035~> C6C7D5
+$GandalfTheFly<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 0D9D16
+$GandalfTheFly<~Scribe.141~>265 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1911~><~Scribe.144~> CB3084
+$GandalfTheFly<~Controls.644~>211 <~Controls.645~><~Game.2035~> EF95C4
+$Saktan<~HighlightLabel.81~>101<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> C0817A
+$Saktan<~Scribe.141~>035 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1956~><~Scribe.144~> 1216FA
+$Saktan<~Controls.644~>101 <~Controls.645~><~Game.2035~> 4C908D
+<GandalfTheFly> pass CD8600
+$Saktan<~HighlightLabel.81~>100<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 41515E
+$Saktan<~Scribe.141~>036 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1956~><~Scribe.144~> FA105D
+$Saktan<~Controls.644~>100 <~Controls.645~><~Game.2035~> 877554
+$GandalfTheFly<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 17FA57
+$GandalfTheFly<~Scribe.141~>reveal 140 44A384DB8EDC1CA7A10A0CD3B510C36D8465D59C 14 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> 0F3771
+$GandalfTheFly<~Scribe.141~>272 275 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1944~><~Scribe.144~> 066F09
+$GandalfTheFly<~Controls.644~>212 140 <~Controls.645~><~Game.2035~> 7C065E
+$Saktan<~HighlightLabel.81~>104<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 9E36D5
+$Saktan<~CardBuffet.14~>reveal 183 0BC1B41D8ED945DB7E7257352A9BCAA812876944 1<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 36EFC7
+$Saktan<~Scribe.141~>036 035 021 013 014 <~Scribe.142~><~Game.1956~><~Scribe.143~><~Game.1927~><~Scribe.144~> DCCE62
+$Saktan<~Scribe.141~>324 326 329 <~Scribe.142~><~Game.1910~><~Scribe.143~><~Game.1927~><~Scribe.144~> 38E218
+$Saktan<~Controls.644~>104 183 <~Controls.645~><~Game.2035~> A42D66
+$GandalfTheFly<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> E34002
+<GandalfTheFly> hmm 71036A
+$GandalfTheFly<~Scribe.141~>296 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1902~><~Scribe.144~> 4ABA8E
+$GandalfTheFly<~Scribe.141~>308 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1890~><~Scribe.144~> 64D82D
+$GandalfTheFly<~Controls.644~>213 <~Controls.645~><~Game.2035~> 8D01B2
+$Saktan<~HighlightLabel.81~>099<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 0193E7
+<Saktan> Lorien FC4B4C
+$GandalfTheFly<~Scribe.141~>247 246 097 266 267 093 092 087 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.1992~><~Scribe.144~> 985D65
+$Saktan<~Scribe.141~>321 324 326 036 035 329 021 013 014 008 <~Scribe.142~><~Game.1927~><~Scribe.143~><~Game.1928~><~Scribe.144~> 323E33
+$GandalfTheFly<~Scribe.141~>247 <~Scribe.142~><~Game.1992~><~Scribe.143~><~Game.1928~><~Scribe.144~> 45F134
+$Saktan<~Controls.644~>099 <~Controls.645~><~Game.2035~> 9E2216
+<GandalfTheFly> and if lorien holds I can still declare there right? 370A1E
+<Saktan> yes, as long as it is not SP captured AC4BB0
+<GandalfTheFly> since it's still free just not conqured 4E6D7A
+<Saktan> seige is OK 28AED2
+<Saktan> yup 012DED
+$GandalfTheFly<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> BA404C
+$GandalfTheFly<~Scribe.141~>259 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> 39AAE9
+$GandalfTheFly<~Controls.644~>358 <~Controls.645~><~Game.2035~> 584CCE
+$Saktan<~HighlightLabel.81~>361<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> B6A7CF
+$Saktan<~Scribe.141~>253 039 <~Scribe.142~><~Game.1965~><~Scribe.143~><~Game.1928~><~Scribe.144~> 4DD6BD
+$Saktan<~Scribe.141~>040 <~Scribe.142~><~Game.1965~><~Scribe.143~><~Game.1919~><~Scribe.144~> 9DBC65
+$Saktan<~Scribe.141~>038 <~Scribe.142~><~Game.1965~><~Scribe.143~><~Game.1930~><~Scribe.144~> 7D125C
+$Saktan<~Scribe.141~>037 <~Scribe.142~><~Game.1917~><~Scribe.143~><~Game.1969~><~Scribe.144~> D7AF48
+$Saktan<~Controls.644~>361 <~Controls.645~><~Game.2035~> 61EA6E
+$GandalfTheFly<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> FF1849
+$GandalfTheFly<~Controls.509~>130<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$GandalfTheFly<~Controls.644~>210 <~Controls.645~><~Game.2035~> C38531
+$Saktan<~HighlightLabel.81~>103<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> B75B3B
+<Saktan> lets try this haha 12E8A2
+$Saktan<~CardBuffet.14~>reveal 203 DC0D6F3FD5D917A47C392D5612743F4EBB9183DA 16<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 87E299
+<GandalfTheFly> ahh 163E8B
+$Saktan<~Scribe.141~>203 <~Scribe.142~><~Game.2036~><~Scribe.143~><~Game.2034~><~Scribe.144~> F2EDFE
+<Saktan> Lorien 9B72DB
+<GandalfTheFly> will pippin save the day C25DD5
+<Saktan> he may yet! D8890D
+<Saktan> Lorien F94ED3
+<Saktan> R1 763B31
+<GandalfTheFly> yep 8CAC8E
+$Saktan<~Controls.840~>197 EC6F66
+$GandalfTheFly<~Controls.840~>130 5BB126
+<auto> playchosen C5550A
+<auto><~Controls.3~>reveal 130 D898E1B6BFAE8393EA61E48831FB2E975DD2CE25 8<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 93943B
+<auto><~Controls.866~>reveal 197 28A8E1CCA1D912C1674F66962E8C0EDB4EBD8BDA 22<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 3AC2C0
+<auto> playchosen CB6EAB
+<game> Saktan<~Controls.1~> 5 1 4 null
+<game> Saktan<~Controls.1~> 5 5 null
+<Saktan> 1 577972
+<game> GandalfTheFly<~Controls.1~> 3 6 2 3 6 null
+<game> GandalfTheFly<~Controls.1~> 4 3 null
+<GandalfTheFly> 2 B7E769
+$Saktan<~Scribe.141~>036 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.2036~><~Scribe.144~> 8C66C6
+$GandalfTheFly<~Controls.304~>266 <~Controls.305~><~Game.1992~> 02B4C7
+$GandalfTheFly<~Controls.313~>269 <~Controls.308~><~Controls.314~><~Game.1992~> 88FE57
+<Saktan> WK draw 0056DF
+<GandalfTheFly> yep E49FA6
+$Saktan<~Controls.509~>184<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.662~>197 036 130 <~Controls.663~><~Game.2035~> 4593BA
+<Saktan> R2 8D3215
+$Saktan<~Scribe.141~>203 <~Scribe.142~><~Game.2034~><~Scribe.143~><~Game.2033~><~Scribe.144~> 540641
+$Saktan<~Controls.840~>162 933E94
+$GandalfTheFly<~Controls.840~>141 7663DF
+<auto> playchosen 8AE9A1
+<auto><~Controls.3~>reveal 141 C3E1DDBB944D8E6BC376328AF7E5194FCE4CD060 5<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 083388
+<auto><~Controls.866~>reveal 162 0CD8E2B4D8C87515AD467ADA7F4768CC9DF11E19 17<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 8965D0
+<auto> playchosen 805FA2
+<GandalfTheFly> lol 3D76F1
+<Saktan> i roll 4 0E67D5
+<Saktan> lol 178866
+<game> Saktan<~Controls.1~> 5 6 3 3 null
+<game> Saktan<~Controls.1~> 4 1 null
+<Saktan> 2 B942A4
+<game> GandalfTheFly<~Controls.1~> 3 1 4 1 5 null
+<game> GandalfTheFly<~Controls.1~> 2 4 null
+<GandalfTheFly> 1 EB25DF
+$Saktan<~Controls.304~>035 <~Controls.305~><~Game.1928~> CDFF68
+$Saktan<~Controls.313~>022 <~Controls.307~><~Controls.314~><~Game.1928~> 0CA8B7
+$GandalfTheFly<~Controls.304~>267 <~Controls.305~><~Game.1992~> C203A0
+$GandalfTheFly<~Controls.313~>088 <~Controls.308~><~Controls.314~><~Game.1992~> D47829
+$GandalfTheFly<~Controls.304~>093 <~Controls.305~><~Game.1992~> 201E97
+$GandalfTheFly<~Controls.313~>268 <~Controls.307~><~Controls.314~><~Game.1992~> E379CE
+$Saktan<~Controls.662~>162 141 <~Controls.663~><~Game.2035~> 2B1C02
+$Saktan<~Scribe.141~>203 <~Scribe.142~><~Game.2033~><~Scribe.143~><~Game.2032~><~Scribe.144~> 0ACD43
+<GandalfTheFly> 3rd round right? 1805D0
+<Saktan> yep 8D0B94
+$Saktan<~Controls.840~>190 60C150
+$GandalfTheFly<~Controls.840~>112 4F4154
+<auto> playchosen 583DD2
+<auto><~Controls.3~>reveal 112 A6E0E855DC40D60CE7CA4A097E5EE38A33825724 21<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 0D43A4
+<auto><~Controls.866~>reveal 190 5F914644433BA2670DFD61A795CA6DF0FE92AC8B 3<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> C639A1
+<auto> playchosen 66D248
+<Saktan> nice D2959F
+$Saktan<~Scribe.141~>014 008 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.2036~><~Scribe.144~> 3C62C2
+<Saktan> sac 2 71A7D1
+<game> Saktan<~Controls.1~> 4 2 4 6 1 null
+<game> Saktan<~Controls.1~> 5 2 null
+<Saktan> 3 1EDCAE
+<game> GandalfTheFly<~Controls.1~> 5 3 2 3 4 null
+<game> GandalfTheFly<~Controls.1~> 2 1 null
+<GandalfTheFly> 1 46D678
+<Saktan> phew 6AB796
+$GandalfTheFly<~Controls.296~>092 <~Controls.297~><~Game.1992~> 511F03
+$GandalfTheFly<~Controls.296~>268 <~Controls.297~><~Game.1992~> 9438C6
+$Saktan<~Scribe.141~>013 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.2036~><~Scribe.144~> BFB6D5
+<GandalfTheFly> no nazgul dead eiother 1958BC
+<Saktan> true BB4201
+$Saktan<~Scribe.141~>203 <~Scribe.142~><~Game.2032~><~Scribe.143~><~Game.2036~><~Scribe.144~> 3818F4
+<Saktan> press 01FDC7
+$Saktan<~Controls.662~>203 190 013 014 008 112 <~Controls.663~><~Game.2035~> 17D113
+$Saktan<~Controls.304~>326 <~Controls.305~><~Game.1928~> A9A926
+$Saktan<~Controls.313~>332 <~Controls.307~><~Controls.314~><~Game.1928~> 859BCB
+<GandalfTheFly> yep 5F58F7
+$Saktan<~Controls.840~>184 6C1922
+<GandalfTheFly> nc 0F37E9
+<auto><~Controls.866~>reveal 184 E20BDE9B5C4DE87C7F370EB73A3658B948259B6B 23<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 1F4A9B
+<game> Saktan<~Controls.1~> 1 2 1 3 4 null
+<game> Saktan<~Controls.1~> 2 5 2 6 3 null
+<Saktan> 1 1FD66B
+<game> GandalfTheFly<~Controls.1~> 3 5 5 null
+<game> GandalfTheFly<~Controls.1~> 1 null
+<GandalfTheFly> 2 7265D5
+<GandalfTheFly> so difficult choice with great 733FF3
+<Saktan> yes 4FEF61
+$GandalfTheFly<~Controls.296~>088 <~Controls.297~><~Game.1992~> 7F4934
+<Saktan> i think +1 anyway 22134F
+<Saktan> or no 66E6B5
+<GandalfTheFly> well you'd have to kill the elite 816B29
+<Saktan> ah yes right 1AAB78
+<GandalfTheFly> if you try to downgrade / kill your not left with enough 043C05
+$Saktan<~Scribe.141~>324 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.2036~><~Scribe.144~> 772DEA
+<Saktan> +1 6B38A0
+$GandalfTheFly<~Controls.296~>269 <~Controls.297~><~Game.1992~> BCE8FC
+$Saktan<~Controls.644~>103 184 324 <~Controls.645~><~Game.2035~> A121EA
+<Saktan> stop B41F08
+<GandalfTheFly> well i get my one heal at least 6D5555
+<Saktan> true! 985E1B
+<GandalfTheFly> nt 32D7B3
+$Saktan<~Controls.757~>105 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> CB3EB6
+$Saktan<~Controls.762~>103 361 099 104 100 101 102 360 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 912596
+$Saktan<~Controls.509~>165<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$GandalfTheFly<~Controls.731~>210 358 213 212 211 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> A5C579
+<~Game.7~>8 null
+$Saktan<~Controls.509~>172<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$GandalfTheFly<~Controls.509~>115<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$GandalfTheFly<~Controls.509~>146<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+<GandalfTheFly> fsp ok F3977F
+<Saktan> 1e EF4459
+$GandalfTheFly<~Scribe.141~>252 <~Scribe.142~><~Game.2018~><~Scribe.143~><~Game.2017~><~Scribe.144~> 8F87A9
+$Saktan<~Controls.372~>103 877AAE
+$Saktan<~Controls.345~>361 099 104 100 101 102 360 105 <~Controls.346~>14 15 13 11 15 15 15 12 null
+$Saktan<~Controls.350~>361 099 104 100 101 102 360 105 null
+<Saktan> or 5 A8E884
+$GandalfTheFly<~Controls.345~>210 358 213 212 211 <~Controls.346~>4 1 2 2 2 null
+<Saktan> lol DF0EFF
+$GandalfTheFly<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 2D09B3
+$GandalfTheFly<~Controls.509~>147<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$GandalfTheFly<~Controls.644~>211 <~Controls.645~><~Game.2035~> BCF78A
+$Saktan<~HighlightLabel.81~>105<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 974793
+<Saktan> Lorien C61822
+<GandalfTheFly> yep 3BE205
+<GandalfTheFly> card? EA924D
+<Saktan> hmm 8E428A
+<Saktan> thinking 3B7021
+<Saktan> actually no E906C1
+$Saktan<~Controls.281~>105 <~Controls.282~><~Game.2035~><~Controls.283~><~Game.2043~> 125260
+$Saktan<~HighlightLabel.81~>361<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 679F58
+$Saktan<~CardBuffet.14~>reveal 172 95007C02E2096B5F3D17B9AFB2E64766297E29B4 21<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 60FF5A
+$Saktan<~Scribe.141~>324 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1928~><~Scribe.144~> 002D20
+$Saktan<~Controls.644~>361 172 <~Controls.645~><~Game.2035~> 09E222
+$GandalfTheFly<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 9756FE
+$GandalfTheFly<~Scribe.141~>reveal 115 BB8F21F84D3BCA99A313AC9D1F64D9F50AFB9F39 7 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> A50186
+$GandalfTheFly<~Controls.281~>233 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2045~> EE72D3
+$GandalfTheFly<~Controls.644~>212 115 <~Controls.645~><~Game.2035~> D5B5BD
+<Saktan> aw didnt want to use it in combat?? 77A7AB
+<Saktan> haha 6CDDC8
+<GandalfTheFly> nah im good 4A0534
+<GandalfTheFly> just drew it DC313F
+<Saktan> nice F6A622
+$Saktan<~HighlightLabel.81~>105<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 3C9E1A
+<Saktan> Lorien D8B641
+<Saktan> nc F26C17
+<GandalfTheFly> nc 74B4C5
+<game> Saktan<~Controls.1~> 1 5 5 6 1 null
+<Saktan> 1 39C6CE
+<game> GandalfTheFly<~Controls.1~> 6 null
+<GandalfTheFly> 1 54AED3
+$GandalfTheFly<~Controls.296~>246 097 087 <~Controls.297~><~Game.1992~> 326701
+$Saktan<~Scribe.141~>332 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.2037~><~Scribe.144~> D6AF4A
+$Saktan<~Scribe.141~>423 <~Scribe.142~><~Game.32~><~Scribe.143~><~Game.388~><~Scribe.144~> 202FCD
+$Saktan<~Scribe.141~>416 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1928~><~Scribe.144~> FC7487
+$Saktan<~Controls.644~>105 332 <~Controls.645~><~Game.2035~> 4D50E0
+$GandalfTheFly<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> ACB3A6
+$GandalfTheFly<~Controls.509~>148<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$GandalfTheFly<~Controls.644~>213 <~Controls.645~><~Game.2035~> FCF9AF
+$Saktan<~HighlightLabel.81~>100<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> D1FD0D
+$Saktan<~Scribe.141~>253 039 324 329 022 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.1930~><~Scribe.144~> 820707
+$Saktan<~Scribe.141~>026 031 030 <~Scribe.142~><~Game.1977~><~Scribe.143~><~Game.1969~><~Scribe.144~> 00E05C
+$Saktan<~Controls.644~>100 <~Controls.645~><~Game.2035~> F91E66
+$GandalfTheFly<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> D9199F
+$GandalfTheFly<~Scribe.141~>301 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1902~><~Scribe.144~> F279BC
+$GandalfTheFly<~Controls.644~>210 <~Controls.645~><~Game.2035~> 8B5178
+$Saktan<~HighlightLabel.81~>104<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 94C108
+$Saktan<~Scribe.141~>320 055 057 042 049 048 047 046 045 043 <~Scribe.142~><~Game.1932~><~Scribe.143~><~Game.1938~><~Scribe.144~> E1E90D
+$Saktan<~Controls.644~>104 <~Controls.645~><~Game.2035~> 719CC7
+$GandalfTheFly<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 4DC14A
+$GandalfTheFly<~Scribe.141~>296 301 067 064 <~Scribe.142~><~Game.1902~><~Scribe.143~><~Game.1906~><~Scribe.144~> 0AE378
+$GandalfTheFly<~Controls.644~>358 <~Controls.645~><~Game.2035~> E563CB
+<GandalfTheFly> nt 11E9E2
+$GandalfTheFly<~Controls.731~>358 210 213 212 211 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 0ED880
+$Saktan<~Controls.757~>099 101 102 360 103 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> DEADAB
+<~Game.7~>9 null
+$Saktan<~Controls.762~>104 100 105 361 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 3748A2
+$Saktan<~Controls.509~>209<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.509~>205<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$GandalfTheFly<~Controls.509~>125<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$GandalfTheFly<~Controls.509~>129<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$GandalfTheFly<~Controls.296~>148 <~Controls.297~><~Controls.45~> 37BBF9
+$GandalfTheFly<~Controls.296~>156 <~Controls.297~><~Controls.45~> AEB92F
+<GandalfTheFly> fsp ok 536EEB
+<Saktan> 1e 3A2ACB
+$Saktan<~Controls.372~>104 ADB93E
+$Saktan<~Controls.345~>100 105 361 099 101 102 360 103 <~Controls.346~>14 10 15 10 15 12 10 10 null
+$Saktan<~Controls.350~>100 105 361 099 101 102 360 103 null
+$GandalfTheFly<~Controls.345~>358 210 213 212 211 <~Controls.346~>1 3 4 2 4 null
+<GandalfTheFly> pass 07AB68
+$Saktan<~HighlightLabel.81~>099<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> AE0300
+$Saktan<~Scribe.141~>035 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1917~><~Scribe.144~> 1DB05A
+$Saktan<~Controls.644~>099 <~Controls.645~><~Game.2035~> 77D1B6
+$GandalfTheFly<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 534C23
+$GandalfTheFly<~Scribe.141~>296 301 067 064 <~Scribe.142~><~Game.1906~><~Scribe.143~><~Game.1910~><~Scribe.144~> CC7424
+$GandalfTheFly<~Scribe.141~>270 276 080 079 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.1931~><~Scribe.144~> CDC5A0
+$GandalfTheFly<~Scribe.141~>270 276 080 079 <~Scribe.142~><~Game.1931~><~Scribe.143~><~Game.1943~><~Scribe.144~> 38248A
+<Saktan> ooh interesting! haha 92F808
+$GandalfTheFly<~Scribe.141~>270 276 079 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.1931~><~Scribe.144~> 5AF436
+$GandalfTheFly<~Controls.644~>213 <~Controls.645~><~Game.2035~> 2E5385
+$Saktan<~HighlightLabel.81~>360<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 29471A
+$GandalfTheFly<~Scribe.141~>408 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1910~><~Scribe.144~> 1BFE6A
+$Saktan<~Controls.304~>005 330 <~Controls.305~><~Game.1919~> 911212
+$Saktan<~Controls.313~>325 326 <~Controls.309~><~Controls.314~><~Game.1919~> 74E1C3
+$Saktan<~Controls.644~>360 <~Controls.645~><~Game.2035~> 4B020F
+$GandalfTheFly<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 2760F8
+<GandalfTheFly> attack moria CAEBC1
+$Saktan<~Scribe.141~>035 007 <~Scribe.142~><~Game.1917~><~Scribe.143~><~Game.20~><~Scribe.144~> BC8D69
+$GandalfTheFly<~Scribe.141~>296 301 067 064 <~Scribe.142~><~Game.1910~><~Scribe.143~><~Game.1917~><~Scribe.144~> 49BBC9
+$GandalfTheFly<~Controls.644~>358 <~Controls.645~><~Game.2035~> F9C7DD
+$Saktan<~HighlightLabel.81~>105<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> EC4E58
+$Saktan<~Scribe.141~>014 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1956~><~Scribe.144~> 08474A
+$Saktan<~Scribe.141~>328 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1919~><~Scribe.144~> 7BD0A6
+$Saktan<~Controls.644~>105 <~Controls.645~><~Game.2035~> BA786F
+$GandalfTheFly<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 495B1C
+$GandalfTheFly<~Scribe.141~>307 316 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1890~><~Scribe.144~> A8AA77
+$GandalfTheFly<~Scribe.141~>316 <~Scribe.142~><~Game.1890~><~Scribe.143~><~Game.1891~><~Scribe.144~> 94754B
+$GandalfTheFly<~Controls.644~>210 <~Controls.645~><~Game.2035~> 953ACC
+$Saktan<~HighlightLabel.81~>103<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 605EE3
+$Saktan<~Scribe.141~>319 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1969~><~Scribe.144~> C8BBD6
+$Saktan<~Scribe.141~>327 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1919~><~Scribe.144~> 5BBB7A
+$Saktan<~Controls.644~>103 <~Controls.645~><~Game.2035~> D80ECC
+$GandalfTheFly<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> F3903D
+$GandalfTheFly<~Scribe.141~>296 301 067 064 <~Scribe.142~><~Game.1917~><~Scribe.143~><~Game.1927~><~Scribe.144~> 5B8647
+$Saktan<~Scribe.141~>035 007 <~Scribe.142~><~Game.20~><~Scribe.143~><~Game.1917~><~Scribe.144~> 6F4F2A
+$GandalfTheFly<~Scribe.141~>316 <~Scribe.142~><~Game.1891~><~Scribe.143~><~Game.1887~><~Scribe.144~> 4B6B09
+$GandalfTheFly<~Controls.644~>211 <~Controls.645~><~Game.2035~> 1A274D
+$Saktan<~HighlightLabel.81~>102<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 2E8DA6
+$Saktan<~Controls.819~> E46B59
+$Saktan<~HighlightLabel.81~>100<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 94F3C0
+$Saktan<~Controls.819~> 9B6612
+$Saktan<~HighlightLabel.81~>102<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> D47D88
+$Saktan<~Scribe.141~>253 039 038 324 329 022 <~Scribe.142~><~Game.1930~><~Scribe.143~><~Game.1921~><~Scribe.144~> 3204C7
+$Saktan<~Scribe.141~>001 <~Scribe.142~><~Game.1912~><~Scribe.143~><~Game.1917~><~Scribe.144~> 0DC853
+$Saktan<~Controls.644~>102 <~Controls.645~><~Game.2035~> 6788AE
+$GandalfTheFly<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 2BD9FF
+$GandalfTheFly<~Scribe.141~>reveal 116 D46C1DD4FC965FE8A083B9D9076AEFC8F83C9EEF 8 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> 95B634
+<game> GandalfTheFly<~Controls.1~> 3 1 2 null
+<GandalfTheFly> lol 61E6E0
+<GandalfTheFly> cool 5D54A4
+$GandalfTheFly<~Controls.644~>212 116 <~Controls.645~><~Game.2035~> D60DCC
+<GandalfTheFly> no second card C02781
+<Saktan> ok 3E6843
+$Saktan<~HighlightLabel.81~>100<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 3A8A82
+$Saktan<~CardBuffet.14~>reveal 209 D5AEF765283BAEFBF756D8D1A54924A45B33A600 20<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 517986
+<Saktan> Fords from Fangorn DBA309
+<GandalfTheFly> ok 005D0B
+<game> Saktan<~Controls.1~> 3 6 4 null
+<Saktan> 1 253C03
+$GandalfTheFly<~Controls.296~>070 <~Controls.297~><~Game.1918~> 5FC9F1
+$Saktan<~Controls.644~>100 209 <~Controls.645~><~Game.2035~> 4E7295
+<GandalfTheFly> nt E68FB4
+$Saktan<~Controls.757~>361 101 104 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 69CF28
+$Saktan<~Controls.762~>100 102 103 105 360 099 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 9524D4
+$Saktan<~Controls.509~>201<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.509~>195<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$GandalfTheFly<~Controls.731~>212 211 210 358 213 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> C10C6B
+<~Game.7~>10 null
+$GandalfTheFly<~Controls.509~>107<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$GandalfTheFly<~Controls.509~>118<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$GandalfTheFly<~Controls.296~>146 <~Controls.297~><~Controls.45~> 1F4801
+<GandalfTheFly> fsp ok 259491
+<Saktan> 0e 59A29C
+$Saktan<~Controls.345~>100 102 103 105 360 099 361 101 104 <~Controls.346~>13 11 12 12 12 10 15 12 13 null
+$Saktan<~Controls.350~>100 102 103 105 360 099 361 101 104 null
+$GandalfTheFly<~Controls.345~>212 211 210 358 213 <~Controls.346~>3 4 0 1 2 null
+$GandalfTheFly<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> D8AC66
+<GandalfTheFly> attack lorien 32E751
+$Saktan<~Scribe.141~>247 321 021 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.1992~><~Scribe.144~> 1ABCF9
+$GandalfTheFly<~Scribe.141~>296 301 067 064 <~Scribe.142~><~Game.1927~><~Scribe.143~><~Game.1928~><~Scribe.144~> 8D0AC3
+$GandalfTheFly<~Controls.644~>210 <~Controls.645~><~Game.2035~> 7983B2
+$Saktan<~Scribe.141~>247 <~Scribe.142~><~Game.1992~><~Scribe.143~><~Game.1928~><~Scribe.144~> D25B26
+$Saktan<~HighlightLabel.81~>105<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 34B1C7
+$Saktan<~Controls.819~> BEA83D
+$Saktan<~HighlightLabel.81~>099<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> B4A13E
+$Saktan<~Scribe.141~>336 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1917~><~Scribe.144~> 28865D
+$Saktan<~Controls.644~>099 <~Controls.645~><~Game.2035~> EF1AC3
+$GandalfTheFly<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> EE6CBA
+<GandalfTheFly> attack lorien 7FD326
+$GandalfTheFly<~Controls.840~>147 87395C
+<Saktan> nc F95A7A
+<auto> playchosen BE1D19
+<auto><~Controls.861~>reveal 147 580C28D86C92FF767549983678EC3FBDBD07A69C 11<~Controls.862~><~Controls.45~><~Controls.863~><~Game.2037~> E08E49
+<game> GandalfTheFly<~Controls.1~> 2 1 1 null
+<game> GandalfTheFly<~Controls.1~> 3 null
+<GandalfTheFly> 0 4D0E58
+<game> Saktan<~Controls.1~> 4 null
+<game> Saktan<~Controls.1~> 2 null
+<Saktan> 0 E5B29E
+<GandalfTheFly> press 6E6854
+$GandalfTheFly<~Controls.304~>301 <~Controls.305~><~Game.1928~> 2D4553
+$GandalfTheFly<~Controls.313~>066 <~Controls.308~><~Controls.314~><~Game.1928~> B32F4E
+$GandalfTheFly<~Controls.296~>147 <~Controls.297~><~Game.2037~> A08EC8
+$GandalfTheFly<~Controls.840~>125 2A851E
+<Saktan> nnc E6C1F3
+<auto> playchosen DAA982
+<auto><~Controls.861~>reveal 125 6016BCC771BF12DC07B98DC040C7414A919F84F6 20<~Controls.862~><~Controls.45~><~Controls.863~><~Game.2037~> A83143
+<game> GandalfTheFly<~Controls.1~> 1 null
+<game> GandalfTheFly<~Controls.1~> 4 1 1 null
+<game> GandalfTheFly<~Controls.1~> 4 null
+<GandalfTheFly> 0 76448B
+<game> Saktan<~Controls.1~> 1 null
+<game> Saktan<~Controls.1~> 5 null
+<Saktan> 1 AB6089
+$GandalfTheFly<~Controls.304~>067 <~Controls.305~><~Game.1928~> 8E2C51
+$GandalfTheFly<~Controls.313~>065 <~Controls.308~><~Controls.314~><~Game.1928~> F5B041
+<GandalfTheFly> stop DC4DEF
+$GandalfTheFly<~Controls.644~>211 125 <~Controls.645~><~Game.2035~> 401E4C
+$Saktan<~HighlightLabel.81~>103<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 3DF58C
+$Saktan<~Scribe.141~>336 035 001 <~Scribe.142~><~Game.1917~><~Scribe.143~><~Game.1927~><~Scribe.144~> C5932E
+$Saktan<~Scribe.141~>040 326 006 327 328 004 003 <~Scribe.142~><~Game.1919~><~Scribe.143~><~Game.1918~><~Scribe.144~> A502F2
+$Saktan<~Controls.644~>103 <~Controls.645~><~Game.2035~> C74C6D
+<GandalfTheFly> pass 5C4CF1
+$Saktan<~HighlightLabel.81~>101<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> AA9175
+$Saktan<~Scribe.141~>253 039 038 324 329 022 <~Scribe.142~><~Game.1921~><~Scribe.143~><~Game.1918~><~Scribe.144~> 8DCE05
+$Saktan<~Controls.819~> 495F62
+$Saktan<~Controls.281~>101 <~Controls.282~><~Game.2035~><~Controls.283~><~Game.2043~> 7E206B
+$Saktan<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 27CABE
+$Saktan<~Scribe.141~>253 039 038 324 329 022 <~Scribe.142~><~Game.1921~><~Scribe.143~><~Game.1918~><~Scribe.144~> 05FC10
+$Saktan<~Controls.644~>100 <~Controls.645~><~Game.2035~> 1ACC5B
+<GandalfTheFly> pass A9FEDD
+$Saktan<~HighlightLabel.81~>105<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 19D13F
+<Saktan> HD A4C9C4
+$GandalfTheFly<~Scribe.141~>259 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> ED3D85
+$GandalfTheFly<~Scribe.141~>074 283 289 073 069 072 071 <~Scribe.142~><~Game.1923~><~Scribe.143~><~Game.1993~><~Scribe.144~> A8554F
+$Saktan<~Scribe.141~>253 039 038 040 324 326 006 329 327 328 004 003 022 <~Scribe.142~><~Game.1918~><~Scribe.143~><~Game.1923~><~Scribe.144~> DC8432
+$Saktan<~Controls.644~>105 <~Controls.645~><~Game.2035~> 3705C2
+$GandalfTheFly<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 798DF7
+$GandalfTheFly<~Scribe.141~>reveal 118 A4866E85A0D637BAA7C411D13124EF4725CA8D70 21 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> 71C382
+<Saktan> nice! 36684C
+$GandalfTheFly<~Scribe.141~>264 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1928~><~Scribe.144~> 1B2A7A
+$GandalfTheFly<~Controls.509~>150<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$GandalfTheFly<~Controls.644~>213 118 <~Controls.645~><~Game.2035~> 9B1E05
+$Saktan<~HighlightLabel.81~>360<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 839FD8
+<Saktan> HD 7BC5B5
+$Saktan<~Controls.840~>195 FE81DC
+$GandalfTheFly<~Controls.840~>150 7843B6
+<auto> playchosen F365A9
+<auto><~Controls.3~>reveal 150 EF86038B8200E42925FC5EAAA54199E996673239 7<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> EF9DD1
+<auto><~Controls.866~>reveal 195 866E43E765B6EFC8D548597AA7BFBC83B737D580 0<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> C10DBE
+<auto> playchosen F19957
+<game> Saktan<~Controls.1~> 3 2 3 3 4 null
+<game> Saktan<~Controls.1~> 1 2 1 3 5 null
+<Saktan> 0 4005E2
+<game> GandalfTheFly<~Controls.1~> 5 2 1 1 3 null
+<game> GandalfTheFly<~Controls.1~> 1 2 null
+<GandalfTheFly> 1 630952
+$Saktan<~Scribe.141~>022 <~Scribe.142~><~Game.1923~><~Scribe.143~><~Game.2036~><~Scribe.144~> 1AA79B
+<Saktan> press/draw 18A2CD
+$Saktan<~Controls.304~>006 <~Controls.305~><~Game.1923~> 682260
+$Saktan<~Controls.313~>005 <~Controls.307~><~Controls.314~><~Game.1923~> 6E5AD2
+$Saktan<~Controls.509~>175<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.662~>195 022 150 <~Controls.663~><~Game.2035~> E6A8D1
+$Saktan<~Controls.840~>205 A7A2CB
+$GandalfTheFly<~Controls.840~>126 04FB99
+<auto> playchosen 8C1570
+<auto><~Controls.3~>reveal 126 4E7F25CA7E1B4DDCB9F2A3A196956A9770F392D8 13<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 685CC8
+<auto><~Controls.866~>reveal 205 BC8C1E7F9C7801C8F4BF9ED06614744F91DA05EA 16<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 0DFD6E
+<auto> playchosen FB5B0E
+<Saktan> nice 91CB6E
+<game> Saktan<~Controls.1~> 5 1 null
+<game> Saktan<~Controls.1~> 1 null
+<Saktan> 1 CC046D
+<game> GandalfTheFly<~Controls.1~> 6 3 1 3 3 null
+<game> GandalfTheFly<~Controls.1~> 5 4 null
+<GandalfTheFly> 3 BFF69E
+$Saktan<~Scribe.141~>003 005 <~Scribe.142~><~Game.1923~><~Scribe.143~><~Game.2036~><~Scribe.144~> 23147C
+$GandalfTheFly<~Controls.304~>289 <~Controls.305~><~Game.1993~> 1B20AF
+$GandalfTheFly<~Controls.313~>070 <~Controls.308~><~Controls.314~><~Game.1993~> 117AB9
+<Saktan> stop C748FA
+$Saktan<~Controls.644~>360 205 003 005 126 <~Controls.645~><~Game.2035~> 18B370
+<GandalfTheFly> did you take 3 hits? D68AE4
+<Saktan> just 2 i believe CC461F
+<GandalfTheFly> but desperate adds to leader reroll as well right? E6A1FD
+<GandalfTheFly> or was that devliery played 683395
+<Saktan> ah no you are right C307C3
+$Saktan<~Controls.281~>004 <~Controls.282~><~Game.1923~><~Controls.283~><~Game.2040~> 34203E
+<Saktan> ok A2900C
+<GandalfTheFly> caught up 0BF47B
+$GandalfTheFly<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 6C61A4
+<GandalfTheFly> attack lorien 757311
+<GandalfTheFly> nc 7897D5
+<Saktan> nc 0C5751
+<game> GandalfTheFly<~Controls.1~> 4 2 4 6 null
+<GandalfTheFly> 1 A47BD4
+<game> Saktan<~Controls.1~> 6 null
+<Saktan> 1 BFC95B
+$GandalfTheFly<~Controls.304~>264 <~Controls.305~><~Game.1928~> A8EE5A
+$GandalfTheFly<~Controls.313~>087 <~Controls.308~><~Controls.314~><~Game.1928~> 6C21EE
+$Saktan<~Scribe.141~>321 021 <~Scribe.142~><~Game.1992~><~Scribe.143~><~Game.2037~><~Scribe.144~> BD7378
+$Saktan<~Scribe.141~>423 <~Scribe.142~><~Game.388~><~Scribe.143~><~Game.32~><~Scribe.144~> 526BF3
+$GandalfTheFly<~Controls.296~>416 <~Controls.297~><~Game.1928~> F71532
+$GandalfTheFly<~Controls.644~>358 321 021 <~Controls.645~><~Game.2035~> CE4C67
+$Saktan<~HighlightLabel.81~>101<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 71206A
+<Saktan> Pel from West Harondor C50591
+<Saktan> nc B430FD
+<GandalfTheFly> nc B47C18
+<game> Saktan<~Controls.1~> 5 1 1 5 3 null
+<game> Saktan<~Controls.1~> 2 null
+<Saktan> 0 0919AC
+<game> GandalfTheFly<~Controls.1~> 5 2 4 null
+<game> GandalfTheFly<~Controls.1~> 6 null
+<GandalfTheFly> 2 75B5A5
+$Saktan<~Scribe.141~>057 <~Scribe.142~><~Game.1938~><~Scribe.143~><~Game.2037~><~Scribe.144~> 3BE8BE
+<Saktan> press 63AD2D
+<Saktan> nc A60C95
+$GandalfTheFly<~Scribe.141~>270 276 079 078 <~Scribe.142~><~Game.1931~><~Scribe.143~><~Game.1924~><~Scribe.144~> 938534
+<GandalfTheFly> retreat 0C5695
+$Saktan<~Scribe.141~>043 <~Scribe.142~><~Game.1938~><~Scribe.143~><~Game.1931~><~Scribe.144~> DAF8C8
+$Saktan<~Scribe.141~>423 <~Scribe.142~><~Game.32~><~Scribe.143~><~Game.33~><~Scribe.144~> 2229E2
+$Saktan<~Scribe.141~>260 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2003~><~Scribe.144~> F3BAA6
+$Saktan<~Controls.644~>101 057 <~Controls.645~><~Game.2035~> ABD412
+$Saktan<~Scribe.141~>416 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1931~><~Scribe.144~> F43097
+$GandalfTheFly<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> A09F60
+$GandalfTheFly<~Controls.281~>212 <~Controls.282~><~Game.2035~><~Controls.283~><~Game.2042~> 3EC50F
+<GandalfTheFly> pass 1A3134
+$Saktan<~HighlightLabel.81~>102<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 994444
+$Saktan<~Scribe.141~>255 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1956~><~Scribe.144~> 6A34A9
+$Saktan<~Scribe.141~>255 <~Scribe.142~><~Game.1956~><~Scribe.143~><~Game.1917~><~Scribe.144~> 309782
+$Saktan<~Scribe.141~>362 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2037~><~Scribe.144~> 75FCCD
+$Saktan<~Controls.644~>102 362 <~Controls.645~><~Game.2035~> 79F292
+$GandalfTheFly<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 04C198
+$GandalfTheFly<~Scribe.141~>281 282 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1944~><~Scribe.144~> A3DB86
+$GandalfTheFly<~Scribe.141~>281 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.1920~><~Scribe.144~> 4CA4E2
+$GandalfTheFly<~Controls.644~>212 <~Controls.645~><~Game.2035~> 2456E5
+$Saktan<~HighlightLabel.81~>104<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 06AEF3
+<Saktan> HD 0A0A5E
+$Saktan<~Controls.840~>165 8A53FD
+<GandalfTheFly> nc 855A38
+<auto><~Controls.866~>reveal 165 575490C3216FA0262DFE002A8275C348B4691149 22<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 08EE9E
+<Saktan> ff2 57C389
+<game> Saktan<~Controls.1~> 6 3 5 2 6 null
+<game> Saktan<~Controls.1~> 6 3 5 null
+<Saktan> 3 EAB5FE
+<game> GandalfTheFly<~Controls.1~> 3 6 6 null
+<game> GandalfTheFly<~Controls.1~> 1 null
+<GandalfTheFly> 2 2575A1
+$Saktan<~Scribe.141~>326 <~Scribe.142~><~Game.1923~><~Scribe.143~><~Game.2036~><~Scribe.144~> 594C3D
+$GandalfTheFly<~Controls.296~>073 <~Controls.297~><~Game.1993~> 7F27F9
+$GandalfTheFly<~Controls.296~>070 <~Controls.297~><~Game.1993~> 95143B
+<Saktan> stop/draw F6555E
+$Saktan<~Controls.509~>194<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.644~>104 165 326 <~Controls.645~><~Game.2035~> D99A01
+<GandalfTheFly> nt 66CD0F
+$Saktan<~Controls.757~>361 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 8B5029
+$Saktan<~Controls.762~>104 102 362 101 360 105 100 103 099 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> F878D5
+$GandalfTheFly<~Controls.731~>212 358 213 211 210 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> D6A389
+<~Game.7~>11 null
+$Saktan<~Controls.509~>168<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.509~>178<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$GandalfTheFly<~Controls.509~>123<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$GandalfTheFly<~Controls.509~>131<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+<GandalfTheFly> fsp ok DF39EF
+<Saktan> 0e F394E3
+$GandalfTheFly<~Scribe.141~>252 <~Scribe.142~><~Game.2017~><~Scribe.143~><~Game.2016~><~Scribe.144~> 39C82B
+$Saktan<~Controls.345~>104 102 362 101 360 105 100 103 099 361 <~Controls.346~>13 15 11 12 14 13 12 12 13 13 null
+$Saktan<~Controls.350~>104 102 362 101 360 105 100 103 099 361 null
+$GandalfTheFly<~Controls.345~>212 358 213 211 210 <~Controls.346~>2 1 1 1 1 null
+$GandalfTheFly<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 33B6DC
+$GandalfTheFly<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> AE7184
+$GandalfTheFly<~Controls.795~>358<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 8317A5
+<game> Saktan<~Controls.1~> 6 null
+<Saktan> bruh 685BA3
+<GandalfTheFly> bruh 95C6FF
+<Saktan> haha 7D8A91
+<Saktan> thats insane 2126FD
+<GandalfTheFly> alright 983469
+$Saktan<~Controls.624~>219<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Saktan> 1r 73A9B6
+$GandalfTheFly<~Scribe.141~>252 <~Scribe.142~><~Game.2016~><~Scribe.143~><~Game.2017~><~Scribe.144~> 79F2F1
+$GandalfTheFly<~Controls.323~>248 11DD86
+$GandalfTheFly<~Scribe.141~>247 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.1930~><~Scribe.144~> B54CDF
+$GandalfTheFly<~Controls.644~>219 <~Controls.645~><~Game.2035~> 87B26A
+$Saktan<~HighlightLabel.81~>362<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 1EADC5
+$Saktan<~Scribe.141~>036 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1917~><~Scribe.144~> B3FF83
+$Saktan<~Controls.644~>362 <~Controls.645~><~Game.2035~> 967355
+<GandalfTheFly> pass 2E36C7
+$Saktan<~HighlightLabel.81~>100<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> B4EEED
+$Saktan<~Scribe.141~>331 000 <~Scribe.142~><~Game.1914~><~Scribe.143~><~Game.1916~><~Scribe.144~> 905779
+$Saktan<~Scribe.141~>014 <~Scribe.142~><~Game.1956~><~Scribe.143~><~Game.1953~><~Scribe.144~> DB28F5
+$Saktan<~Controls.644~>100 <~Controls.645~><~Game.2035~> 7DC919
+<GandalfTheFly> pass 9B2749
+$Saktan<~HighlightLabel.81~>360<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 7844D8
+$Saktan<~CardBuffet.14~>reveal 175 BEB9F4FDAADD5A8A3C588488630A9E8F5D465583 2<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 471AB6
+$Saktan<~Scribe.141~>014 <~Scribe.142~><~Game.1953~><~Scribe.143~><~Game.1927~><~Scribe.144~> FB2480
+$Saktan<~Scribe.141~>255 036 007 <~Scribe.142~><~Game.1917~><~Scribe.143~><~Game.1927~><~Scribe.144~> 3D0B06
+$Saktan<~Scribe.141~>331 000 <~Scribe.142~><~Game.1916~><~Scribe.143~><~Game.1918~><~Scribe.144~> 62F607
+<Saktan> hmm 6239BC
+$Saktan<~Scribe.141~>034 033 <~Scribe.142~><~Game.1971~><~Scribe.143~><~Game.1977~><~Scribe.144~> 8D151D
+$Saktan<~Controls.819~> 9CC661
+$Saktan<~Scribe.141~>041 <~Scribe.142~><~Game.1932~><~Scribe.143~><~Game.1938~><~Scribe.144~> 7A9EC2
+$Saktan<~Controls.644~>360 175 <~Controls.645~><~Game.2035~> F6D8F2
+$GandalfTheFly<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> B7A14D
+$GandalfTheFly<~Scribe.141~>245 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1928~><~Scribe.144~> CE2C49
+$GandalfTheFly<~Controls.644~>210 <~Controls.645~><~Game.2035~> 1A5B87
+<GandalfTheFly> maybe the other hobbit has better luck 99E103
+<Saktan> haha maybe! 505870
+$Saktan<~HighlightLabel.81~>101<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 23F53E
+$Saktan<~Controls.819~> C1082B
+$Saktan<~HighlightLabel.81~>099<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> F237FD
+<Saktan> Lorien C4ADFC
+$GandalfTheFly<~Scribe.141~>245 296 087 065 066 064 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.1992~><~Scribe.144~> 61207F
+$Saktan<~Scribe.141~>255 036 336 035 001 007 014 <~Scribe.142~><~Game.1927~><~Scribe.143~><~Game.1928~><~Scribe.144~> C8EEF5
+$Saktan<~Controls.644~>099 <~Controls.645~><~Game.2035~> 0AB1D0
+$GandalfTheFly<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 445608
+$GandalfTheFly<~Scribe.141~>reveal 129 9C944CF103C6919657BAA58D7447292E6855B90E 3 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> 1EB715
+<Saktan> nice CF242B
+<GandalfTheFly> on lorien 9C6C24
+<game> GandalfTheFly<~Controls.1~> 6 1 6 6 1 null
+<Saktan> oof 773B49
+<GandalfTheFly> 3 E4AAC7
+$Saktan<~Scribe.141~>035 001 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.2037~><~Scribe.144~> 30D48C
+$GandalfTheFly<~Controls.296~>129 <~Controls.297~><~Game.2037~> F0DC28
+$GandalfTheFly<~Controls.644~>212 035 001 <~Controls.645~><~Game.2035~> 85ADDD
+$Saktan<~HighlightLabel.81~>361<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 296B2A
+<Saktan> Lorien 9B7617
+$Saktan<~Controls.840~>168 AD9F41
+$GandalfTheFly<~Controls.840~>107 D91777
+<auto> playchosen 4C46BE
+<auto><~Controls.3~>reveal 107 89A20901CC05E70C72A80BA7C3F2403D3A87CC83 1<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 333B32
+<auto><~Controls.866~>reveal 168 18FC767331AA43603D8903848B2F51A1CEB67FF4 23<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> C419AB
+<auto> playchosen 8D6054
+<GandalfTheFly> denied BD6A2C
+<Saktan> aw man! 67CC30
+<Saktan> very nice 6899F7
+<game> Saktan<~Controls.1~> 5 5 6 2 null
+<game> Saktan<~Controls.1~> 1 1 null
+<Saktan> 1 4A9455
+<game> GandalfTheFly<~Controls.1~> 3 5 4 3 null
+<game> GandalfTheFly<~Controls.1~> 2 null
+<GandalfTheFly> 1 A53AAA
+$Saktan<~Controls.304~>336 <~Controls.305~><~Game.1928~> 003214
+$Saktan<~Controls.313~>021 <~Controls.307~><~Controls.314~><~Game.1928~> BFF2AB
+$GandalfTheFly<~Controls.296~>087 <~Controls.297~><~Game.1992~> DBAF7B
+<Saktan> press B1B4FF
+$Saktan<~Controls.304~>036 <~Controls.305~><~Game.1928~> 202E56
+$Saktan<~Controls.313~>022 <~Controls.307~><~Controls.314~><~Game.1928~> 4D5E62
+$Saktan<~Controls.662~>168 107 <~Controls.663~><~Game.2035~> 29C1C9
+$Saktan<~Controls.840~>178 28F4F7
+$GandalfTheFly<~Controls.840~>123 CD50F4
+<auto> playchosen 2BB0C2
+<auto><~Controls.3~>reveal 123 64E89EE2ED1014BDDB80F7CFBFEE92FE6DE98193 3<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 5BB754
+<auto><~Controls.866~>reveal 178 84E3640216DB654DA81621BE66AF61621C65080D 13<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 8DE0D5
+<auto> playchosen 071303
+<Saktan> nice 71E76D
+<game> Saktan<~Controls.1~> 4 1 1 null
+<game> Saktan<~Controls.1~> 4 4 null
+<Saktan> 0 1FE54A
+<game> GandalfTheFly<~Controls.1~> 4 2 6 null
+<game> GandalfTheFly<~Controls.1~> 4 null
+<GandalfTheFly> 3 4514BC
+$Saktan<~Scribe.141~>021 014 007 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.2036~><~Scribe.144~> 1A0BE6
+<Saktan> good hobbit! 220ED6
+<Saktan> haha AC339F
+$Saktan<~Controls.644~>361 178 021 014 007 123 <~Controls.645~><~Game.2035~> 8846F2
+<Saktan> stop F93B23
+<GandalfTheFly> yeah he did much better than the fool of a took 5C16CE
+$GandalfTheFly<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 8806DD
+<GandalfTheFly> attack from lorien F1557A
+<Saktan> ok 58A773
+<GandalfTheFly> nc C938DA
+<Saktan> nc 5C9C82
+<game> GandalfTheFly<~Controls.1~> 3 6 4 null
+<game> Saktan<~Controls.1~> 1 null
+<game> Saktan<~Controls.1~> 2 null
+<Saktan> bad mouth DCD387
+$Saktan<~Scribe.141~>255 022 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.2037~><~Scribe.144~> 386C87
+<GandalfTheFly> bad mouth indeed 48F4EF
+$GandalfTheFly<~Scribe.141~>410 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1928~><~Scribe.144~> 3690E6
+$GandalfTheFly<~Scribe.141~>410 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.1992~><~Scribe.144~> 22B4CF
+$Saktan<~Controls.281~>099 <~Controls.282~><~Game.2041~><~Controls.283~><~Game.2040~> F0BF97
+$GandalfTheFly<~Scribe.141~>245 296 065 066 064 <~Scribe.142~><~Game.1992~><~Scribe.143~><~Game.1928~><~Scribe.144~> FF29EA
+$GandalfTheFly<~Controls.281~>410 <~Controls.282~><~Game.1992~><~Controls.283~><~Game.2038~> 868BDD
+$Saktan<~Controls.644~>211 255 022 <~Controls.645~><~Game.2035~> 475C96
+<Saktan> srry didnt mean to kill dice 987E57
+<Saktan> done? F5095B
+<GandalfTheFly> no your good 34C269
+<GandalfTheFly> that was it 69CD6B
+<Saktan> ok 5D4071
+$Saktan<~HighlightLabel.81~>103<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> E446F8
+$Saktan<~Scribe.141~>331 000 <~Scribe.142~><~Game.1918~><~Scribe.143~><~Game.1923~><~Scribe.144~> BD2484
+$Saktan<~Scribe.141~>319 037 026 031 030 020 019 <~Scribe.142~><~Game.1969~><~Scribe.143~><~Game.1964~><~Scribe.144~> 05BFF4
+$Saktan<~Controls.644~>103 <~Controls.645~><~Game.2035~> 2D0DDF
+<GandalfTheFly> pass C0CB69
+$Saktan<~HighlightLabel.81~>101<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> FFB571
+$Saktan<~Scribe.141~>319 037 026 031 030 020 019 <~Scribe.142~><~Game.1964~><~Scribe.143~><~Game.1959~><~Scribe.144~> 15058D
+$Saktan<~Scribe.141~>040 328 <~Scribe.142~><~Game.1923~><~Scribe.143~><~Game.1925~><~Scribe.144~> 0A083D
+$Saktan<~Controls.644~>101 <~Controls.645~><~Game.2035~> 12474E
+<GandalfTheFly> pass D580D8
+$Saktan<~Scribe.141~>418 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1925~><~Scribe.144~> DF30B9
+$Saktan<~HighlightLabel.81~>105<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 279486
+$Saktan<~Scribe.141~>040 328 <~Scribe.142~><~Game.1925~><~Scribe.143~><~Game.1929~><~Scribe.144~> 8C2782
+$Saktan<~Scribe.141~>423 <~Scribe.142~><~Game.33~><~Scribe.143~><~Game.388~><~Scribe.144~> 2E9877
+$Saktan<~Scribe.141~>414 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1929~><~Scribe.144~> DE4AA6
+$Saktan<~Controls.644~>105 <~Controls.645~><~Game.2035~> CAD36A
+$GandalfTheFly<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 4CF27F
+$GandalfTheFly<~Controls.323~>248 822EF0
+$GandalfTheFly<~Controls.644~>213 <~Controls.645~><~Game.2035~> 49C331
+$Saktan<~HighlightLabel.81~>104<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 5B787D
+$Saktan<~Scribe.141~>040 328 <~Scribe.142~><~Game.1929~><~Scribe.143~><~Game.1933~><~Scribe.144~> 483BCB
+<GandalfTheFly> maybe we can finally move again D5415B
+$Saktan<~Scribe.141~>419 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1933~><~Scribe.144~> 237B28
+<Saktan> haha maybe! C75F8B
+<GandalfTheFly> just maybe 396440
+$Saktan<~Controls.644~>104 <~Controls.645~><~Game.2035~> C53ECA
+<GandalfTheFly> nt B10570
+$Saktan<~Controls.757~>102 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> CAB0D2
+$Saktan<~Controls.762~>104 105 101 103 361 360 100 362 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 389F6D
+$GandalfTheFly<~Controls.726~>358 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> EECF6B
+<~Game.7~>12 null
+$GandalfTheFly<~Controls.731~>213 211 212 210 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 3A9AB2
+$Saktan<~Controls.509~>169<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.509~>192<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<GandalfTheFly> and you lost mouth die right? 4078F2
+<Saktan> yes, BC6974
+$GandalfTheFly<~Controls.509~>109<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$GandalfTheFly<~Controls.509~>119<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+<Saktan> in force pool now 9AA04C
+<GandalfTheFly> fsp ok 343A43
+<Saktan> 1e 447CEE
+$Saktan<~Controls.372~>104 3F4F35
+$Saktan<~Controls.345~>105 101 103 361 360 100 362 102 <~Controls.346~>15 11 13 10 15 12 10 15 null
+$Saktan<~Controls.350~>105 101 103 361 360 100 362 102 null
+$GandalfTheFly<~Controls.345~>213 211 212 210 358 <~Controls.346~>2 1 4 4 1 null
+$GandalfTheFly<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> EE67F5
+$GandalfTheFly<~Controls.281~>358 <~Controls.282~><~Game.2035~><~Controls.283~><~Game.2042~> 9C6234
+$GandalfTheFly<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> C388CE
+$GandalfTheFly<~Scribe.141~>reveal 109 F61E2D610C389098BF89D04CD70F6D08334DA1E8 23 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> 6909B0
+<GandalfTheFly> just to try it DAEA84
+<game> GandalfTheFly<~Controls.1~> 3 3 1 null
+<GandalfTheFly> sigh 55EBBF
+$GandalfTheFly<~Controls.644~>213 109 <~Controls.645~><~Game.2035~> 33F11B
+$Saktan<~HighlightLabel.81~>361<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> C67D65
+$Saktan<~Scribe.141~>022 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1917~><~Scribe.144~> 78EEDF
+$Saktan<~Scribe.141~>021 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1956~><~Scribe.144~> 582F37
+$Saktan<~Controls.644~>361 <~Controls.645~><~Game.2035~> 32D284
+$GandalfTheFly<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> C3305C
+$GandalfTheFly<~Scribe.141~>280 279 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1944~><~Scribe.144~> 17519F
+$GandalfTheFly<~Scribe.141~>280 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.1920~><~Scribe.144~> 7509EA
+$GandalfTheFly<~Controls.644~>212 <~Controls.645~><~Game.2035~> D919DB
+$Saktan<~HighlightLabel.81~>100<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> EE8A6C
+$Saktan<~CardBuffet.14~>reveal 192 5348595C5112CC01616C6C6B0B445FEB9EDCFF5A 15<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> D4D3BF
+$Saktan<~Scribe.141~>334 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1923~><~Scribe.144~> 1862A8
+$Saktan<~Controls.644~>100 192 <~Controls.645~><~Game.2035~> 2F1604
+$GandalfTheFly<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> C74BE4
+$GandalfTheFly<~Controls.281~>211 <~Controls.282~><~Game.2035~><~Controls.283~><~Game.2042~> D854C1
+$GandalfTheFly<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 9BCBB3
+$GandalfTheFly<~Scribe.141~>273 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1944~><~Scribe.144~> 2244DE
+$GandalfTheFly<~Controls.644~>210 <~Controls.645~><~Game.2035~> 8BB3CB
+$Saktan<~HighlightLabel.81~>101<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 115736
+<Saktan> HD 69B4FE
+$Saktan<~Controls.840~>194 400B23
+<GandalfTheFly> nc 7F514F
+<auto><~Controls.866~>reveal 194 BBF085C9F6F01713F3DDD2A5CB75CC6504868F4F 0<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 842479
+<Saktan> for the cycle 83AD1A
+<game> Saktan<~Controls.1~> 3 5 1 2 5 null
+<game> Saktan<~Controls.1~> 3 4 4 6 4 null
+<Saktan> 1 9AE8A3
+<GandalfTheFly> yep 40F072
+<game> GandalfTheFly<~Controls.1~> 3 2 6 null
+<game> GandalfTheFly<~Controls.1~> 3 2 null
+<GandalfTheFly> 1 AB646F
+$Saktan<~Scribe.141~>327 <~Scribe.142~><~Game.1923~><~Scribe.143~><~Game.2036~><~Scribe.144~> FDEA5B
+$GandalfTheFly<~Controls.296~>069 <~Controls.297~><~Game.1993~> 6BEED3
+<Saktan> press/draw 554B60
+$Saktan<~Controls.304~>334 <~Controls.305~><~Game.1923~> 6A4F29
+$Saktan<~Controls.313~>014 <~Controls.307~><~Controls.314~><~Game.1923~> 8C6B0D
+$Saktan<~Controls.509~>167<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.662~>194 327 <~Controls.663~><~Game.2035~> 553DF2
+<Saktan> nc 76F134
+<GandalfTheFly> nc 514C0E
+<game> Saktan<~Controls.1~> 3 6 6 1 1 null
+<Saktan> 2 2311D4
+<game> GandalfTheFly<~Controls.1~> 6 2 null
+<game> GandalfTheFly<~Controls.1~> 3 null
+<GandalfTheFly> 1 E5EAD4
+$GandalfTheFly<~Controls.296~>074 283 072 071 <~Controls.297~><~Game.1993~> 735245
+$Saktan<~Scribe.141~>331 <~Scribe.142~><~Game.1923~><~Scribe.143~><~Game.2037~><~Scribe.144~> 8B0D77
+$Saktan<~Scribe.141~>423 <~Scribe.142~><~Game.388~><~Scribe.143~><~Game.391~><~Scribe.144~> 6ACC98
+$Saktan<~Controls.644~>101 331 <~Controls.645~><~Game.2035~> 015496
+$Saktan<~Scribe.141~>415 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1923~><~Scribe.144~> FF774A
+$GandalfTheFly<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 62A6FB
+$GandalfTheFly<~Scribe.141~>245 296 066 064 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.1927~><~Scribe.144~> 3D6DC5
+$GandalfTheFly<~Controls.644~>358 <~Controls.645~><~Game.2035~> F7CE64
+$Saktan<~HighlightLabel.81~>362<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 7079DE
+$Saktan<~Scribe.141~>036 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1917~><~Scribe.144~> 652A0C
+$Saktan<~Controls.644~>362 <~Controls.645~><~Game.2035~> 53FA18
+$GandalfTheFly<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> D401A0
+$GandalfTheFly<~Scribe.141~>245 296 066 064 <~Scribe.142~><~Game.1927~><~Scribe.143~><~Game.1949~><~Scribe.144~> 8204B2
+$GandalfTheFly<~Controls.644~>211 <~Controls.645~><~Game.2035~> 211AE8
+$Saktan<~HighlightLabel.81~>103<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 78CA8E
+$Saktan<~Scribe.141~>253 039 038 324 000 329 014 <~Scribe.142~><~Game.1923~><~Scribe.143~><~Game.1925~><~Scribe.144~> A3967F
+$Saktan<~Controls.644~>103 <~Controls.645~><~Game.2035~> 4414B7
+$Saktan<~Controls.757~>105 360 102 104 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 6ED29A
+$Saktan<~Controls.762~>103 362 101 100 361 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 05DE4C
+$GandalfTheFly<~Controls.731~>211 358 210 212 213 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> DEF0C1
+<~Game.7~>13 null
+$Saktan<~Controls.509~>179<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.509~>185<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$GandalfTheFly<~Controls.509~>157<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$GandalfTheFly<~Controls.509~>138<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+<GandalfTheFly> fsp ok 872506
+<Saktan> did you move? F79EDF
+<GandalfTheFly> yes 0407FC
+<Saktan> ok 23D089
+<GandalfTheFly> or wait no A3E007
+<GandalfTheFly> cause i moved the last turn and didnt move against 4 eyes 808E60
+<GandalfTheFly> cause ive just accepted i cant A3E7F6
+<GandalfTheFly> so you don't have to allocate EA4F80
+<Saktan> ah okay BE11B6
+<Saktan> then 0e E6BAD4
+$Saktan<~Controls.345~>103 362 101 100 361 105 360 102 104 <~Controls.346~>14 15 11 12 11 13 14 12 10 null
+$Saktan<~Controls.350~>103 362 101 100 361 105 360 102 104 null
+$GandalfTheFly<~Controls.345~>211 358 210 212 213 <~Controls.346~>1 1 3 1 4 null
+$GandalfTheFly<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 7AE74E
+$GandalfTheFly<~Scribe.141~>245 296 066 064 <~Scribe.142~><~Game.1949~><~Scribe.143~><~Game.1945~><~Scribe.144~> 4554C3
+$GandalfTheFly<~Controls.644~>212 <~Controls.645~><~Game.2035~> EF87A7
+$Saktan<~HighlightLabel.81~>100<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 152822
+$Saktan<~Scribe.141~>015 344 338 <~Scribe.142~><~Game.1922~><~Scribe.143~><~Game.1934~><~Scribe.144~> ACCB53
+$Saktan<~Scribe.141~>357 050 052 051 <~Scribe.142~><~Game.1965~><~Scribe.143~><~Game.1970~><~Scribe.144~> DC1BD2
+$Saktan<~Controls.644~>100 <~Controls.645~><~Game.2035~> 7950AC
+<GandalfTheFly> pass 8AAFD2
+$Saktan<~HighlightLabel.81~>360<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 5EEF73
+$Saktan<~CardBuffet.14~>reveal 185 222496B4200917E542B490CA843ACE667E451CC6 8<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> E2AF7A
+$Saktan<~Scribe.141~>318 335 035 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1917~><~Scribe.144~> FFDB16
+$Saktan<~Controls.644~>360 185 <~Controls.645~><~Game.2035~> 6EB504
+$GandalfTheFly<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 585CC2
+$GandalfTheFly<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 4507FE
+$GandalfTheFly<~Controls.795~>358<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 969329
+<game> Saktan<~Controls.1~> 4 null
+<Saktan> safe! 98222E
+<GandalfTheFly> yep 824E1B
+$Saktan<~HighlightLabel.81~>102<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> CA2116
+$Saktan<~Scribe.141~>253 039 038 324 000 329 014 <~Scribe.142~><~Game.1925~><~Scribe.143~><~Game.1937~><~Scribe.144~> 81C5BC
+$Saktan<~Scribe.141~>318 335 035 036 022 <~Scribe.142~><~Game.1917~><~Scribe.143~><~Game.1927~><~Scribe.144~> FE3E77
+$Saktan<~Controls.644~>102 <~Controls.645~><~Game.2035~> 5E9A00
+<GandalfTheFly> pass 2F47CC
+$Saktan<~HighlightLabel.81~>104<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 36D462
+$Saktan<~Controls.819~> 5103BF
+$Saktan<~HighlightLabel.81~>361<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 655140
+$Saktan<~Scribe.141~>253 039 038 324 000 329 014 <~Scribe.142~><~Game.1937~><~Scribe.143~><~Game.1930~><~Scribe.144~> 40BD09
+$Saktan<~Scribe.141~>318 335 035 036 <~Scribe.142~><~Game.1927~><~Scribe.143~><~Game.1930~><~Scribe.144~> 59FCB9
+$Saktan<~Controls.644~>361 <~Controls.645~><~Game.2035~> CF06E4
+<GandalfTheFly> pass 8B2D09
+$Saktan<~HighlightLabel.81~>105<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 9E4485
+<Saktan> Lorien 6B4BFC
+$GandalfTheFly<~Scribe.141~>065 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.1992~><~Scribe.144~> 99987A
+$Saktan<~Scribe.141~>253 318 039 038 324 335 035 036 000 329 014 <~Scribe.142~><~Game.1930~><~Scribe.143~><~Game.1928~><~Scribe.144~> A815D7
+$Saktan<~Controls.644~>105 <~Controls.645~><~Game.2035~> 3010B4
+$GandalfTheFly<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 033C4F
+$GandalfTheFly<~Scribe.141~>reveal 138 1E227E5CFD2246EA883BE7E5E5FBBE3B06816750 23 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> 85A7FD
+<Saktan> nice CC7564
+$GandalfTheFly<~Scribe.141~>138 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2029~><~Scribe.144~> CBE9D1
+$GandalfTheFly<~Controls.644~>213 <~Controls.645~><~Game.2035~> 7925E2
+$Saktan<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> A922C4
+$Saktan<~Controls.281~>179 <~Controls.282~><~Controls.46~><~Controls.283~><~Game.2041~> BA5071
+$Saktan<~Controls.281~>199 <~Controls.282~><~Controls.46~><~Controls.283~><~Game.2041~> 258EFB
+<Saktan> Army card 743C06
+<Saktan> i can share PW after 8534AC
+$Saktan<~Scribe.141~>138 <~Scribe.142~><~Game.2029~><~Scribe.143~><~Game.2036~><~Scribe.144~> D02C0F
+<GandalfTheFly> ok C010B2
+$Saktan<~Controls.644~>104 138 <~Controls.645~><~Game.2035~> 9B7C0C
+$GandalfTheFly<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> AE4C41
+$GandalfTheFly<~Controls.281~>211 <~Controls.282~><~Game.2035~><~Controls.283~><~Game.2042~> 2A4A47
+$GandalfTheFly<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 458C8D
+$GandalfTheFly<~Scribe.141~>245 296 066 064 <~Scribe.142~><~Game.1945~><~Scribe.143~><~Game.1957~><~Scribe.144~> AD344F
+$GandalfTheFly<~Controls.644~>211 <~Controls.645~><~Game.2035~> 1937E0
+$GandalfTheFly<~Controls.644~><~Controls.645~><~Game.2035~> 6BCB78
+$Saktan<~HighlightLabel.81~>101<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> F9C04B
+<Saktan> Lorien 476996
+<GandalfTheFly> yep E183BF
+$Saktan<~Controls.840~>167 26FCCE
+<GandalfTheFly> card? F854E1
+<GandalfTheFly> nc 50B9DD
+<auto><~Controls.866~>reveal 167 1554BA5569BE924C82F492CD1EAF022F3E0E1FCD 19<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> E2A3BC
+<Saktan> ff1 6A0791
+<game> Saktan<~Controls.1~> 2 5 2 1 5 null
+<game> Saktan<~Controls.1~> 3 6 5 6 1 null
+<Saktan> 1 D97E42
+<game> GandalfTheFly<~Controls.1~> 6 null
+<GandalfTheFly> 1 A8EDEB
+$Saktan<~Scribe.141~>014 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.2036~><~Scribe.144~> B6059F
+$GandalfTheFly<~Controls.296~>065 <~Controls.297~><~Game.1992~> D6E953
+$Saktan<~Controls.509~>200<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Saktan<~Controls.644~>101 167 014 <~Controls.645~><~Game.2035~> 7821A8
+<GandalfTheFly> gg 2BB762
+$Saktan<~Scribe.141~>423 <~Scribe.142~><~Game.391~><~Scribe.143~><~Game.28~><~Scribe.144~> 227A57
+$Saktan<~Controls.323~>423 7D266D
+<Saktan> gg 229371
+<Saktan> terrible hunt luck there man E7F5DF
+<GandalfTheFly> nah its fine 3A4097
+<GandalfTheFly> you have a nice night! E1246E
+<Saktan> you too! 34CAD2
+<~Talker.22~> null

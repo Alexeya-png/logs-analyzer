@@ -1,0 +1,982 @@
+<auto> silent null
+<auto><~Scribe.141~>363 397 398 402 401 400 399 403 404 376 375 374 373 377 378 <~Scribe.142~><~Game.2038~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>365 366 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 367 368 369 370 371 372 <~Scribe.142~><~Game.2040~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>230 231 <~Scribe.142~><~Game.2044~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>155 152 <~Scribe.142~><~Game.2004~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>137 151 <~Scribe.142~><~Game.2005~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>161 198 <~Scribe.142~><~Game.2006~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>163 188 <~Scribe.142~><~Game.2007~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Controls.323~>364 null
+<auto> noisy null
+<auto> silent null
+<auto><~Scribe.141~>312 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1965~><~Scribe.144~> null
+<auto> noisy null
+<~Game.7~>1 null
+<auto> silent null
+<auto><~Scribe.141~>363 397 398 402 401 400 399 403 404 376 375 374 373 377 378 <~Scribe.142~><~Game.2038~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>365 366 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 367 368 369 370 371 372 <~Scribe.142~><~Game.2040~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>230 231 <~Scribe.142~><~Game.2044~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>155 152 <~Scribe.142~><~Game.2004~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>137 151 <~Scribe.142~><~Game.2005~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>161 198 <~Scribe.142~><~Game.2006~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>163 188 <~Scribe.142~><~Game.2007~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Controls.323~>364 null
+<auto> noisy null
+$base silent null
+$TEST<~Scribe.141~>312 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1965~><~Scribe.144~> null
+$base noisy null
+<game> Arress<~Controls.408~>[WOTR-Gandalf2 wotr base2] null
+<~Talker.31~> null
+<SlowCobra> hey 
+<Arress> hello 
+<Arress> roll and bid? 
+<SlowCobra> yes 
+<game> SlowCobra<~Controls.1~> 2 null
+<game> Arress<~Controls.1~> 1 null
+<SlowCobra> would you like to try mustering points? 
+<Arress> sure 
+<SlowCobra> then 1.5 
+<Arress> 2 
+<SlowCobra> accept 
+<Arress> gl hf! 
+$SlowCobra<~Scribe.141~>267 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1928~><~Scribe.144~> 
+$SlowCobra<~Scribe.141~>303 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1941~><~Scribe.144~> 
+$SlowCobra<~Scribe.141~>304 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1970~><~Scribe.144~> 
+<SlowCobra> good luck! 
+$SlowCobra<~Controls.509~>116<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$SlowCobra<~Controls.509~>150<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Arress<~Controls.479~>833702EDA9C6D83E6FD61EE6EC86443CB892E6F4 E04471B95EF7F31F96B1B9D046CB4632 24 6D5FE4D999CC94A7515F67019C33332AFC084170 3195E18E62DAA54A7B36CF087AFADDE3 F5190B5E19600955FF01038CDF5FC9CF6239CFA5 D852791207D7A5797502931FD32F1172 D1E202FB620048C13AE33825C70E39FF9976D520 C4D8518C7CBF73BC823FB2D4E6F07E31 6BDD97BFCED7CCC5818D19D0C0C118014798B351 9DDA2A30E2B573BDB4ADA3E08E0EC2ED 5B42D954E047BA76E4A904045DB798D380394943 0750273842706DBA13CAD456FF0BCCD9 787443173C0481811F714F526F47837773536827 285057D2C0472759C1FF47971B639615 B224A4CE1AC509A4D416A36FCF3228529D5D6907 68A10526108746195F47823C043AB321 1733D7AE5574E534FE153B642A28BEDA0E7C6AC0 7701E84729AC4189AFD8A8F7F25DBB40 49CF5377C42F05D5F37BF18B37C41EA5D8E032E0 9369BD983991C8A77AD295F745972068 E5419EFE50FA15E88A2235ADAA56BFFD9D6316C6 0BD3D520D8B0D178B4FCB442DDAAC80A 391766B3F520C2BB1A9B86BC4EB0BBA1C420E5E4 FE3FB3287FF9BABCDD08E8B4A99C4659 08309901C37C44C586363459BD94A6B42B9AF2C8 680CACBB3BE4DF8BA9F4C31C7E07CD02 F8CD511911C0F92EFB09499678F15EE7C91EF9B1 5ECB72599DC2EDF0E2726F24299E4D98 1D00A6E35022EA81C593D9D883330A2812056686 9834E8CEF4775A438D7E8454C629E74D 154BB389996153CA35DA37737B16C6A9E08344B8 30E6DFB1BE11F1384B7CD50053990467 6FEB4812AD47025BE7B99F11777C79B41B14FA3B A9FEC8065AF3AA5C028E18627FF6A464 01BA3E9DBC0E889F0F11D56FC7F156FB0BF58CDD 32D3B726028943B9BCFC817AC8536D6C EA06E6F70B478D9EAD2033BD92F0376AD9BCD452 2A465E90F9B55F2ACEDC80C0C407A3FF 29B5D3635A32457333EDC94410F2C54003315E73 E681542B0072017F3C505F68BEC93D3C 4A39A94A60AC1748305610F9B75B09D3111C4443 B21BECF20D4A93A65C0BBAA58483269D A8D1F16D042A5C2F23E0B3828E0335BFEDF043E2 16E3E3883FB85EBEB8FFD8667EECB0AA 129B57FA753DD3FB7341C45CA373D0905CF3C1A9 59E1F2E80B87FB6A39512D080242ABC6 70F75E338DE34E79CB93B18E02F369CF392E21E3 4A4D8530BBB3755780F9D6DBE7B04049 F6C8789A25292DA78B0C208D2A7AEBBB88F8F098 3D776E021984CA8D97BD56525744A062 24 DC9F842020CFBCB5827E1C89697DD6720604575E 54F1FE9867C33429C859B72CE96D23A2 5073780C3C46A0F4E9F90E32E9778DAC8EDCA31D FF771EBA915ACB5DCD07C39FEF7ACCEB AE075C79F4BD15D9B69766853D7FE441B41DC856 C55EFDDCA5B7742929C388510B8BA6E9 17D2C82B992A2F528B2D46721F003B4C9B601AD2 4385E94F82B8641BD4EFC6E008DC155D A4A7059D74102E171A5243D64B52938E770D4456 75180FBBCF0C82501D470757E67EC0E5 A5ECD08AA4BEE5A44169395E16CFAF8EBD47670D 34A4AD2A2F436B17CC2E92CC36CAA4FD 42F284393F91C3469878CEEB423552391B17C022 FF38CECCB2F5A22586DE1D4FA81D74BD F2CFE844844CE13832B007CC1EF954C6126D55DA FDA90FBC8EC9ED1375F77F1BE2CA9DFE 84E030126CD197BDD9AB16E1B6B23A1CC251A482 4227EAC60E3664212772EEA59237DF3A 568425CEC0330E5271008261D78DF48F39A27C2A 51B81BE1C946655EB606C71DC68CEB08 7DEC88D89A483199431C466DC1629F8B04CC3BB0 E15A035817CDB6292973A2CF7A870ECC A217B997103386884309DC9280A022428F01F0AF E3C9C882C1B4F2DD1A44EB64723ED36E AFF1DA88750BC93F5EA68982C5896FC31D1F3618 C4308B48F76F2823980386C94AF1F037 5F330C2ABFEFDB3F2FF24EC81521D35E55C516A5 EF4EB1C986AE943B4EF292E0CB344DB2 0180E19F335C4C69A1CCA1DE7EA36F83AEC14612 95CF19D249D4C0F1E4AE2FF77F10048E BDAC53945DAD2304A18844ABF38F0439F58C340D B0D99290E0E27E5DA56FA18186E15B76 B48C9845B42AD16D7BA520E9116AF298EB29172B 441CECC0A0CA4D4B61B2B67AAB169450 6448E19E8954E221FA24226607499D1631DB6D9B E7DA66E1CA56FDA99486B930B119DBBE 015BE836D0D19D14F00DF8E2D558C431C217D0F1 84BE7BD6FE28286CC7D53945F3F9A83A 997CF35608226BB7DEE9517D390B3D917CF5B530 5B6E2631F1778DE9364E89A72BAC8197 76564E653248842091F2ABF9E88F4F1DB3B04322 4B3563105D85BB16B2D338C391F3FA4B E3CF0679E7E314705B056FD6B4C650EB39EF51D1 53378BBE39FF162BC89A818627480FD8 F763526ED732D4DC14A5491A42BA5E977ACA16B0 56FBFFEA2AC05A4523528236534E88F6 FEB14FED2DDC6D9ACC0673F99F819654DFC5BB77 1E4D5FF038A36EC02EFEDAD2ADB3E0C0 0 0 4F1129
+$Arress<~Controls.509~>167<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Arress<~Controls.509~>206<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$SlowCobra<~Controls.464~>6ABA667B1E5F6BC40D0F22D736FAF1C345DCACA7 376A7D0988C6FCF934F17E9B5D393664 24 49533C354BFDD3C943524C179C055F04F600DD66 77796F6A2D4080C03A61ADE84D247174 FDEBD87BF47CC8DC8BB11A9749E34265032453EB 877CA8380479ACB0AB8C35F96426F0AE 676BD00777954CD7EE66D47F5CF098A7852B6F39 B8D710D7EE2D4692B33D552D9EF968AB 62FE8384309267473789CAC54CA034097CEA1BDD 5EC583EB180D2A16C030D815FC6988C2 A4354E03236D578EF47BEBE473A828E91F2DCE44 D749E32DB833B75A1F524F7C50EC083A 70EFC4DC41242C385F9E647572909A250490021B CCE3A85CF5527782E7B1CB42584E9B0C 32F06D28BE6151BE27C14BEAE86A05DDA5E2AC12 B67C9A1326B0EFE01552FA860FD42119 D3170AFC8A068C64931961077B876E899194B2D4 A45DBFE53F7485B8F832AC723E56EF4B 1E756FDC0B2D462D40474CC16AC66430CE2B83D0 3A2C292B87FE1224CF41A82E5836C1D5 95F6702AB1AC0FE6E3F0B24296D77E9542435044 FC33E1998E2E73E6B00D5B2A873B4408 A74CF3A5274B2028125D17554DEB4CD6C1CE1393 CC7F8AAF5ED92205AA66D22502AD6194 A867E837141359E1940C754995EE57B3E8DB3DBD B1874D9BF0DD67482E4BB151A13D93DC 9B11B9BFB61AC420C0B932F2AE39C10D74C99922 D976AA35E18C70AEAAC7AA3CB29C51DA 25153BF194C998DD1AED86AB05CF47311F577DDE E04D1B626557D53676ACD8DD0DC09AD2 B232B97D1C5CEF8EB724A39DE8D12EF01F422AA1 52653F357BF91104F33D2DB1653BCA2F 5AE293C7EA66D2AAE56E1935A741EBAAD9C158B1 6E14DE6D62932AF8F1428DCDE138CF4F 006F9796C9AC6F0C96080DB496BB6A9C10F7972B 2D80A63F4B6604AC511512FDEAE670C2 791277B9EFD87E5226CD3A0D37355A4D0303A62F 82D66E684F2841E5EB98C9F5466F0B3D C4393EBDC4E1EBE93AC1AB77086F42A4553D00CA E27915DCA323E7A7B13C44C665CB3CAD 09FCEA92EEDAE2E3557F4CAB1652B9F2B2A4EADE 06E14A9409950F4F146A9FABFB099A23 469A8665EA4F3CBD1499B14EE8A4C6D1A2701345 EE2EB3D889FD770DA606BDC8CED9FA6F C8DD52C2697E9E61E57C5E18D878FBAB0B407EEC 29C73A7D605B6A1B00EC3E6ED06D72F3 8CFAC45232B630DC6DC5BD1722A7C9FB905CEF9B 53626980397E3B26E579E7CA700EEA6D 2B02450790E24683147188D8229A20635D736E80 DF6633469AEADD3DA7A66E522CECC207 24 999CD380F7CDB86D34A754689150D2839B1003CB 168A818DA000FB21C931EDEF6A072A00 968D7D7ABA56F79DE39F862AEDDCECEEC7540B44 5FFDA29BEF59EB08E5DCF516884122C8 028105CB5B7A49D58DE3F3498DFFF1D0CDB5FF0A C0AB5EE1E3920293D0CE8E0531EBF5C5 947503DDDC1BCF99EFC8808F745CA6EE06BE7A20 A44B9C450BF331D3FB84BB77F26302F6 1DE97DD854A57A258D676B5C27B704DF5B9FEDA2 DE48E601D6A8481E1BF769BD0C9FE561 9215B9BB340BD7DAB0231108C10B2E505FDD5131 EECA91918E8C4F930CD19B8B8BA13E4F E3FB405A2227B6539058C63EA7C17D16F4FB5340 815B6A1D869EE924F2E6CE1B974DAFC0 0DBD92EA9000DA1C2342966A29E22D5BB2B3A7A2 3EF1924F8FB481E4A14736B7090FDFAF B213E81CEB2B22C8614A6BF1855E9894EC46B771 BF6226DEB00AA1AF3E9187C8413D235B 2C96BE160DB345871C392EC0691CE915578DFDEB DD853DEB15AB515D266C360536466B46 4990DEB13B6E8E295001AA624354A2D23B3FA995 307FA1A647E12A900E503258CEF65BA2 6EF48051B03EFB780C79B31AA8402CF0774D08E6 D505D53C9D2CD5406AF7D8826F7466BF 9D46E6F37F8C5DCEB18CBCFE8DFDC41B73E98F47 719F87E8F265B67F13251217D5BB5CEA 040FDD3985FE931D0B1DA34C3F245333975EFF78 7618320B970C4E5A23A0AF9525B9CE85 7D47F6774EAC9263C6F309E95FB4936829A1ED34 A5BCCB278BEED4FC238A7658424D98B4 68C1AB6EAFF3D0386F8250A154254C6355EBD8A2 D3137CDBE99F32426873E51D5FD4B957 94B4B8A6DFA52653D16FECB3AE4D27633CC5EABB EF2625E4A1758ECEB9D11CD0D6011A31 CBD130357D8CB6E1DB98CE92E0C28AAE52AB199A 4291DE976AF7E86235BD859E37256977 61F3DE1BB4859BF8D0857BDE39603119D51C7A72 F9E13913F7FC855D73172D05A22C4B2A D161ABC3E9B8E9998361A0F2DEFF55659F582206 E011ADCA68EABED2EA80879359F86EB2 25008C8D1FE8D497B71606BF306EF0CD03EBFD14 7011080E03C0578793C0B48090D38E54 7240B63237F413B5C4830722F4DD78C5E2A93423 0BB3A6A723F1E87FCC819F938726BF51 7C6F5408EA4799282936605C983FD7B3DF8BA8B6 857560D470369B2B7F8CC0F3DAB52D28 E0C38BBBEB2BCEB757F7BE526844356E3659DB3F E6F24BE14FCF913A83DB1ADA1703C5C6 0 0 13D40E
+<SlowCobra> fpok D39E86
+<Arress> 0 e 08B4DE
+$Arress<~Controls.345~>105 104 103 102 101 100 099 <~Controls.346~>13 15 13 12 14 12 12 null
+$Arress<~Controls.350~>105 104 103 102 101 100 099 null
+<Arress> test D4A10D
+$SlowCobra<~Controls.345~>213 212 211 210 <~Controls.346~>4 4 2 3 null
+<SlowCobra> 0 movements is sad 676662
+<Arress> yeah, weird rolls for both 86C3AA
+<SlowCobra> well you can move a lot, it's not bad for you C4614C
+$SlowCobra<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 1D4CAC
+$SlowCobra<~CardBuffet.9~>reveal 150 882653F8CC89EC40D7B389C6151D96903DB6CA11 14<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> E44B41
+$SlowCobra<~Scribe.141~>270 276 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1944~><~Scribe.144~> AE8669
+$SlowCobra<~Controls.509~>121<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$SlowCobra<~Controls.644~>211 150 <~Controls.645~><~Game.2035~> 2667C5
+<Arress> no musters at all 5E52C0
+<Arress> but agree it's worse for you 4DAF7F
+$Arress<~HighlightLabel.81~>103<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> F3FE32
+$Arress<~Scribe.141~>039 036 029 028 027 026 <~Scribe.142~><~Game.1979~><~Scribe.143~><~Game.1977~><~Scribe.144~> 8C00EB
+$Arress<~Controls.644~>103 <~Controls.645~><~Game.2035~> 05F148
+<SlowCobra> pass D21C50
+$Arress<~HighlightLabel.81~>099<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 7A4815
+$Arress<~Scribe.141~>039 036 029 028 027 026 <~Scribe.142~><~Game.1977~><~Scribe.143~><~Game.1969~><~Scribe.144~> 68A766
+$Arress<~Scribe.141~>055 049 048 047 <~Scribe.142~><~Game.1968~><~Scribe.143~><~Game.1946~><~Scribe.144~> A75DD6
+$Arress<~Controls.644~>099 <~Controls.645~><~Game.2035~> BE11DB
+<SlowCobra> pass 23E479
+$Arress<~HighlightLabel.81~>100<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 1F71B9
+$Arress<~Scribe.141~>039 037 036 029 028 027 026 020 019 018 017 016 <~Scribe.142~><~Game.1969~><~Scribe.143~><~Game.1964~><~Scribe.144~> CFFB61
+$Arress<~Scribe.141~>034 033 <~Scribe.142~><~Game.1971~><~Scribe.143~><~Game.1977~><~Scribe.144~> 717ACE
+$Arress<~Controls.644~>100 <~Controls.645~><~Game.2035~> 0512AB
+$SlowCobra<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 3AF9EC
+$SlowCobra<~Scribe.141~>260 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> 1013B6
+$SlowCobra<~Controls.644~>210 <~Controls.645~><~Game.2035~> 500DB6
+$Arress<~HighlightLabel.81~>101<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> DC3DEE
+$Arress<~CardBuffet.14~>reveal 206 BE01FFADD515E5BA6199C16ACD2CC2E6A4B5098C 8<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 18274E
+$Arress<~Scribe.141~>321 334 333 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1917~><~Scribe.144~> C39AD6
+$Arress<~Controls.644~>101 206 <~Controls.645~><~Game.2035~> 022F1E
+$SlowCobra<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 1E8218
+$SlowCobra<~Scribe.141~>303 065 <~Scribe.142~><~Game.1941~><~Scribe.143~><~Game.1957~><~Scribe.144~> 356A58
+$SlowCobra<~Scribe.141~>073 072 <~Scribe.142~><~Game.1929~><~Scribe.143~><~Game.1925~><~Scribe.144~> 17F1A0
+$SlowCobra<~Controls.644~>212 <~Controls.645~><~Game.2035~> 43000F
+$Arress<~HighlightLabel.81~>102<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 871BED
+$Arress<~Scribe.141~>039 037 036 029 028 027 026 020 019 018 017 016 <~Scribe.142~><~Game.1964~><~Scribe.143~><~Game.1959~><~Scribe.144~> 36D03B
+$Arress<~Scribe.141~>034 033 032 031 030 <~Scribe.142~><~Game.1977~><~Scribe.143~><~Game.1974~><~Scribe.144~> BBF493
+$Arress<~Controls.644~>102 <~Controls.645~><~Game.2035~> 8BB41A
+$SlowCobra<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 9DE232
+$SlowCobra<~Scribe.141~>080 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.1942~><~Scribe.144~> 99608F
+$SlowCobra<~Scribe.141~>073 072 <~Scribe.142~><~Game.1925~><~Scribe.143~><~Game.1923~><~Scribe.144~> BB8B2E
+$SlowCobra<~Controls.644~>213 <~Controls.645~><~Game.2035~> 2462CC
+$Arress<~Controls.276~>105<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> ED23AC
+$Arress<~Scribe.141~>039 037 036 029 028 027 026 020 019 018 017 016 <~Scribe.142~><~Game.1959~><~Scribe.143~><~Game.1948~><~Scribe.144~> D21BC8
+$Arress<~Controls.644~>105 <~Controls.645~><~Game.2035~> ACA485
+$SlowCobra<~Controls.757~>104 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 7067DA
+$SlowCobra<~Controls.762~>105 102 101 100 099 103 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 8555DC
+$SlowCobra<~Controls.731~>213 212 210 211 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 5228FF
+<~Game.7~>2 null
+$SlowCobra<~Controls.509~>127<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$SlowCobra<~Controls.509~>140<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Arress<~Controls.509~>181<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Arress<~Controls.509~>178<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<SlowCobra> fpok BB76EF
+<Arress> 0 e 5E068B
+$Arress<~Controls.345~>105 102 101 100 099 103 104 <~Controls.346~>10 13 15 13 13 12 15 null
+$Arress<~Controls.350~>105 102 101 100 099 103 104 null
+$SlowCobra<~Controls.345~>213 212 210 211 <~Controls.346~>3 1 0 1 null
+$SlowCobra<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> A2D898
+$SlowCobra<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 8707C3
+$SlowCobra<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 202C0D
+<game> Arress<~Controls.1~> 2 6 null
+$Arress<~Controls.624~>222<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<SlowCobra> useless to kill gandalf if you don't have musters ahaha CAC541
+$SlowCobra<~Scribe.141~>247 <~Scribe.142~><~Game.1911~><~Scribe.143~><~Game.1915~><~Scribe.144~> 5A1E24
+$SlowCobra<~Controls.323~>247 A28D48
+$SlowCobra<~Scribe.141~>252 <~Scribe.142~><~Game.2014~><~Scribe.143~><~Game.2015~><~Scribe.144~> CB5F77
+$SlowCobra<~Controls.644~>222 <~Controls.645~><~Game.2035~> 40020D
+<Arress> yeah, some silver lining there I guess 0AAA6C
+$Arress<~HighlightLabel.81~>105<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> FD8BDC
+$Arress<~Scribe.141~>262 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 286D84
+$Arress<~Controls.644~>105 <~Controls.645~><~Game.2035~> 23D0A9
+<SlowCobra> man i didn't move for 1 turn and got an eye on first movement you are doing well 88AEC2
+<SlowCobra> pass 8A10C1
+$Arress<~HighlightLabel.81~>103<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 93E3D5
+$Arress<~Scribe.141~>039 037 036 029 028 027 026 020 019 018 017 016 <~Scribe.142~><~Game.1948~><~Scribe.143~><~Game.1937~><~Scribe.144~> 6CD770
+$Arress<~Scribe.141~>038 034 033 032 031 030 025 024 023 022 021 <~Scribe.142~><~Game.1974~><~Scribe.143~><~Game.1976~><~Scribe.144~> D4BCF2
+$Arress<~Controls.323~>259 1DCA95
+$Arress<~Controls.644~>103 <~Controls.645~><~Game.2035~> 1A2713
+$SlowCobra<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 1AD2D6
+$SlowCobra<~Controls.323~>247 B2A4B0
+$SlowCobra<~Controls.644~>212 <~Controls.645~><~Game.2035~> 656CFB
+$Arress<~HighlightLabel.81~>099<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 8622C5
+$Arress<~Scribe.141~>039 037 036 029 028 027 026 020 019 018 017 016 <~Scribe.142~><~Game.1937~><~Scribe.143~><~Game.1925~><~Scribe.144~> F6565C
+$Arress<~Scribe.141~>259 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> 30F42D
+$Arress<~Controls.644~>099 <~Controls.645~><~Game.2035~> A27675
+$SlowCobra<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 9712F6
+$SlowCobra<~Scribe.141~>074 070 069 <~Scribe.142~><~Game.1918~><~Scribe.143~><~Game.1923~><~Scribe.144~> 32DEBB
+$SlowCobra<~Scribe.141~>067 <~Scribe.142~><~Game.1899~><~Scribe.143~><~Game.1901~><~Scribe.144~> 7B50D3
+$SlowCobra<~Controls.644~>210 <~Controls.645~><~Game.2035~> 3B0FCD
+$Arress<~HighlightLabel.81~>100<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 9DB9E6
+$Arress<~Scribe.141~>038 034 033 032 031 030 025 024 023 022 021 <~Scribe.142~><~Game.1976~><~Scribe.143~><~Game.1972~><~Scribe.144~> 835820
+$Arress<~Controls.644~>100 <~Controls.645~><~Game.2035~> 9DD148
+$SlowCobra<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> CBCCBA
+$SlowCobra<~Scribe.141~>258 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> 7CD70F
+$SlowCobra<~Controls.819~> C5990F
+$SlowCobra<~Scribe.141~>256 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> C7FE16
+$SlowCobra<~Controls.644~>213 <~Controls.645~><~Game.2035~> 19446E
+$Arress<~Controls.276~>102<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 00ADC7
+$Arress<~Scribe.141~>038 034 033 032 031 030 025 024 023 022 021 <~Scribe.142~><~Game.1972~><~Scribe.143~><~Game.1975~><~Scribe.144~> 605BB3
+$Arress<~Controls.644~>102 <~Controls.645~><~Game.2035~> 053CAD
+$SlowCobra<~Controls.726~>211 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 7FE76F
+$SlowCobra<~Controls.731~>213 210 212 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 4DE7B7
+$SlowCobra<~Controls.509~>125<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$SlowCobra<~Controls.509~>122<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Arress<~Controls.757~>101 104 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 29CF16
+<~Game.7~>3 null
+$Arress<~Controls.762~>102 100 099 103 105 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 49F4C1
+$Arress<~Controls.509~>201<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Arress<~Controls.509~>159<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<SlowCobra> fpok BA7F77
+<Arress> 1 e C9A491
+$Arress<~Controls.372~>102 47F44A
+$Arress<~Controls.345~>100 099 103 105 101 104 <~Controls.346~>15 11 10 10 11 11 null
+$Arress<~Controls.350~>100 099 103 105 101 104 null
+$SlowCobra<~Controls.345~>213 210 212 211 <~Controls.346~>2 2 1 0 null
+<SlowCobra> now you have musters 0119E5
+<Arress> yeah, good to get some 0E955E
+$Arress<~HighlightLabel.81~>103<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> A26A76
+$Arress<~Scribe.141~>263 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> A6D506
+<SlowCobra> my turn D5BBD0
+$Arress<~Controls.819~> D5212E
+$Arress<~Controls.819~> 1CDCF8
+<Arress> right, sorry 3BFEAF
+$SlowCobra<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 879160
+$SlowCobra<~CardBuffet.9~>reveal 122 275DBA5EDCCC8D112361BBFD0E88A4970FFE0813 8<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> E589AF
+$SlowCobra<~Scribe.141~>285 286 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1929~><~Scribe.144~> 40BE80
+$SlowCobra<~Controls.509~>143<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$SlowCobra<~Controls.644~>210 122 <~Controls.645~><~Game.2035~> 9C3B34
+$Arress<~HighlightLabel.81~>103<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 6FFC3C
+$Arress<~Scribe.141~>263 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> C621F9
+$Arress<~Controls.644~>103 <~Controls.645~><~Game.2035~> 69D8F1
+<SlowCobra> pass D952EE
+$Arress<~HighlightLabel.81~>104<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 466A21
+$Arress<~Scribe.141~>038 034 033 032 031 030 025 024 023 022 021 <~Scribe.142~><~Game.1975~><~Scribe.143~><~Game.1966~><~Scribe.144~> 2D146A
+$Arress<~Scribe.141~>040 035 015 014 013 012 011 <~Scribe.142~><~Game.1956~><~Scribe.143~><~Game.1953~><~Scribe.144~> 84D422
+$Arress<~Controls.644~>104 <~Controls.645~><~Game.2035~> 71CB0B
+$SlowCobra<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> E8014D
+$SlowCobra<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 9CE14F
+$SlowCobra<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> F049B1
+<game> Arress<~Controls.1~> 6 6 null
+$Arress<~Controls.624~>219<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$SlowCobra<~Scribe.141~>240 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2037~><~Scribe.144~> 3E9D3E
+$SlowCobra<~Scribe.141~>241 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> A05690
+$SlowCobra<~Scribe.141~>241 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.1912~><~Scribe.144~> 675DD9
+$SlowCobra<~Controls.819~> 787E29
+$SlowCobra<~Scribe.141~>247 <~Scribe.142~><~Game.1915~><~Scribe.143~><~Game.1912~><~Scribe.144~> E98F9B
+$SlowCobra<~Controls.323~>247 4A8639
+$SlowCobra<~Controls.644~>219 240 <~Controls.645~><~Game.2035~> E2ED07
+$Arress<~HighlightLabel.81~>101<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 145ECF
+$Arress<~Scribe.141~>321 007 <~Scribe.142~><~Game.1917~><~Scribe.143~><~Game.1912~><~Scribe.144~> 089F09
+$Arress<~Scribe.141~>040 035 015 014 013 012 011 <~Scribe.142~><~Game.1953~><~Scribe.143~><~Game.1927~><~Scribe.144~> FEE42F
+$Arress<~Controls.644~>101 <~Controls.645~><~Game.2035~> 8F054C
+$SlowCobra<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> DD2CFB
+$SlowCobra<~Controls.323~>247 321 007 FF04F7
+$SlowCobra<~Controls.644~>213 <~Controls.645~><~Game.2035~> AAAB7E
+$Arress<~HighlightLabel.81~>099<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> FE95D9
+<SlowCobra> test 56E6BF
+<SlowCobra> test D2A04F
+$Arress<~Scribe.141~>001 <~Scribe.142~><~Game.1910~><~Scribe.143~><~Game.1917~><~Scribe.144~> 4C617F
+$Arress<~Controls.819~> E1ECBF
+<Arress> dale, nc 5716E1
+<SlowCobra> so much lag 49D2B7
+$SlowCobra<~Scribe.141~>reveal 140 F5D0E9C2FE1432245EF751657B561BF71FB1E391 15 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> 7B615C
+$Arress<~Controls.323~>258 47642F
+$Arress<~Scribe.141~>258 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2002~><~Scribe.144~> DFB01E
+<SlowCobra> mmm 0F0219
+$SlowCobra<~Scribe.141~>068 304 066 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.1954~><~Scribe.144~> 14AF8D
+$SlowCobra<~Controls.644~>099 140 <~Controls.645~><~Game.2035~> C7BD60
+$Arress<~Scribe.141~>038 034 033 032 031 030 025 024 023 022 021 <~Scribe.142~><~Game.1966~><~Scribe.143~><~Game.1970~><~Scribe.144~> 59E900
+$SlowCobra<~Controls.819~> 5682EF
+$SlowCobra<~Controls.819~> B828F1
+<SlowCobra> sorry go BE144A
+$Arress<~Scribe.141~>038 034 033 032 031 030 025 024 023 022 021 <~Scribe.142~><~Game.1966~><~Scribe.143~><~Game.1970~><~Scribe.144~> 0816D4
+$Arress<~Scribe.141~>423 <~Scribe.142~><~Game.27~><~Scribe.143~><~Game.28~><~Scribe.144~> D6C1BB
+$Arress<~Controls.644~>099 140 <~Controls.645~><~Game.2035~> 342F26
+$SlowCobra<~Scribe.141~>258 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 6B0FDA
+$Arress<~Scribe.141~>258 <~Scribe.142~><~Game.2003~><~Scribe.143~><~Game.2002~><~Scribe.144~> 3B3EC0
+<Arress> already moved it 78E231
+<SlowCobra> ah yes C1F5AB
+$SlowCobra<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 8705D9
+$SlowCobra<~Scribe.141~>059 <~Scribe.142~><~Game.1973~><~Scribe.143~><~Game.1965~><~Scribe.144~> 9535F6
+$SlowCobra<~Scribe.141~>067 <~Scribe.142~><~Game.1901~><~Scribe.143~><~Game.1908~><~Scribe.144~> EA422A
+$SlowCobra<~Controls.644~>211 <~Controls.645~><~Game.2035~> 9DBCAA
+$Arress<~Controls.276~>105<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 77847E
+$Arress<~Scribe.141~>254 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1919~><~Scribe.144~> F2099E
+$Arress<~Scribe.141~>360 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2037~><~Scribe.144~> 25017F
+$Arress<~Controls.644~>105 360 <~Controls.645~><~Game.2035~> DD216D
+$SlowCobra<~Controls.509~>107<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$SlowCobra<~Controls.509~>120<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Arress<~Controls.757~>100 102 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 149CD1
+$Arress<~Controls.762~>105 360 099 101 104 103 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 63EF3E
+$Arress<~Controls.509~>174<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Arress<~Controls.509~>176<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$SlowCobra<~Controls.296~>107 <~Controls.297~><~Controls.45~> 7C189C
+$SlowCobra<~Controls.726~>212 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 28D8E1
+<~Game.7~>4 null
+$SlowCobra<~Controls.731~>211 213 210 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> E2C668
+<SlowCobra> fpok AE2D99
+$Arress<~Controls.296~>176 <~Controls.297~><~Controls.46~> 4324B5
+<Arress> 1 e 995FA3
+$Arress<~Controls.372~>105 D141C7
+$SlowCobra<~Controls.345~>211 213 210 212 <~Controls.346~>4 0 1 1 null
+$Arress<~Controls.345~>360 099 101 104 103 100 102 <~Controls.346~>11 13 14 12 10 10 13 null
+$Arress<~Controls.350~>360 099 101 104 103 100 102 null
+$SlowCobra<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 7604C9
+$SlowCobra<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> F44E8D
+$SlowCobra<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> E812DF
+<game> Arress<~Controls.1~> 4 null
+<game> Arress<~Controls.1~> 5 null
+<Arress> safe 18782F
+<SlowCobra> finally 453DFF
+<SlowCobra> still lag? E0C3FF
+<Arress> no, thinking 934375
+$Arress<~HighlightLabel.81~>102<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 7B011D
+$Arress<~CardBuffet.14~>reveal 174 7AF60290456CD055F71257CA65085D894DB176D8 15<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 1E7541
+$Arress<~Controls.624~>220<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Arress<~Controls.644~>102 174 220 <~Controls.645~><~Game.2035~> 095E8A
+<SlowCobra> 3 eyes in a roll, this time was good EC0DF3
+<SlowCobra> pass 59CFD6
+$Arress<~HighlightLabel.81~>100<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 78B281
+$Arress<~Scribe.141~>261 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> 2F8139
+$Arress<~Controls.644~>100 <~Controls.645~><~Game.2035~> 325998
+<SlowCobra> pass 509678
+$Arress<~HighlightLabel.81~>103<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 4D7F94
+$Arress<~Scribe.141~>261 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> C70455
+$Arress<~Controls.644~>103 <~Controls.645~><~Game.2035~> 5EC437
+$SlowCobra<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> E1FC02
+$SlowCobra<~Scribe.141~>240 <~Scribe.142~><~Game.2039~><~Scribe.143~><~Game.1921~><~Scribe.144~> DBC80B
+$SlowCobra<~Scribe.141~>358 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.2037~><~Scribe.144~> 02A80D
+$SlowCobra<~Controls.323~>240 225730
+$SlowCobra<~Controls.644~>213 358 <~Controls.645~><~Game.2035~> B65C4A
+$Arress<~HighlightLabel.81~>099<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 6C41A0
+$Arress<~CardBuffet.14~>reveal 181 04E4B427E6396A3596D4ADFB890D6E58DA00503B 4<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 39BAEC
+$Arress<~Scribe.141~>181 <~Scribe.142~><~Game.2036~><~Scribe.143~><~Game.2029~><~Scribe.144~> 87E582
+$Arress<~Controls.644~>099 <~Controls.645~><~Game.2035~> B1B8EA
+$SlowCobra<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 576205
+$SlowCobra<~Controls.819~> 3ACC1F
+<SlowCobra> pass 4A4436
+$Arress<~HighlightLabel.81~>101<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 5AF6C2
+$Arress<~CardBuffet.14~>reveal 167 ADCD2B09E8814DC3300BE5881BC26E0576FBE0C4 5<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 099844
+$Arress<~Scribe.141~>037 039 <~Scribe.142~><~Game.1925~><~Scribe.143~><~Game.1970~><~Scribe.144~> 81EC99
+$Arress<~Scribe.141~>040 <~Scribe.142~><~Game.1927~><~Scribe.143~><~Game.1970~><~Scribe.144~> 73541F
+<Arress> ok, hunting 156359
+<game> Arress<~Controls.1~> 5 null
+$Arress<~Controls.624~>228<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<SlowCobra> this hunt is destroyng me E72C68
+<Arress> at least not reveal? 1EF368
+$SlowCobra<~Scribe.141~>252 <~Scribe.142~><~Game.2015~><~Scribe.143~><~Game.2018~><~Scribe.144~> 8FD9F1
+$SlowCobra<~Controls.644~>101 167 228 <~Controls.645~><~Game.2035~> 5B65F1
+$Arress<~Controls.509~>183<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$SlowCobra<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 690466
+$SlowCobra<~Controls.790~>248<~Controls.791~><~Game.2015~><~Controls.792~><~Game.2016~> BBB55C
+$SlowCobra<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> B496EC
+<game> Arress<~Controls.1~> 5 null
+$Arress<~Controls.624~>218<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<SlowCobra> random 64AAA1
+$Arress<~Controls.637~>245<~Controls.638~><~Game.1998~><~Controls.639~><~Game.2036~> null
+$SlowCobra<~Scribe.141~>247 <~Scribe.142~><~Game.1912~><~Scribe.143~><~Game.1927~><~Scribe.144~> 83B6EE
+$SlowCobra<~Controls.323~>247 DD31C6
+$SlowCobra<~Scribe.141~>245 <~Scribe.142~><~Game.2036~><~Scribe.143~><~Game.1928~><~Scribe.144~> FB96A3
+$SlowCobra<~Scribe.141~>252 <~Scribe.142~><~Game.2018~><~Scribe.143~><~Game.2019~><~Scribe.144~> A05318
+$SlowCobra<~Controls.644~>218 <~Controls.645~><~Game.2035~> 779550
+<Arress> moria 28966F
+$Arress<~Controls.624~>226<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<SlowCobra> random 466577
+$Arress<~Controls.637~>244<~Controls.638~><~Game.1998~><~Controls.639~><~Game.2036~> null
+$SlowCobra<~Controls.644~>244 226 <~Controls.645~><~Game.2035~> 196372
+$Arress<~HighlightLabel.81~>104<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 49114C
+<Arress> ofr 8AC9B8
+$Arress<~Controls.840~>183 F4ADE7
+<Arress> test 02982D
+<SlowCobra> thinking 2C96EE
+<Arress> k, tyt BAF707
+$SlowCobra<~Controls.840~>143 45F63C
+<auto> playchosen 89AD5F
+<auto><~Controls.3~>reveal 143 70F4CB97A2A732B26C41041BF7D62776C7C46EF6 16<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> CFD060
+<auto><~Controls.866~>reveal 183 DE318165471F94D41801DBB29CA7E6BC325383C7 11<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> E88C16
+<auto> playchosen C96D9E
+<game> Arress<~Controls.1~> 1 3 5 4 2 null
+<game> Arress<~Controls.1~> 5 3 3 4 null
+<Arress> 2 10C839
+<game> SlowCobra<~Controls.1~> 3 2 null
+$SlowCobra<~Scribe.141~>303 065 <~Scribe.142~><~Game.1957~><~Scribe.143~><~Game.2037~><~Scribe.144~> 60E6F7
+$SlowCobra<~Scribe.141~>258 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 6601A2
+$Arress<~Scribe.141~>040 037 039 038 034 033 032 031 030 025 024 023 022 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.1957~><~Scribe.144~> 08830E
+$Arress<~Controls.644~>104 183 143 303 065 <~Controls.645~><~Game.2035~> 32B8F9
+$SlowCobra<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 068CCF
+$SlowCobra<~Controls.323~>247 035 015 014 013 012 011 29AEFB
+$SlowCobra<~Controls.644~>211 <~Controls.645~><~Game.2035~> 129936
+$Arress<~HighlightLabel.81~>360<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 883DD9
+$Arress<~Scribe.141~>253 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1927~><~Scribe.144~> 29D2A0
+$Arress<~Scribe.141~>361 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2037~><~Scribe.144~> 5F764F
+$Arress<~Controls.644~>360 361 <~Controls.645~><~Game.2035~> 6598AB
+$Arress<~Controls.323~>260 8A35C3
+$Arress<~Controls.323~>257 9FEA4A
+$Arress<~Controls.757~>105 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> E0C474
+$Arress<~Controls.762~>360 361 104 101 099 103 100 102 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 0AEDC2
+$Arress<~Controls.509~>204<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Arress<~Controls.509~>205<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$SlowCobra<~Controls.726~>210 212 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 095C10
+<~Game.7~>5 null
+$SlowCobra<~Controls.731~>211 213 358 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 175025
+$SlowCobra<~Controls.509~>128<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$SlowCobra<~Controls.509~>153<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$SlowCobra<~Controls.296~>116 <~Controls.297~><~Controls.45~> 13076E
+<SlowCobra> fpok B1085C
+<Arress> 1 e 13438E
+$Arress<~Controls.372~>360 0EF32F
+$Arress<~Controls.345~>361 104 101 099 103 100 102 105 <~Controls.346~>15 12 12 10 10 13 11 10 null
+$Arress<~Controls.350~>361 104 101 099 103 100 102 105 null
+$SlowCobra<~Controls.345~>211 213 358 210 212 <~Controls.346~>1 4 3 4 1 null
+$SlowCobra<~HighlightLabel.86~>358<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 1938B3
+$SlowCobra<~Scribe.141~>256 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> 585ECF
+$SlowCobra<~Controls.644~>358 <~Controls.645~><~Game.2035~> 29AB33
+$Arress<~HighlightLabel.81~>104<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> E63305
+$Arress<~Scribe.141~>031 <~Scribe.142~><~Game.1957~><~Scribe.143~><~Game.1941~><~Scribe.144~> 11E010
+$Arress<~Scribe.141~>334 333 008 <~Scribe.142~><~Game.1917~><~Scribe.143~><~Game.1927~><~Scribe.144~> DDC6C2
+$Arress<~Controls.644~>104 <~Controls.645~><~Game.2035~> CF2280
+<SlowCobra> pass B67E44
+$Arress<~HighlightLabel.81~>099<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 09E143
+$Arress<~Scribe.141~>326 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1910~><~Scribe.144~> 6A6786
+$Arress<~Controls.644~>099 <~Controls.645~><~Game.2035~> E61AB1
+<SlowCobra> pass 9BE02F
+$Arress<~HighlightLabel.81~>105<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> BD3B6E
+$Arress<~Scribe.141~>325 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1910~><~Scribe.144~> 48FF0B
+$Arress<~Controls.644~>105 <~Controls.645~><~Game.2035~> C70E9B
+$SlowCobra<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 02F6AD
+$SlowCobra<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 9EC9CC
+$SlowCobra<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 0A89E0
+<game> Arress<~Controls.1~> 5 3 null
+<game> Arress<~Controls.1~> 4 3 null
+<Arress> safe 0DB42D
+<SlowCobra> test 632E2C
+$Arress<~HighlightLabel.81~>103<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 88C89A
+$Arress<~Controls.819~> A14AC1
+$Arress<~HighlightLabel.81~>103<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 946014
+$Arress<~CardBuffet.14~>reveal 205 B6FB918EAE969933A25EA2CF32D9F6F090CFD9D3 12<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 7035EA
+$Arress<~Scribe.141~>000 <~Scribe.142~><~Game.1914~><~Scribe.143~><~Game.1885~><~Scribe.144~> 5A6439
+$Arress<~Scribe.141~>325 326 001 <~Scribe.142~><~Game.1910~><~Scribe.143~><~Game.1885~><~Scribe.144~> CB8110
+$Arress<~Scribe.141~>329 328 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1885~><~Scribe.144~> 2C675D
+$Arress<~Controls.644~>103 205 <~Controls.645~><~Game.2035~> CA0E75
+$SlowCobra<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 9411F8
+$SlowCobra<~Scribe.141~>302 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1890~><~Scribe.144~> 90D8AD
+$SlowCobra<~Controls.644~>210 <~Controls.645~><~Game.2035~> 0A7CFE
+$Arress<~HighlightLabel.81~>101<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 2BC768
+$Arress<~Scribe.141~>325 326 329 328 001 000 <~Scribe.142~><~Game.1885~><~Scribe.143~><~Game.1884~><~Scribe.144~> CE06D2
+$Arress<~Scribe.141~>056 052 051 050 <~Scribe.142~><~Game.1986~><~Scribe.143~><~Game.1984~><~Scribe.144~> C6DA21
+$Arress<~Controls.644~>101 <~Controls.645~><~Game.2035~> 35F7D4
+$SlowCobra<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 90AA21
+$SlowCobra<~Scribe.141~>302 063 <~Scribe.142~><~Game.1890~><~Scribe.143~><~Game.1889~><~Scribe.144~> C5948E
+<SlowCobra> i just noticed that you can go around 80805B
+<SlowCobra> things on the map that i never had to consider before ahaah 0B862B
+<Arress> keeping it interesting for you! D6058D
+$SlowCobra<~Scribe.141~>095 086 <~Scribe.142~><~Game.1887~><~Scribe.143~><~Game.1889~><~Scribe.144~> 03FCA4
+$SlowCobra<~Controls.644~>213 <~Controls.645~><~Game.2035~> 936BBB
+$Arress<~HighlightLabel.81~>102<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 9DB6B3
+$Arress<~Scribe.141~>325 326 329 328 001 000 <~Scribe.142~><~Game.1884~><~Scribe.143~><~Game.1890~><~Scribe.144~> 046E9B
+$Arress<~Scribe.141~>056 052 051 050 <~Scribe.142~><~Game.1984~><~Scribe.143~><~Game.1980~><~Scribe.144~> 722326
+$Arress<~Scribe.141~>423 <~Scribe.142~><~Game.28~><~Scribe.143~><~Game.29~><~Scribe.144~> E03AB6
+$Arress<~Controls.644~>102 <~Controls.645~><~Game.2035~> B90C30
+$SlowCobra<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> B2100B
+$SlowCobra<~Controls.790~>248<~Controls.791~><~Game.2015~><~Controls.792~><~Game.2016~> A3196F
+$SlowCobra<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 0C0F8C
+<game> Arress<~Controls.1~> 5 2 null
+<game> Arress<~Controls.1~> 1 null
+$Arress<~Controls.624~>229<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<SlowCobra> random F12932
+$Arress<~Controls.637~>241<~Controls.638~><~Game.1999~><~Controls.639~><~Game.2036~> null
+<SlowCobra> of course AA89FC
+$SlowCobra<~Scribe.141~>243 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> AAA5C3
+$SlowCobra<~Controls.644~>241 229 <~Controls.645~><~Game.2035~> 21E069
+<Arress> it is the 3rd random to be fair 9F9A53
+<SlowCobra> yes F9353D
+<Arress> average 6B84F6
+<SlowCobra> you are right 73D48F
+<SlowCobra> it's more the 3 eyes and 2 3s 68DBD6
+<Arress> one was actually really good for you! 75C17B
+<Arress> of the eyes 10D2A0
+$Arress<~Controls.276~>100<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 689F6B
+<Arress> lor 9AE416
+$SlowCobra<~Scribe.141~>245 097 267 093 092 087 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.1992~><~Scribe.144~> 1026DA
+$Arress<~Scribe.141~>253 334 333 035 008 015 014 013 012 011 <~Scribe.142~><~Game.1927~><~Scribe.143~><~Game.1928~><~Scribe.144~> F6979C
+$Arress<~Scribe.141~>256 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> FF741A
+$Arress<~Controls.644~>100 <~Controls.645~><~Game.2035~> A76C6A
+$SlowCobra<~Controls.509~>109<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$SlowCobra<~Controls.509~>147<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Arress<~Controls.757~>361 360 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> E3959B
+$Arress<~Controls.762~>100 102 101 103 105 099 104 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 547B52
+$Arress<~Controls.509~>177<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Arress<~Controls.509~>172<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$SlowCobra<~Controls.296~>128 <~Controls.297~><~Controls.45~> 5811D6
+$SlowCobra<~Controls.296~>109 <~Controls.297~><~Controls.45~> FAC41C
+$SlowCobra<~Scribe.141~>247 <~Scribe.142~><~Game.1927~><~Scribe.143~><~Game.1951~><~Scribe.144~> 03CB83
+$SlowCobra<~Controls.323~>247 C3F194
+$SlowCobra<~Controls.323~>247 D3F9D2
+$SlowCobra<~Controls.726~>211 212 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> DB95D9
+<~Game.7~>6 null
+$SlowCobra<~Controls.731~>213 210 358 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 20CAC6
+<SlowCobra> fpok B010BE
+<Arress> 1 e 4F4C70
+$Arress<~Controls.372~>100 FC1E12
+$Arress<~Controls.345~>102 101 103 105 099 104 361 360 <~Controls.346~>12 14 12 14 14 11 13 12 null
+$Arress<~Controls.350~>102 101 103 105 099 104 361 360 null
+$SlowCobra<~Controls.345~>213 210 358 211 212 <~Controls.346~>1 0 1 1 0 null
+$SlowCobra<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> E02C77
+$SlowCobra<~Scribe.141~>265 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1954~><~Scribe.144~> 057C9E
+$SlowCobra<~Controls.644~>212 <~Controls.645~><~Game.2035~> 0F477C
+$Arress<~HighlightLabel.81~>101<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 85C6B8
+$Arress<~CardBuffet.14~>reveal 159 9C72A0AAA836B1A18F4A58DF8ABB6373FA090F22 5<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 6B0050
+$Arress<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2037~><~Scribe.144~> 32461B
+$Arress<~Controls.509~>197<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Arress<~Controls.644~>101 159 210 <~Controls.645~><~Game.2035~> 226916
+$SlowCobra<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> C1E860
+$SlowCobra<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 955C03
+$SlowCobra<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> E46711
+<game> Arress<~Controls.1~> 4 null
+$Arress<~HighlightLabel.81~>105<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> D58BE1
+$Arress<~CardBuffet.14~>reveal 201 6760DE38477D765E09ED4D4EEECD5EF36EE274B4 2<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 348E98
+$Arress<~Scribe.141~>321 <~Scribe.142~><~Game.1912~><~Scribe.143~><~Game.1928~><~Scribe.144~> 2A96FF
+$Arress<~Scribe.141~>037 040 <~Scribe.142~><~Game.1957~><~Scribe.143~><~Game.1928~><~Scribe.144~> F99BE7
+$Arress<~Scribe.141~>038 <~Scribe.142~><~Game.1957~><~Scribe.143~><~Game.1951~><~Scribe.144~> B2B007
+$SlowCobra<~Scribe.141~>201 <~Scribe.142~><~Game.2036~><~Scribe.143~><~Game.2034~><~Scribe.144~> 240452
+<Arress> lor BE3CAC
+<SlowCobra> lorien i guess? 97B58C
+$Arress<~Controls.840~>197 6926A0
+$SlowCobra<~Controls.840~>147 141D30
+<auto> playchosen A5DA7E
+<auto><~Controls.3~>reveal 147 2B9467D2ECCC8AE50F88B5B7BFE14CBD3EE29B05 10<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> E756E8
+<auto><~Controls.866~>reveal 197 CF13DBEA1F7FFDC199FFEF11FD022B697650A926 20<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 01E18B
+<auto> playchosen ABD65C
+<game> Arress<~Controls.1~> 5 3 4 6 3 null
+<game> Arress<~Controls.1~> 3 1 3 5 null
+<Arress> 1 C458C5
+$SlowCobra<~Controls.304~>092 <~Controls.305~><~Game.1992~> E601AC
+$SlowCobra<~Controls.313~>269 <~Controls.307~><~Controls.314~><~Game.1992~> 3755DD
+<Arress> you gotta roll 35294E
+<game> SlowCobra<~Controls.1~> 2 4 4 2 null
+<game> SlowCobra<~Controls.1~> 2 1 null
+<Arress> post 8D7207
+<game> Arress<~Controls.1~> 2 5 3 null
+<Arress> 1 C4DF4F
+<SlowCobra> i already knew 0AADC3
+$SlowCobra<~Scribe.141~>269 <~Scribe.142~><~Game.1992~><~Scribe.143~><~Game.2037~><~Scribe.144~> 34B2FF
+<Arress> press, draw 6DDDBA
+$Arress<~Controls.304~>334 <~Controls.305~><~Game.1928~> B74F2E
+$Arress<~Controls.313~>344 <~Controls.307~><~Controls.314~><~Game.1928~> A21964
+$Arress<~Controls.509~>171<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Arress<~Controls.296~>197 <~Controls.297~><~Game.2036~> 55CDC1
+$Arress<~Controls.296~>147 269 <~Controls.297~><~Game.2037~> E135FB
+$Arress<~Controls.840~>171 0F5765
+$SlowCobra<~Controls.840~>153 FCFD2C
+<auto> playchosen CCEDD5
+<auto><~Controls.3~>reveal 153 CF3E234B01891F09CE621E7940F30B2E43B940BA 0<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> FBC5A8
+<auto><~Controls.866~>reveal 171 CFB388B3344A135E460971C2D42AF094C6E0F9F6 7<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 742930
+<auto> playchosen A869C6
+<game> Arress<~Controls.1~> 1 4 6 5 1 null
+<game> Arress<~Controls.1~> 4 3 null
+<Arress> 1 11F7B7
+<game> SlowCobra<~Controls.1~> 4 6 4 null
+<game> SlowCobra<~Controls.1~> 3 5 null
+<SlowCobra> 4 08698E
+$Arress<~Scribe.141~>013 012 011 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.2036~><~Scribe.144~> 4FF384
+$Arress<~Controls.304~>035 <~Controls.305~><~Game.1928~> A1CA30
+$Arress<~Controls.313~>343 <~Controls.307~><~Controls.314~><~Game.1928~> F8DCA5
+<Arress> +1 8D1A40
+$SlowCobra<~Scribe.141~>267 <~Scribe.142~><~Game.1992~><~Scribe.143~><~Game.2037~><~Scribe.144~> F89466
+<Arress> stop DA1F6B
+$Arress<~Controls.644~>105 171 013 012 011 153 267 <~Controls.645~><~Game.2035~> 64723E
+$Arress<~Scribe.141~>201 <~Scribe.142~><~Game.2034~><~Scribe.143~><~Game.2036~><~Scribe.144~> 3DEB1F
+$Arress<~Controls.509~>186<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Arress<~Controls.644~>201 <~Controls.645~><~Game.2035~> 2079BE
+$SlowCobra<~HighlightLabel.86~>358<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 66CEF8
+$SlowCobra<~Controls.366~>251<~Controls.367~><~Game.2010~><~Controls.368~><~Game.2011~> 2A283B
+$SlowCobra<~Scribe.141~>reveal 121 097EE671D3B4E2A8CF58BC5A6F38B3EDA8E9E628 21 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> B8262B
+$SlowCobra<~Scribe.141~>264 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1992~><~Scribe.144~> D1A1D0
+$SlowCobra<~Controls.509~>119<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$SlowCobra<~Controls.644~>358 121 <~Controls.645~><~Game.2035~> 999DF5
+$Arress<~HighlightLabel.81~>099<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 86438A
+$Arress<~CardBuffet.14~>reveal 177 011E58C7D00F6C13DB39D093C0B065704D528BAE 9<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 0084C1
+$Arress<~Controls.281~>237 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2045~> 63E7E8
+$Arress<~Controls.509~>187<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<SlowCobra> pass EA2FDC
+$Arress<~Controls.644~>099 177 <~Controls.645~><~Game.2035~> 88BA61
+<SlowCobra> pass CBF3B9
+<Arress> yep, thinking a sec here EDE89F
+$Arress<~Scribe.141~>251 <~Scribe.142~><~Game.2011~><~Scribe.143~><~Game.2037~><~Scribe.144~> 556B23
+$Arress<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> FCB770
+$Arress<~CardBuffet.14~>reveal 172 E2FD9071741EC4561C627682179968805E208345 18<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 4484F7
+$Arress changes 360  to P 4FB03C
+$Arress<~Scribe.141~>352 351 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1987~><~Scribe.144~> 518790
+$Arress<~Scribe.141~>350 349 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1946~><~Scribe.144~> 1F6856
+$Arress<~Scribe.141~>353 348 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1932~><~Scribe.144~> 06846C
+$Arress<~Controls.509~>190<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Arress<~Controls.644~>360 172 251 <~Controls.645~><~Game.2035~> EBBED9
+<SlowCobra> pass 4D4DB9
+$Arress<~HighlightLabel.81~>102<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 2B8AB8
+$Arress<~Scribe.141~>352 351 054 053 <~Scribe.142~><~Game.1987~><~Scribe.143~><~Game.1980~><~Scribe.144~> DA34BB
+$Arress<~Scribe.141~>016 <~Scribe.142~><~Game.1925~><~Scribe.143~><~Game.1933~><~Scribe.144~> A2A81F
+$Arress<~Scribe.141~>259 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> 601EA0
+$Arress<~Controls.644~>102 <~Controls.645~><~Game.2035~> 181F9E
+<Arress> your go B4B97C
+<SlowCobra> pass C29872
+$Arress<~HighlightLabel.81~>361<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> A324F8
+<Arress> lor D37E9C
+$Arress<~Controls.840~>204 5E7EFD
+$SlowCobra<~Controls.840~>119 3960FE
+<auto> playchosen 774AEE
+<auto><~Controls.3~>reveal 119 E4F62AF0E472C02061654BF5CABE7A8AA220D221 6<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 3D6484
+<auto><~Controls.866~>reveal 204 6545CDA9C4610DC3A2F050B97B6C70B7E0848BD0 0<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 5019AB
+<auto> playchosen 13DF01
+<Arress> cancel hobbit 69FA12
+<game> Arress<~Controls.1~> 2 1 4 null
+<game> Arress<~Controls.1~> 5 3 5 null
+<Arress> 0 F9ADE0
+<game> SlowCobra<~Controls.1~> 1 5 3 6 null
+<SlowCobra> 2 7C9F73
+$Arress<~Scribe.141~>333 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.2036~><~Scribe.144~> 7EE373
+$Arress<~Controls.509~>202<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Arress<~Controls.644~>361 204 333 119 <~Controls.645~><~Game.2035~> B251F5
+<SlowCobra> pass C9FEF7
+$Arress<~HighlightLabel.81~>103<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> FBF71B
+<Arress> edoras, nc 63C9EB
+<Arress> from westem FF2866
+<SlowCobra> nc 9B57D2
+<game> Arress<~Controls.1~> 2 2 2 3 3 null
+<Arress> 0 AF72E8
+<game> SlowCobra<~Controls.1~> 2 3 null
+<SlowCobra> 0 BE94C2
+<Arress> press FDF901
+<Arress> nc 2028E9
+<SlowCobra> nc 7705EA
+<game> Arress<~Controls.1~> 2 5 6 5 3 null
+<game> SlowCobra<~Controls.1~> 3 3 null
+$SlowCobra<~Scribe.141~>285 286 <~Scribe.142~><~Game.1929~><~Scribe.143~><~Game.2037~><~Scribe.144~> 81EB74
+$Arress<~Scribe.141~>017 <~Scribe.142~><~Game.1925~><~Scribe.143~><~Game.1929~><~Scribe.144~> 5D097D
+$SlowCobra<~Scribe.141~>259 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> F678EC
+$Arress<~Scribe.141~>423 <~Scribe.142~><~Game.29~><~Scribe.143~><~Game.30~><~Scribe.144~> 4B2EA9
+$Arress<~Controls.644~>103 285 286 <~Controls.645~><~Game.2035~> 42F82B
+$SlowCobra<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 7AC89D
+$SlowCobra<~Controls.790~>248<~Controls.791~><~Game.2015~><~Controls.792~><~Game.2016~> 3D29B2
+$SlowCobra<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> E8AEC6
+<game> Arress<~Controls.1~> 4 null
+<game> Arress<~Controls.1~> 1 null
+<Arress> safe A19353
+$Arress<~Controls.276~>104<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> B3B077
+<Arress> HD D2CE2A
+$SlowCobra<~Scribe.141~>074 073 070 069 072 071 <~Scribe.142~><~Game.1923~><~Scribe.143~><~Game.1993~><~Scribe.144~> A68D0E
+$Arress<~Scribe.141~>036 029 028 027 026 020 019 018 <~Scribe.142~><~Game.1925~><~Scribe.143~><~Game.1923~><~Scribe.144~> 2F3D8B
+$Arress<~Scribe.141~>420 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1925~><~Scribe.144~> E1A532
+$Arress<~Controls.644~>104 <~Controls.645~><~Game.2035~> 639D4B
+$SlowCobra<~Controls.509~>132<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$SlowCobra<~Controls.509~>145<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$SlowCobra<~Controls.726~>213 211 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> B53024
+$SlowCobra<~Controls.731~>358 210 212 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> FCAC26
+$Arress<~Controls.757~>100 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 4E1ED8
+<~Game.7~>7 null
+$Arress<~Controls.762~>104 103 361 102 360 099 105 101 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> F275D5
+$Arress<~Controls.509~>165<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Arress<~Controls.509~>196<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$SlowCobra<~Scribe.141~>247 <~Scribe.142~><~Game.1951~><~Scribe.143~><~Game.1967~><~Scribe.144~> 2F1953
+$SlowCobra<~Controls.323~>247 2F68CC
+$SlowCobra<~Controls.323~>247 22F2AF
+<SlowCobra> fpok 884B9A
+$Arress<~Controls.296~>196 <~Controls.297~><~Controls.46~> 4FCB4E
+<Arress> 1 e C81F6D
+$Arress<~Controls.372~>104 D9AF2C
+$SlowCobra<~Controls.345~>358 210 212 213 211 <~Controls.346~>2 3 1 3 2 null
+$Arress<~Controls.345~>103 361 102 360 099 105 101 100 <~Controls.346~>12 10 10 11 13 14 12 12 null
+$Arress<~Controls.350~>103 361 102 360 099 105 101 100 null
+$SlowCobra<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> F3D773
+$SlowCobra<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> ACC800
+$SlowCobra<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 536890
+<game> Arress<~Controls.1~> 2 null
+<Arress> safe 0B1E9D
+$Arress<~HighlightLabel.81~>105<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> A4568E
+$Arress<~CardBuffet.14~>reveal 190 0367E2148A6687D716B129B381CA4A202DF2C0EE 14<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> ABA65B
+$Arress<~Scribe.141~>012 011 342 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1956~><~Scribe.144~> 1E881D
+$Arress<~Scribe.141~>339 341 340 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1922~><~Scribe.144~> 11F515
+$Arress<~Controls.509~>194<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Arress<~Controls.644~>105 190 <~Controls.645~><~Game.2035~> DD670E
+<SlowCobra> pass A0F86C
+$Arress<~HighlightLabel.81~>361<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 291E4B
+$Arress<~Scribe.141~>333 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1956~><~Scribe.144~> 6762A2
+$Arress<~Controls.644~>361 <~Controls.645~><~Game.2035~> 85F0C1
+<SlowCobra> pass 7EADAC
+$Arress<~HighlightLabel.81~>100<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 03AFFC
+$Arress<~CardBuffet.14~>reveal 187 FBDCD3E0B1BC4199D653CBC99E1A71CA902FA191 9<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> F99067
+$Arress<~Scribe.141~>333 012 011 342 <~Scribe.142~><~Game.1956~><~Scribe.143~><~Game.1928~><~Scribe.144~> 7D5623
+$Arress<~Controls.644~>100 187 <~Controls.645~><~Game.2035~> 24D38A
+<SlowCobra> pass 95F0E8
+$Arress<~HighlightLabel.81~>101<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> D8A16F
+<Arress> lor 6274D4
+$Arress<~Controls.840~>165 161E5E
+$SlowCobra<~Controls.840~>127 83EB31
+<auto> playchosen 7D4310
+<auto><~Controls.3~>reveal 127 5EF2143CCF8440D19562335457D0171ECF81153E 6<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> D35E33
+<auto><~Controls.866~>reveal 165 4D2DBEDB89753645DC6FD2E0BCC30DD5DC283A9C 23<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> C29CF9
+<auto> playchosen 6A18B4
+<Arress> pre B5871E
+<game> Arress<~Controls.1~> 1 2 6 null
+<Arress> 1 562CE0
+$SlowCobra<~Controls.304~>264 <~Controls.305~><~Game.1992~> 43AD72
+$SlowCobra<~Controls.313~>269 <~Controls.308~><~Controls.314~><~Game.1992~> 4E7659
+<game> Arress<~Controls.1~> 5 3 3 6 3 null
+<game> Arress<~Controls.1~> 1 5 4 6 null
+<Arress> 2 D191D0
+<game> SlowCobra<~Controls.1~> 1 5 1 3 5 null
+<SlowCobra> 2 362954
+$SlowCobra<~Controls.304~>093 <~Controls.305~><~Game.1992~> 36D55A
+$SlowCobra<~Controls.313~>268 <~Controls.307~><~Controls.314~><~Game.1992~> D55B6A
+$SlowCobra<~Scribe.141~>097 <~Scribe.142~><~Game.1992~><~Scribe.143~><~Game.2037~><~Scribe.144~> 9CCD1C
+$Arress<~Scribe.141~>015 014 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.2036~><~Scribe.144~> 02AF21
+<Arress> press, draw 95E2F7
+$Arress<~Controls.304~>333 <~Controls.305~><~Game.1928~> F7AA5B
+$Arress<~Controls.313~>013 <~Controls.307~><~Controls.314~><~Game.1928~> 6C8281
+$SlowCobra<~Controls.296~>165 015 014 <~Controls.297~><~Game.2036~> E0EFE9
+$SlowCobra<~Controls.296~>127 097 <~Controls.297~><~Game.2037~> D8B68C
+$Arress<~Controls.509~>160<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Arress<~Controls.840~>186 88128B
+$SlowCobra<~Controls.840~>145 E5F256
+<auto> playchosen E31DC3
+<auto><~Controls.3~>reveal 145 A4D76D60C657E4CCED1FE487655F26B1D04DED88 11<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> E08F38
+<auto><~Controls.866~>reveal 186 F066C530B206F25CE0FC1C36EEBC68DCBBAB5F51 17<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> C1CAD2
+<auto> playchosen 874C80
+<game> Arress<~Controls.1~> 2 3 1 5 4 null
+<game> Arress<~Controls.1~> 5 4 6 5 3 null
+<Arress> 3 EDEFCF
+<game> SlowCobra<~Controls.1~> 6 5 3 3 null
+<SlowCobra> 2 1B14F7
+$SlowCobra<~Scribe.141~>245 268 269 087 <~Scribe.142~><~Game.1992~><~Scribe.143~><~Game.2037~><~Scribe.144~> 3D14AA
+$Arress<~Scribe.141~>344 008 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.2036~><~Scribe.144~> 8E53B5
+$Arress<~Scribe.141~>423 <~Scribe.142~><~Game.30~><~Scribe.143~><~Game.32~><~Scribe.144~> 16420E
+$Arress<~Controls.644~>101 186 344 008 145 245 268 269 087 <~Controls.645~><~Game.2035~> 8E8B1D
+$SlowCobra<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 9EDAA9
+$SlowCobra<~CardBuffet.9~>reveal 132 97EEF4B8C8F57EAFA4A6D66883B6AF5F7575F2DC 7<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> 8FE458
+$SlowCobra<~Controls.281~>233 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2045~> 43870E
+$SlowCobra<~Controls.644~>211 132 <~Controls.645~><~Game.2035~> B99984
+<SlowCobra> test 95CE4F
+$Arress<~HighlightLabel.81~>103<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> BA7B58
+$Arress<~Scribe.141~>056 352 351 054 053 052 051 050 <~Scribe.142~><~Game.1980~><~Scribe.143~><~Game.1970~><~Scribe.144~> 463357
+$Arress<~Scribe.141~>055 057 350 349 049 048 047 046 045 044 <~Scribe.142~><~Game.1946~><~Scribe.143~><~Game.1938~><~Scribe.144~> 6D3E7A
+$Arress<~Controls.644~>103 <~Controls.645~><~Game.2035~> A36DBA
+$SlowCobra<~HighlightLabel.86~>358<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 0A7501
+$SlowCobra<~CardBuffet.9~>reveal 125 F9FD61BCE16477D9C8773A6A1CDB351D1563E276 18<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> 8B8C6A
+$SlowCobra<~Controls.281~>234 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2045~> 4FE7A9
+$SlowCobra<~Controls.644~>358 125 <~Controls.645~><~Game.2035~> F6DDA7
+$Arress<~HighlightLabel.81~>099<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 5CD0A8
+$Arress<~Scribe.141~>038 <~Scribe.142~><~Game.1951~><~Scribe.143~><~Game.1967~><~Scribe.144~> A6B5F9
+$Arress<~Scribe.141~>253 321 040 037 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.1970~><~Scribe.144~> 45CF17
+$Arress<~Scribe.141~>039 <~Scribe.142~><~Game.1957~><~Scribe.143~><~Game.1938~><~Scribe.144~> 469865
+$Arress<~Controls.644~>099 <~Controls.645~><~Game.2035~> 60522F
+$SlowCobra<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> B6AC5C
+$SlowCobra<~Controls.366~>250<~Controls.367~><~Game.2009~><~Controls.368~><~Game.2011~> 0D9B80
+$SlowCobra<~Controls.790~>248<~Controls.791~><~Game.2015~><~Controls.792~><~Game.2016~> 4AAD6E
+$SlowCobra<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 580EA8
+<game> Arress<~Controls.1~> 6 null
+$Arress<~Controls.624~>216<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<SlowCobra> random AAAEF0
+$Arress<~Controls.637~>246<~Controls.638~><~Game.1998~><~Controls.639~><~Game.2036~> null
+$SlowCobra<~Scribe.141~>247 <~Scribe.142~><~Game.1967~><~Scribe.143~><~Game.1944~><~Scribe.144~> 46AE0D
+$SlowCobra<~Controls.819~> 3E62E1
+$SlowCobra<~Scribe.141~>246 <~Scribe.142~><~Game.2036~><~Scribe.143~><~Game.1944~><~Scribe.144~> E8D787
+$SlowCobra<~Scribe.141~>247 <~Scribe.142~><~Game.1967~><~Scribe.143~><~Game.1974~><~Scribe.144~> 086192
+$SlowCobra<~Controls.323~>247 ECEA69
+$SlowCobra<~Scribe.141~>216 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2036~><~Scribe.144~> B2F5FA
+<Arress> morannon 18258C
+$Arress<~Controls.624~>225<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$SlowCobra<~Scribe.141~>243 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2037~><~Scribe.144~> 53A5F2
+$SlowCobra<~Scribe.141~>243 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.1999~><~Scribe.144~> 71F535
+$SlowCobra<~Controls.819~> 5FDC8D
+$SlowCobra<~Scribe.141~>242 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> 64C0D0
+$SlowCobra<~Controls.644~>216 225 243 <~Controls.645~><~Game.2035~> E19F76
+$Arress<~HighlightLabel.81~>102<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 252150
+$Arress<~Scribe.141~>250 <~Scribe.142~><~Game.2011~><~Scribe.143~><~Game.2037~><~Scribe.144~> 3D854B
+$Arress changes 102  to P D2C9FE
+$Arress<~CardBuffet.14~>reveal 202 07877D2732856DBE183C806F0AE32267DB9F7074 13<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> A689A0
+$Arress<~Scribe.141~>252 <~Scribe.142~><~Game.2019~><~Scribe.143~><~Game.2020~><~Scribe.144~> B76458
+$Arress<~Controls.509~>164<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Arress<~Controls.644~>102 202 250 <~Controls.645~><~Game.2035~> FA13E1
+$SlowCobra<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 0E945F
+$SlowCobra<~Scribe.141~>260 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 5E8659
+$SlowCobra<~Controls.644~>210 <~Controls.645~><~Game.2035~> ED1DE7
+$Arress<~Controls.276~>360<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> DBE578
+<Arress> pela, nc B911AB
+<SlowCobra> nc 6CE0A5
+<game> Arress<~Controls.1~> 3 5 3 6 1 null
+<game> SlowCobra<~Controls.1~> 2 null
+$SlowCobra<~Scribe.141~>078 <~Scribe.142~><~Game.1931~><~Scribe.143~><~Game.2037~><~Scribe.144~> 133CDE
+$Arress<~Scribe.141~>039 055 057 350 349 049 048 047 046 045 044 <~Scribe.142~><~Game.1938~><~Scribe.143~><~Game.1931~><~Scribe.144~> 0E39B1
+$Arress<~Scribe.141~>423 <~Scribe.142~><~Game.32~><~Scribe.143~><~Game.33~><~Scribe.144~> F02DF8
+$Arress<~Controls.644~>360 078 <~Controls.645~><~Game.2035~> 738859
+$SlowCobra<~Controls.509~>136<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$SlowCobra<~Controls.509~>113<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Arress<~Controls.757~>104 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 26BB33
+$Arress<~Controls.762~>360 102 099 103 101 100 361 105 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 9DB189
+$SlowCobra<~Controls.726~>213 212 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 70D4F7
+<~Game.7~>8 null
+$SlowCobra<~Controls.731~>210 358 211 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 604705
+$Arress<~Controls.509~>191<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Arress<~Controls.509~>199<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$SlowCobra<~Scribe.141~>247 <~Scribe.142~><~Game.1974~><~Scribe.143~><~Game.524~><~Scribe.144~> 06CEB5
+$SlowCobra<~Controls.281~>220 219 222 237 233 234 <~Controls.282~><~Game.2045~><~Controls.283~><~Game.2044~> C9AA36
+<SlowCobra> fpok DC26E7
+<Arress> 1 e A53261
+$Arress<~Controls.372~>360 F83E3F
+$Arress<~Controls.345~>102 099 103 101 100 361 105 104 <~Controls.346~>15 14 12 11 15 11 15 10 null
+$Arress<~Controls.350~>102 099 103 101 100 361 105 104 null
+$SlowCobra<~Controls.345~>210 358 211 213 212 <~Controls.346~>0 4 1 1 4 null
+$SlowCobra<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 887CD8
+$SlowCobra<~Scribe.141~>275 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1920~><~Scribe.144~> FF0479
+$SlowCobra<~Controls.644~>212 <~Controls.645~><~Game.2035~> 152C4C
+$Arress<~HighlightLabel.81~>099<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> A94477
+$Arress<~CardBuffet.14~>reveal 164 77AF2B4778079C8156477AE7CAEF47646EAB8D69 21<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 3E9322
+$Arress<~Scribe.141~>324 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1970~><~Scribe.144~> 6DD0BE
+$Arress<~Controls.509~>207<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Arress<~Controls.644~>099 164 <~Controls.645~><~Game.2035~> AEF592
+$SlowCobra<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 4575F7
+$SlowCobra<~Controls.323~>247 D550A3
+$SlowCobra<~Controls.644~>213 <~Controls.645~><~Game.2035~> CBD69B
+$Arress<~HighlightLabel.81~>103<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> CACC8C
+<Arress> wlr from dale 42020F
+$SlowCobra<~Scribe.141~>098 068 265 094 088 304 066 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1991~><~Scribe.144~> AA6841
+$Arress<~Scribe.141~>253 321 040 037 324 056 352 351 054 053 052 051 050 021 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.1954~><~Scribe.144~> 965B79
+$Arress<~Scribe.141~>417 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1970~><~Scribe.144~> 824296
+$Arress<~Controls.644~>103 <~Controls.645~><~Game.2035~> B43602
+$SlowCobra<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 12CFFC
+$SlowCobra<~Controls.790~>247<~Controls.791~><~Game.524~><~Controls.792~><~Game.525~> 433975
+$SlowCobra<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 1FFCDE
+$Arress<~Controls.624~>215<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$SlowCobra<~Controls.323~>247 6209FE
+<SlowCobra> could this tile have waited one turn no? CF0D7E
+$SlowCobra<~Controls.644~>215 <~Controls.645~><~Game.2035~> 8EF8A4
+$Arress<~HighlightLabel.81~>101<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 402EF5
+<Arress> yeah ideally BB70E3
+<Arress> wlr E8141C
+$Arress<~Controls.840~>207 FAA428
+$Arress<~Controls.840~>178 4ADF97
+$SlowCobra<~Controls.840~>136 368E05
+<auto> playchosen E8CEDF
+<auto><~Controls.3~>reveal 136 B8543C9C772AABF0CAEF2972EE0715E4E90243E5 20<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> CFBEED
+<auto><~Controls.866~>reveal 178 F7E8F3702BD2C4242B04CCB53475DEA6272B2632 22<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> B97BFB
+<auto> playchosen 258279
+<game> SlowCobra<~Controls.1~> 1 4 null
+<SlowCobra> 0 A1E598
+<game> Arress<~Controls.1~> 5 3 6 2 6 null
+<game> Arress<~Controls.1~> 1 4 null
+<Arress> 3 5E5214
+<game> SlowCobra<~Controls.1~> 5 3 6 3 3 null
+<game> SlowCobra<~Controls.1~> 4 2 null
+<SlowCobra> 2 757F02
+$SlowCobra<~Scribe.141~>094 <~Scribe.142~><~Game.1991~><~Scribe.143~><~Game.2036~><~Scribe.144~> DA8274
+$Arress<~Scribe.141~>051 050 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.2037~><~Scribe.144~> CF6B60
+$SlowCobra<~Controls.304~>265 <~Controls.305~><~Game.1991~> A4FE0A
+$SlowCobra<~Controls.313~>268 <~Controls.308~><~Controls.314~><~Game.1991~> 300947
+<Arress> press, draw F6EE27
+$Arress<~Controls.304~>324 <~Controls.305~><~Game.1954~> 5DC1ED
+$Arress<~Controls.313~>332 <~Controls.307~><~Controls.314~><~Game.1954~> 85494E
+$Arress<~Controls.509~>192<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Arress<~Controls.296~>178 094 <~Controls.297~><~Game.2036~> 892F7D
+$SlowCobra<~Controls.296~>178 094 <~Controls.297~><~Game.2036~> 156A25
+$SlowCobra<~Controls.296~>136 051 050 <~Controls.297~><~Game.2037~> 24359B
+$Arress<~Controls.840~>192 A62BCD
+<SlowCobra> nc B81B18
+$Arress<~Scribe.141~>reveal 192 0AD555759FAE29CDBA752AFF2C3E0B2E63BDF2D6 16 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2036~><~Scribe.144~> 616545
+<game> Arress<~Controls.1~> 4 4 1 1 6 null
+<game> Arress<~Controls.1~> 3 3 4 2 null
+<Arress> 1 2C66B7
+<game> SlowCobra<~Controls.1~> 2 5 5 4 null
+<game> SlowCobra<~Controls.1~> 3 5 null
+<SlowCobra> 4 EB7ED1
+$SlowCobra<~Scribe.141~>088 <~Scribe.142~><~Game.1991~><~Scribe.143~><~Game.2037~><~Scribe.144~> DE59AC
+$Arress<~Scribe.141~>054 053 052 021 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.2036~><~Scribe.144~> DC41AA
+<Arress> stop 4347CC
+$Arress<~Controls.644~>101 192 054 053 052 021 088 <~Controls.645~><~Game.2035~> 209D84
+$SlowCobra<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 002901
+$SlowCobra<~Controls.323~>247 05882C
+$SlowCobra<~Controls.644~>210 <~Controls.645~><~Game.2035~> A9B138
+$Arress<~HighlightLabel.81~>104<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 65EE27
+$Arress<~Scribe.141~>255 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1956~><~Scribe.144~> 7F751C
+$Arress<~Scribe.141~>362 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2037~><~Scribe.144~> 18DBFD
+$Arress<~Controls.644~>104 362 <~Controls.645~><~Game.2035~> A2E72A
+$SlowCobra<~HighlightLabel.86~>358<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 007EDD
+$SlowCobra<~Scribe.141~>279 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1944~><~Scribe.144~> BCA178
+$SlowCobra<~Scribe.141~>272 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1920~><~Scribe.144~> EA761E
+$SlowCobra<~Controls.644~>358 <~Controls.645~><~Game.2035~> BD8CB2
+$Arress<~Controls.276~>361<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 708FDB
+$Arress<~Scribe.141~>034 033 032 030 025 024 <~Scribe.142~><~Game.1957~><~Scribe.143~><~Game.1954~><~Scribe.144~> DDEBB1
+$Arress<~Scribe.141~>006 005 <~Scribe.142~><~Game.1919~><~Scribe.143~><~Game.1918~><~Scribe.144~> CDC7DC
+$Arress<~Controls.644~>361 <~Controls.645~><~Game.2035~> FA0D47
+$SlowCobra<~Controls.726~>211 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 4AB0FA
+$SlowCobra<~Controls.731~>358 210 213 212 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 704ADC
+$Arress<~Controls.757~>102 100 105 360 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> FCF8DC
+<~Game.7~>9 null
+$Arress<~Controls.762~>361 104 362 101 103 099 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> A15641
+$SlowCobra<~Controls.509~>157<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$SlowCobra<~Controls.509~>134<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Arress<~Controls.509~>173<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Arress<~Controls.509~>184<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<SlowCobra> fpok 0F1F83
+$Arress<~Controls.296~>194 <~Controls.297~><~Controls.46~> 71C732
+<Arress> 1 e A78FA8
+$Arress<~Controls.372~>361 56E075
+$Arress<~Controls.345~>104 362 101 103 099 102 100 105 360 <~Controls.346~>15 10 15 15 12 14 14 13 13 null
+$Arress<~Controls.350~>104 362 101 103 099 102 100 105 360 null
+$SlowCobra<~Controls.345~>358 210 213 212 211 <~Controls.346~>1 1 2 4 4 null
+<SlowCobra> pass F28EBF
+$Arress<~HighlightLabel.81~>100<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> C464E9
+$Arress<~CardBuffet.14~>reveal 191 93C495938008C852E6FBDED5EE6DDEC45C4A43C6 8<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 3DA793
+$Arress<~Scribe.141~>319 318 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1954~><~Scribe.144~> 244AB7
+$Arress<~Scribe.141~>191 <~Scribe.142~><~Game.2036~><~Scribe.143~><~Game.2034~><~Scribe.144~> 7E771A
+<Arress> wlr 0E4DC8
+$Arress<~Controls.840~>173 558F28
+<SlowCobra> nc A96E4D
+$Arress<~Scribe.141~>reveal 173 60654399F2A094521B1BD4E5D0122554BB73DCDC 1 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2036~><~Scribe.144~> ACC7E7
+<game> Arress<~Controls.1~> 4 4 6 2 5 null
+<game> Arress<~Controls.1~> 6 4 2 5 null
+<Arress> 2 456C9F
+<game> SlowCobra<~Controls.1~> 4 1 3 null
+<SlowCobra> 0 10D9CA
+<Arress> press, draw E13AAD
+$SlowCobra<~Scribe.141~>066 304 <~Scribe.142~><~Game.1991~><~Scribe.143~><~Game.2037~><~Scribe.144~> 16A09C
+$Arress<~Controls.509~>166<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Arress<~Controls.296~>173 <~Controls.297~><~Game.2036~> 7B1ACD
+$Arress<~Controls.296~>066 304 <~Controls.297~><~Game.2037~> 9FE0D9
+$Arress<~Controls.304~>056 <~Controls.305~><~Game.1954~> F3CD8C
+$Arress<~Controls.313~>054 <~Controls.307~><~Controls.314~><~Game.1954~> B1FFA1
+<Arress> nc 81B259
+<SlowCobra> nc C22C7C
+<game> Arress<~Controls.1~> 4 5 6 2 6 null
+<game> SlowCobra<~Controls.1~> 1 2 null
+$SlowCobra<~Controls.296~>098 068 268 <~Controls.297~><~Game.1991~> FC3DB9
+$Arress<~Scribe.141~>423 <~Scribe.142~><~Game.33~><~Scribe.143~><~Game.389~><~Scribe.144~> 03F1BB
+$Arress<~Scribe.141~>191 <~Scribe.142~><~Game.2034~><~Scribe.143~><~Game.2036~><~Scribe.144~> 5296DF
+$Arress<~Controls.509~>189<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Arress<~Controls.644~>100 191 <~Controls.645~><~Game.2035~> B2AE52
+$SlowCobra<~HighlightLabel.86~>358<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 172C53
+$SlowCobra<~Controls.790~>247<~Controls.791~><~Game.525~><~Controls.792~><~Game.528~> 121D48
+$SlowCobra<~Controls.795~>358<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 2C0666
+$Arress<~Controls.624~>227<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$SlowCobra<~Scribe.141~>242 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2037~><~Scribe.144~> 117514
+$SlowCobra<~Scribe.141~>252 <~Scribe.142~><~Game.2020~><~Scribe.143~><~Game.2021~><~Scribe.144~> 69CA91
+<Arress> ? 45C60B
+$Arress<~Scribe.141~>364 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1999~><~Scribe.144~> 165474
+$SlowCobra<~Controls.644~>227 242 <~Controls.645~><~Game.2035~> 171091
+<SlowCobra> sorry 88B734
+<Arress> thinking about reveal? 57660A
+<Arress> oh 4197DF
+<Arress> kk, np D4F50C
+<SlowCobra> thought i did it F01A8B
+<SlowCobra> just forgot to kill 0B771B
+$Arress<~HighlightLabel.81~>360<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 7E16AF
+$Arress<~Scribe.141~>253 321 318 319 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1923~><~Scribe.144~> 5742AF
+$Arress<~Scribe.141~>040 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1931~><~Scribe.144~> 1E09BF
+$Arress<~Scribe.141~>038 <~Scribe.142~><~Game.1967~><~Scribe.143~><~Game.1931~><~Scribe.144~> AFF565
+$Arress<~Scribe.141~>255 <~Scribe.142~><~Game.1956~><~Scribe.143~><~Game.1921~><~Scribe.144~> 45643C
+$Arress<~Controls.644~>360 <~Controls.645~><~Game.2035~> CF3CE7
+$SlowCobra<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> D63D40
+$SlowCobra<~Scribe.141~>246 270 085 276 084 279 083 082 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.1942~><~Scribe.144~> 212757
+$SlowCobra<~Scribe.141~>081 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.1935~><~Scribe.144~> 012057
+$SlowCobra<~Controls.644~>211 <~Controls.645~><~Game.2035~> 6E6E81
+<SlowCobra> wait can I change? 8C0A7F
+<Arress> yea 3973B6
+$SlowCobra<~Scribe.141~>080 <~Scribe.142~><~Game.1942~><~Scribe.143~><~Game.1944~><~Scribe.144~> 0643ED
+$SlowCobra<~Controls.644~><~Controls.645~><~Game.2035~> D0B6B7
+<SlowCobra> ok 9DB04E
+<SlowCobra> test 52DA1F
+$Arress<~HighlightLabel.81~>102<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 511233
+$Arress<~CardBuffet.14~>reveal 166 EDFD75469D6058BD5E95004F7FC9FFAD5BF3A9E1 11<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 5C66F1
+$Arress<~Controls.281~>238 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2044~> D6FB0A
+$Arress<~Controls.509~>162<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Arress<~Controls.644~>102 166 <~Controls.645~><~Game.2035~> B9315B
+$SlowCobra<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 00EB88
+<SlowCobra> folde nc 308D6F
+<Arress> nc 92CC80
+<game> SlowCobra<~Controls.1~> 4 5 1 6 1 null
+<game> Arress<~Controls.1~> 5 null
+<Arress> 1 1665DB
+$SlowCobra<~Controls.304~>276 <~Controls.305~><~Game.1942~> 1C6E25
+$SlowCobra<~Controls.313~>078 <~Controls.308~><~Controls.314~><~Game.1942~> 7F7966
+$Arress<~Scribe.141~>016 <~Scribe.142~><~Game.1933~><~Scribe.143~><~Game.2036~><~Scribe.144~> 26D57A
+$SlowCobra<~Scribe.141~>246 270 085 084 078 279 083 082 <~Scribe.142~><~Game.1942~><~Scribe.143~><~Game.1933~><~Scribe.144~> C62665
+$SlowCobra<~Controls.644~>212 016 <~Controls.645~><~Game.2035~> 0FE87C
+$Arress<~HighlightLabel.81~>105<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 0E517B
+<Arress> pela to loss BA5E42
+<Arress> nc E131D9
+$SlowCobra<~Scribe.141~>reveal 113 7FB485BD218EFB97FA9A3373BEC7F23FF4C48721 4 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> 03EE72
+$SlowCobra<~Scribe.141~>081 <~Scribe.142~><~Game.1935~><~Scribe.143~><~Game.1944~><~Scribe.144~> 1A28DB
+$Arress<~Scribe.141~>038 040 039 055 057 350 349 049 048 047 046 <~Scribe.142~><~Game.1931~><~Scribe.143~><~Game.1935~><~Scribe.144~> 7F734F
+$Arress<~Controls.644~>105 113 <~Controls.645~><~Game.2035~> 63A364
+$SlowCobra<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> B3D1FB
+<SlowCobra> edoras nc 1B54DC
+<Arress> nc 05478E
+<game> SlowCobra<~Controls.1~> 5 4 4 3 1 null
+<game> SlowCobra<~Controls.1~> 4 6 5 null
+<SlowCobra> 1 10DD0A
+<game> Arress<~Controls.1~> 2 null
+<Arress> 0 4F15B7
+$Arress<~Scribe.141~>017 <~Scribe.142~><~Game.1929~><~Scribe.143~><~Game.2036~><~Scribe.144~> 0E9028
+$SlowCobra<~Scribe.141~>082 <~Scribe.142~><~Game.1933~><~Scribe.143~><~Game.1929~><~Scribe.144~> 532FDD
+$SlowCobra<~Scribe.141~>423 <~Scribe.142~><~Game.389~><~Scribe.143~><~Game.388~><~Scribe.144~> 158257
+$SlowCobra<~Controls.644~>210 017 <~Controls.645~><~Game.2035~> 45C4D5
+$Arress<~HighlightLabel.81~>099<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 54C42B
+<Arress> MT B95488
+$SlowCobra<~Scribe.141~>081 080 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.1994~><~Scribe.144~> A9894C
+$Arress<~Scribe.141~>038 040 039 055 057 350 349 049 048 047 046 <~Scribe.142~><~Game.1935~><~Scribe.143~><~Game.1944~><~Scribe.144~> A4F1DC
+$Arress<~Scribe.141~>413 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1935~><~Scribe.144~> 05A7F4
+$Arress<~Controls.644~>099 <~Controls.645~><~Game.2035~> FA8627
+$SlowCobra<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> FB425B
+$SlowCobra<~Controls.366~>249<~Controls.367~><~Game.2008~><~Controls.368~><~Game.2011~> D4B53E
+$SlowCobra<~Controls.790~>247<~Controls.791~><~Game.528~><~Controls.792~><~Game.529~> B40A08
+$SlowCobra<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 54A055
+$Arress<~Controls.624~>222<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$SlowCobra<~Scribe.141~>252 <~Scribe.142~><~Game.2021~><~Scribe.143~><~Game.2025~><~Scribe.144~> D968F6
+<Arress> uhh 2D1FBE
+$SlowCobra<~Controls.323~>247 526E9D
+<SlowCobra> well 33A4A9
+<Arress> it's 5 isn't it 9B0A21
+<SlowCobra> ok 10FA5E
+<Arress> gg? E4E68C
+<SlowCobra> ah gg 79DE2A
+$SlowCobra<~Scribe.141~>252 <~Scribe.142~><~Game.2025~><~Scribe.143~><~Game.2026~><~Scribe.144~> 41794B
+<SlowCobra> well not it changed E3541C
+<Arress> yeah rough situation 66C7A9
+<Arress> gg wp F08029

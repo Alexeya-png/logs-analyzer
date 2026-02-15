@@ -1,0 +1,904 @@
+<auto> silent null
+<auto><~Scribe.141~>363 397 398 402 401 400 399 403 404 376 375 374 373 377 378 <~Scribe.142~><~Game.2038~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>365 366 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 367 368 369 370 371 372 <~Scribe.142~><~Game.2040~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>230 231 <~Scribe.142~><~Game.2044~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>155 152 <~Scribe.142~><~Game.2004~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>137 151 <~Scribe.142~><~Game.2005~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>161 198 <~Scribe.142~><~Game.2006~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>163 188 <~Scribe.142~><~Game.2007~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Controls.323~>364 null
+<auto> noisy null
+<auto> silent null
+<auto><~Scribe.141~>312 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1965~><~Scribe.144~> null
+<auto> noisy null
+<~Game.7~>1 null
+<auto> silent null
+<auto><~Scribe.141~>363 397 398 402 401 400 399 403 404 376 375 374 373 377 378 <~Scribe.142~><~Game.2038~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>365 366 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 367 368 369 370 371 372 <~Scribe.142~><~Game.2040~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>230 231 <~Scribe.142~><~Game.2044~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>155 152 <~Scribe.142~><~Game.2004~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>137 151 <~Scribe.142~><~Game.2005~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>161 198 <~Scribe.142~><~Game.2006~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>163 188 <~Scribe.142~><~Game.2007~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Controls.323~>364 null
+<auto> noisy null
+$base silent null
+$TEST<~Scribe.141~>312 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1965~><~Scribe.144~> null
+$base noisy null
+<game> Germanator<~Controls.408~>[WOTR-Gandalf2 wotr base2] null
+<~Talker.31~> null
+<Yangus> Buenas! 
+<Germanator> buenos dias!!! 
+<Yangus> todo bien? 
+<Germanator> q tal todo? 
+<Germanator> si, todo en orden 
+<Germanator> igual te tengo q pedir alguna pausa, pero bueno 
+<Germanator> esta tarde a las malas, o por la noche la podria acabar si no nos da tiempo 
+<Yangus> si, no te preocupes 
+<Germanator> perfe, gracias 
+<Yangus> perfecto 
+<Yangus> yo sobre las 11:45/11:50 debería parar 
+<Germanator> venga, pues mucha suerte y a pasarlo bien, ojala tanto como la previa 
+<Germanator> sin problema 
+<Yangus> igualmente, mucha suerte! 
+$Germanator<~Controls.479~>14E82D0637FE32B8B41AB6892145C75A9A99C19D C1D64442E31C0EEE504944157483E76D 24 1F14593E04F70EDA6202EE63DAFB192BD8E16768 20438BB82BC33ECB74BD95B9FCCE3946 DBF70EA3BC976857C9489913CBAA5E5EFC181D0B 727965BBEE077C18539AE309222DE376 60B1E62BFF25EA45AE239BBB2B7378111ABB7397 2CBF4A2BFE1592AE786C696586C7A850 24D90E5AEBB05D51820E89899C5FD283DAB2319A CAB51A562CB186FD51D2E06E9AAA2115 5C3F5A13478F6D73F696A1C9DD3F5B4C8492BD31 162BF5EE42FB496F1590A80BBB1569C4 1BBDD659A8EFF3A00EDD4EEA26B82D2E7442D348 A929880135147AD4E17DEE3C85381D01 D64194C9F74426DA46D74AD99525171EEF48A50B B20D10459B09C4EA24B407C562F1FB52 3F2BF1784B6B64C287EF93B04B4A3CB1E581593D F5A1BD545AC91F563D9AF4F76461744B 4E57C0734E1BD0EB5422FC757DC4156BE9D062DA 1689F22BA20BCCCF62BBC45555699DED 3B1E706908EA0DDEC1294EE0B7B9D8B84ED661D9 187704851C68CA62C385686A0B646ED9 A58705101C13D5C3ABEC9907443AE9F6042392B4 1FFF3BD5630AEB4CEE57BD16FFB1184A AC1EAC51CB603323CE12776A564BA94D56BA01E4 7DF9CB10B2B97A38758082AC20EA35FE DD7B744B10A5AF0E49F795A3453BCACB5039CBF4 EBC5CAE1DF279DA4CD13ACE0E5C367B7 EA9364B69D28674951EB38361BB864328260D245 16EE06CE88BB885479BC725FA00E4493 24E14A79551B6C52B367CFE4BA5442FF0FAB1F2B 5DEC24ED8B4978CF66E9CD011A4A3812 C6BE667FE733824562E3F0009DE75F203E1C42CA D91A0C53BB717A5F99FEF7265BB4B507 8B4139508F71C67BBE1D8E55D6F11E1F6636B9C0 9D0E857ECF928D8B076C724CC8E0AFD2 C72584916F5971F61792624880D455C79DE9230C 3EE34BC19D89F2ECC3CEF995732C855B C7547B665D67E6BBB21F1234E2CF4F25170881BA 953AFD4989AF8F175E8038DBAEA3093E C23952D4457B65D3C4D61C6C46ABB98B8D9212C2 C3F46CD137CCE06C8A3808F5E12CE2E0 C1EABC42D3A0C720A46CBE215E998CFFD3F7F755 75E461C887EE875F00A5F93D9D0CE7BF 942DDACC40FD451A72A07BE45622FF5F0A13CE92 6803A2A0C2605E66A31BE383F01622EB 04DF2762C566F69C409926C5FC95B089F524650B 2FEBEE90102C2490E5CAA560FA216E50 70753BF6ED6D2E1A27CA1F1AA1480AE59119C981 33964A272DDFDFF7690C6B19C08D0248 24 B35FF8E10D1C51894BBF3EA7C619E811B57353B8 FBACD88B5C8CE7DCEABD91A340F58E95 99DB6158EE09A413342BDC25AA7E52AA4573215A AEE330719B32A7A35AC49D4FC45C387D CAA1240A204C9CF15EF9666FF2C5FC01DF5CE577 D52B3B091706C8C44E1DFA4A7B710A1F BB878E6B354050D8D9BA74F7A2BC1CEAE22C4A1D 64BEF6A7E24B9FA2982280BB45AE8449 BE6BDEC384E0356E3E59F78A2BE388A13E46EAB4 FA411904E2BC024835E4BCA1CD7914B6 2FC55A32CCDA1DD960EB581F24D174CED7A69618 679183C00CA40B5369BC170BDC91CAD5 A3352EF8C4C0F5E4763A960EB533B99535A45057 6FE65D5DD22B315128828BE9EC57AB3A AF10A27A23CCD446FC65AC1AF06012DFB7A6550D CD6C8524D98EB5DBB8FDD545FCD2DE57 0DBAD6FA7A9F670293B7D30726B9342946B7E102 7A8111A7EF1FE90A93831779A27AFEF1 605722EE67A5E43133936C7F30120D419E67FFCC 2E2257013C5D81C791D916D6661F0CA6 B0939FE9E59BCA52D978D6F9B7833E634B484030 2751352CB68271FA46CAFB364C847E7A C0DCF74F37341882A6279AF2A883733DA2FB64AE 2871DDFDDA4F9530A80A9574B27D855F 24B72CF1A7AF6C8A072F0C0A16274F8662A39EA0 C4DDF63D98F4557FF55564F65CA970D3 20B5A3372A1602FDD6D459ECE40C0BF28ADE5014 DB432DF98E597C0DD3E3F588CD1341DB 53D05FCAB93D1DBE624828E23D7E5EDAC4AE7F6A 657E2D737937E3C6B89CB618D85E1F07 E990A00DB4BDFF563E2AA9512BE17EFBBFC70BA4 6EFB0C1CE8B1EE558CB0CE14753DF503 6DB5AD2D93020E304E18EDCB81E0AAC1190DD1CD 61ED53733269D6598B73BC3DD8580210 24867CF2A2465671F60F63408F758C409B7ED35B 88CCA2F7A9372A0070A5C5C8BFF231A5 C8575378F98614D559AF6CD083313C5F1AC39BDF D3EC6F1A0F0EC929CF8613BA0BD97782 20DE474A1ACC07A5D418FD4DB8B13567ADEF0FED D72BE2A348A3044BC260B075927ED072 F2C02F199D4418B2C4F31F68044C635B60C64BDE 19FB993F51EB236BC762E301334DE95D FC6E431C291073C0D2E8E11CCC8DE588FC583056 8D4A8AD070892164E8FAD1A529853341 8D11F63ADF90DAE1BC5C85DD74318CE1FDC049C8 5917172CACB1A2971C0C1C34A43D7529 BF4CF43E9C3295B3461D21BCA846CA164254CC25 DEA2C783802DF63CEDA69ACC955A117A 0 0 F8F195
+$Germanator<~Controls.509~>166<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Germanator<~Controls.509~>187<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Yangus<~Controls.464~>E6A5F24FF1AE7233BB8F748C3C3D2D1EB3E5BCF7 F35D695E26CAE9FF15B27EBC22C10AD2 24 039DE2451A59B4DA158D354638A585954E25F9BC FD88DCA04826FA0383F6AD4A9B5D0FD4 5C6D56A3923430B88061CEFC01015225199ED7A5 C57A263620B63D225A3D52BE9B8045E3 9A0D5F1D18272E0AB0751CAACC8F938252AA1387 C159AA1D8DB165632C76207F85541768 C9A9E6B730CBD8E6039021BD01D9834CE881E5BC 19A65F91FCD9DCCF573C3F565ADE9F6A 30FDF8E5637ACFCBBE84B777D903E3C7EEC114D6 6A3C6BD4D6BF196467A1A4FE4A02A09A 1B2898A07B6566D7ACFEDB2633998A9CED28F6FF C640FF48396BCBADB8B99BCE8EBDE658 7F67364945CE567D8B24E1E7FE18339AE6C2510D FF35203DE95B5B7960CF03F174A92281 EEC00BEAC3ACE3426C51F54EA89D34E83486B7FE 25C50D4388147BFF4B5F9561BB1BE063 7D88941785D2F1F28B734912996FD524E999EAB4 4CF9F19805A5228BA64497852078D848 FBACDD7D9DAD08F23C697CFB8A548631B7C0B7E7 91F3617452E8C8AC81B6307C3887EC56 CA9023D1B714D9462C2CE8C21F2291354D0BAA63 5F5B67955969F5C6AFFB2AB580E66C5A 56B412A36F17416BEF5172541DDCCE7FD6F472CF EE0E7A723023D74DF0F8BFBCB2E5F060 09F2E0689965C3B45CA255A0B1E83C879FCF0D6E 0CD8457F8A908A2652FD409559652DE5 DC0A2179C1AF20ECC1E0F650F336A299BF508A79 2029906B71BE6C8ED370332EA78A4282 47C7878D470F9177A240E5E5A14603CA4C3D7384 6A264EEA3156802E4B493732865C1026 330707F41120D30F35E890823108C19148B55697 8F7F3B4B97D2C4058869E54BEC9D8F1A 086225CC4917B9BFA255B8B8A98E57C78C312304 54DD46675B54AFA6BA4E125473792D30 F4B7D06541C01D5CC35B6EA77A2F0601F5E5037A A9E7308ADAC9F79211B0C36B28D2FDDB 56B8A44A91AFA899FC0FA3271BF04D15AC5A2F21 EA2707DE075EE4F4A4F4ED87A24D8155 3DA3BE358F1557DD11B5FC0F08E55A4B3819DE23 604BF4A7A362686994A3F846566BF915 5EADFC216F5246906E0514841CD26A29859BFF0B 0D8A7365AC290B52713257462A3D1690 F0A79399AD455CC757C91C5F8BED0C44289800FC A8358D951282DE3BDBD5757B47956E5F BFBEDE684FBA6784E5B656E90A44A67934771CD6 E6B49EFFB0CB13496C38101533BDEC74 2D054C059AFB8F4A53E855CD743F7861B7539A8B FB6E906879D63960D53B020B1E0A6725 24 B64D1A6FAA6D8AA9629013746DF4C05196D0FBE1 5F6B8074F2001DCE462801117BE23C4B F8DE2CA25F55445BDDC1E22D606A61D6E22811E8 D5A91086DF49E65813EEAD0ED2084688 645AFFF0F87B70DB3D9D2253D2B1D605945568F8 A876F4A14149ADC3945D5763D43FEBDB 7D41AD8BE3CA87263A762F330FD66F740F85FC11 373F48157F447CEC4C79CD0FAF9B1C3F BEB8F81AA37763CADE9FD7C23CCDFAC42CC10215 B4AAF3FBE2D104F34C4615C3A3144B6E BFF802DC6DDA02FA93C9D1FEDE089944CA4E86F6 28FB0DF246BF36D7D9BEDEB9D52ED0ED EE80502E63A02736ECCEA675E4BF392264CB5DE8 B9FA38A40E30D2534CCB944A63CB8730 B2057C9A623B158AB068901249CE692BFA6790E2 2FF966875826292D3965F9E2B8760D78 1C00FAFD3A0647882E07013A8DDD46ABFB8A6BAE B49DC47471EBD3FED348BE9620C84FFB 5C017C94B52B93A23EFF8720D36CBD6FFDA473F5 DB90C7F28B0B5FB78FD8AC3A9EA64160 F8A7C3A00CFD6F55A98CE7F41C1D3964C1252346 E342EF94ADD8304E0617F65BFD869AF9 DE2DEE666BA8538BD1D00C3B7EBA3F165EE65E0C 3B52D590EAA84FF11FDB6D4924F7132F 9F532F4082A5BB3CE17ECF70405A483AEE842593 4956FFB4D543917D6CA2025BAE0AA43E 70E23AB7208FBEF2A6BF90CBC7F416A033D1C438 6612BC9C33334FCFD4A5F5CCBA7C1935 4161754D36D420B12B4A574C4ADDD6CD1949F286 2D5572D8F2EA429373146DE6FE9A77BD D39E9A0104F068D4B385895688237E7CEA2EE354 F50768DB5AFCE721BD9834E8224EBDB5 7FA98FFE41EBD39313D8FF756A8976D794C80813 9B326CAB81C8F17AE98B1EF74BD3A366 F29232802CB848B509F6C3001A27331A88515F54 84F736640466453D8C7BBA0FF5FA96AF C4AC564D5F79903B1079F89A1F41802AE40E975C E1CBFEBBF3ADBF0183E53B250501F269 F6604AF0F7644C6FF63B9BE2F014B743FC1EE64F 3470F2780DA41A87164EB6151E52A903 8C80D5ADE86764ABEF90136CC53351107E0A3C5E 136D3B942CAEC4D2591482B832D23ABB 4C6F33359959084D328BF4C96982704F9D64A2B5 2C182507024FAFB0D5A8EF3A5C7843B2 ABBCD79097CFC0201DCF512C9AC7418023ECF94B 8965409E055842AA680AA569ED53B202 A1514F33636867E6D35A32C45FBAD7DE03BEC178 13091DDDA8C6FBAD69AD5BB4C44E7E41 0 0 E1B10A
+<Germanator> gracias A383A7
+$Yangus<~Controls.509~>135<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Yangus<~Controls.509~>143<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+<Yangus> fsp ok 0C3A5B
+<Germanator> 1e FD6E0B
+$Germanator<~Controls.372~>105 835C88
+$Germanator<~Controls.345~>104 103 102 101 100 099 <~Controls.346~>13 15 12 15 14 11 null
+$Germanator<~Controls.350~>104 103 102 101 100 099 null
+$Yangus<~Controls.345~>213 212 211 210 <~Controls.346~>3 1 1 0 null
+$Yangus<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 1BB953
+$Yangus<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 0E7EEF
+$Yangus<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> C1F558
+<game> Germanator<~Controls.1~> 6 4 5 null
+$Germanator<~Controls.624~>220<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Germanator> 1r BB14CB
+$Yangus<~Scribe.141~>252 <~Scribe.142~><~Game.2014~><~Scribe.143~><~Game.2015~><~Scribe.144~> 11460A
+$Yangus<~Controls.644~>220 <~Controls.645~><~Game.2035~> FCB56D
+$Yangus<~Scribe.141~>247 <~Scribe.142~><~Game.1911~><~Scribe.143~><~Game.1915~><~Scribe.144~> 8DF7D6
+$Yangus<~Controls.323~>247 65279E
+$Germanator<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 971423
+$Germanator<~Controls.509~>190<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Germanator<~Controls.644~>100 <~Controls.645~><~Game.2035~> 0D5E31
+$Yangus<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 359867
+$Yangus<~Controls.323~>247 E4CD22
+$Yangus<~Controls.644~>211 <~Controls.645~><~Game.2035~> EA404B
+$Germanator<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 47DAE0
+$Germanator<~Scribe.141~>039 036 029 028 027 026 <~Scribe.142~><~Game.1979~><~Scribe.143~><~Game.1977~><~Scribe.144~> 6505BA
+$Germanator<~Scribe.141~>055 049 048 047 <~Scribe.142~><~Game.1968~><~Scribe.143~><~Game.1946~><~Scribe.144~> 8D08DE
+$Germanator<~Controls.644~>102 <~Controls.645~><~Game.2035~> 7BA2D3
+$Yangus<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 7A2DB1
+$Yangus<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> E32799
+$Yangus<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 1A95AF
+<game> Germanator<~Controls.1~> 4 2 1 null
+<Germanator> safe 80C398
+$Germanator<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> F4D5FB
+$Germanator<~Scribe.141~>263 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 4FE670
+$Germanator<~Controls.644~>099 <~Controls.645~><~Game.2035~> 8F50AD
+$Yangus<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> BF0F29
+$Yangus<~Scribe.141~>256 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> 30366E
+$Yangus<~Controls.644~>213 <~Controls.645~><~Game.2035~> 3466FB
+$Germanator<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 13072E
+$Germanator<~Scribe.141~>039 036 029 028 027 026 <~Scribe.142~><~Game.1977~><~Scribe.143~><~Game.1974~><~Scribe.144~> C43E16
+$Germanator<~Controls.644~>104 <~Controls.645~><~Game.2035~> 6CAE60
+$Germanator<~Controls.757~>103 101 105 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> CB915F
+$Germanator<~Controls.762~>104 099 102 100 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 2F7817
+$Germanator<~Controls.509~>173<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Germanator<~Controls.509~>183<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Yangus<~Controls.726~>210 212 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> B5128E
+<~Game.7~>2 null
+$Yangus<~Controls.731~>213 211 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 8D6A71
+$Yangus<~Controls.509~>139<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Yangus<~Controls.509~>111<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+<Yangus> fsp ok 1ACDE7
+$Germanator<~Controls.372~>104 BB3048
+$Germanator<~Controls.345~>099 102 100 103 101 105 <~Controls.346~>12 12 14 11 14 10 null
+$Germanator<~Controls.350~>099 102 100 103 101 105 null
+$Yangus<~Controls.345~>213 211 210 212 <~Controls.346~>4 4 0 2 null
+<Yangus> paso 0F10FA
+$Germanator<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 23E9DC
+$Germanator<~Scribe.141~>039 038 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1974~><~Scribe.143~><~Game.1976~><~Scribe.144~> D079B5
+$Germanator<~Scribe.141~>040 035 015 014 013 012 011 <~Scribe.142~><~Game.1956~><~Scribe.143~><~Game.1953~><~Scribe.144~> C74921
+$Germanator<~Controls.644~>099 <~Controls.645~><~Game.2035~> 64FE06
+<Yangus> paso C2A243
+$Germanator<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 257BE3
+$Germanator<~Scribe.141~>reveal 183 3EA580C18D2CFC21F383752F0CFF35826FA76D87 8 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 1DC6B8
+$Germanator<~Scribe.141~>318 334 333 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1917~><~Scribe.144~> 38D4F2
+$Germanator<~Controls.644~>100 183 <~Controls.645~><~Game.2035~> E00ECD
+$Yangus<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 72DDC8
+$Yangus<~Scribe.141~>reveal 143 92A9D1BA1E2C459128C5F5E616DC19FE782665A4 21 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> 7F5B64
+$Yangus<~Scribe.141~>267 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1928~><~Scribe.144~> 772BA2
+$Yangus<~Controls.509~>147<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Yangus<~Controls.509~>146<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Yangus<~Controls.644~>212 143 <~Controls.645~><~Game.2035~> 94C2D6
+$Germanator<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> B35467
+$Germanator<~Scribe.141~>039 038 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1976~><~Scribe.143~><~Game.1972~><~Scribe.144~> B8CA46
+$Germanator<~Scribe.141~>040 035 015 014 013 012 011 <~Scribe.142~><~Game.1953~><~Scribe.143~><~Game.1927~><~Scribe.144~> D9FC75
+$Germanator<~Controls.644~>102 <~Controls.645~><~Game.2035~> F86D41
+$Yangus<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 50F7E6
+$Yangus<~Controls.790~>248<~Controls.791~><~Game.2015~><~Controls.792~><~Game.2016~> DDC11D
+$Yangus<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 4A7BF0
+<game> Germanator<~Controls.1~> 5 null
+<Germanator> safe 4317A8
+$Germanator<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 898599
+$Germanator<~Scribe.141~>254 360 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2037~><~Scribe.144~> C063C9
+$Germanator<~Scribe.141~>254 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.1919~><~Scribe.144~> BEA276
+$Germanator<~Controls.644~>105 360 <~Controls.645~><~Game.2035~> C30693
+$Yangus<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 3FB91C
+$Yangus<~Scribe.141~>065 <~Scribe.142~><~Game.1941~><~Scribe.143~><~Game.1957~><~Scribe.144~> E30DA8
+$Yangus<~Scribe.141~>059 <~Scribe.142~><~Game.1973~><~Scribe.143~><~Game.1965~><~Scribe.144~> 9CB828
+$Yangus<~Controls.644~>213 <~Controls.645~><~Game.2035~> 89AD89
+$Germanator<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 9B3C17
+$Germanator<~Scribe.141~>039 038 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1972~><~Scribe.143~><~Game.1975~><~Scribe.144~> 82847B
+$Germanator<~Scribe.141~>318 334 333 008 007 <~Scribe.142~><~Game.1917~><~Scribe.143~><~Game.1927~><~Scribe.144~> 45302C
+$Germanator<~Controls.644~>103 <~Controls.645~><~Game.2035~> 678829
+$Yangus<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 173F6C
+$Yangus<~Scribe.141~>256 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> 7B6AB4
+$Yangus<~Controls.644~>211 <~Controls.645~><~Game.2035~> 2B69C5
+$Germanator<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 281319
+$Germanator<~Controls.509~>185<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Germanator<~Controls.644~>101 <~Controls.645~><~Game.2035~> A910A1
+$Germanator<~Controls.757~>104 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 43896A
+$Germanator<~Controls.762~>101 103 105 360 102 100 099 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> B8F790
+$Germanator<~Controls.509~>167<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Germanator<~Controls.509~>186<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Yangus<~Controls.726~>210 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 223EC5
+<~Game.7~>3 null
+$Yangus<~Controls.731~>211 213 212 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> F0E155
+$Yangus<~Controls.509~>117<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Yangus<~Controls.509~>156<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Yangus<~Controls.281~>117 <~Controls.282~><~Controls.45~><~Controls.283~><~Game.2039~> 2D193C
+$Germanator<~Controls.296~>173 <~Controls.297~><~Controls.46~> F92261
+<Yangus> fsp ok A40E02
+$Germanator<~Controls.372~>101 A1B0B8
+$Germanator<~Controls.345~>103 105 360 102 100 099 104 <~Controls.346~>11 12 14 15 11 15 10 null
+$Germanator<~Controls.350~>103 105 360 102 100 099 104 null
+$Yangus<~Controls.345~>211 213 212 210 <~Controls.346~>0 2 2 0 null
+<Yangus> pensando 48C5AE
+<Germanator> tyt 592611
+$Yangus<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 8D7879
+$Yangus<~Scribe.141~>reveal 146 D3F67B59AFBEF80BF593016FC5DC99997AC30FDC 12 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> 767A04
+$Yangus<~Scribe.141~>270 276 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1920~><~Scribe.144~> 7BBD13
+$Yangus<~Controls.509~>106<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Yangus<~Controls.644~>213 146 <~Controls.645~><~Game.2035~> DCC8B7
+$Germanator<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 7BDA42
+$Germanator<~Scribe.141~>reveal 167 ABD741C5B0D9F7CEE2DB5AB2261157A9409F7DF3 23 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2029~><~Scribe.144~> 9780C8
+$Germanator<~Controls.644~>360 <~Controls.645~><~Game.2035~> 2ADCFC
+<Yangus> paso 58308E
+$Germanator<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> FEEA56
+$Germanator<~Scribe.141~>262 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 9A7070
+$Germanator<~Controls.644~>104 <~Controls.645~><~Game.2035~> 09F810
+$Yangus<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 4D1F7C
+$Yangus<~Controls.790~>248<~Controls.791~><~Game.2016~><~Controls.792~><~Game.2017~> 914D82
+$Yangus<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 1E5B61
+<game> Germanator<~Controls.1~> 6 4 3 null
+$Germanator<~Controls.624~>224<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Yangus<~Scribe.141~>240 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2035~><~Scribe.144~> 8B94D2
+$Yangus<~Controls.644~>240 224 <~Controls.645~><~Game.2035~> ECFF9B
+$Yangus<~Scribe.141~>241 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> 37C502
+$Germanator<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> A94EB7
+$Germanator<~Scribe.141~>039 038 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1975~><~Scribe.143~><~Game.1966~><~Scribe.144~> 0CAD2D
+$Germanator<~Scribe.141~>055 057 049 048 047 046 045 <~Scribe.142~><~Game.1946~><~Scribe.143~><~Game.1932~><~Scribe.144~> 5241DE
+$Germanator<~Controls.644~>105 <~Controls.645~><~Game.2035~> A11058
+$Yangus<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> F52450
+$Yangus<~Controls.323~>240 2038E1
+$Yangus<~Scribe.141~>240 <~Scribe.142~><~Game.2039~><~Scribe.143~><~Game.1921~><~Scribe.144~> 1CEF08
+$Yangus<~Scribe.141~>358 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.2037~><~Scribe.144~> 770C2F
+$Yangus<~Controls.644~>211 358 <~Controls.645~><~Game.2035~> E62694
+$Germanator<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 07292C
+<Germanator> OFR 6BB92E
+$Germanator<~Controls.323~>258 FD846A
+$Germanator<~Scribe.141~>258 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> 3F9649
+$Germanator<~Controls.840~>185 49280D
+$Yangus<~Controls.840~>156 1C9194
+<auto> playchosen 11BC79
+<auto><~Controls.3~>reveal 156 E28B6021AE7E9D5A17AD4BBBCE5CE81192971832 4<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 925F0B
+<auto><~Controls.866~>reveal 185 5CE20707FDF7F9441FB2E86E2B7B564C7A71E6ED 11<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 14C218
+<auto> playchosen E9C55B
+<game> Germanator<~Controls.1~> 3 1 4 1 1 null
+<game> Germanator<~Controls.1~> 6 1 null
+<Germanator> 1 F652D1
+<game> Yangus<~Controls.1~> 1 null
+<Yangus> 0 DFE9F6
+$Yangus<~Controls.281~>065 <~Controls.282~><~Game.1957~><~Controls.283~><~Game.2039~> 1906E8
+$Germanator<~Scribe.141~>039 038 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1966~><~Scribe.143~><~Game.1957~><~Scribe.144~> E7F139
+$Germanator<~Controls.644~>100 185 156 <~Controls.645~><~Game.2035~> CB4861
+$Yangus<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 1DAA4D
+$Yangus<~Scribe.141~>reveal 106 DD946B265E4B5DAFA40E9CE42215C513E9A4423C 14 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> C00C2C
+$Yangus<~Scribe.141~>271 274 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1944~><~Scribe.144~> 2D04DA
+$Yangus<~Controls.644~>212 106 <~Controls.645~><~Game.2035~> 3628C2
+$Germanator<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 2C6C62
+$Germanator<~Scribe.141~>056 052 051 050 <~Scribe.142~><~Game.1986~><~Scribe.143~><~Game.1984~><~Scribe.144~> 5509FA
+$Germanator<~Scribe.141~>021 <~Scribe.142~><~Game.1957~><~Scribe.143~><~Game.1941~><~Scribe.144~> 87FBDD
+$Germanator<~Scribe.141~>419 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1941~><~Scribe.144~> 6659A4
+$Germanator<~Scribe.141~>258 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> F7B989
+$Germanator<~Controls.644~>103 <~Controls.645~><~Game.2035~> EF47E4
+$Germanator<~Controls.757~>102 099 101 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> FCEE17
+$Germanator<~Controls.762~>103 100 105 104 360 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 2013FE
+$Germanator<~Controls.509~>201<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Germanator<~Controls.509~>159<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Yangus<~Controls.726~>210 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> AA19B3
+<~Game.7~>4 null
+$Yangus<~Controls.731~>212 211 358 213 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> CE2FF0
+$Yangus<~Controls.509~>148<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Yangus<~Controls.509~>140<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+<Yangus> ahora si declaro sacas loseta no? 2FEA80
+<Yangus> pasando por moria 99AEF1
+<Germanator> si quiero si, si pasas por Lorien, claro B49C8C
+<Yangus> vale AC2440
+<Yangus> pues fsp ok C6EA32
+<Germanator> por moria queria decir xD 7A689B
+<Yangus> sisi jaja C99241
+$Germanator<~Controls.372~>103 4E9586
+$Germanator<~Controls.345~>100 105 104 360 102 099 101 <~Controls.346~>13 13 12 11 10 15 13 null
+$Germanator<~Controls.350~>100 105 104 360 102 099 101 null
+$Yangus<~Controls.345~>212 211 358 213 210 <~Controls.346~>1 1 1 4 1 null
+<Yangus> paso 8B526D
+$Germanator<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 1FE58E
+$Germanator<~Scribe.141~>reveal 201 2A88CED3C0EEDE174D93467DE6E2EF9D6AA871A7 12 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 532A19
+$Germanator<~Scribe.141~>040 318 <~Scribe.142~><~Game.1927~><~Scribe.143~><~Game.1957~><~Scribe.144~> A2EBE5
+$Germanator<~Scribe.141~>037 <~Scribe.142~><~Game.1969~><~Scribe.143~><~Game.1915~><~Scribe.144~> BCADD1
+$Germanator<~Scribe.141~>040 <~Scribe.142~><~Game.1957~><~Scribe.143~><~Game.1927~><~Scribe.144~> BAAB27
+<Yangus> mecachis DD3AF7
+$Yangus<~Scribe.141~>247 <~Scribe.142~><~Game.1915~><~Scribe.143~><~Game.1926~><~Scribe.144~> 0425A5
+$Yangus<~Scribe.141~>247 <~Scribe.142~><~Game.1926~><~Scribe.143~><~Game.1936~><~Scribe.144~> 763460
+$Yangus<~Scribe.141~>247 <~Scribe.142~><~Game.1936~><~Scribe.143~><~Game.1940~><~Scribe.144~> BE7479
+$Yangus<~Controls.323~>247 4F5B7F
+$Germanator<~Controls.644~>100 201 <~Controls.645~><~Game.2035~> A71163
+<Yangus> asi 3ECC4D
+$Yangus<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 1BCFAD
+$Yangus<~Controls.323~>247 9499C6
+$Yangus<~Controls.644~>212 <~Controls.645~><~Game.2035~> 97421E
+$Germanator<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 26D5B5
+$Germanator<~Scribe.141~>021 <~Scribe.142~><~Game.1941~><~Scribe.143~><~Game.1940~><~Scribe.144~> AB3AF6
+$Germanator<~Scribe.141~>056 052 051 050 <~Scribe.142~><~Game.1984~><~Scribe.143~><~Game.1980~><~Scribe.144~> E68122
+$Germanator<~Controls.644~>104 <~Controls.645~><~Game.2035~> B63A3A
+$Yangus<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> B231A0
+$Yangus<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 18FE8A
+$Yangus<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> C2EDA5
+<game> Germanator<~Controls.1~> 6 5 null
+<game> Germanator<~Controls.1~> 4 null
+$Germanator<~Controls.624~>218<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Yangus<~Scribe.141~>252 <~Scribe.142~><~Game.2015~><~Scribe.143~><~Game.2017~><~Scribe.144~> 72A731
+$Yangus<~Scribe.141~>247 <~Scribe.142~><~Game.1940~><~Scribe.143~><~Game.1945~><~Scribe.144~> 832891
+$Yangus<~Controls.323~>247 BBE874
+$Yangus<~Controls.644~>218 <~Controls.645~><~Game.2035~> 5DF17E
+$Germanator<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> D7D21D
+<Germanator> lorien 3F368E
+$Yangus<~Scribe.141~>097 267 093 092 087 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.1992~><~Scribe.144~> E81042
+$Germanator<~Scribe.141~>256 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 22CE2A
+$Germanator<~Scribe.141~>040 334 333 035 008 007 015 014 013 012 011 <~Scribe.142~><~Game.1927~><~Scribe.143~><~Game.1928~><~Scribe.144~> 2A400B
+$Germanator<~Controls.644~>101 <~Controls.645~><~Game.2035~> 01F51B
+$Yangus<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> C6A694
+$Yangus<~Scribe.141~>266 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1954~><~Scribe.144~> D84137
+$Yangus<~Controls.644~>213 <~Controls.645~><~Game.2035~> 6F6828
+$Germanator<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> DE7857
+<Germanator> WR 75947D
+$Yangus<~Scribe.141~>098 266 094 088 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1991~><~Scribe.144~> 28173C
+$Germanator<~Scribe.141~>318 039 038 036 029 028 027 026 025 024 023 022 <~Scribe.142~><~Game.1957~><~Scribe.143~><~Game.1954~><~Scribe.144~> 4630C7
+$Germanator<~Controls.644~>105 <~Controls.645~><~Game.2035~> 5B5BBC
+$Yangus<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 7430AB
+$Yangus<~Controls.323~>247 F1FE0A
+$Yangus<~Controls.644~>211 <~Controls.645~><~Game.2035~> EBD4D6
+$Germanator<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 1E24E1
+$Germanator<~Scribe.141~>253 361 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2037~><~Scribe.144~> 6A7300
+$Germanator<~Scribe.141~>253 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.1954~><~Scribe.144~> A6D14B
+$Germanator<~Controls.323~>259 257 40BFD8
+$Germanator<~Controls.323~>260 261 CAD6F6
+$Germanator<~Controls.644~>102 361 <~Controls.645~><~Game.2035~> B5D3FB
+$Yangus<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> D89264
+$Yangus<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 19DAE7
+$Yangus<~Controls.795~>358<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 5FE25F
+<game> Germanator<~Controls.1~> 3 1 null
+<Germanator> safe A77C0F
+$Germanator<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 723D18
+$Germanator<~Scribe.141~>reveal 187 036C5B4F74FC256A00AA1F7F8E7FF56DC34FBAB0 15 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 75BAFD
+$Germanator<~Scribe.141~>336 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1954~><~Scribe.144~> 9C5840
+$Germanator<~Controls.644~>360 187 <~Controls.645~><~Game.2035~> 60ADD5
+$Germanator<~Controls.757~>099 103 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 1E880E
+$Germanator<~Controls.762~>360 102 361 105 101 104 100 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 23A578
+$Germanator<~Controls.509~>209<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Germanator<~Controls.509~>178<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<Yangus> que has puesto un elite en wlr? 90C935
+<Germanator> sip 428DB3
+<Yangus> que no lo he visto A24B94
+<Yangus> perfe DDAA17
+<Germanator> con olog hai 9B8156
+$Yangus<~Controls.726~>358 210 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 3AF5E1
+<~Game.7~>5 null
+$Yangus<~Controls.731~>211 213 212 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 0BFC1F
+$Yangus<~Controls.509~>149<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Yangus<~Controls.509~>124<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Yangus<~Controls.281~>124 <~Controls.282~><~Controls.45~><~Controls.283~><~Game.2039~> 6474B3
+$Yangus<~Controls.281~>148 <~Controls.282~><~Controls.45~><~Controls.283~><~Game.2039~> 0DBCA8
+<Yangus> fsp ok E95948
+$Germanator<~Controls.372~>360 135C17
+$Germanator<~Controls.345~>102 361 105 101 104 100 099 103 <~Controls.346~>14 12 12 11 10 15 14 13 null
+$Germanator<~Controls.350~>102 361 105 101 104 100 099 103 null
+$Yangus<~Controls.345~>211 213 212 358 210 <~Controls.346~>1 2 3 2 1 null
+$Yangus<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 0F5841
+$Yangus<~Controls.790~>248<~Controls.791~><~Game.2015~><~Controls.792~><~Game.2016~> A7EEC9
+$Yangus<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> DEDDB7
+<game> Germanator<~Controls.1~> 1 1 null
+<Germanator> safe C7A017
+$Germanator<~Scribe.141~>361 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> E2451B
+<Germanator> WR 15C4CC
+$Germanator<~Controls.840~>159 5E5902
+$Yangus<~Controls.840~>147 EA091D
+<auto> playchosen EDA48B
+<auto><~Controls.3~>reveal 147 11723D1524D8EF9DF91C7B0F67682B7C3077BDAF 1<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 1B5357
+<auto><~Controls.866~>reveal 159 35DA1209D5BC8EE25E8BD6E07C9AEB8C70C28811 19<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 86A870
+<auto> playchosen 5DC80D
+<game> Germanator<~Controls.1~> 6 2 5 4 2 null
+<game> Germanator<~Controls.1~> 1 6 null
+<Germanator> 4 D7D509
+<game> Yangus<~Controls.1~> 1 1 2 null
+<game> Yangus<~Controls.1~> 5 null
+<Yangus> 1 699284
+$Germanator<~Controls.296~>022 <~Controls.297~><~Game.1954~> 234354
+$Yangus<~Controls.296~>094 266 <~Controls.297~><~Game.1991~> 7F6F8D
+<Germanator> press + draw 957747
+$Germanator<~Controls.304~>036 <~Controls.305~><~Game.1954~> 3FDF76
+$Germanator<~Controls.313~>022 <~Controls.307~><~Controls.314~><~Game.1954~> EA9EBE
+$Germanator<~Controls.509~>171<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Germanator<~Controls.296~>159 <~Controls.297~><~Game.2036~> 4D06AB
+$Germanator<~Controls.296~>147 <~Controls.297~><~Game.2037~> AB4FF9
+$Germanator<~Controls.840~>190 B1D497
+<Yangus> nc D617E0
+<auto><~Controls.866~>reveal 190 10383F5EBCBB2D814E5395C6D41FA7CAC8753322 7<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 0759A2
+<Germanator> 1 376C95
+<game> Yangus<~Controls.1~> 5 null
+<Yangus> 1 CE83EB
+$Germanator<~Scribe.141~>023 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.2036~><~Scribe.144~> C4C4E5
+$Yangus<~Controls.281~>098 088 <~Controls.282~><~Game.1991~><~Controls.283~><~Game.2039~> FFB92E
+$Germanator<~Scribe.141~>423 <~Scribe.142~><~Game.27~><~Scribe.143~><~Game.29~><~Scribe.144~> 0BCE82
+$Germanator<~Scribe.141~>415 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1954~><~Scribe.144~> 75DB5E
+$Germanator<~Controls.644~>361 190 023 <~Controls.645~><~Game.2035~> E80815
+<Yangus> muy mal thranduil CED1E7
+$Yangus<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> F0B36B
+<Germanator> no llego 58F534
+$Yangus<~Controls.790~>248<~Controls.791~><~Game.2016~><~Controls.792~><~Game.2017~> 0C9A14
+$Yangus<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 7B8A4D
+<game> Germanator<~Controls.1~> 5 4 null
+$Germanator<~Controls.624~>228<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Yangus> uf 222F4E
+$Yangus<~Scribe.141~>248 252 <~Scribe.142~><~Game.2017~><~Scribe.143~><~Game.2020~><~Scribe.144~> A25A7E
+$Yangus<~Scribe.141~>248 252 <~Scribe.142~><~Game.2020~><~Scribe.143~><~Game.2017~><~Scribe.144~> DECED1
+$Yangus<~Scribe.141~>252 <~Scribe.142~><~Game.2017~><~Scribe.143~><~Game.2020~><~Scribe.144~> 5FAC31
+$Yangus<~Controls.644~>228 <~Controls.645~><~Game.2035~> 027F47
+<Germanator> pensando CE876C
+<Yangus> tyt CA977E
+$Germanator<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> EF0479
+<Germanator> valle 2D387E
+$Germanator<~Controls.840~>209 1C9BF7
+<Yangus> nc 03EF7F
+$Germanator<~Scribe.141~>258 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 6BFE20
+<auto><~Controls.866~>reveal 209 55870EFDF8E82C88BA13B59B795434579270EAC8 7<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> A899E8
+<game> Germanator<~Controls.1~> 2 4 6 2 6 null
+<Germanator> 1 A083CD
+<game> Yangus<~Controls.1~> 2 null
+<Yangus> 0 D6B613
+<Germanator> RR 3C823B
+$Yangus<~Controls.281~>068 066 <~Controls.282~><~Game.1970~><~Controls.283~><~Game.2039~> 0AD585
+<Germanator> te falta el RR F1BB08
+<game> Yangus<~Controls.1~> 5 null
+<Yangus> 1 ABD791
+$Germanator<~Scribe.141~>423 <~Scribe.142~><~Game.29~><~Scribe.143~><~Game.30~><~Scribe.144~> E18FF7
+<Yangus> cierto gracias 3B1E58
+$Germanator<~Controls.296~>024 <~Controls.297~><~Game.1954~> F74D39
+$Germanator<~Scribe.141~>253 318 039 038 336 022 029 028 027 026 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1970~><~Scribe.144~> 6E596C
+<Germanator> robo DC92C8
+$Germanator<~Controls.509~>182<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Germanator<~Controls.644~>105 209 <~Controls.645~><~Game.2035~> 2414E2
+$Germanator<~Scribe.141~>413 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1970~><~Scribe.144~> 706D70
+<Yangus> paso 55FEB1
+$Germanator<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> E97E6A
+$Germanator<~Scribe.141~>253 038 039 318 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.1928~><~Scribe.144~> 6D0915
+$Germanator<~Scribe.141~>037 <~Scribe.142~><~Game.1915~><~Scribe.143~><~Game.1975~><~Scribe.144~> D551E3
+$Germanator<~Scribe.141~>037 <~Scribe.142~><~Game.1975~><~Scribe.143~><~Game.1945~><~Scribe.144~> B93F8A
+$Germanator<~Controls.644~>103 <~Controls.645~><~Game.2035~> 027A8D
+<Yangus> paso 01D66E
+$Germanator<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 0FC387
+$Germanator<~Scribe.141~>reveal 182 AF25A10E068A5E69CB5ABE5E676712BF974340B9 20 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 37C18E
+<Germanator> lorien E6CC9E
+<game> Germanator<~Controls.1~> 6 1 6 3 3 null
+<Germanator> 2 648A58
+$Yangus<~Controls.304~>092 093 <~Controls.305~><~Game.1992~> AFBFC5
+$Yangus<~Controls.313~>269 088 <~Controls.309~>(1)/casualties(1)<~Controls.314~><~Game.1992~> 43F078
+$Germanator<~Controls.644~>102 182 <~Controls.645~><~Game.2035~> 4B3617
+$Yangus<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 869486
+$Yangus<~Scribe.141~>reveal 149 437B4A85AA41C1A733075D8895DE8CFC8193E382 23 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> FF6F72
+<game> Yangus<~Controls.1~> 3 3 3 null
+<Yangus> 3 F6546B
+$Yangus<~Scribe.141~>252 <~Scribe.142~><~Game.2020~><~Scribe.143~><~Game.2017~><~Scribe.144~> 436EF4
+$Yangus<~Controls.644~>358 149 <~Controls.645~><~Game.2035~> F5AB18
+$Germanator<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 8E6D57
+$Germanator<~Scribe.141~>261 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> B14D1E
+$Germanator<~Controls.644~>104 <~Controls.645~><~Game.2035~> C86817
+$Yangus<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> B6C071
+$Yangus<~Controls.366~>251<~Controls.367~><~Game.2010~><~Controls.368~><~Game.2011~> ACCD1A
+$Yangus changes 213  to C 3C4872
+$Yangus<~Controls.790~>248<~Controls.791~><~Game.2017~><~Controls.792~><~Game.2018~> 20E259
+$Yangus<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 229B01
+<game> Germanator<~Controls.1~> 6 2 null
+<game> Germanator<~Controls.1~> 6 null
+$Germanator<~Controls.624~>214<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Yangus<~Scribe.141~>247 <~Scribe.142~><~Game.1945~><~Scribe.143~><~Game.1957~><~Scribe.144~> C121BD
+$Yangus<~Scribe.141~>247 <~Scribe.142~><~Game.1957~><~Scribe.143~><~Game.1966~><~Scribe.144~> C933EB
+$Yangus<~Scribe.141~>247 <~Scribe.142~><~Game.1966~><~Scribe.143~><~Game.1975~><~Scribe.144~> 1BA61D
+$Yangus<~Scribe.141~>247 <~Scribe.142~><~Game.1975~><~Scribe.143~><~Game.1972~><~Scribe.144~> 161688
+$Yangus<~Controls.323~>247 D1A19D
+$Yangus<~Controls.644~>214 <~Controls.645~><~Game.2035~> 63CDB9
+$Germanator<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 5755D9
+<Germanator> lorien 202FC8
+$Germanator<~Controls.840~>167 68D041
+$Yangus<~Controls.840~>111 135413
+<auto> playchosen EEBA2B
+<auto><~Controls.3~>reveal 111 005C205D0D21D97F3EA6A4ED5AFF7149ED3EA49F 16<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 22F02D
+<auto><~Controls.866~>reveal 167 ABD741C5B0D9F7CEE2DB5AB2261157A9409F7DF3 23<~Controls.867~><~Game.2029~><~Controls.868~><~Game.2036~> 3C59D8
+<auto> playchosen 80F839
+<Germanator> pre 05E56D
+<game> Germanator<~Controls.1~> 2 6 4 null
+<Germanator> 2 983924
+$Yangus<~Controls.296~>267 <~Controls.297~><~Game.1992~> 4C3EE9
+<game> Germanator<~Controls.1~> 4 5 2 6 6 null
+<game> Germanator<~Controls.1~> 5 4 2 null
+<Germanator> 2-1 C18954
+<game> Yangus<~Controls.1~> 3 1 2 null
+<game> Yangus<~Controls.1~> 4 null
+<Yangus> 0 2F0346
+<Germanator> press + draw F31267
+$Yangus<~Controls.296~>087 <~Controls.297~><~Game.1992~> B4EE27
+$Germanator<~Controls.509~>194<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Germanator<~Controls.296~>167 <~Controls.297~><~Game.2036~> 8D671C
+$Germanator<~Controls.296~>111 <~Controls.297~><~Game.2037~> 769DD5
+$Germanator<~Controls.304~>334 <~Controls.305~><~Game.1928~> 891ED7
+$Germanator<~Controls.313~>024 <~Controls.307~><~Controls.314~><~Game.1928~> 07CA22
+$Germanator<~Controls.840~>178 2E0663
+<Yangus> nc 182DEF
+<auto><~Controls.866~>reveal 178 914CE545E26E738DFA7B4613245647172250DE78 3<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> A84134
+$Germanator<~Scribe.141~>013 012 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.2036~><~Scribe.144~> 866B28
+<Germanator> a 4s 86914D
+<game> Germanator<~Controls.1~> 6 2 1 5 3 null
+<game> Germanator<~Controls.1~> 3 2 3 null
+<Germanator> 2 7044FB
+<game> Yangus<~Controls.1~> 2 6 null
+<game> Yangus<~Controls.1~> 1 null
+<Yangus> 1 24F559
+$Germanator<~Scribe.141~>011 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.2036~><~Scribe.144~> ABFD1C
+$Yangus<~Controls.281~>097 269 088 <~Controls.282~><~Game.1992~><~Controls.283~><~Game.2039~> DA565B
+<Germanator> press nc 04A0E3
+$Yangus<~Controls.819~> 5067F1
+$Germanator<~Controls.304~>333 <~Controls.305~><~Game.1928~> 9027D7
+$Germanator<~Controls.313~>023 <~Controls.307~><~Controls.314~><~Game.1928~> 11BDA8
+<Yangus> pero me has hecho 2 no? F5DC13
+$Germanator<~Controls.819~> 5C3568
+$Germanator<~Controls.819~> 4CCFD7
+<Germanator> ahhh, q pense q te quedaban 3, sorry 448F96
+<Germanator> xDDD FA840B
+$Yangus<~Controls.281~>097 269 088 <~Controls.282~><~Game.1992~><~Controls.283~><~Game.2039~> C57F29
+$Germanator<~Scribe.141~>423 <~Scribe.142~><~Game.30~><~Scribe.143~><~Game.32~><~Scribe.144~> B2280F
+<Yangus> jaja ojala 1AAA2A
+$Germanator<~Controls.644~>101 178 011 013 012 <~Controls.645~><~Game.2035~> 291B3E
+$Yangus<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 70891A
+$Germanator<~Scribe.141~>420 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1928~><~Scribe.144~> 475498
+$Yangus<~Controls.323~>247 91F3BB
+$Yangus<~Controls.644~>212 <~Controls.645~><~Game.2035~> A03D84
+$Germanator<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 27787C
+$Germanator<~Scribe.141~>251 <~Scribe.142~><~Game.2011~><~Scribe.143~><~Game.2037~><~Scribe.144~> 070C92
+$Germanator<~Scribe.141~>054 053 <~Scribe.142~><~Game.1987~><~Scribe.143~><~Game.1980~><~Scribe.144~> 2989DD
+$Germanator<~Scribe.141~>253 038 039 318 040 333 035 024 008 007 015 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.1930~><~Scribe.144~> 9BAE5F
+$Germanator<~Controls.644~>099 251 <~Controls.645~><~Game.2035~> 8FFF1C
+$Germanator<~Controls.757~>100 360 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 308E6F
+$Germanator<~Controls.762~>099 101 104 102 103 105 361 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> A410F2
+$Germanator<~Controls.509~>202<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Germanator<~Controls.509~>189<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Yangus<~Controls.726~>213 210 211 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 2D3FEB
+<~Game.7~>6 null
+$Yangus<~Controls.731~>212 358 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> D51840
+$Yangus<~Controls.509~>154<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Yangus<~Controls.509~>114<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+<Yangus> fsp ok 8D36F1
+$Germanator<~Controls.372~>099 E337CE
+$Germanator<~Controls.345~>101 104 102 103 105 361 100 360 <~Controls.346~>13 12 11 10 11 14 14 15 null
+$Germanator<~Controls.350~>101 104 102 103 105 361 100 360 null
+$Yangus<~Controls.345~>212 358 213 210 211 <~Controls.346~>0 0 1 1 2 null
+$Yangus<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 720D63
+$Yangus<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 844A1F
+$Yangus<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 3DC509
+<game> Germanator<~Controls.1~> 3 6 null
+$Germanator<~Controls.624~>227<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Yangus> random 770DA5
+<Germanator> robo? C21442
+<Yangus> yes E5469B
+$Germanator<~Controls.637~>246<~Controls.638~><~Game.1998~><~Controls.639~><~Game.2036~> null
+$Yangus<~Scribe.141~>252 <~Scribe.142~><~Game.2017~><~Scribe.143~><~Game.2019~><~Scribe.144~> 6CBB19
+$Yangus<~Scribe.141~>246 <~Scribe.142~><~Game.2036~><~Scribe.143~><~Game.1975~><~Scribe.144~> 8A109E
+$Yangus<~Controls.644~>227 <~Controls.645~><~Game.2035~> 02E1C2
+$Germanator<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> B1C5A0
+<Germanator> pensando... B459B4
+<Yangus> tyt 2F4F57
+$Germanator<~Scribe.141~>reveal 194 6A04C1CCF0B0DE638E59CDB688A6CB1D598CCD98 5 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 67FBA6
+$Germanator<~Scribe.141~>037 <~Scribe.142~><~Game.1945~><~Scribe.143~><~Game.1972~><~Scribe.144~> 545F87
+$Germanator<~Scribe.141~>253 040 318 039 038 <~Scribe.142~><~Game.1930~><~Scribe.143~><~Game.1970~><~Scribe.144~> F26296
+<Germanator> como si movieras B37D33
+<game> Germanator<~Controls.1~> 6 2 null
+<game> Germanator<~Controls.1~> 1 null
+$Germanator<~Controls.624~>229<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2036~> null
+<Yangus> otro 3 jaja 332B10
+<Germanator> al menos ya no quedan mas xD E401F5
+$Yangus<~Scribe.141~>241 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2036~><~Scribe.144~> 8632D0
+<Yangus> ale fuera trancos 7D44BC
+$Germanator<~Controls.644~>100 229 241 194 <~Controls.645~><~Game.2035~> 2CCEFB
+$Yangus<~Scribe.141~>244 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> 747458
+<Yangus> una duda FCE689
+<Yangus> si ahora yo muevo BA2FE4
+<Yangus> es a 5 o 4? 375371
+<Germanator> 5 A5C7BF
+<Yangus> ok gracias BFF792
+<Germanator> nada B83A3E
+$Yangus<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 7E8BEE
+$Yangus<~Controls.790~>248<~Controls.791~><~Game.2015~><~Controls.792~><~Game.2016~> 01ED02
+$Yangus<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 287D57
+<game> Germanator<~Controls.1~> 6 4 null
+<game> Germanator<~Controls.1~> 4 null
+$Germanator<~Controls.624~>219<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Germanator> 1r 3C4622
+<Yangus> random 3F7304
+$Germanator<~Controls.637~>244<~Controls.638~><~Game.1999~><~Controls.639~><~Game.2036~> null
+$Yangus<~Scribe.141~>242 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> 4A7769
+$Yangus<~Scribe.141~>247 <~Scribe.142~><~Game.1972~><~Scribe.143~><~Game.1976~><~Scribe.144~> 8B1D2E
+$Yangus<~Scribe.141~>247 <~Scribe.142~><~Game.1976~><~Scribe.143~><~Game.1977~><~Scribe.144~> 9BDD5F
+$Yangus<~Scribe.141~>247 <~Scribe.142~><~Game.1977~><~Scribe.143~><~Game.1974~><~Scribe.144~> 2BA0A9
+$Yangus<~Controls.323~>247 9A8DFB
+<Yangus> otra 15F223
+$Germanator<~Scribe.141~>219 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2036~><~Scribe.144~> D2A607
+$Germanator<~Controls.624~>226<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Yangus> random 1A98B3
+$Germanator<~Controls.637~>242<~Controls.638~><~Game.1999~><~Controls.639~><~Game.2037~> null
+$Yangus<~Scribe.141~>243 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> 6159A6
+$Yangus<~Controls.644~>219 244 226 242 <~Controls.645~><~Game.2035~> 17B6F3
+$Germanator<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 46C887
+$Germanator<~Scribe.141~>261 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> B6D494
+$Germanator<~Controls.644~>103 <~Controls.645~><~Game.2035~> 40FDA4
+<Yangus> se ha vaciado la comunidad en un turno jaja EC8F0E
+<Germanator> jajaja C57EAC
+<Yangus> pensando 6FC13D
+<Germanator> tyt E57139
+$Yangus<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 52317B
+$Yangus<~Scribe.141~>073 072 <~Scribe.142~><~Game.1929~><~Scribe.143~><~Game.1925~><~Scribe.144~> AD90EA
+$Yangus<~Scribe.141~>067 <~Scribe.142~><~Game.1899~><~Scribe.143~><~Game.1901~><~Scribe.144~> B803B1
+$Yangus<~Controls.644~>358 <~Controls.645~><~Game.2035~> B82233
+$Germanator<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 57D1AA
+$Germanator<~Scribe.141~>333 035 024 008 007 015 <~Scribe.142~><~Game.1930~><~Scribe.143~><~Game.1921~><~Scribe.144~> 6DD957
+$Germanator<~Scribe.141~>056 054 053 052 <~Scribe.142~><~Game.1980~><~Scribe.143~><~Game.1970~><~Scribe.144~> C7A7F9
+$Germanator<~Controls.644~>104 <~Controls.645~><~Game.2035~> 561411
+$Yangus<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 0D7328
+$Yangus<~Scribe.141~>reveal 140 DD2C358CEBB7A7CEEE4D281B0F0E6F2613BF51C6 18 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> 595482
+$Yangus<~Scribe.141~>283 289 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1923~><~Scribe.144~> 90A7E8
+$Yangus<~Controls.644~>211 140 <~Controls.645~><~Game.2035~> 443B44
+$Germanator<~Scribe.141~>361 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> EBE5C2
+$Germanator<~Scribe.141~>reveal 202 FDE05D6F37B26C8E5FA2875C68CB872B6E52DB75 8 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 0FFCB1
+$Germanator<~Scribe.141~>253 038 039 318 040 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.1921~><~Scribe.144~> E49D91
+$Germanator<~Scribe.141~>037 <~Scribe.142~><~Game.1972~><~Scribe.143~><~Game.1970~><~Scribe.144~> 27EB9B
+$Germanator<~Scribe.141~>202 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2034~><~Scribe.144~> C8D7E5
+<Germanator> isen DFAC87
+$Germanator<~Scribe.141~>259 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> FAE08E
+$Germanator<~Controls.840~>166 2C5815
+$Yangus<~Controls.840~>114 DFE638
+<auto> playchosen 40DFF3
+<auto><~Controls.3~>reveal 114 D76A2F94DAD9ED0515C4EAED8AA8DD74417A53E1 17<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> E23C89
+<auto><~Controls.866~>reveal 166 E9527C901341DA79AE2E2928767A65EFECA30F3B 21<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> F17074
+<auto> playchosen D9BA98
+<game> Germanator<~Controls.1~> 5 3 1 1 3 null
+<game> Germanator<~Controls.1~> 6 2 6 4 null
+<Germanator> 3-1 783B8A
+<Yangus> uf CCFBF7
+<game> Yangus<~Controls.1~> 4 6 null
+<game> Yangus<~Controls.1~> 2 null
+<Yangus> 1 868279
+$Germanator<~Scribe.141~>015 <~Scribe.142~><~Game.1921~><~Scribe.143~><~Game.2036~><~Scribe.144~> 62BE7C
+$Yangus<~Controls.281~>074 070 069 <~Controls.282~><~Game.1918~><~Controls.283~><~Game.2039~> 058FF1
+$Germanator<~Scribe.141~>253 038 039 318 040 333 035 024 008 007 <~Scribe.142~><~Game.1921~><~Scribe.143~><~Game.1918~><~Scribe.144~> 00F371
+<Germanator> robo A8FEE0
+$Germanator<~Controls.509~>160<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Germanator<~Controls.644~>361 166 015 114 <~Controls.645~><~Game.2035~> 622055
+$Germanator<~Controls.296~>202 <~Controls.297~><~Game.2034~> 5E0631
+<Yangus> paso 4E0DD0
+$Germanator<~Scribe.141~>101 102 105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> B6EEC3
+$Germanator<~Controls.819~> EDD491
+$Germanator<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 520730
+<Germanator> helm 4C0494
+$Yangus<~Scribe.141~>283 289 071 <~Scribe.142~><~Game.1923~><~Scribe.143~><~Game.1993~><~Scribe.144~> D7728B
+$Germanator<~Scribe.141~>259 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> CFEE06
+$Germanator<~Scribe.141~>253 038 039 318 040 333 035 024 008 007 <~Scribe.142~><~Game.1918~><~Scribe.143~><~Game.1923~><~Scribe.144~> 7455B7
+$Germanator<~Controls.644~>102 <~Controls.645~><~Game.2035~> 4BFE58
+<Yangus> paso F0C2AA
+<Germanator> pensando 73CEEB
+$Germanator<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> BB934A
+<Germanator> helm BDD55F
+$Germanator<~Scribe.141~>259 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> FC5C4D
+$Germanator<~Controls.840~>189 F0706B
+$Yangus<~Controls.840~>139 CF9E56
+<auto> playchosen 3280CA
+<auto><~Controls.3~>reveal 139 5A15BE136C77E080059B118CE987E8EE3CC51116 13<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> D150A9
+<auto><~Controls.866~>reveal 189 B935806B5C4080DEA88691E5B78BC224EBDF6FE6 18<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> AF2D89
+<auto> playchosen 1C0432
+<game> Germanator<~Controls.1~> 6 6 null
+<Germanator> omg BE5752
+<Yangus> xd 1F0C74
+<game> Yangus<~Controls.1~> 1 4 null
+<game> Yangus<~Controls.1~> 4 null
+<Yangus> 0 4E9BB0
+<Germanator> +1 2090D4
+$Yangus<~Controls.281~>283 289 071 <~Controls.282~><~Game.1993~><~Controls.283~><~Game.2039~> 09F81A
+$Germanator<~Scribe.141~>423 <~Scribe.142~><~Game.32~><~Scribe.143~><~Game.388~><~Scribe.144~> 02AD4C
+$Germanator<~Scribe.141~>412 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1923~><~Scribe.144~> 0B0FEA
+<Germanator> robo CEF8FE
+$Germanator<~Controls.509~>172<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Germanator<~Controls.644~>105 189 139 <~Controls.645~><~Game.2035~> BC9EE2
+$Yangus<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> BA4474
+$Yangus<~Controls.323~>247 D6AFEB
+$Yangus<~Controls.644~>213 <~Controls.645~><~Game.2035~> 1C3D70
+$Germanator<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 9F9F77
+$Germanator<~Scribe.141~>reveal 160 63574FD35D2BC687FF1B64BD78226294574A4289 22 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 86C6F9
+<game> Germanator<~Controls.1~> 5 6 6 null
+<Germanator> 3 1141FA
+$Germanator<~Scribe.141~>252 <~Scribe.142~><~Game.2019~><~Scribe.143~><~Game.2022~><~Scribe.144~> 1F3D95
+$Germanator<~Controls.644~>101 160 <~Controls.645~><~Game.2035~> 64F1D8
+<Yangus> vaya 464CD5
+$Germanator<~Controls.757~>360 099 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 833280
+$Germanator<~Controls.762~>101 105 102 361 104 103 100 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 8EA8EF
+$Germanator<~Controls.509~>162<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Germanator<~Controls.509~>206<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Yangus<~Controls.726~>210 212 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 2CA6EC
+<~Game.7~>7 null
+$Yangus<~Controls.731~>213 211 358 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 719692
+<Germanator> si, muy duro 16748B
+$Yangus<~Controls.509~>115<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Yangus<~Controls.509~>134<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Germanator<~Controls.281~>220 219 <~Controls.282~><~Game.2045~><~Controls.283~><~Game.2044~> CF1053
+<Yangus> declaro en moria 3682E2
+<Yangus> mordor xd 03CCE9
+$Yangus<~Scribe.141~>247 <~Scribe.142~><~Game.1974~><~Scribe.143~><~Game.524~><~Scribe.144~> 8E922E
+<Germanator> jejeje CBF03D
+<Germanator> pool ok F5B3DB
+<Yangus> perfecto ABDAF7
+<Germanator> pensando ojos 2743F3
+$Germanator<~Controls.372~>101 8527D8
+$Germanator<~Controls.372~>105 1C74E5
+$Germanator<~Controls.345~>102 361 104 103 100 360 099 <~Controls.346~>10 12 11 11 10 14 11 null
+$Germanator<~Controls.350~>102 361 104 103 100 360 099 null
+$Yangus<~Controls.345~>213 211 358 210 212 <~Controls.346~>1 1 1 1 2 null
+$Yangus<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> DB3372
+$Yangus<~Controls.790~>247<~Controls.791~><~Game.524~><~Controls.792~><~Game.525~> 6B98E3
+$Yangus<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 618044
+$Germanator<~Controls.624~>219<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Germanator> 2r 6F4202
+$Yangus<~Scribe.141~>243 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2035~><~Scribe.144~> E2BBB1
+$Yangus<~Scribe.141~>245 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> 392656
+$Yangus<~Controls.323~>247 CA0E67
+$Yangus<~Controls.644~>243 219 <~Controls.645~><~Game.2035~> 90866A
+<Germanator> pensando 27A87F
+<Yangus> tyt 416923
+$Germanator<~Scribe.141~>361 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 20346B
+<Germanator> westemmet 48EE9D
+$Germanator<~Controls.840~>162 0DD870
+$Yangus<~Controls.840~>134 58EC3A
+<auto> playchosen A584BD
+<auto><~Controls.3~>reveal 134 95166BF737328AD08BDAB5325DE470865E19ECCF 11<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 2C2899
+<auto><~Controls.866~>reveal 162 E5CEFC490C6114C0E6F6DC8AE21167E426E9245F 18<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> AB8F44
+<auto> playchosen D28D9F
+<Germanator> ff1 1292B6
+<game> Germanator<~Controls.1~> 1 1 3 6 1 null
+<game> Germanator<~Controls.1~> 4 3 3 2 null
+<Germanator> 1 A7748E
+<Germanator> 2 00506F
+<Germanator> perdon E1CF00
+<game> Yangus<~Controls.1~> 5 1 null
+<Yangus> 1 C54D5C
+$Germanator<~Controls.304~>333 <~Controls.305~><~Game.1923~> 46ABEB
+$Germanator<~Controls.313~>015 <~Controls.307~><~Controls.314~><~Game.1923~> 8B406B
+$Yangus<~Controls.296~>073 <~Controls.297~><~Game.1925~> D5FFDC
+<Germanator> press F8026A
+$Yangus<~Scribe.141~>072 <~Scribe.142~><~Game.1925~><~Scribe.143~><~Game.1929~><~Scribe.144~> 0852DB
+<Germanator> + draw AC2FE8
+$Germanator<~Controls.509~>191<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Germanator<~Scribe.141~>253 038 039 318 040 035 015 024 008 007 <~Scribe.142~><~Game.1923~><~Scribe.143~><~Game.1925~><~Scribe.144~> 4D50D7
+$Germanator<~Scribe.141~>418 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1925~><~Scribe.144~> 11CB3A
+$Germanator<~Controls.644~>361 162 134 <~Controls.645~><~Game.2035~> E0294C
+$Yangus<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 0A3CD6
+$Yangus<~Controls.323~>247 9FA1ED
+$Yangus<~Controls.644~>211 <~Controls.645~><~Game.2035~> D028F4
+$Germanator<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 48E3ED
+$Germanator<~Scribe.141~>reveal 191 FCE02D50A2318BDA9B360D36B7CE462281A241AA 3 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> FFC0D4
+$Germanator<~Controls.281~>236 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2044~> 507F2E
+$Germanator<~Controls.644~>360 191 <~Controls.645~><~Game.2035~> 1F9AE3
+$Yangus<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> F528A0
+$Yangus<~Scribe.141~>reveal 115 9DFD774EF2EE6C201CC84BD445F1C0D1017CC030 7 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> DC64D4
+$Yangus<~Controls.281~>233 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2044~> BB5BCC
+$Yangus<~Controls.644~>212 115 <~Controls.645~><~Game.2035~> AE4B7D
+$Germanator<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> D7326D
+<Germanator> edoras 499B35
+<Germanator> nc 848BCE
+<Yangus> nc E46DDE
+<game> Germanator<~Controls.1~> 1 3 1 5 5 null
+<game> Germanator<~Controls.1~> 1 4 2 1 2 null
+<Germanator> 0 EBDA2E
+<game> Yangus<~Controls.1~> 2 null
+<Yangus> 0 0F0D1B
+<Germanator> press DD3EEB
+$Yangus<~Scribe.141~>233 236 220 225 223 222 221 217 216 215 <~Scribe.142~><~Game.2044~><~Scribe.143~><~Game.1933~><~Scribe.144~> F7B9D5
+$Yangus<~Controls.819~> C39E07
+$Yangus<~Scribe.141~>072 <~Scribe.142~><~Game.1929~><~Scribe.143~><~Game.1933~><~Scribe.144~> 914690
+$Germanator<~Scribe.141~>253 038 039 318 040 035 015 024 008 <~Scribe.142~><~Game.1925~><~Scribe.143~><~Game.1929~><~Scribe.144~> 2DEEB3
+$Germanator<~Scribe.141~>423 <~Scribe.142~><~Game.388~><~Scribe.143~><~Game.389~><~Scribe.144~> 1A2D96
+<Yangus> paso 13E2A4
+$Germanator<~Scribe.141~>417 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1929~><~Scribe.144~> 05F3C0
+$Germanator<~Controls.644~>104 <~Controls.645~><~Game.2035~> CD1D05
+<Germanator> pensando 1F295A
+<Yangus> tyt 935E33
+$Germanator<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> F031BD
+<Germanator> saruman 28A368
+$Germanator<~Scribe.141~>329 330 331 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2037~><~Scribe.144~> BA0D20
+$Germanator<~Scribe.141~>329 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.1910~><~Scribe.144~> 75CB56
+$Germanator<~Scribe.141~>330 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.1914~><~Scribe.144~> 9F7EB9
+$Germanator<~Scribe.141~>331 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.1919~><~Scribe.144~> DF47E5
+$Germanator<~Controls.644~>102 <~Controls.645~><~Game.2035~> 7DF419
+<Yangus> paso 8A195C
+$Germanator<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 90655B
+$Germanator<~Scribe.141~>reveal 171 008F6565F86834A745E566C24A97D55B7698AB09 12 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 2E9BA0
+$Germanator<~Scribe.141~>328 332 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1885~><~Scribe.144~> 5FA27A
+$Germanator<~Scribe.141~>329 001 <~Scribe.142~><~Game.1910~><~Scribe.143~><~Game.1885~><~Scribe.144~> EADD7E
+$Germanator<~Scribe.141~>330 000 <~Scribe.142~><~Game.1914~><~Scribe.143~><~Game.1885~><~Scribe.144~> 3BAFAE
+$Germanator<~Controls.644~>100 171 <~Controls.645~><~Game.2035~> C275EE
+$Yangus<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 65C766
+$Yangus<~Controls.790~>247<~Controls.791~><~Game.525~><~Controls.792~><~Game.528~> F7484E
+$Yangus<~Controls.795~>358<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 9DD18D
+$Germanator<~Controls.624~>220<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Yangus<~Scribe.141~>245 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2035~><~Scribe.144~> C65630
+$Yangus<~Scribe.141~>252 <~Scribe.142~><~Game.2022~><~Scribe.143~><~Game.2024~><~Scribe.144~> A36329
+$Yangus<~Scribe.141~>364 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1999~><~Scribe.144~> C93825
+$Yangus<~Controls.323~>247 851F61
+$Yangus<~Controls.644~>245 220 <~Controls.645~><~Game.2035~> 86756A
+$Germanator<~Scribe.141~>220 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2035~><~Scribe.144~> 1ED013
+$Germanator<~Controls.819~> E4C45F
+$Germanator<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 68AEE6
+$Germanator<~Scribe.141~>055 057 049 048 047 046 045 043 042 041 <~Scribe.142~><~Game.1932~><~Scribe.143~><~Game.1938~><~Scribe.144~> B0DF50
+$Germanator<~Scribe.141~>330 000 329 001 328 332 <~Scribe.142~><~Game.1885~><~Scribe.143~><~Game.1884~><~Scribe.144~> 04FF19
+$Germanator<~Controls.644~>103 <~Controls.645~><~Game.2035~> EAD428
+$Yangus<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 8265F4
+$Yangus<~Scribe.141~>reveal 135 37EB48C59785AEF14D278B5FDA3F4B0A69BF6F38 2 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> 64B7BC
+$Yangus<~Scribe.141~>252 <~Scribe.142~><~Game.2024~><~Scribe.143~><~Game.2023~><~Scribe.144~> 30F109
+$Yangus<~Controls.323~>247 4CA724
+$Yangus<~Controls.644~>210 135 <~Controls.645~><~Game.2035~> 9F2BC8
+$Germanator<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 2AD2E7
+<Germanator> shire 75AFF8
+<Germanator> nc 979366
+<Yangus> nc B32C90
+<game> Germanator<~Controls.1~> 6 3 5 3 5 null
+<game> Yangus<~Controls.1~> 4 null
+$Germanator<~Scribe.141~>423 <~Scribe.142~><~Game.389~><~Scribe.143~><~Game.391~><~Scribe.144~> AE4DD1
+<Yangus> 0 7D3FB6
+$Yangus<~Controls.281~>063 <~Controls.282~><~Game.1890~><~Controls.283~><~Game.2039~> E2A1BA
+$Germanator<~Scribe.141~>330 000 329 001 328 332 <~Scribe.142~><~Game.1884~><~Scribe.143~><~Game.1890~><~Scribe.144~> DC8FBB
+$Germanator<~Scribe.141~>411 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1890~><~Scribe.144~> BAD16B
+$Germanator<~Controls.644~>099 <~Controls.645~><~Game.2035~> DB853A
+$Germanator<~Controls.757~>105 101 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> F37985
+$Germanator<~Controls.762~>099 103 100 102 104 360 361 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 81A3BB
+$Germanator<~Controls.509~>174<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Germanator<~Controls.509~>170<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Yangus<~Controls.726~>358 213 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 15221C
+<~Game.7~>8 null
+$Yangus<~Controls.731~>210 212 211 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 1ED6A8
+$Yangus<~Controls.509~>127<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Yangus<~Controls.509~>145<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Germanator<~Controls.372~>099 DD16D5
+$Germanator<~Controls.345~>103 100 102 104 360 361 105 101 <~Controls.346~>14 13 15 10 15 13 11 12 null
+$Germanator<~Controls.350~>103 100 102 104 360 361 105 101 null
+$Yangus<~Controls.345~>210 212 211 358 213 <~Controls.346~>0 4 0 1 1 null
+<Yangus> ojo ganas no? 13AE22
+<Germanator> sip D563A9
+$Yangus<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> C83696
+$Yangus<~Scribe.141~>reveal 154 F64867E5FA5A548ADC7E7018DBCFE26E8B599481 21 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> 524C39
+$Yangus<~Scribe.141~>252 <~Scribe.142~><~Game.2023~><~Scribe.143~><~Game.2021~><~Scribe.144~> 5DC74C
+$Yangus<~Controls.644~>210 154 <~Controls.645~><~Game.2035~> E59A4F
+$Germanator<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> E9CC0A
+$Germanator<~Scribe.141~>reveal 186 E9A817C107DD42D8C698A4C2312D8602B85A315D 5 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 93A658
+$Germanator<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2037~><~Scribe.144~> 1B3D8A
+<Yangus> mierda lo sabia 05F16D
+$Germanator<~Controls.644~>103 211 186 <~Controls.645~><~Game.2035~> 69B544
+$Yangus<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 7314E3
+$Yangus<~Controls.790~>247<~Controls.791~><~Game.528~><~Controls.792~><~Game.529~> 4087FD
+$Yangus<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> B89E1B
+$Germanator<~Controls.624~>233<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Yangus<~Scribe.141~>252 <~Scribe.142~><~Game.2021~><~Scribe.143~><~Game.2020~><~Scribe.144~> 289446
+$Yangus<~Controls.644~>233 <~Controls.645~><~Game.2035~> 63CE27
+$Germanator<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> E5821D
+$Germanator<~Scribe.141~>reveal 174 784A6CFFB71DC5798EC090B76916A82FAD448837 17 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 458F70
+$Germanator<~Controls.281~>239 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2044~> 885484
+$Germanator<~Controls.644~>100 174 <~Controls.645~><~Game.2035~> BD98BD
+$Yangus<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 569997
+$Yangus<~Controls.790~>247<~Controls.791~><~Game.529~><~Controls.792~><~Game.532~> 1ACD7F
+$Yangus<~Controls.795~>358<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> FDEB6F
+$Germanator<~Controls.624~>216<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Yangus<~Scribe.141~>252 <~Scribe.142~><~Game.2020~><~Scribe.143~><~Game.2021~><~Scribe.144~> 3CDBAC
+$Yangus<~Controls.644~>216 <~Controls.645~><~Game.2035~> 5E75D5
+<Yangus> uf que suerte estasa dos 0F4FB3
+<Germanator> po zi xD 79C7BA
+$Germanator<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 13E2BB
+<Germanator> pelargir 042E5A
+<Germanator> nc 311FA1
+<Yangus> nc 997C9F
+<game> Germanator<~Controls.1~> 2 1 2 6 5 null
+<game> Yangus<~Controls.1~> 1 null
+$Yangus<~Controls.281~>078 <~Controls.282~><~Game.1931~><~Controls.283~><~Game.2039~> FFD44A
+<Germanator> al menos yo hice mi trabajo xD E4A458
+$Germanator<~Scribe.141~>055 057 049 048 047 046 045 043 042 041 <~Scribe.142~><~Game.1938~><~Scribe.143~><~Game.1931~><~Scribe.144~> DF95D7
+<Yangus> xD A55724
+$Germanator<~Scribe.141~>416 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1931~><~Scribe.144~> FC99F4
+<Germanator> suerte!!! 88D14B
+$Germanator<~Controls.644~>101 <~Controls.645~><~Game.2035~> E20DFC
+$Germanator<~Scribe.141~>423 <~Scribe.142~><~Game.391~><~Scribe.143~><~Game.392~><~Scribe.144~> 3B6D9D
+<Yangus> igualmente!!! C64F7B
+$Yangus<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> F3EFC3
+$Yangus<~Controls.366~>250<~Controls.367~><~Game.2009~><~Controls.368~><~Game.2011~> CC6134
+$Yangus changes 212  to C FF1ED0
+$Yangus<~Controls.790~>247<~Controls.791~><~Game.532~><~Controls.792~><~Game.533~> DC37B7
+$Yangus<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 97D0F4
+<Germanator> ha estado guay. la otra fue mas intensa, o al menos con otra intensidad 886655
+$Germanator<~Controls.624~>239<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Germanator> gg F3DFEC
+<Yangus> gg! 6619EC
+<Yangus> que pena 82C795
+$Germanator<~Scribe.141~>247 <~Scribe.142~><~Game.533~><~Scribe.143~><~Game.532~><~Scribe.144~> 339A7B
+<Germanator> pues si 5E1338
+<Yangus> 2/8 125F97
+<Germanator> podia haber ganado cualquiera C78028
+<Yangus> bueno muy bien jugado 2B1052
+<Germanator> 4/8, no? F3B9DD
+<Germanator> el ojo te mataba 32D68A
+<Yangus> la verdad que me has arrasado militarmente 29DEDF
+<Yangus> ostras toda la razon 6D0763
+<Germanator> 50/50 C7F7FC
+<Yangus> entonces totalemnte justo 04A9BF
+<Yangus> siempre me lio con los ojos ajaj 3CBED2
+<Germanator> la verdad q toda la partida concentrada justo ahi D42B84
+<Germanator> si, militarmente he sido un rodillo. muchos 6s 84E164
+<Germanator> abismo fue de coña xD CD3ADB
+<Yangus> sisi, +9 en 6s 2EB958
+<Germanator> sisi. brutal B64A92
+<Yangus> pero bueno igualmente lo has jugado muy bien 4893E8
+<Yangus> me ha hecho gracia que ha caido la comarca jaja E5C4CF
+<Yangus> no se si lo habia visto aun 2CD458
+<Germanator> ha sido un corre corre por ambos bandos 65FD10
+<Yangus> si xD 54DAD1
+<Yangus> aprovechando el poco tiempo 294745
+<Germanator> y a ves, en una horica E08610
+<Germanator> bueno, esta partida creo q la castea Fran 6F7DB3
+<Germanator> asi q si quieres mandale por privado la contraseña CD73AD
+<Yangus> ostras enserio? no sabia 7765B2
+<Germanator> lo puso Tigre en el chat B7A54F
+<Yangus> pues le mando si A073C0
+<Germanator> vale, yo tambien, me ahorro la reseña xDDD 465910
+<Yangus> pues nada un placer haber jugado contigo! Me lo he pasado muy bien en ambas partidas E3113E
+<Yangus> jajaja B4987B
+<Germanator> bueno, oye, un placer. lo he pasado muy bien en ambas. han estado muy igualadas 870522
+<Germanator> jajaja C4151A
+<Germanator> idem 21B078
+<Yangus> mucha suerte el resto del torneo 2CA2A7
+<Germanator> hemos escrito a la vez 95AE14
+<Yangus> ya nos encontraremos de nuevo 335A84
+<Yangus> xD 76FE14
+<Germanator> igualmente, creo q estaremos ambos en siguiente fase BDF058
+<Yangus> eso espero jeje 071733
+<Yangus> que vaya bien! 27B5BA
+<Germanator> nos vemos!!! 101A28
+<~Talker.22~> null

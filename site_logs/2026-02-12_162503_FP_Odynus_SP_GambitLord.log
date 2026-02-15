@@ -1,0 +1,814 @@
+<auto> silent null
+<auto><~Scribe.141~>363 397 398 402 401 400 399 403 404 376 375 374 373 377 378 <~Scribe.142~><~Game.2038~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>365 366 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 367 368 369 370 371 372 <~Scribe.142~><~Game.2040~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>230 231 <~Scribe.142~><~Game.2044~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>155 152 <~Scribe.142~><~Game.2004~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>137 151 <~Scribe.142~><~Game.2005~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>161 198 <~Scribe.142~><~Game.2006~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>163 188 <~Scribe.142~><~Game.2007~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Controls.323~>364 null
+<auto> noisy null
+<auto> silent null
+<auto><~Scribe.141~>312 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1965~><~Scribe.144~> null
+<auto> noisy null
+<~Game.7~>1 null
+<auto> silent null
+<auto><~Scribe.141~>363 397 398 402 401 400 399 403 404 376 375 374 373 377 378 <~Scribe.142~><~Game.2038~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>365 366 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 367 368 369 370 371 372 <~Scribe.142~><~Game.2040~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>230 231 <~Scribe.142~><~Game.2044~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>155 152 <~Scribe.142~><~Game.2004~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>137 151 <~Scribe.142~><~Game.2005~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>161 198 <~Scribe.142~><~Game.2006~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>163 188 <~Scribe.142~><~Game.2007~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Controls.323~>364 null
+<auto> noisy null
+$base silent null
+$TEST<~Scribe.141~>312 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1965~><~Scribe.144~> null
+$base noisy null
+<game> GambitLord<~Controls.408~>[WOTR-Gandalf2 wotr base2] null
+<~Talker.31~> null
+<Odynus> greetings 
+<GambitLord> Hi 
+<GambitLord> Roll and bid? 
+<Odynus> yup 
+<game> Odynus<~Controls.1~> 1 null
+<game> GambitLord<~Controls.1~> 4 null
+<GambitLord> 2 tokens for SP 
+<Odynus> 2+ring 
+<GambitLord> 3 tokens 
+<Odynus> accept 
+<Odynus> gl hf 
+$Odynus<~Controls.281~>426 427 <~Controls.282~><~Game.2038~><~Controls.283~><~Game.2042~> 
+$GambitLord<~Controls.479~>3B962545C03F703DFA1B35F32333BE92B2609FAD DC919B403C28BE122998DCC7640C4F82 24 74A51F3694DAEBEC9B3ECAA8AF221FC5C48775AB 376D21CDE4FD8C01C8341CE391BAF8D2 01EBE879BD31AD464FC0F6953B397AFB581A25AA C613AC23179518FEDFBD3248D6DE30E7 4AEF80DEA5C755FED7C7BEEA3302BE141399167C 70B3CFEBD7F675EB5BA713655BE0753F CFCEDF46E72ACA5279FCC38B465956AD7786886B B5B0EBDFCB9A74607B92C5011DBEC7D0 BE192B133540C8D10317EB79C591CAD3C162ABC3 AA135A6EE96971DC6E2C98E8BC32CF80 731C3FE7810148F532E51F14DF545A98BF21AF77 4141BA9F71B84ABA39D3868F93C1329F 6B45706EE885A8DD1317626C25BD2F95047D2E75 CE8457901C6B453EDE2426460901870F 4AD37523EE2A6E1454B267687B9F9BB6ABB81D3B C62DB08B95BB021CBADCB8C026B64810 AB79C092D1DFBB7D5F204006939E3DB6F1CECAB9 C9452A3E2850A93F2EA3EA9B699524CB 8E12E1C7007BB7BFEE9A11905BF692F42C81D823 E1224F36B89A5B2881B3755BD7BCB93A 76D47CCCC7A0004EF5AE09C141079BD0405BE3B0 0C5AB754F6B24095057CE24A573B41DF 6D2C4543009F44A7EC03F34672750E1885E8AB69 F7D564D4D01F04F9779CDEC83D395637 CB250BE30C0A0D6FFA9737433C7C581ECAFD78F6 0C16E14C2644041DABE69AC52396BFD1 5A3B7CB5F2B90B3E03203BFA8895D4256160FDB2 AED951C0C362AE8C68457661FF0FD5F9 CA89C97FEEAA7ED0C0A79FE2E2BCBF23BB1F695A C3BB16428A6D02F690AD358D724727B7 8E1BCE89121370DF758EDC49A734AAAD3D469A53 7282A69AEF132845847D679E5E35B3EB 85FC63A11F230C809BF448EE2BAC1D2E1FFD91EF 2D278B1BA9C4A131C6EE92EBBAE55E6F 97550736520560EC0D4E75FC09F8072C89A562E4 F1DAC776A5964183DF7DBA8AA88B06D5 36D74E93DC9C60EB3737D297AA1004B35FB76604 CC8AE43F3D4DCFFE826CC233C7423E1A 6C9F743A2552EF80A35FBBE368ED55E9D4910885 A0A88EE6A9EB8D9DF1C1BA6DC6115E80 2455B0771145311C7882CDF0C273B5670A372F0F 253C77A3B58BC2129F6D1E943902B3A8 7EFD6AFCE7F2157060C701930C59DDB68E85836E 33801264B46B454616700FCEAF610950 5D2BFA109A9794A6CCD79A223DF488A319D03D8A 41905D31B467411E1A2EB2CF0380718C C1B3BCA5D6F2BDB675C9F9B8A93CC60D86E9202C 28EA128DF251D5F30E52489BF27E61AC 24 A4E512D2A6923C17AF96A12EE484A972ADE6A443 2DC8FE8790DE8D5197DFCD86EE066C0D 96D60BF0F4913AD95B956DBA3073A79458C734C1 3D97B0DF8516E6067E5DE18131F5ECCB C52C381E8CA7EA05BB099205C9BE24159CF88490 7A0DD7C1D485674CDA39EA1014578AB9 D17863FF86A40AF642927B91967DCCCB0E812179 F6A4682C0099E2376ECCFE2BA04679D7 A602A7493492D6CA3361C34139519999D522EFFB BD7E928BBEDDCA5A4F9B3D4C657C5BB8 C021F2195497F85E853EC3CED2CEBB64037EE4CC 19F283BDEC1A4A4DCAC563778AAA83D5 E8C2B5D31979FC8087CE7738228DCC3B7F1892BD 104CCD18C173588A84B9A43125F5BB89 50846912780F5F10C4BB3EF0EB93050FE9E8B29E 31836C48460A573BE1956577CC1B8B19 D695DA43B1A841EE93E7059C6679F732F794E44D 8FE30AA105D58DF7A9E1C06D6C28AADB CC0F8A38D10459AF60143603C4114C08D330F131 0EF79A19FF9BC494E976DD6F58B7252D 626983150E629640FCEEFC1D200B4E1C560D35BC DD2DB6EEE2503AAD17C96DBAA52CC3B0 C3E32F2971DC53AFF404D20AFC64FED9652D4356 420B0E907B36BDA379E95AD4B46AF349 29786409357B9F5C20E38150B86654E1C3EA1C6B 9CDA3C32698BD993C6EDF0350FDE2106 3416542E1A220D693427448F8E1A0E23F2B6DBBB A6307EE913AC3B990C9D18BD79F2C784 F4DFEDB95B2B6F276FA7552DB0A1C16D584B1D74 F8BC97BBDBDFBD39D586847F3F459A84 A88210831FBDC1C42AA28AEAB31FF29FFC5C507C D32FBF949345690085E87531D428A6BB 08D563796EFD39175F7E86369C13EE6ECE7476FF 1D38D2742F9334B0060520F39C4D8B8E B44F4CAA1EA9232E82A949F489280D9E645E9809 AADD01BCBC9CC20AA6D2F61D07A46631 C72E7CD4D0CD3605D49719A629D01FF242CF1667 BCBB62F890D60D553F23A0F8E2CBC028 2325BE35619F1AC24FE15D63FAFA353C31984FD4 CDDFE77CC3460D5997AA0CCAE9A42383 33CC671DF3F0D1D46F4185E12500275A533B2BFE 8B5066E6DD9932230A87B0FCA0D41FD2 96A407D436F9E77AC812F5856F32BED2CEB0F117 23819B50D04E689C663029286255C44C D366A7F9B414B668EBDBCB9A3824A5138434E1BF C23411AC282E321015F11854BA62175B 1CCF32108BDE2A780452384CDB9490961AF52A72 58965D7A808001CA814DDE68F1564163 0 0 39C5AB
+$GambitLord<~Controls.509~>169<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$GambitLord<~Controls.509~>185<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Odynus<~Controls.281~>425 <~Controls.282~><~Game.2040~><~Controls.283~><~Game.2042~> 
+<GambitLord> 0e 356C07
+$Odynus<~Controls.464~>0EA3B18DB5EAB93E9C45092A43197168C6B5FDD4 F6CD231C2B9AFF674E5A66019E05AEA3 24 080D7EE8DF2CBAFAAEA3B8DA9BFB6ABCF6BE735D F078179266752025FCD7FF00FC09EEA8 AF223AE343AA380894BE28504E5EAF737002AB7E FC4F7E283434A6467CCFF445807E1239 936AE2D94E71C7C097B8F2131E980F807FF37AD5 72CE144DDC890A1304CA08F55728A408 C26ABDF6B192BED22F4953A7427738165DE50E4E 79D0792A6195B3D84B1E598A376CB174 2B23EEA3E12A42EF60321FF2AE03D140796465F2 BB88A0322B3729DD5BBF33C9A0D68622 C8D3C14199F9D23551820B9E419D41235153C548 5C9D7F81E69C97FEABA48B786364311D 16E515F8C22551465FEE62A721D10C304385E551 27A060CCA92794E66C1FC348674FBEF6 D7676B70F1B852FD045BFEA361A05FBABAFC14E0 0A56B2985B10C8C423B135E2AA6324F8 78ABD4A1FE1FC79A9E0DDC188039E0CED50BF52C C481731C526E76C4773770B08620FF5E 4BF11CB6F1801B3E4C021DEDF07AAD65BBD353E7 DC2573493C8409F74B819F4D352A043C 74D9BCFE749150A2399D0B1598584F4C84E411D7 D471FE2642772D8A0FA1AA9997CF9FAC 1C97B94BF796678C1E8673122A2801C82161F297 9ECE63426AD4BC7F5390EF3932A8ADDD E09AEAB95BDDF3A6D86509387E0217B71AF77380 4FBE35D93C8825139DF8EDFE798E0EC1 E696B30E00E9857C5B504248CA6BC5FC30C7F090 1283AF97A82C33B97B359515507A2D64 D47FA50868E1ECFB440324C5D3CAADA15B9851CA 5EC148B526D1958EDAE3A7E7CFFF98E6 4E4D663C814840791E3313D20CEF52F63E407F2B 6B91A4B01FA14AD59992F8A24676EFB5 F11720548BD3FAB6421A8C5AFFE5E43F6D8372E5 E1B3DB6D8B0C7E33596868DF800BB8BB 6BCA8AF3529DD41E5DF7C3423E6A4053306D3988 D2DDE87DDA56D50596D2C9304C47A3E2 927AD2FD07BE495CE4541D62C2DA79205384731F EA4FF98617B087ADFB91565938C351D7 3058840A093C3CC6FCC3A878282E585C80E864AD E52CD3424B3C8D1EF1B7899C9F1A6845 AD7EF66D9F37CB765AE3A8110C14468CD0C92AF9 4043A6251FADAC8578692386E656A368 B32C47886D920A2118A68D73A79D55C7869F98E7 333EB343C45196FF3A7B258F025C117B 35CC68BD6514D8177D591E1EDE82F75653C72BB9 DD71807217C1C583DD3AF5EF3C19C5F9 6D662B1A5C628ECF9CBE9B3F457F1162E5C652DF C1B6125AFF81D13598F9BFC438829690 24 01FEAAF7CD1C2286FDBAA912387B75D6D9B7BB8F 70081457195662C8082C05653394FAA7 9D6BE83B899840C64D1616BBA43FF803D06DD0AB 88DB38C7970A82E44433027A8BEBFF7D 498CB3E71D2091BDE6B66BF7C62FE5A248396806 DC5ED0E865F38B282E23E95684AD4099 4E50C8DC1B4BC18B1DD3D781B66A6218464A6903 F41B7B9C8C74073A0C1A8D4A48CA627A 0CDE389BD0F8BE9D986F5B38C1A5F296D6FCD087 B7AAC687DB3D572756FDC3D92FDBCB32 EA39A2245403DCC562422015BA4B3627E8FD806A 666C24B8C31CAE67D1AF66E54121BEF5 19B0C9F48C06342AEC3A5043049124F00206C191 CC819C92828864C3DC14D6DBF8676898 EA3B33A4ADAA2F04177CA2DF034F3D810F099B40 B370FDA4844CD85209757CFD49D0CA0D AEC2AB620BEBBC80BB98AE2FC09E28ECB709576A 9A2C5C9405F5B130EF172803E5C7EE48 3F9C1E5EB0AD38708B9B541709DB9D7E21E5D973 A476BFA1FAE101FC3D2795C5BBB01023 B3C74377FFFB93930792B26153406D63ADAA64F6 D2C80CFC31246181122F4ADCC1FC3D40 B0CAAF39A412916C75590EF5C1B6C3EDF01F2C3C 7440FCB4B78860E68CCF4B18F4C1D2CB 1BD26E6A2D7DE4948704CA83908CF0C047F7FA16 DC3B3CC1797652329F7361AA9D0A6EE3 EA26828E73D0472873DB7B96C39C92C2B09C091B 559F44F92D8222A12721EE25D465A4C2 0799804DFB73C0C48EBF3BA2078CAABA56D8B81E 53F5E4D372DCB78A3FB6FD35497C2C20 B5F193CE3BC5A006122033AA374BC79DFD88FCE8 EBDD973C35FE8DF1D327582342ADB996 FA499B7DBA1F6F36BCE0DE0740144670AEFFC225 858159D9573701C07395716DDFF77494 663C217348DB3C1669768626222FD0CF15F9D44B CFFA65A58C0383036A4627FEA5B444D4 49842540413211B69DF8D71437E8ADD204592576 F4EB1F838649C4D90FE4A68639E31748 6B2DFA1D1141A064F422829C821A3F8895D1ED8A 0DB3AE4E51E821745A85DE8B6B107213 0A50B1ED49988D05DEB1253AD60F2DE0581D71B7 D7F1E6BF00378263B95FA9977618C17D EEC81E6203577CD80E0DAF5C40948FC6F45D6AE3 A65C07B4895A98002431D6028549D6DC D8CF415CA7DACBA5855034A340561A207FF0212F 9904FF21ED956C146EB7614879AA7065 E0A3509D26BC2D662CE1110E3C2BBC0D48385DF5 0F9191559BF85621DEC810CDE9695E9A 0 0 088C22
+$Odynus<~Controls.509~>142<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Odynus<~Controls.509~>156<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+<Odynus> f ok C4BC55
+$GambitLord<~Controls.345~>105 104 103 102 101 100 099 <~Controls.346~>11 11 11 10 10 10 11 null
+$GambitLord<~Controls.350~>105 104 103 102 101 100 099 null
+$Odynus<~Controls.345~>213 212 211 210 <~Controls.346~>3 1 1 4 null
+<Odynus> pass 8E1A2C
+$GambitLord<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> F98158
+$GambitLord<~Scribe.141~>263 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> D28B46
+$GambitLord<~Controls.644~>101 <~Controls.645~><~Game.2035~> 47CF8B
+<Odynus> pass 46EDFA
+$GambitLord<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 42E1C3
+$GambitLord<~Scribe.141~>262 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 5A4334
+$GambitLord<~Controls.644~>102 <~Controls.645~><~Game.2035~> 160CBF
+$Odynus<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 120F52
+$Odynus<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 38A2B7
+$Odynus<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 3780D0
+$GambitLord<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 8E20A2
+$GambitLord<~Scribe.141~>254 360 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2037~><~Scribe.144~> 7B5B38
+$GambitLord<~Scribe.141~>254 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.1919~><~Scribe.144~> 5FA98A
+$GambitLord<~Controls.644~>100 360 <~Controls.645~><~Game.2035~> 3B3A09
+$Odynus<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 0D717E
+$Odynus<~Controls.790~>248<~Controls.791~><~Game.2015~><~Controls.792~><~Game.2016~> 29CF41
+$Odynus<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 65F818
+$GambitLord<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 8CF1E1
+$GambitLord<~Scribe.141~>039 036 029 028 027 026 <~Scribe.142~><~Game.1979~><~Scribe.143~><~Game.533~><~Scribe.144~> 595E0B
+$GambitLord<~Scribe.141~>034 033 <~Scribe.142~><~Game.1971~><~Scribe.143~><~Game.1977~><~Scribe.144~> 79631F
+$GambitLord<~Controls.644~>105 <~Controls.645~><~Game.2035~> 1F80C2
+<Odynus> pass CE5E9D
+$GambitLord<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> FB079D
+$GambitLord<~Scribe.141~>039 036 029 028 027 026 <~Scribe.142~><~Game.533~><~Scribe.143~><~Game.1974~><~Scribe.144~> CA3A7D
+$GambitLord<~Scribe.141~>034 033 032 031 030 <~Scribe.142~><~Game.1977~><~Scribe.143~><~Game.1969~><~Scribe.144~> F90019
+$GambitLord<~Controls.644~>104 <~Controls.645~><~Game.2035~> 581947
+$Odynus<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> B7A4EC
+$Odynus<~Scribe.141~>249 <~Scribe.142~><~Game.2008~><~Scribe.143~><~Game.2011~><~Scribe.144~> 6D33BF
+$Odynus<~Controls.790~>248<~Controls.791~><~Game.2016~><~Controls.792~><~Game.2017~> 2CD5B3
+$Odynus<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> C8FD97
+$GambitLord<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 5768C1
+$GambitLord<~Scribe.141~>039 038 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1974~><~Scribe.143~><~Game.1976~><~Scribe.144~> 042954
+$GambitLord<~Scribe.141~>055 049 048 047 <~Scribe.142~><~Game.1968~><~Scribe.143~><~Game.1946~><~Scribe.144~> D03D71
+$GambitLord<~Scribe.141~>103 <~Scribe.142~><~Game.2035~><~Scribe.143~><~Game.2037~><~Scribe.144~> D63724
+<GambitLord> chek BB07DE
+$GambitLord<~Scribe.141~>039 038 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1976~><~Scribe.143~><~Game.1972~><~Scribe.144~> 649385
+$GambitLord<~Scribe.141~>039 038 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1972~><~Scribe.143~><~Game.1976~><~Scribe.144~> D67285
+<GambitLord> I'm back 574216
+<Odynus> ait DF614E
+<Odynus> looks alright on my end 7DDBD1
+$GambitLord<~Controls.644~>103 <~Controls.645~><~Game.2035~> 64C41E
+<GambitLord> kk 0C09A6
+<GambitLord> all good F5C0D4
+$Odynus<~Scribe.141~>425 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 5DCCC5
+<GambitLord> your turn? 7A88CB
+<Odynus> ye just thinking 250183
+<GambitLord> kk 7D616C
+$Odynus<~Scribe.141~>256 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> 29AA06
+$Odynus<~Controls.644~>425 <~Controls.645~><~Game.2035~> FEA471
+$GambitLord<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 99DCA2
+$GambitLord<~Scribe.141~>039 038 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1976~><~Scribe.143~><~Game.1964~><~Scribe.144~> D58AFA
+$GambitLord<~Scribe.141~>037 034 033 032 031 030 020 019 018 017 016 <~Scribe.142~><~Game.1969~><~Scribe.143~><~Game.1955~><~Scribe.144~> 39F0FC
+$GambitLord<~Controls.644~>099 <~Controls.645~><~Game.2035~> 7375BB
+$Odynus<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> B7AB7A
+$Odynus<~Scribe.141~>260 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> 43C545
+$Odynus<~Controls.644~>210 <~Controls.645~><~Game.2035~> EB9A43
+$GambitLord<~Controls.762~>099 103 104 105 100 360 102 101 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 521D8E
+$GambitLord<~Controls.509~>173<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$GambitLord<~Controls.509~>206<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Odynus<~Controls.509~>144<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Odynus<~Controls.509~>120<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Odynus<~Controls.726~>213 211 212 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 3BDC42
+<~Game.7~>2 null
+$Odynus<~Controls.731~>210 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 240492
+$GambitLord<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> F82390
+<Odynus> f ok E84D22
+$GambitLord<~Controls.345~>099 103 104 105 100 102 101 <~Controls.346~>10 12 10 12 12 15 11 null
+$GambitLord<~Controls.350~>099 103 104 105 100 102 101 null
+$Odynus<~Controls.345~>210 213 211 212 <~Controls.346~>0 3 0 1 null
+$Odynus<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 9E07B3
+$Odynus<~Controls.790~>248<~Controls.791~><~Game.2017~><~Controls.792~><~Game.2018~> 6DBDB5
+$Odynus<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 8C720B
+<game> GambitLord<~Controls.1~> 2 3 null
+$GambitLord<~Controls.281~>104 <~Controls.282~><~Game.2043~><~Controls.283~><~Game.2043~> 12EC2B
+$GambitLord<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> F1AE76
+$GambitLord<~Scribe.141~>336 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1956~><~Scribe.144~> 9AA6F3
+$GambitLord<~Controls.644~>099 <~Controls.645~><~Game.2035~> 79141C
+$Odynus<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 73EADD
+$Odynus<~Controls.790~>248<~Controls.791~><~Game.2018~><~Controls.792~><~Game.2019~> ADD0A7
+$Odynus<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 40AD08
+<game> GambitLord<~Controls.1~> 5 6 null
+$GambitLord<~Controls.624~>217<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Odynus<~Scribe.141~>247 <~Scribe.142~><~Game.1911~><~Scribe.143~><~Game.1915~><~Scribe.144~> 4E78E1
+$Odynus<~Scribe.141~>247 <~Scribe.142~><~Game.1915~><~Scribe.143~><~Game.1912~><~Scribe.144~> B23580
+$Odynus<~Scribe.141~>247 <~Scribe.142~><~Game.1912~><~Scribe.143~><~Game.1917~><~Scribe.144~> DBC54A
+$Odynus<~Scribe.141~>247 <~Scribe.142~><~Game.1917~><~Scribe.143~><~Game.1927~><~Scribe.144~> 6C8ED2
+$Odynus<~Scribe.141~>247 <~Scribe.142~><~Game.1927~><~Scribe.143~><~Game.1930~><~Scribe.144~> 9BE7FF
+$Odynus<~Controls.323~>247 D8C13B
+$Odynus<~Scribe.141~>252 <~Scribe.142~><~Game.2014~><~Scribe.143~><~Game.2015~><~Scribe.144~> C4207C
+$GambitLord<~Scribe.141~>217 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2034~><~Scribe.144~> 0342E2
+$GambitLord<~Controls.624~>220<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$GambitLord<~Scribe.141~>217 <~Scribe.142~><~Game.2034~><~Scribe.143~><~Game.2036~><~Scribe.144~> 81297C
+<Odynus> classic 91A4D7
+$GambitLord<~Controls.644~>217 220 <~Controls.645~><~Game.2035~> 6A14C0
+<GambitLord> =) 41CCB7
+$GambitLord<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 6DDDA5
+$GambitLord<~Scribe.141~>040 336 035 015 014 013 012 011 <~Scribe.142~><~Game.1956~><~Scribe.143~><~Game.1958~><~Scribe.144~> 90A877
+$GambitLord<~Scribe.141~>056 052 051 050 <~Scribe.142~><~Game.1986~><~Scribe.143~><~Game.1984~><~Scribe.144~> D6C599
+$GambitLord<~Controls.644~>105 <~Controls.645~><~Game.2035~> BC018D
+<Odynus> pass CB1C68
+$GambitLord<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 0C3FA6
+$GambitLord<~Scribe.141~>040 336 035 015 014 013 012 011 <~Scribe.142~><~Game.1958~><~Scribe.143~><~Game.1957~><~Scribe.144~> 13E23D
+$GambitLord<~Scribe.141~>054 053 <~Scribe.142~><~Game.1987~><~Scribe.143~><~Game.1984~><~Scribe.144~> 308239
+$Odynus<~Controls.323~>258 6D38F0
+$GambitLord<~Controls.644~>100 <~Controls.645~><~Game.2035~> DE6BB6
+<Odynus> pass 856C18
+$GambitLord<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> B2D0AA
+<GambitLord> Attack OSG from NI 5109C3
+<GambitLord> nc B1D909
+<Odynus> nc 484A8C
+<game> GambitLord<~Controls.1~> 6 1 5 1 3 null
+<game> GambitLord<~Controls.1~> 4 5 null
+<game> Odynus<~Controls.1~> 3 4 null
+<GambitLord> 1 462EB5
+<Odynus> 0 6DCC07
+<GambitLord> press BCA53D
+$Odynus<~Scribe.141~>079 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.2036~><~Scribe.144~> E0EBD3
+$Odynus<~Scribe.141~>080 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.1931~><~Scribe.144~> C2DD6B
+$GambitLord<~Scribe.141~>039 038 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1964~><~Scribe.143~><~Game.1943~><~Scribe.144~> ED79E3
+$GambitLord<~Controls.644~>103 079 <~Controls.645~><~Game.2035~> A15852
+$Odynus<~Scribe.141~>260 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 1D3721
+$Odynus<~Controls.323~>260 5D0021
+$Odynus<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> FA11D9
+$Odynus<~Scribe.141~>276 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1944~><~Scribe.144~> 4642D6
+$Odynus<~Controls.644~>213 <~Controls.645~><~Game.2035~> 689043
+$GambitLord<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 7CA390
+<GambitLord> MT 11C6F3
+$Odynus<~Scribe.141~>085 276 084 083 082 081 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.1994~><~Scribe.144~> DC9F8F
+$GambitLord<~Scribe.141~>039 038 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.1944~><~Scribe.144~> A0079C
+$GambitLord<~Controls.644~>101 <~Controls.645~><~Game.2035~> 9AB661
+$Odynus<~Scribe.141~>426 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 0F3E77
+$Odynus<~Scribe.141~>256 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> A83FD5
+$Odynus<~Controls.644~>426 <~Controls.645~><~Game.2035~> 6DAE78
+$GambitLord<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 905D6C
+$GambitLord<~Scribe.141~>253 361 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2037~><~Scribe.144~> 400617
+$GambitLord<~Scribe.141~>253 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.1944~><~Scribe.144~> A45771
+$GambitLord<~Controls.644~>104 361 <~Controls.645~><~Game.2035~> E49342
+$Odynus<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 00BECB
+$Odynus<~Scribe.141~>256 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> BEE9BF
+$Odynus<~Controls.644~>211 <~Controls.645~><~Game.2035~> C5C945
+$GambitLord<~Controls.757~>102 360 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 670577
+$GambitLord<~Controls.762~>104 361 101 103 100 105 099 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> E94DCE
+$Odynus<~Controls.726~>210 212 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 99A72E
+<~Game.7~>3 null
+$Odynus<~Controls.731~>211 213 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 5A6DDD
+$GambitLord<~Controls.509~>209<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$GambitLord<~Controls.509~>187<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Odynus<~Controls.509~>148<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Odynus<~Controls.509~>131<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$GambitLord<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> AC341A
+<Odynus> f ok 3BF22B
+$GambitLord<~Controls.345~>104 361 101 103 100 105 099 102 <~Controls.346~>11 14 11 15 13 13 12 14 null
+$GambitLord<~Controls.350~>104 361 101 103 100 105 099 102 null
+$Odynus<~Controls.345~>211 213 210 212 <~Controls.346~>1 2 1 0 null
+$Odynus<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 47E4F4
+$Odynus<~Controls.323~>247 DFB59F
+$Odynus<~Controls.644~>211 <~Controls.645~><~Game.2035~> 012365
+$GambitLord<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 5AB4D0
+<GambitLord> Attack WLR E06499
+$Odynus<~Scribe.141~>098 094 088 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1991~><~Scribe.144~> 258837
+$GambitLord<~Scribe.141~>040 336 035 015 014 013 012 011 <~Scribe.142~><~Game.1957~><~Scribe.143~><~Game.1954~><~Scribe.144~> A33550
+$GambitLord<~Controls.644~>100 <~Controls.645~><~Game.2035~> C7E1FE
+$Odynus<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> CEA524
+$Odynus<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> EB26A2
+$Odynus<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> C5557F
+<game> GambitLord<~Controls.1~> 1 6 null
+$GambitLord<~Controls.624~>222<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<GambitLord> 1R DC07C1
+$Odynus<~Scribe.141~>240 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2037~><~Scribe.144~> 4DC87D
+$Odynus<~Scribe.141~>247 <~Scribe.142~><~Game.1930~><~Scribe.143~><~Game.1937~><~Scribe.144~> 735520
+$Odynus<~Controls.323~>247 19B207
+$Odynus<~Controls.644~>222 240 <~Controls.645~><~Game.2035~> 74E42B
+$Odynus<~Scribe.141~>241 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> 018E81
+$GambitLord<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 685753
+$GambitLord<~Scribe.141~>reveal 209 C42C01180E59E0B00F8EB8A2E871D544921A75B4 13 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> D7E375
+$GambitLord<~Scribe.141~>252 <~Scribe.142~><~Game.2015~><~Scribe.143~><~Game.2016~><~Scribe.144~> 665450
+$GambitLord<~Scribe.141~>252 <~Scribe.142~><~Game.2016~><~Scribe.143~><~Game.2017~><~Scribe.144~> 27522E
+$GambitLord<~Controls.644~>102 209 <~Controls.645~><~Game.2035~> CFFFA2
+$Odynus<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> DFB629
+$Odynus<~Controls.323~>247 73EEF2
+$Odynus<~Controls.644~>213 <~Controls.645~><~Game.2035~> 5B0A3A
+$GambitLord<~Scribe.141~>361 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 2E3155
+$GambitLord<~Scribe.141~>reveal 187 7D2ED73780467B09D6ECF7E8325B87052B12AA2E 22 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> F73905
+$GambitLord<~Scribe.141~>187 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2029~><~Scribe.144~> E6F5C9
+$GambitLord<~Scribe.141~>085 <~Scribe.142~><~Game.1994~><~Scribe.143~><~Game.2029~><~Scribe.144~> 0867C7
+$GambitLord<~Controls.644~>361 <~Controls.645~><~Game.2035~> 31B199
+<Odynus> pass 944B65
+$GambitLord<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 8275AE
+$GambitLord<~Scribe.141~>037 034 033 032 031 030 020 019 018 017 016 <~Scribe.142~><~Game.1955~><~Scribe.143~><~Game.1943~><~Scribe.144~> 247258
+$GambitLord<~Scribe.141~>055 057 049 048 047 046 045 044 <~Scribe.142~><~Game.1946~><~Scribe.143~><~Game.1938~><~Scribe.144~> 9099B3
+$GambitLord<~Controls.644~>099 <~Controls.645~><~Game.2035~> 977657
+<Odynus> pass 9399F0
+$GambitLord<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 0FE5BD
+<GambitLord> Attack MT 316869
+$GambitLord<~Controls.840~>206 B31E51
+<Odynus> nc 8D6755
+<auto><~Controls.866~>reveal 206 8EED2288E65081C501837542E30FE65DAFAE7950 17<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> E96CC2
+<game> GambitLord<~Controls.1~> 6 6 6 6 2 null
+<GambitLord> wow 2E76DC
+<game> GambitLord<~Controls.1~> 6 null
+<GambitLord> !!! 0960F7
+<Odynus> wtf is this game BFAB5D
+<GambitLord> waste of 6s honestly A56EA8
+<game> Odynus<~Controls.1~> 6 4 3 4 1 null
+<Odynus> 3 1347D7
+$GambitLord<~Scribe.141~>023 022 021 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.2036~><~Scribe.144~> 97C0C0
+$Odynus<~Scribe.141~>084 276 083 <~Scribe.142~><~Game.1994~><~Scribe.143~><~Game.2037~><~Scribe.144~> 2D0499
+<Odynus> cant move without a hit 05B132
+<GambitLord> press 3B4992
+<Odynus> 5 6s A7BD42
+<Odynus> and basically perfect die rolls 17393C
+<Odynus> im boned B46046
+<GambitLord> only 3 hits on 6 move BB611E
+<GambitLord> and 1 of those was moria 96A826
+<GambitLord> so only 2 hits on 6 moves 1362FD
+<GambitLord> thats .3333 A6B418
+$GambitLord<~Controls.662~>206 023 022 021 084 276 083 <~Controls.663~><~Game.2035~> 9492E8
+$GambitLord<~Controls.304~>036 <~Controls.305~><~Game.1944~> 880DFD
+$GambitLord<~Controls.313~>023 <~Controls.307~><~Controls.314~><~Game.1944~> 6E738B
+$GambitLord<~Controls.509~>159<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$GambitLord<~Controls.840~>159 BB4612
+<Odynus> nc FE580B
+<game> GambitLord<~Controls.1~> 3 1 2 1 2 null
+<game> GambitLord<~Controls.1~> 3 4 1 1 null
+<game> Odynus<~Controls.1~> 1 2 null
+<GambitLord> 0 8CA71D
+<GambitLord> +1 60ADD3
+<Odynus> wait 5EFFA8
+<auto><~Controls.866~>reveal 159 7D040FCA5FEB2BF852E0630FD02550143C27855F 7<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 1EC6E5
+<Odynus> what happened to the card 32CBBB
+<Odynus> aha EDEDC0
+$Odynus<~Scribe.141~>081 <~Scribe.142~><~Game.1994~><~Scribe.143~><~Game.2036~><~Scribe.144~> 35F70F
+<GambitLord> never got moved down 2F9B25
+$GambitLord<~Controls.644~>105 159 081 <~Controls.645~><~Game.2035~> 88F42C
+<Odynus> pass 12E8B1
+$GambitLord<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 808464
+<GambitLord> Attack MT 02FBBB
+$GambitLord<~Controls.840~>185 DFD5AC
+<auto><~Controls.866~>reveal 185 785BFEEF2A88CB5562B043D233A2B54422FFBDD0 11<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> C3B4FC
+<Odynus> nc 274F3C
+<game> GambitLord<~Controls.1~> 4 2 6 4 1 null
+<game> Odynus<~Controls.1~> 4 null
+$GambitLord<~Controls.509~>207<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Odynus<~Scribe.141~>082 <~Scribe.142~><~Game.1994~><~Scribe.143~><~Game.2036~><~Scribe.144~> C8E6DB
+$GambitLord<~Scribe.141~>187 085 <~Scribe.142~><~Game.2029~><~Scribe.143~><~Game.2037~><~Scribe.144~> 8BD4CF
+$GambitLord<~Controls.644~>101 185 082 187 085 <~Controls.645~><~Game.2035~> CD8E89
+$Odynus<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> DE3FA4
+$GambitLord<~Scribe.141~>418 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1944~><~Scribe.144~> 95EE5A
+$GambitLord<~Scribe.141~>423 <~Scribe.142~><~Game.27~><~Scribe.143~><~Game.28~><~Scribe.144~> 067830
+$GambitLord<~Scribe.141~>423 <~Scribe.142~><~Game.28~><~Scribe.143~><~Game.29~><~Scribe.144~> 0F1F4F
+$Odynus<~Controls.323~>240 6DAD99
+$Odynus<~Scribe.141~>240 <~Scribe.142~><~Game.2039~><~Scribe.143~><~Game.2037~><~Scribe.144~> 2C6C53
+$Odynus<~Scribe.141~>359 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.2036~><~Scribe.144~> 99A489
+$Odynus<~Scribe.141~>240 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.1921~><~Scribe.144~> 668F98
+$Odynus<~Controls.644~>212 359 <~Controls.645~><~Game.2035~> 46DBDC
+<GambitLord> hmm 80711F
+$GambitLord<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 85FB0B
+$GambitLord<~Scribe.141~>253 039 038 023 029 028 027 026 025 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.1942~><~Scribe.144~> A13D53
+$GambitLord<~Scribe.141~>016 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.1935~><~Scribe.144~> B47D11
+$GambitLord<~Scribe.141~>417 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1935~><~Scribe.144~> AACDBB
+$GambitLord<~Scribe.141~>024 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.1942~><~Scribe.144~> 7DAB7F
+$GambitLord<~Scribe.141~>037 034 033 032 031 030 020 019 018 017 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.1935~><~Scribe.144~> 1225A4
+$GambitLord<~Controls.819~> 9CA23D
+$GambitLord<~Controls.644~>104 <~Controls.645~><~Game.2035~> 8259B7
+$Odynus<~Controls.726~>210 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 3B669D
+$Odynus<~Controls.731~>212 359 213 211 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> CAEE0B
+$GambitLord<~Controls.757~>103 360 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 47A394
+<~Game.7~>4 null
+$GambitLord<~Controls.762~>104 101 105 099 361 102 100 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 5F0896
+$GambitLord<~Controls.509~>166<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Odynus<~Controls.509~>133<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$GambitLord<~Controls.509~>186<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Odynus<~Controls.509~>114<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$GambitLord<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> 131BE7
+$Odynus<~Controls.296~>133 <~Controls.297~><~Controls.45~> 1844B6
+$Odynus<~Controls.296~>148 <~Controls.297~><~Controls.45~> 63F8AC
+<Odynus> f ok 004FA3
+<GambitLord> did you move last turn A82939
+<GambitLord> ? BEA47A
+<Odynus> yeah C51014
+<GambitLord> kk C420A3
+<GambitLord> 1e B05730
+<Odynus> single movement 72E7F8
+<Odynus> was an eye 9C7BB3
+$GambitLord<~Controls.345~>104 101 105 099 361 102 100 103 <~Controls.346~>11 13 13 10 11 14 14 12 null
+$GambitLord<~Controls.350~>104 101 105 099 361 102 100 103 null
+$Odynus<~Controls.345~>212 359 213 211 210 <~Controls.346~>1 0 1 1 4 null
+<Odynus> pass D3D106
+<Odynus> or 6426F9
+$Odynus<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> E5EDEA
+$Odynus<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 16E40C
+$Odynus<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> C52C7F
+<GambitLord> kk 64ED0D
+<game> GambitLord<~Controls.1~> 6 null
+$GambitLord<~Controls.624~>224<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<GambitLord> now that was unluckty 5A5162
+$Odynus<~Scribe.141~>252 <~Scribe.142~><~Game.2017~><~Scribe.143~><~Game.2018~><~Scribe.144~> 8EF0B2
+$Odynus<~Controls.644~>224 <~Controls.645~><~Game.2035~> B82817
+$GambitLord<~Scribe.141~>361 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 670374
+$GambitLord<~Scribe.141~>253 039 038 024 023 029 028 027 026 025 <~Scribe.142~><~Game.1942~><~Scribe.143~><~Game.1937~><~Scribe.144~> 217B53
+$GambitLord<~Scribe.141~>025 <~Scribe.142~><~Game.1937~><~Scribe.143~><~Game.1942~><~Scribe.144~> 67ACAA
+$Odynus<~Controls.323~>259 5AC9BE
+<GambitLord> 1 minute 3F1374
+$Odynus<~Controls.323~>257 A6BFE4
+<GambitLord> hmm, don't really have a second move 12781C
+<GambitLord> lol B2749C
+<Odynus> lol 263950
+$GambitLord<~Scribe.141~>000 <~Scribe.142~><~Game.1914~><~Scribe.143~><~Game.1910~><~Scribe.144~> D446DD
+$GambitLord<~Controls.644~>361 <~Controls.645~><~Game.2035~> 7A698D
+$Odynus<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 7499D1
+$Odynus<~Scribe.141~>073 072 <~Scribe.142~><~Game.1929~><~Scribe.143~><~Game.1925~><~Scribe.144~> 58B601
+$Odynus<~Scribe.141~>059 <~Scribe.142~><~Game.1973~><~Scribe.143~><~Game.1965~><~Scribe.144~> 46DCA8
+$Odynus<~Controls.644~>210 <~Controls.645~><~Game.2035~> 31D7B5
+$GambitLord<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> AB2B24
+<GambitLord> Attack Pelagir, nc 27749A
+<Odynus> nc EEBE36
+<game> GambitLord<~Controls.1~> 5 3 4 1 6 null
+<game> GambitLord<~Controls.1~> 4 null
+<game> Odynus<~Controls.1~> 5 1 null
+<GambitLord> press BFBE76
+<Odynus> 1 BCF6ED
+$GambitLord<~Scribe.141~>017 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.2037~><~Scribe.144~> 96C6A3
+$Odynus<~Scribe.141~>078 <~Scribe.142~><~Game.1931~><~Scribe.143~><~Game.2036~><~Scribe.144~> D273FE
+$Odynus<~Scribe.141~>080 <~Scribe.142~><~Game.1931~><~Scribe.143~><~Game.1924~><~Scribe.144~> F80798
+$GambitLord<~Scribe.141~>037 034 033 032 031 030 020 019 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.1931~><~Scribe.144~> A89EFA
+$GambitLord<~Scribe.141~>419 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1931~><~Scribe.144~> 01BF70
+$GambitLord<~Scribe.141~>423 <~Scribe.142~><~Game.29~><~Scribe.143~><~Game.30~><~Scribe.144~> 8C7516
+$GambitLord<~Controls.644~>105 078 017 <~Controls.645~><~Game.2035~> 487AFD
+<Odynus> pass 80D98C
+<GambitLord> hmm 80BA46
+$GambitLord<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 16D274
+$GambitLord<~Scribe.141~>326 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1910~><~Scribe.144~> 3E9960
+$GambitLord<~Controls.819~> 63DD95
+$GambitLord<~Scribe.141~>261 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> DA53A6
+$GambitLord<~Controls.644~>099 <~Controls.645~><~Game.2035~> A1D59C
+<Odynus> pass AE5845
+$GambitLord<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 043056
+$GambitLord<~Controls.281~>104 <~Controls.282~><~Game.2035~><~Controls.283~><~Game.2043~> D85EAD
+$GambitLord<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 3AFCA8
+$GambitLord<~Scribe.141~>reveal 173 663F783A5E7029485B1B4B63336C42B838D13A71 9 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> A71A16
+$GambitLord<~Scribe.141~>237 <~Scribe.142~><~Game.2046~><~Scribe.143~><~Game.2037~><~Scribe.144~> 93ACED
+$GambitLord<~Controls.644~>102 173 237 <~Controls.645~><~Game.2035~> AF0B54
+<Odynus> pass A8D94E
+$GambitLord<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 4F5B6B
+<GambitLord> Attack Lamedon 8398A5
+<GambitLord> nc 5A6566
+<Odynus> nc C7BE15
+<game> GambitLord<~Controls.1~> 4 6 1 6 1 null
+<game> Odynus<~Controls.1~> 3 null
+$Odynus<~Scribe.141~>080 <~Scribe.142~><~Game.1924~><~Scribe.143~><~Game.2037~><~Scribe.144~> 1DFCA2
+$GambitLord<~Scribe.141~>037 034 033 032 031 030 020 019 <~Scribe.142~><~Game.1931~><~Scribe.143~><~Game.1924~><~Scribe.144~> F061E1
+$GambitLord<~Scribe.141~>416 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1924~><~Scribe.144~> 009B07
+$GambitLord<~Controls.644~>101 080 <~Controls.645~><~Game.2035~> 253AD9
+$Odynus<~Scribe.141~>359 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2036~><~Scribe.144~> 75E984
+$Odynus<~Scribe.141~>275 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1920~><~Scribe.144~> C8BD44
+$Odynus<~Controls.644~>359 <~Controls.645~><~Game.2035~> C7C74C
+$GambitLord<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 6D9DC6
+$Odynus<~Scribe.141~>275 077 076 075 <~Scribe.142~><~Game.1920~><~Scribe.143~><~Game.1995~><~Scribe.144~> 7C0EAD
+<GambitLord> Attack DA 3DC559
+$GambitLord<~Scribe.141~>037 034 033 032 031 030 020 019 <~Scribe.142~><~Game.1924~><~Scribe.143~><~Game.1920~><~Scribe.144~> CFE6CC
+$GambitLord<~Controls.644~>103 <~Controls.645~><~Game.2035~> 324370
+$Odynus<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 7DCE25
+$Odynus<~Controls.790~>248<~Controls.791~><~Game.2015~><~Controls.792~><~Game.2016~> 7D09F5
+$Odynus<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 3DE580
+<game> GambitLord<~Controls.1~> 5 null
+$GambitLord<~Controls.624~>216<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Odynus<~Scribe.141~>247 <~Scribe.142~><~Game.1937~><~Scribe.143~><~Game.1967~><~Scribe.144~> 9B8EDA
+$Odynus<~Scribe.141~>252 <~Scribe.142~><~Game.2018~><~Scribe.143~><~Game.2019~><~Scribe.144~> 000DCF
+$Odynus<~Controls.323~>247 2FC4FE
+$Odynus<~Controls.644~>216 <~Controls.645~><~Game.2035~> A32198
+$GambitLord<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 76C741
+$GambitLord<~Controls.281~>104 <~Controls.282~><~Game.2035~><~Controls.283~><~Game.2043~> 3F2851
+$GambitLord<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 4543D3
+$GambitLord<~Scribe.141~>reveal 169 7481BABBD5028D9EA71481AA8618BFEDFA0BF8B9 14 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 7FDCFE
+$GambitLord<~Scribe.141~>169 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2034~><~Scribe.144~> C1511D
+$GambitLord<~Controls.637~>245<~Controls.638~><~Game.1998~><~Controls.639~><~Game.2036~> null
+$GambitLord<~Scribe.141~>169 <~Scribe.142~><~Game.2034~><~Scribe.143~><~Game.2037~><~Scribe.144~> D42B8A
+<Odynus> take him 7A55A5
+<GambitLord> I think you can place him on the field? C2A46F
+<GambitLord> not 100% though 071323
+<Odynus> i thought lure was special DFC690
+<GambitLord> looking it up F50C0B
+<Odynus> okay FA8ED0
+<GambitLord> 1 moment C37FD0
+<Odynus> i looked already they can separate D6518C
+<Odynus> but just confirm 8C6A88
+$Odynus<~Scribe.141~>245 <~Scribe.142~><~Game.2036~><~Scribe.143~><~Game.1948~><~Scribe.144~> A71CD5
+<GambitLord> eriadoc or Peregrin are eliminated, they may use their “Take Them Alive!” ability to separate from the Fellowship (as th is ability simply says “if eliminated” and not “During the Hunt” like their Guide abilities) , hence avoiding elimination (however, if the Fellowship is on the Mordor Track, remove them from play as with all separations on the Mordor Track). If a Hobbit is separated in this way, they can move up to one region away (as they are level 1 Companions) from the Ring - bearers figure 6AA226
+<GambitLord> kk 92A7B0
+$GambitLord<~Controls.644~>100 169 <~Controls.645~><~Game.2035~> 71A7C1
+$Odynus<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 4EC913
+$Odynus<~Controls.323~>247 142503
+$Odynus<~Controls.644~>211 <~Controls.645~><~Game.2035~> 41F0B8
+$GambitLord<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> E0F445
+<GambitLord> Attack Westemnet 6D639A
+<GambitLord> nc 639635
+$Odynus<~CardBuffet.9~>reveal 114 7FC187AB9E89985A0EDA9966EE184D878CB157C0 4<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> 9C15F6
+$Odynus<~Scribe.141~>259 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2002~><~Scribe.144~> 309EB7
+$GambitLord<~Scribe.141~>259 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> 8AB65B
+$GambitLord<~Scribe.141~>259 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> 4C5B63
+$Odynus<~Scribe.141~>073 072 <~Scribe.142~><~Game.1925~><~Scribe.143~><~Game.1923~><~Scribe.144~> 950558
+$GambitLord<~Scribe.141~>253 039 038 024 023 029 028 027 026 <~Scribe.142~><~Game.1937~><~Scribe.143~><~Game.1925~><~Scribe.144~> 5C2BAB
+$GambitLord<~Controls.644~>104 114 <~Controls.645~><~Game.2035~> CD2217
+$GambitLord<~Scribe.141~>414 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1925~><~Scribe.144~> 55E479
+$GambitLord<~Controls.757~>360 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 341DC8
+$GambitLord<~Controls.762~>104 100 103 101 102 099 105 361 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 92B3E7
+<Odynus> pass 113BC1
+$Odynus<~Controls.726~>212 213 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 1BE1E8
+<~Game.7~>5 null
+$Odynus<~Controls.731~>211 359 210 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 7C6097
+$GambitLord<~Controls.509~>201<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$GambitLord<~Controls.509~>175<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Odynus<~Controls.509~>108<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Odynus<~Controls.509~>124<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$GambitLord<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> B66E0F
+$Odynus<~Controls.296~>120 <~Controls.297~><~Controls.45~> 3DD33F
+<Odynus> f ok 836E7A
+$GambitLord<~Controls.345~>104 100 103 101 102 099 105 361 <~Controls.346~>11 11 15 13 10 14 13 13 null
+$GambitLord<~Controls.350~>104 100 103 101 102 099 105 361 null
+$Odynus<~Controls.345~>211 359 210 212 213 <~Controls.346~>0 1 4 1 0 null
+$Odynus<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> E86DF9
+$Odynus<~Controls.281~>213 <~Controls.282~><~Game.2035~><~Controls.283~><~Game.2042~> 9F41F2
+$Odynus<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 01F677
+$Odynus<~Scribe.141~>074 070 069 <~Scribe.142~><~Game.1918~><~Scribe.143~><~Game.1923~><~Scribe.144~> FF97EB
+$Odynus<~Scribe.141~>065 <~Scribe.142~><~Game.1941~><~Scribe.143~><~Game.1957~><~Scribe.144~> 8342CF
+$Odynus<~Controls.644~>210 <~Controls.645~><~Game.2035~> 80847F
+<GambitLord> hmm 297576
+$GambitLord<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 521D2C
+$GambitLord<~Controls.304~>005 <~Controls.305~><~Game.1919~> 59840E
+$GambitLord<~Controls.313~>326 <~Controls.309~><~Controls.314~><~Game.1919~> 770E8F
+$GambitLord<~Controls.304~>004 <~Controls.305~><~Game.1919~> 3F8C26
+$GambitLord<~Controls.313~>325 <~Controls.309~><~Controls.314~><~Game.1919~> 846D66
+$GambitLord<~Controls.644~>102 <~Controls.645~><~Game.2035~> 0CF5B2
+$Odynus<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 587693
+$Odynus<~Controls.281~>213 <~Controls.282~><~Game.2035~><~Controls.283~><~Game.2042~> D2C8DA
+<Odynus> pass 8E832D
+<GambitLord> hmm B279BF
+$GambitLord<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 662B59
+$GambitLord<~Scribe.141~>reveal 201 1B503A16C99E115C080A9C3F9BBD738219610CEB 11 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 9E42A3
+$GambitLord<~Scribe.141~>238 <~Scribe.142~><~Game.2046~><~Scribe.143~><~Game.2037~><~Scribe.144~> 19562B
+$GambitLord<~Controls.644~>099 201 238 <~Controls.645~><~Game.2035~> B59DDE
+<Odynus> pass 31C2FE
+<GambitLord> hmm A07B05
+$GambitLord<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 6949E1
+$GambitLord<~Controls.281~>104 <~Controls.282~><~Game.2035~><~Controls.283~><~Game.2043~> 564D44
+$GambitLord<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> A1A110
+$GambitLord<~Controls.304~>003 <~Controls.305~><~Game.1919~> 51CC4E
+$GambitLord<~Controls.313~>324 <~Controls.309~><~Controls.314~><~Game.1919~> F2860C
+$GambitLord<~Controls.304~>002 <~Controls.305~><~Game.1919~> CE19E8
+$GambitLord<~Controls.313~>323 <~Controls.309~><~Controls.314~><~Game.1919~> DDC2FC
+$GambitLord<~Controls.644~>104 <~Controls.645~><~Game.2035~> C7409E
+$Odynus<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 3A6C0D
+$Odynus<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 1F06AE
+$Odynus<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> E9BEA7
+<game> GambitLord<~Controls.1~> 1 5 null
+$GambitLord<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> B56879
+$GambitLord<~Scribe.141~>253 038 039 <~Scribe.142~><~Game.1925~><~Scribe.143~><~Game.1954~><~Scribe.144~> AC0ED2
+$GambitLord<~Scribe.141~>037 <~Scribe.142~><~Game.1920~><~Scribe.143~><~Game.1967~><~Scribe.144~> 43B3FD
+$GambitLord<~Controls.644~>101 <~Controls.645~><~Game.2035~> 0675C4
+$Odynus<~Scribe.141~>359 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 050F22
+$Odynus<~CardBuffet.9~>reveal 108 4D5C19636304FA33B31E4AD99BD4C41463DF9DEA 7<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> 536F3F
+$Odynus<~Controls.281~>233 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2045~> 15929B
+$Odynus<~Controls.644~>359 108 <~Controls.645~><~Game.2035~> 707688
+<GambitLord> wlr D97B43
+$GambitLord<~Controls.840~>207 EB11FA
+<Odynus> die? D57883
+$GambitLord<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> F3A60D
+<Odynus> nc 8B3332
+<game> GambitLord<~Controls.1~> 3 5 3 4 6 null
+<auto><~Controls.866~>reveal 207 5F7D85336053F9CD7BA096B6C10F34FFE91F9697 6<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> DDF842
+<GambitLord> 3 B0E228
+<game> Odynus<~Controls.1~> 1 4 null
+<game> Odynus<~Controls.1~> 3 null
+<Odynus> 2 04E246
+$GambitLord<~Scribe.141~>012 011 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.2036~><~Scribe.144~> 848C06
+$Odynus<~Scribe.141~>098 094 088 <~Scribe.142~><~Game.1991~><~Scribe.143~><~Game.2037~><~Scribe.144~> 1BAC0A
+$GambitLord<~Controls.509~>196<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$GambitLord<~Scribe.141~>423 <~Scribe.142~><~Game.30~><~Scribe.143~><~Game.31~><~Scribe.144~> 5BD3D7
+$GambitLord<~Scribe.141~>423 <~Scribe.142~><~Game.31~><~Scribe.143~><~Game.32~><~Scribe.144~> 86AFF0
+$GambitLord<~Scribe.141~>415 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1954~><~Scribe.144~> 16ED99
+$GambitLord<~Controls.644~>105 207 012 011 098 094 088 <~Controls.645~><~Game.2035~> 3A3FDF
+$Odynus<~Scribe.141~>427 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 206AEB
+$Odynus<~Controls.509~>113<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Odynus<~Controls.644~>427 <~Controls.645~><~Game.2035~> 8A33B6
+$GambitLord<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 9584CD
+$GambitLord<~Scribe.141~>reveal 196 88E57DC1A529CEF2955EC3E578448337EB7959E6 23 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 78440F
+$GambitLord<~Scribe.141~>322 330 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1919~><~Scribe.144~> 04BD82
+$GambitLord<~Scribe.141~>329 328 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1910~><~Scribe.144~> 750C71
+$GambitLord<~Scribe.141~>331 327 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1914~><~Scribe.144~> 7B7EDB
+$GambitLord<~Controls.644~>100 196 <~Controls.645~><~Game.2035~> 9F05C5
+$Odynus<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 96085E
+$Odynus<~Controls.790~>248<~Controls.791~><~Game.2015~><~Controls.792~><~Game.2016~> 63D963
+$Odynus<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 29E88F
+<game> GambitLord<~Controls.1~> 5 4 null
+<game> GambitLord<~Controls.1~> 3 null
+$GambitLord<~Controls.624~>226<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Odynus> random 1EBCEE
+$GambitLord<~Controls.637~>244<~Controls.638~><~Game.1998~><~Controls.639~><~Game.2036~> null
+$Odynus<~Controls.644~>244 226 <~Controls.645~><~Game.2035~> 8A6319
+$GambitLord<~Scribe.141~>361 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 78357B
+$GambitLord<~Scribe.141~>reveal 166 6554C15A76F1979BA75D78AFBFE6D5960065B928 17 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 55623E
+$GambitLord<~Scribe.141~>239 <~Scribe.142~><~Game.2046~><~Scribe.143~><~Game.2037~><~Scribe.144~> 951683
+$GambitLord<~Controls.644~>361 166 239 <~Controls.645~><~Game.2035~> 5D5320
+$Odynus<~Controls.271~>211<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 68B66B
+$Odynus<~CardBuffet.9~>reveal 131 D6860323E716293BF22FB58D965ACE1BB5BAE3E6 19<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> AB5EB6
+$GambitLord<~Controls.281~>237 238 222 220 233 239 <~Controls.282~><~Game.2045~><~Controls.283~><~Game.2044~> 0DBC9A
+$Odynus<~Scribe.141~>311 314 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1965~><~Scribe.144~> A85993
+$Odynus<~Controls.644~>211 131 <~Controls.645~><~Game.2035~> AD3EFF
+$GambitLord<~Controls.757~>103 360 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> DDFDB1
+$GambitLord<~Controls.762~>361 100 105 101 104 099 102 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 1A6D34
+$Odynus<~Scribe.141~>247 <~Scribe.142~><~Game.1967~><~Scribe.143~><~Game.524~><~Scribe.144~> C98A4C
+$GambitLord<~Controls.509~>191<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$GambitLord<~Controls.509~>205<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Odynus<~Controls.323~>247 D810F1
+$Odynus<~Controls.323~>247 071ED3
+$GambitLord<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> 9D6F00
+$Odynus<~Controls.509~>139<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Odynus<~Controls.509~>150<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Odynus<~Controls.726~>212 213 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 387FD1
+<~Game.7~>6 null
+$Odynus<~Controls.731~>211 359 210 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 3565D2
+$Odynus<~Controls.296~>139 <~Controls.297~><~Controls.45~> B0C6C8
+<Odynus> f ok CDA8EF
+$GambitLord<~Controls.345~>361 100 105 101 104 099 102 103 <~Controls.346~>11 10 13 11 11 11 10 12 null
+$GambitLord<~Controls.350~>361 100 105 101 104 099 102 103 null
+$Odynus<~Controls.345~>211 359 210 212 213 <~Controls.346~>4 1 4 1 0 null
+$Odynus<~Scribe.141~>359 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> D453A5
+$Odynus<~Controls.790~>247<~Controls.791~><~Game.524~><~Controls.792~><~Game.525~> EEB8DD
+$Odynus<~Controls.795~>359<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> C78B47
+$GambitLord<~Controls.624~>238<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Odynus> im gonna be honest im about to concede E9AB3E
+<GambitLord> kk 3E84FD
+<GambitLord> thats fine 01696E
+<GambitLord> Its a bit upsetting 470559
+<GambitLord> and totally understandable 7B12D8
+$Odynus<~Scribe.141~>241 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2037~><~Scribe.144~> DB7EAC
+$Odynus<~Scribe.141~>247 <~Scribe.142~><~Game.525~><~Scribe.143~><~Game.524~><~Scribe.144~> 96C55A
+$Odynus<~Controls.644~>238 241 <~Controls.645~><~Game.2035~> 35A711
+$GambitLord<~Scribe.141~>238 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.1977~><~Scribe.144~> C1ED95
+$Odynus<~Scribe.141~>243 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> 138DCF
+$GambitLord<~Scribe.141~>361 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 565542
+$GambitLord<~Scribe.141~>322 323 324 325 326 006 330 <~Scribe.142~><~Game.1919~><~Scribe.143~><~Game.1918~><~Scribe.144~> 171A08
+$GambitLord<~Scribe.141~>331 327 <~Scribe.142~><~Game.1914~><~Scribe.143~><~Game.1910~><~Scribe.144~> A1AEAF
+$GambitLord<~Controls.644~>361 <~Controls.645~><~Game.2035~> 197675
+$Odynus<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 084547
+$Odynus<~CardBuffet.9~>reveal 142 D7D2568080A69B378EA6554150D9CCF916F5E584 13<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> 37E123
+$GambitLord<~Scribe.141~>254 <~Scribe.142~><~Game.1919~><~Scribe.143~><~Game.2037~><~Scribe.144~> CE9733
+$Odynus<~Scribe.141~>254 142 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2036~><~Scribe.144~> 0E0488
+$GambitLord<~Controls.281~>361 <~Controls.282~><~Game.2041~><~Controls.283~><~Game.2040~> 65F647
+<Odynus> hm 62461A
+$Odynus<~CardBuffet.9~>reveal 144 2213DEEE50F3A4B49E73CEC17124720ECEC90661 1<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> 2AF847
+$Odynus<~Scribe.141~>245 <~Scribe.142~><~Game.1948~><~Scribe.143~><~Game.1923~><~Scribe.144~> 86DB88
+<GambitLord> uh-oh 6DA37F
+$Odynus<~Scribe.141~>240 <~Scribe.142~><~Game.1921~><~Scribe.143~><~Game.1923~><~Scribe.144~> 7559B5
+$Odynus<~Controls.644~>212 254 142 144 <~Controls.645~><~Game.2035~> 268FB3
+<Odynus> no reason to keep gandalf in fangorn ig 8EB16C
+<GambitLord> right 95E057
+<Odynus> then again 97792E
+$GambitLord<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 240275
+<Odynus> we come to kill => 3 hits ez 3A1B8F
+$GambitLord<~Scribe.141~>255 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1956~><~Scribe.144~> 4485C7
+<GambitLord> =) 4561AE
+$GambitLord<~Controls.644~>102 <~Controls.645~><~Game.2035~> 26C47C
+$Odynus<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 91489E
+$Odynus<~Controls.790~>247<~Controls.791~><~Game.524~><~Controls.792~><~Game.525~> 96C703
+$Odynus<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 07A424
+$GambitLord<~Controls.624~>220<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<GambitLord> 2R 1440EA
+$Odynus<~Scribe.141~>243 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2037~><~Scribe.144~> 41E258
+$GambitLord<~Scribe.141~>220 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.524~><~Scribe.144~> FF8A63
+$Odynus<~Controls.323~>247 008EF3
+$Odynus<~Controls.644~>243 <~Controls.645~><~Game.2035~> BB9814
+$Odynus<~Scribe.141~>242 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> 1F8DA4
+$GambitLord<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> CC3852
+<GambitLord> Attack Dale 2FB4A4
+<GambitLord> nc 89AF27
+<Odynus> nc 41ABA9
+<game> GambitLord<~Controls.1~> 4 6 4 4 2 null
+<game> Odynus<~Controls.1~> 6 null
+$GambitLord<~Scribe.141~>013 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.2037~><~Scribe.144~> 1C7911
+$Odynus<~Scribe.141~>068 066 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.2037~><~Scribe.144~> A8D538
+$GambitLord<~Scribe.141~>253 038 039 040 336 035 015 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1970~><~Scribe.144~> 01F967
+$Odynus<~Scribe.141~>258 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2002~><~Scribe.144~> 8230D6
+$GambitLord<~Scribe.141~>040 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.1954~><~Scribe.144~> CEF228
+$GambitLord<~Scribe.141~>253 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.1954~><~Scribe.144~> F9E916
+$GambitLord<~Scribe.141~>040 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1970~><~Scribe.144~> E927E1
+$GambitLord<~Scribe.141~>420 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1970~><~Scribe.144~> 001095
+$GambitLord<~Scribe.141~>423 <~Scribe.142~><~Game.32~><~Scribe.143~><~Game.33~><~Scribe.144~> C93A69
+$GambitLord<~Controls.644~>101 068 013 066 <~Controls.645~><~Game.2035~> DF670C
+<Odynus> pass A32449
+$GambitLord<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 2CA152
+$GambitLord<~Scribe.141~>253 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1918~><~Scribe.144~> 35AF78
+$GambitLord<~Scribe.141~>255 <~Scribe.142~><~Game.1956~><~Scribe.143~><~Game.1951~><~Scribe.144~> 232388
+$GambitLord<~Scribe.141~>255 <~Scribe.142~><~Game.1951~><~Scribe.143~><~Game.1937~><~Scribe.144~> 5F2AED
+$GambitLord<~Scribe.141~>255 <~Scribe.142~><~Game.1937~><~Scribe.143~><~Game.1925~><~Scribe.144~> 586343
+$GambitLord<~Scribe.141~>039 038 040 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.1910~><~Scribe.144~> 859C23
+$GambitLord<~Scribe.141~>040 <~Scribe.142~><~Game.1910~><~Scribe.143~><~Game.1925~><~Scribe.144~> A18197
+$GambitLord<~Controls.644~>105 <~Controls.645~><~Game.2035~> 6CC084
+$GambitLord<~Controls.819~> 3A3ECA
+$GambitLord<~Scribe.141~>037 <~Scribe.142~><~Game.1967~><~Scribe.143~><~Game.1925~><~Scribe.144~> 447735
+$GambitLord<~Controls.644~>105 <~Controls.645~><~Game.2035~> 9B4280
+<Odynus> pass A7A71C
+$GambitLord<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> D94190
+$GambitLord<~Scribe.141~>037 029 023 024 <~Scribe.142~><~Game.1925~><~Scribe.143~><~Game.1918~><~Scribe.144~> 2F1F45
+$GambitLord<~Scribe.141~>024 <~Scribe.142~><~Game.1918~><~Scribe.143~><~Game.1925~><~Scribe.144~> 57672A
+$GambitLord<~Scribe.141~>039 038 331 327 329 328 000 001 <~Scribe.142~><~Game.1910~><~Scribe.143~><~Game.1885~><~Scribe.144~> 345F36
+$GambitLord<~Controls.644~>103 <~Controls.645~><~Game.2035~> B57367
+<Odynus> pass 630DBF
+$GambitLord<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> CDEE45
+<GambitLord> hmm 86A306
+$GambitLord<~Scribe.141~>025 <~Scribe.142~><~Game.1942~><~Scribe.143~><~Game.1933~><~Scribe.144~> DB8466
+$GambitLord<~Scribe.141~>026 <~Scribe.142~><~Game.1925~><~Scribe.143~><~Game.1929~><~Scribe.144~> 617047
+$GambitLord<~Scribe.141~>411 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1933~><~Scribe.144~> C73591
+$GambitLord<~Scribe.141~>412 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1929~><~Scribe.144~> B841B7
+$GambitLord<~Controls.644~>104 <~Controls.645~><~Game.2035~> AD0E8D
+$Odynus<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> D94775
+$Odynus<~Scribe.141~>259 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 604D8A
+$Odynus<~Scribe.141~>288 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1923~><~Scribe.144~> AD0C75
+$GambitLord<~Scribe.141~>423 <~Scribe.142~><~Game.33~><~Scribe.143~><~Game.388~><~Scribe.144~> 96E0C7
+$Odynus<~Controls.644~>211 <~Controls.645~><~Game.2035~> FD4D12
+$GambitLord<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 387A32
+<GambitLord> HD 1499C1
+<GambitLord> from Fords C439CD
+$Odynus<~Scribe.141~>071 <~Scribe.142~><~Game.1923~><~Scribe.143~><~Game.2037~><~Scribe.144~> B60819
+$Odynus<~Scribe.141~>240 245 074 288 073 070 069 072 <~Scribe.142~><~Game.1923~><~Scribe.143~><~Game.1993~><~Scribe.144~> 1A4E42
+$GambitLord<~Scribe.141~>253 037 322 323 324 325 326 006 330 029 023 <~Scribe.142~><~Game.1918~><~Scribe.143~><~Game.1923~><~Scribe.144~> 43A9B7
+$GambitLord<~Controls.644~>099 071 <~Controls.645~><~Game.2035~> 1FFDF8
+$Odynus<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> DC26A0
+$Odynus<~Scribe.141~>250 <~Scribe.142~><~Game.2009~><~Scribe.143~><~Game.2012~><~Scribe.144~> DFA463
+$Odynus<~Controls.323~>247 7B7DE8
+$Odynus<~Controls.644~>210 <~Controls.645~><~Game.2035~> 4640AE
+$GambitLord<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> CEC7D0
+$GambitLord<~Controls.323~>255 725427
+$GambitLord<~Scribe.141~>255 028 024 <~Scribe.142~><~Game.1925~><~Scribe.143~><~Game.1923~><~Scribe.144~> A26401
+$GambitLord<~Controls.819~> A1FBDC
+$GambitLord<~Scribe.141~>255 028 <~Scribe.142~><~Game.1925~><~Scribe.143~><~Game.1923~><~Scribe.144~> 9FA463
+$GambitLord<~Scribe.141~>039 038 331 327 329 328 000 001 <~Scribe.142~><~Game.1885~><~Scribe.143~><~Game.1884~><~Scribe.144~> 0B4D74
+$GambitLord<~Scribe.141~>040 <~Scribe.142~><~Game.1925~><~Scribe.143~><~Game.1923~><~Scribe.144~> 3D3E77
+$GambitLord<~Scribe.141~>040 <~Scribe.142~><~Game.1923~><~Scribe.143~><~Game.1925~><~Scribe.144~> 928A31
+$GambitLord<~Controls.644~>100 <~Controls.645~><~Game.2035~> C4076A
+$Odynus<~Controls.726~>213 359 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 7C1061
+$Odynus<~Controls.731~>210 211 212 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> BD6DD2
+$GambitLord<~Controls.757~>360 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> AE1895
+<~Game.7~>7 null
+$GambitLord<~Controls.762~>100 099 104 103 105 101 102 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 6A8F15
+$GambitLord<~Controls.509~>204<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$GambitLord<~Controls.509~>189<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Odynus<~Controls.509~>107<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Odynus<~Controls.509~>110<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$GambitLord<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> 396F03
+<Odynus> f ok FC3379
+$GambitLord<~Controls.345~>100 099 104 103 105 101 102 <~Controls.346~>13 15 10 10 15 13 12 null
+$GambitLord<~Controls.350~>100 099 104 103 105 101 102 null
+$Odynus<~Controls.345~>210 211 212 213 359 <~Controls.346~>3 2 1 4 4 null
+<GambitLord> hang on 8A683B
+<GambitLord> i need to add 1 more die C3F021
+<GambitLord> for Mouth 75821C
+$GambitLord<~Scribe.141~>362 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2035~><~Scribe.144~> EF6906
+$GambitLord<~Controls.345~>362 <~Controls.346~>14 null
+$GambitLord<~Controls.281~>362 <~Controls.282~><~Game.2035~><~Controls.283~><~Game.2043~> EBD7AA
+<Odynus> pass 0D0F05
+<GambitLord> hmm C0E3DE
+$GambitLord<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> D5426A
+<GambitLord> Attack HD 483DDF
+<GambitLord> shining? 623033
+<Odynus> ofc BDDCF3
+$GambitLord<~Controls.840~>186 BFD25C
+$Odynus<~Controls.323~>240 886216
+<GambitLord> I still get 2 re-rolls for mouth 72874F
+<Odynus> yup 93284E
+$Odynus<~Controls.840~>110 7A3F37
+<auto> playchosen 34345A
+<auto><~Controls.3~>reveal 110 1754505A0CD12DFA9A15E11E4377DFAC55615182 17<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 63DDBB
+<auto><~Controls.866~>reveal 186 73DCA968A24ECE6DE0BBFBD586F818C78E6C8457 21<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> D9453C
+<auto> playchosen 07C2D5
+<game> GambitLord<~Controls.1~> 4 6 1 6 1 null
+<game> GambitLord<~Controls.1~> 1 6 null
+<GambitLord> 3 C75AB2
+<Odynus> ridiculous F4FE79
+<game> Odynus<~Controls.1~> 4 4 3 5 6 null
+<GambitLord> agreed, i'm +7 D15223
+<game> Odynus<~Controls.1~> 6 5 null
+<Odynus> 4 72398E
+$GambitLord<~Scribe.141~>330 028 029 023 <~Scribe.142~><~Game.1923~><~Scribe.143~><~Game.2036~><~Scribe.144~> A9B59E
+$Odynus<~Controls.304~>073 288 <~Controls.305~><~Game.1993~> A9014F
+$Odynus<~Controls.313~>295 071 <~Controls.309~>(1)/casualties(1)<~Controls.314~><~Game.1993~> 9CF4DF
+$Odynus<~Scribe.141~>295 <~Scribe.142~><~Game.1993~><~Scribe.143~><~Game.2037~><~Scribe.144~> 9C5855
+<GambitLord> post 6BDEC0
+<GambitLord> wait B129D0
+<GambitLord> you have shield wall 6CFDA9
+<GambitLord> so only 7CE270
+<GambitLord> 2 EB068A
+$Odynus<~Scribe.141~>295 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.1993~><~Scribe.144~> 173F69
+<Odynus> right 2C2D41
+<GambitLord> kk 0FDB41
+<GambitLord> rolling 1E0B4B
+<game> GambitLord<~Controls.1~> 6 3 2 2 6 null
+<GambitLord> 2 44C476
+$Odynus<~Scribe.141~>295 072 <~Scribe.142~><~Game.1993~><~Scribe.143~><~Game.2037~><~Scribe.144~> DC336F
+$GambitLord<~Controls.304~>006 <~Controls.305~><~Game.1923~> DB3669
+$GambitLord<~Controls.313~>002 <~Controls.307~><~Controls.314~><~Game.1923~> 610BB8
+<GambitLord> press 7EAB82
+$GambitLord<~Controls.662~>186 330 028 029 023 110 295 072 <~Controls.663~><~Game.2035~> E67CFA
+$GambitLord<~Controls.509~>184<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$GambitLord<~Controls.840~>205 BA4D58
+$Odynus<~Controls.840~>150 45C7A8
+<auto> playchosen D14D56
+<auto><~Controls.3~>reveal 150 814F79A7F427E89D01036DD2B82FD5C05D9C3601 16<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 68BE0B
+<auto><~Controls.866~>reveal 205 92F81D573332BA9D425042A7AFE073CD87EFCA44 15<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> EACC3A
+<auto> playchosen 14B627
+<game> GambitLord<~Controls.1~> 1 6 3 6 1 null
+<game> GambitLord<~Controls.1~> 6 1 null
+<GambitLord> wow 29D487
+<GambitLord> +10 39EC1D
+<Odynus> i mean 7635FD
+$Odynus<~Scribe.141~>240 245 074 071 070 069 <~Scribe.142~><~Game.1993~><~Scribe.143~><~Game.2036~><~Scribe.144~> E04146
+<Odynus> whatever concede 624B3A
+$GambitLord<~Scribe.141~>423 <~Scribe.142~><~Game.388~><~Scribe.143~><~Game.389~><~Scribe.144~> 50306D
+$GambitLord<~Scribe.141~>423 <~Scribe.142~><~Game.389~><~Scribe.143~><~Game.391~><~Scribe.144~> EA501E
+<Odynus> hard to look at the game 53AB55
+<GambitLord> gg A0CC66
+<GambitLord> yeah DFD780
+<Odynus> you have a win on board B60DE2
+<GambitLord> understandable 9FDF77
+<Odynus> and i cant dunk 54537A
+<GambitLord> yup D240EB
+<GambitLord> agreed 42F7A7
+<Odynus> on the red there wasnt a win 11D4A1
+<Odynus> you couldve wasted yourself against hd 6EA242
+<Odynus> but not anymore 247EE8
+<Odynus> ggs C71554
+<Odynus> shouldve taken gandalf to the 1r i guess 9B6322
+<Odynus> stupid concept E0AF2C
+<GambitLord> That was unlucky 19D368
+<GambitLord> you later took him to a 1 anyway C2BE57
+<GambitLord> i believe 818A4E
+<Odynus> yeah C45F02
+<Odynus> no choice later 68B6C6
+<Odynus> what am I gonna do pray for wills 7B0908
+<GambitLord> I got a ridiculous # of 6s 93FD96
+<Odynus> its not just the +10 on 6s 08BE8D
+<GambitLord> nothing can be done against that A94584
+<Odynus> its also a great amount of hybrids C52B94
+<Odynus> -7 on e and p A55941
+<GambitLord> yeah, and the -4 on eyes 30EB3A
+<Odynus> basically got to do whatever you like 260029
+<GambitLord> yeah, and it still took me 7 turns 7E4258
+<Odynus> im + 2 on movement and wills but 04A33E
+<Odynus> it didnt feel like it.. A28231
+$GambitLord<~Scribe.141~>reveal 189 7BB829CF7022D23A7394966244B42C9CB240AA60 14 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.1975~><~Scribe.144~> 43F2DC
+$Odynus<~Scribe.141~>reveal 107 A005E801BCBD4AC3C98198FDCB52B87369A78B21 20 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2029~><~Scribe.144~> 250F39
+$GambitLord<~Scribe.141~>reveal 184 F98D2DA571B22ADCE4DD5C89D2142D1485C0135C 20 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.1972~><~Scribe.144~> E03323
+$Odynus<~Scribe.141~>reveal 113 2D355D08061EFC1D3ADF56780E5ADF9408B44A0C 13 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2030~><~Scribe.144~> F15849
+$Odynus<~Scribe.141~>reveal 124 B87D505A21F0909BA757CB3983DFB3F7FDD9C866 3 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2031~><~Scribe.144~> 3A9F18
+$Odynus<~Scribe.141~>reveal 156 AEC4DDF09706701B880F4ADB31C263D3E2FA9742 23 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2032~><~Scribe.144~> B4824E
+<GambitLord> I was worried about cirdain 239188
+<GambitLord> and tom bombidil C47B44
+<Odynus> i chucked tom 6BBD12
+<Odynus> at the time hand was overfull 9E48B9
+<GambitLord> But I didn't even take DA, so that was a wasted effort 182CEF

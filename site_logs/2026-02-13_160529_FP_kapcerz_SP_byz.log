@@ -1,0 +1,865 @@
+<auto> silent null
+<auto><~Scribe.141~>363 397 398 402 401 400 399 403 404 376 375 374 373 377 378 <~Scribe.142~><~Game.2038~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>365 366 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 367 368 369 370 371 372 <~Scribe.142~><~Game.2040~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>230 231 <~Scribe.142~><~Game.2044~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>155 152 <~Scribe.142~><~Game.2004~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>137 151 <~Scribe.142~><~Game.2005~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>161 198 <~Scribe.142~><~Game.2006~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>163 188 <~Scribe.142~><~Game.2007~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Controls.323~>364 null
+<auto> noisy null
+<auto> silent null
+<auto><~Scribe.141~>312 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1965~><~Scribe.144~> null
+<auto> noisy null
+<~Game.7~>1 null
+<auto> silent null
+<auto><~Scribe.141~>363 397 398 402 401 400 399 403 404 376 375 374 373 377 378 <~Scribe.142~><~Game.2038~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>365 366 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 367 368 369 370 371 372 <~Scribe.142~><~Game.2040~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>230 231 <~Scribe.142~><~Game.2044~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>155 152 <~Scribe.142~><~Game.2004~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>137 151 <~Scribe.142~><~Game.2005~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>161 198 <~Scribe.142~><~Game.2006~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>163 188 <~Scribe.142~><~Game.2007~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Controls.323~>364 null
+<auto> noisy null
+$base silent null
+$TEST<~Scribe.141~>312 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1965~><~Scribe.144~> null
+$base noisy null
+<game> kapcerz<~Controls.408~>[WOTR-Gandalf2 wotr base2] null
+<~Talker.31~> null
+<kapcerz> hi! 
+<Byz> Hi 
+<Byz> Working now 
+<Byz> Want to use muster points? 
+<Byz> for bidding? 
+<kapcerz> we can 
+<kapcerz> although i slightly prefer 2t1r for fp 
+<kapcerz> and higher roll chooses side 
+<Byz> That's fine too 
+<Byz> I can do that 
+<game> Byz<~Controls.1~> 3 null
+<kapcerz> ok 
+<game> kapcerz<~Controls.1~> 4 null
+<kapcerz> ill go FP 
+<Byz> kk, gl 
+$kapcerz<~Controls.281~>427 426 <~Controls.282~><~Game.2038~><~Controls.283~><~Game.2042~> 
+$Byz<~Controls.479~>C8F72B7879983C200838E53EF315BCE40142A727 3729B6E6978431341C157F8A37897772 24 B92B73EBA17BF93194D717084DEA2445273AAC11 3ACDDA5725E7FC5D52B2D8AA08FE1F73 23DAA5F6850F3387A096F3C1DCD41EEA370299EB 7BF4102456A6458DD9AC7BC09504DEE4 636E2402C31340EE9D3F725A3B49D80D11EACAC2 836C87F7D97B4B38D5192BED9225A19E 0BB0E4ABBAFA35E3DCA872FB35E32149A21090D3 87BD7A3FEBF7DB8F3383AEF94E591FE3 439227376C1191772EED9F520EA7E97472618841 353D6317C4967C250E42F3434B5C6EC8 48189398F3D083B67B7A237740294E7A4D377B65 AF09AB7754391C2E549BFEF40F390555 946019E5DD08CC60BB217B08D6A2E9358BBC2908 D7309AD82FF59636A982D2963C1B6C3B 94B9F5A4CB3920B95A1EE278E5920150D54876E6 CD874702C46F92348A272168DEBFAD23 ACB15755666355ADF814EE06ECE69174BAA1CE50 B5F640A2D538E843B5B0C98A0417FFFE B81B771D731B6F53CF192EDC9EA99AB80CA1005C BD3C86D123D8362AC8C9DA1491EA465C DED40742622ACFD603BBB0E455E64AF8A019B105 5D709D95688289EE28E77DB8539E7894 EAF049558879905B315FCAAD2B44AF16A385FD34 E1BF38B689A991AD2464F8DF545D52B9 A87B9100B6F1C9E19CF2EAB3D976839F82A78681 243659E20BDCEC0259DF1DDE704840D9 C64EFBBFD879B13B0C94E0038D28D651E5814CF9 9D8752FCC6A7A448577961F3277A2B9D 0FA532D5645C6A9C9E6F9580D5CE511254583F9C 9F2BD0A7D973BDE684D9690AB4F314CA 4957E19A05D1FF4DE475FEB8F8737A91A50DB40A DC453C90DE858480401DE6FE5EC7C965 47A1FCD19F33874704D9A8D94EE8B039312553F7 2A24EDC45DA69CFB4A15A02C0D14FF54 802667A328466377A181F4773245F7883A665B89 895486738518CCD86175AABD1FA6F946 8FE229E444B29A98C7B9F247230ABBD3318E7394 649746F418D985C72EDA4F6B7C51CEC0 8B7D57031A944AC49D69197324B18F132CA05CE5 1732CCC7A758539E60C95100E7588585 9A51BF9B2940A42E652EDAAA5E3744DAE0B6E530 B1656DD6FF24E3421810552297763C72 7E20F7455505A86983166BB9C3C89089D107D534 FA0DDBFEE335D48F88234B9E065A0803 C56D9C88979A37F6B75955F4B7311AC3F0A9F664 B7AC9F18FAD09CE3D6677E6E08AF0F00 7E7B2A5889BF62876A72B61CAD2D2DF8150244E3 2C656DCF0A3967E64581E1DA1E026787 24 B3CB27E202E5BDED3727AE1BB13578494D15C046 E1AB51BA669CADDB9613A0BB0B16D698 C568CED3511F4907568EFE4C13E8FCEAD6F24491 A9AE0D66A5F601D3AC93F1FCA87E241A BBFC5FF0665E3454A6B216EC9258BEC3A77C6250 DFB83E9094D905896E0F15E0F49414B6 E8CBD03F4FAF62F488FB2D69DD3FF3570960796E F317F2E96D516141F00F67126F18110B C1B02971CA5B57CFD291FF7CE2F0A9DE77DE572F 2444F4874858C743D5F9F0EEA71103FA 479AA77F40272E1357FCE1E83BE8AA13001DCCED 8E51E3D5D18C0994EE8FE31A12CA0AFF 020A5FD97316487366CC001568BC7C1AEFED8F38 67ED08DB3A20248F277C64101EED2FDE A02491582117CC6F753D3096BAA345763934E97A 856B80D5732F4618A202311F8626CA72 11101A5E1B7E5A3293C5A13AC59612BC679DB203 23A8715598FB69302443165EE7D1A48A 5A06377D208654EA6581F51E692FC11BCC1F83D4 E3C171CFABB55324B0AC610D928FF5AA C823F4F633793439C3EAF3B3EEAFE3D3BFB09970 16F0A60E83D104D7718772F7A3D266C6 23894553F0C99C58E32C1655B7363A3EDDCDECDD 3BF95C8503141D2DDCB8BF8B52BCF4F5 BE6A21EDF429E66B9FD9DDDF3A532FCE477AB453 C50D8C798DD081CF1526334089D86B73 2487D8E60DEF0CFB64D1FB1A6408AFAFE30E5749 210BACBAB90937A49258EE56B58F3E79 19D8730F747F62F2A1A22FEED1BA686F299AA8F9 F76A4A7B4169DDB2FE48A281E0615F71 675DEA8B0AE4ACD7E7872AC4B4BF17CCF2FC0498 AF6279234043031A5F74DE29FF3E1B81 D214D362BE2962726511F26A264CD72E3A1D11DA 36F7924D9B18A6227A9F59F58890D013 0CCE32DD23AF2831D0A32940C0A95A9E2BD75B60 01093375BF4C25F375EC78A048C8146F 161DDEEC5213DD7012EE1210076FB9A6FD66A8BA 519CF74C8C02BE69BE2680967288A391 57E251AA81F9A963BCF85047B984C7D23FC3E99F B9E1C6D29054B3FB2B692000FAB88FF0 F49E3F8A3DA9017E3AD2C2A9D2DF188A3DBF10AD DDC24E78785CC5486382C8F4231EE0F4 4CFFDE0CEFBA3449B0B9BFC71E224231D8CCFC90 7BF76976C2BDCC457BBB6C535644461C 7244F75FEFECADC0EC1B2AD8377AEB6FE75CACB9 AFE65252B7A7774CE3E4B1AA36D5371B 795FBCFE9B93FC482AF967CC4BA13A48CADBC91E 72D84CEB9882800C83CDC1D0F0A99F72 0 0 141569
+$Byz<~Controls.509~>202<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Byz<~Controls.509~>172<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<kapcerz> gl hf ! 
+$kapcerz adds 1 Dwarven Ring(s) 
+$kapcerz<~Controls.281~>428 <~Controls.282~><~Game.1997~><~Controls.283~><~Game.2042~> 
+$kapcerz<~Controls.509~>109<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$kapcerz<~Controls.464~>E46B57951D065C89C86915BBC7F3A3749D8B8246 9BFC312DF2F40E52D1DD5CB24FC47F37 24 4D4435B1FF7E850BD504965D835EA8D5868FDBCD AA0EAACF1E9F7E54C7F76FC4301C19FA 78C3246CDC07526EF0729683A8705D73767F5C78 6DC543BAF57D55DD81C2260B5901F8EC BFA8054116AF45799B39F22D45FC0E40BCE88C3A F97D8ADA321831FCF7B5B60D2F6FE7AF C7A101C5E7BDE862B2F0CA668C24A988D5D7AD11 E39B6185A8F2BB4C3BF7C8C3C2AA2B49 C36B3945C8B7F596AD9005A5872745FE4315903D 0189B912BB8E38A1DEE7343E6528F581 9B035FD5304EF8734E0E27A0B4348E582EEA8282 776D2E71125C199292C7C93780B6A3EE 4712D4E62FD79923C594375E95EB18C01243A799 F1E38B568A91B9A0104CDE89A4019150 4F0FEA93C56873FE44B3E53F30BBD88DB6A3E166 2D2E21F06D2116D43C53674ADFC5F63A 71067C8185D2815F1B47604B7C9470073E1B593B BCAD853AE33CA5E88613C5915141F6F8 B8BA5367BD9CAC59605565159EBFF2F1501C025B 08A5259CA81A5EFB926E888FFFBB0B15 EAE64FA9A47C54E01CEB3E35F32B033F0B433008 9884EB6CFEF4E99A1A4A6895E638921B 27B3E3A399D3F4C81FEB6752A541383DB419512B 9248DAAFE572122C1313B92053A4A81F 6235954DAF1A08AC4B85A78A8C22EE8BDBB76051 81AAB11D8AF010CF0ECF361B71130B9D 6380FC2DAA1C55BE042ECC3E66FD1BDBF89323D6 582BFD71FC5AA565E15F149E23E987CF B9788B35F0905E6DA2D07339C710D2D428F46E07 B7397BB2259312E586DD486C13F4E1DA 57CD2BC35D6830272E76430995F4F37FB60B1CEF 6CF8D963F78B89DE422A3E350BDA6DD1 17D3800A2F5E6C50BB61906691E890662AFA646D 3B699B92E5976BAB092592FD8364CA0D D8CA5CF5B60E9200F7C9BCD60AE39143F7D41B6F E2FFCA8B94995F34201ECEEA7A82F881 5AD3DF921ECB26BFA746D3E5FC7ADEFF64B22E5C 57E14AA3D20BBD1104720E27891311BD 45EBB4316F82742163BEB27B17080971CD530576 53531F85C6148B348A6ECECC34D023F6 D8BCD6A040775A77F8F8759B47B9EADC1AB914BA 132083206918814047E6AA5783E3AB77 B678D262EBCABBCBEDBFC226E6059DE733CE5B5B 5DF2F716347E59D431163027D109BC38 7164195BDF3358BE63645DB1FB81748FF9985862 C0ED31DB1B9E9EB586C1ED4AE348CD40 19079C17FE97677CB141853229921590EAC083B7 2007EEF3B90825EBECA7564D3B9538EE 24 9F2E477FF7EB30F46A573F8336B22E1A95DAE068 71E1B689CB9EE574D9B99EA3AEF8143F 856806CDF5758AD671D2D22EFED92E9E764D458B C23294ECE22B1D6434AF1D0E340EB985 ADF0822851AC4D71F2FACDCC8FC328CB5D4A2C2B 7DF5DCC35478BE723CE4F1B4FEE6B746 DBC4834D46C2242B278082CF42D6FD5146951671 ECE9244F73069FE8A8A0F971CEAC1E7B D438F37FE25BEA01AE25FEFE6171667166958860 FF2BC27701EF951E102DF731829539C8 488F6311E5AB93B04071375CD158E7A42D46BE3E 4CE1EF66E29047778B5A16F5F0FB7BF3 00C83D8577FE9C1DF0AC615A65AFB83EBD9B36C1 56435F211308D059986050F1F9B19086 00C7B9C8A8782A5827080811C1F44230A49040C2 118A580EDB9F29F741359509D8DF542A DEB146D7939885BF8761A415B980350F72CE8DC2 A57AA1D23FB44B377DC36FF1BB04D138 7437DB3BF84F7255C8FB4F58FD42AEF5513E3527 729E770EBAB6D199D6A34C5094EC68BB D435457216C3E663A3D6488CE277157635C8A66E 546648262D4AC1964B3BE14F30AFB4E4 173A1B78CE4D4173041A7A799FB0261D8FA208A9 27BEB19714AA01CA7664ABA0870C02D2 4566422C79E2F36BE55B931A4E7002903EC28AB4 8DD4F98BFAD0850EF10660F456BA9E50 02E4BFA118F4F93646637E19F73F88FACFDE28C1 EE1AD5762E124E78F640A1AAEB7601AC C3F7E83357A6A2969727F43B057FF6C208A2BC6E C0C13DF8B71A7D9D4507BB463FF5F064 6F8BDC10B89B96A9FE1A4E127995744BD89D6E7F 083590CA848D07D24A5FAFB749F624AC 346771AD6690DC13BE0D3EB0818D36CB26FD67AA 1F5D54E7E7AE444E7E97C9649023CFB5 A2CFC73C2FAABB8EE881A69387A41FFE859CB1D7 B9A753E544D319D20D2282D2027F3E6C 368C0EB1A5D3831FFE4FC2C1FA63070BA75ED6F1 231D18CE0585E14BB8F5F2F3047CA9B7 358BD82BE20F22D2DE696E18F60F23F0C9C63B36 CB05F1B7D095CAA6FC98B666CA1558DD EAF62D96B33EBC206BA5BA2A97F0619BE65C4B57 05E45D88FC8E7AE7733B0AD8E7762852 81FA28FD39BF090BB9D02568A762AA739903B1F4 0BC688994035829A7B81AD3C2706FE88 15F4407B24BF2C504121764F1D468606916B82DC 46348510AD13EAB515E680CF9CEC539E 872F9F79F134D3B9EA20709010842E8E00C7A6DB CB3F9981DE4108090ED78D8FF6682974 0 0 59EAC5
+$kapcerz<~Controls.509~>118<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+<Byz> 0e 074E5A
+<kapcerz> fsp ok 55B4D1
+$Byz<~Controls.345~>105 104 103 102 101 100 099 <~Controls.346~>15 15 10 12 14 13 13 null
+$Byz<~Controls.350~>105 104 103 102 101 100 099 null
+$kapcerz<~Controls.345~>213 212 211 210 <~Controls.346~>1 1 2 4 null
+<kapcerz> pass 007443
+$Byz<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 818128
+$Byz<~Scribe.141~>039 036 029 028 027 026 <~Scribe.142~><~Game.1979~><~Scribe.143~><~Game.533~><~Scribe.144~> 0B34B5
+$Byz<~Controls.644~>099 <~Controls.645~><~Game.2035~> CF66D0
+$kapcerz<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 3C0D1E
+$kapcerz<~CardBuffet.9~>reveal 118 0C6D5702721F260226B9A63476317A0579607DB1 10<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> 31ABEA
+$kapcerz<~Scribe.141~>303 304 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1970~><~Scribe.144~> 8D668B
+$kapcerz<~Controls.509~>153<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$kapcerz<~Controls.509~>156<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$kapcerz<~Controls.644~>211 118 <~Controls.645~><~Game.2035~> B8445E
+$Byz<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 3020CA
+$Byz<~Scribe.141~>039 036 029 028 027 026 <~Scribe.142~><~Game.533~><~Scribe.143~><~Game.1974~><~Scribe.144~> 86AF62
+$Byz<~Controls.644~>100 <~Controls.645~><~Game.2035~> FFF64A
+$kapcerz<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> B86FED
+$kapcerz<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 5D9F7C
+$kapcerz<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 699D78
+<game> Byz<~Controls.1~> 2 1 null
+$Byz<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 1BEB5E
+$Byz<~Scribe.141~>039 038 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1974~><~Scribe.143~><~Game.1976~><~Scribe.144~> 5BFA63
+$Byz<~Scribe.141~>055 049 048 047 <~Scribe.142~><~Game.1968~><~Scribe.143~><~Game.1952~><~Scribe.144~> 9DF738
+$Byz<~Scribe.141~>055 049 048 047 <~Scribe.142~><~Game.1952~><~Scribe.143~><~Game.1946~><~Scribe.144~> 3C84A2
+$Byz<~Controls.644~>102 <~Controls.645~><~Game.2035~> 06837A
+$kapcerz<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 27F443
+$kapcerz<~Controls.790~>248<~Controls.791~><~Game.2015~><~Controls.792~><~Game.2016~> FD1C2C
+$kapcerz<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> DD090A
+<game> Byz<~Controls.1~> 1 2 null
+<Byz> well 36BDC6
+<Byz> Not so good so far 1BF9DC
+$Byz<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> FFD562
+$Byz<~Scribe.141~>reveal 202 02990E620151CA1A68E4AB44E88EC45685968055 17 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> B68DB9
+$Byz<~Controls.281~>239 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2045~> 03852D
+$Byz<~Controls.644~>101 202 <~Controls.645~><~Game.2035~> C070DE
+$kapcerz<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 24AF45
+$kapcerz<~CardBuffet.9~>reveal 153 E78D2E26CD4B7321FC2ED5879A6E1B66A249B1DE 8<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> CA998F
+$kapcerz<~Scribe.141~>283 289 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1929~><~Scribe.144~> 7E2377
+$kapcerz<~Controls.644~>210 153 <~Controls.645~><~Game.2035~> 16EBF5
+$Byz<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 476F31
+$Byz<~Scribe.141~>263 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 4A2A4A
+$Byz<~Controls.644~>103 <~Controls.645~><~Game.2035~> 659E35
+$kapcerz<~Controls.726~>213 212 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 167B39
+$kapcerz<~Controls.731~>210 211 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 2F0959
+$Byz<~Controls.726~>213 212 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 4AB24A
+$Byz<~Controls.731~>210 211 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 7DDF5C
+$Byz<~Controls.757~>105 104 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> FD29D2
+<~Game.7~>2 null
+$Byz<~Controls.762~>103 101 102 100 099 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 74C488
+$Byz<~Controls.509~>201<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Byz<~Controls.509~>207<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$kapcerz<~Controls.509~>127<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$kapcerz<~Controls.509~>120<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+<kapcerz> fsp ok DAEDD2
+$Byz<~Controls.372~>103 DEF14A
+<Byz> 1e D5B00F
+$Byz<~Controls.345~>101 102 100 099 105 104 <~Controls.346~>10 10 15 15 11 13 null
+$Byz<~Controls.350~>101 102 100 099 105 104 null
+$kapcerz<~Controls.345~>210 211 213 212 <~Controls.346~>0 0 2 2 null
+$kapcerz<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 4D34EE
+$kapcerz<~CardBuffet.9~>reveal 127 CC2BCF125A4231E32615481E80E59D3D4F2C3735 17<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> 2D7FEB
+$kapcerz<~Controls.281~>235 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2045~> 2606DB
+$kapcerz<~Controls.509~>142<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$kapcerz<~Controls.644~>212 127 <~Controls.645~><~Game.2035~> F0144D
+$Byz<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> A675F3
+$Byz<~Scribe.141~>262 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 28EF94
+$Byz<~Controls.644~>102 <~Controls.645~><~Game.2035~> BC7712
+$kapcerz<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> B10FFA
+$kapcerz<~Controls.790~>248<~Controls.791~><~Game.2016~><~Controls.792~><~Game.2017~> 74AD80
+$kapcerz<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 898486
+<game> Byz<~Controls.1~> 2 1 4 null
+$Byz<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 9F3638
+$Byz<~Scribe.141~>039 038 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1976~><~Scribe.143~><~Game.1972~><~Scribe.144~> 77E122
+$Byz<~Scribe.141~>040 035 015 014 013 012 011 <~Scribe.142~><~Game.1956~><~Scribe.143~><~Game.1953~><~Scribe.144~> 73D649
+$Byz<~Controls.644~>105 <~Controls.645~><~Game.2035~> 3599BD
+$kapcerz<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> A917F9
+$kapcerz<~Scribe.141~>251 <~Scribe.142~><~Game.2010~><~Scribe.143~><~Game.2037~><~Scribe.144~> 0FF251
+$kapcerz<~Controls.790~>248<~Controls.791~><~Game.2017~><~Controls.792~><~Game.2018~> 444F94
+$kapcerz<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 35E357
+$kapcerz<~Scribe.141~>251 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2011~><~Scribe.144~> 4311BE
+<game> Byz<~Controls.1~> 2 4 3 null
+<Byz> man 2DC75C
+<Byz> Crazy 668807
+$Byz<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 28ADFA
+$Byz<~Scribe.141~>039 038 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1972~><~Scribe.143~><~Game.1975~><~Scribe.144~> 547255
+$Byz<~Controls.644~>104 <~Controls.645~><~Game.2035~> A67774
+<kapcerz> i wouldnt mind gandy dying here B2AE20
+<Byz> I mean C3D949
+<kapcerz> for a 3 perhaps ;p 8244BF
+<Byz> There's no saruman A07277
+<Byz> Everything has gone your way so far 899F05
+<Byz> But it's early I suppose B11848
+$kapcerz<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 124BF9
+$kapcerz<~Scribe.141~>065 <~Scribe.142~><~Game.1941~><~Scribe.143~><~Game.1957~><~Scribe.144~> A3F5CE
+$kapcerz<~Scribe.141~>283 289 073 072 <~Scribe.142~><~Game.1929~><~Scribe.143~><~Game.1925~><~Scribe.144~> 4965E9
+$kapcerz<~Controls.644~>210 <~Controls.645~><~Game.2035~> BA786A
+$Byz<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> E740B2
+<Byz> I do like getting a ring 3A147C
+$Byz<~Scribe.141~>254 360 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2037~><~Scribe.144~> BD3AA3
+$Byz<~Scribe.141~>254 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.1919~><~Scribe.144~> 41E563
+$Byz<~Controls.644~>101 360 <~Controls.645~><~Game.2035~> E034DA
+$Byz<~Controls.726~>213 211 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 9D1537
+$Byz<~Controls.731~>210 212 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> E9D0B2
+$Byz<~Controls.757~>100 099 103 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> FF3E4A
+<~Game.7~>3 null
+$Byz<~Controls.762~>101 360 104 105 102 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 9A0B0B
+$Byz<~Controls.509~>193<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Byz<~Controls.509~>197<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$kapcerz<~Controls.509~>115<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$kapcerz<~Controls.509~>138<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+<kapcerz> fsp ok 8876B3
+$Byz<~Controls.372~>101 E0DB34
+<Byz> 1e C76317
+$Byz<~Controls.345~>360 104 105 102 100 099 103 <~Controls.346~>14 14 11 15 14 15 15 null
+$Byz<~Controls.350~>360 104 105 102 100 099 103 null
+$kapcerz<~Controls.345~>210 212 213 211 <~Controls.346~>3 1 1 3 null
+<Byz> lol 5C85C8
+<Byz> Might as well concede at this point 1EA3D0
+<Byz> but go ahead 0CB8F1
+<kapcerz> hmmm 95AB0A
+$kapcerz<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> F288E1
+$kapcerz<~Controls.790~>248<~Controls.791~><~Game.2018~><~Controls.792~><~Game.2019~> 0CF795
+$kapcerz<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> E74F94
+<game> Byz<~Controls.1~> 6 2 3 4 null
+<Byz> WOAH 84C757
+$Byz<~Controls.624~>224<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$kapcerz<~Scribe.141~>240 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2035~><~Scribe.144~> E4CBE2
+$kapcerz<~Controls.644~>240 224 <~Controls.645~><~Game.2035~> D4AC3A
+$kapcerz<~Scribe.141~>241 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> 293D8A
+$Byz<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> C77BD1
+$Byz<~Scribe.141~>039 038 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1975~><~Scribe.143~><~Game.1966~><~Scribe.144~> EDAF16
+$Byz<~Scribe.141~>040 035 015 014 013 012 011 <~Scribe.142~><~Game.1953~><~Scribe.143~><~Game.1927~><~Scribe.144~> 61FC4C
+$Byz<~Controls.644~>105 <~Controls.645~><~Game.2035~> 2D85F2
+$kapcerz<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 3D2CB5
+$kapcerz<~Scribe.141~>256 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> B67F77
+$kapcerz<~Controls.644~>211 <~Controls.645~><~Game.2035~> 615F80
+$Byz<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 4D2C96
+$Byz<~Controls.509~>159<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Byz<~Controls.644~>100 <~Controls.645~><~Game.2035~> A7A58F
+$kapcerz<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> C0E521
+$kapcerz<~Controls.281~>210 <~Controls.282~><~Game.2035~><~Controls.283~><~Game.2042~> 3DA602
+$kapcerz<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> DA5EEE
+$kapcerz<~Controls.790~>248<~Controls.791~><~Game.2019~><~Controls.792~><~Game.2020~> BBF2D6
+$kapcerz<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 2368D6
+<game> Byz<~Controls.1~> 5 4 5 6 null
+$Byz<~Controls.624~>217<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$kapcerz<~Scribe.141~>252 <~Scribe.142~><~Game.2014~><~Scribe.143~><~Game.2015~><~Scribe.144~> F55263
+$kapcerz<~Scribe.141~>247 <~Scribe.142~><~Game.1911~><~Scribe.143~><~Game.1908~><~Scribe.144~> 78BF98
+$kapcerz<~Scribe.141~>247 <~Scribe.142~><~Game.1908~><~Scribe.143~><~Game.1912~><~Scribe.144~> B04541
+$kapcerz<~Scribe.141~>247 <~Scribe.142~><~Game.1912~><~Scribe.143~><~Game.1917~><~Scribe.144~> A46F69
+$kapcerz<~Scribe.141~>247 <~Scribe.142~><~Game.1917~><~Scribe.143~><~Game.1927~><~Scribe.144~> D5951E
+$kapcerz<~Scribe.141~>247 <~Scribe.142~><~Game.1927~><~Scribe.143~><~Game.1930~><~Scribe.144~> E21641
+$kapcerz<~Scribe.141~>247 <~Scribe.142~><~Game.1930~><~Scribe.143~><~Game.1937~><~Scribe.144~> FBFA55
+$kapcerz<~Controls.323~>247 96EE2D
+$Byz<~Controls.624~>216<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2036~> null
+$kapcerz<~Scribe.141~>252 <~Scribe.142~><~Game.2015~><~Scribe.143~><~Game.2016~><~Scribe.144~> 9EC7F7
+$kapcerz<~Controls.644~>216 217 <~Controls.645~><~Game.2035~> C73D62
+$Byz<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 90A51C
+$Byz<~Scribe.141~>reveal 201 048591A6C16D3F16C9FA3BA0D0CA7D542A9817B7 14 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 8D1467
+$Byz<~Controls.637~>245<~Controls.638~><~Game.1998~><~Controls.639~><~Game.2036~> null
+<Byz> ofc FA3FD8
+<Byz> lol 38272D
+$kapcerz<~Scribe.141~>245 <~Scribe.142~><~Game.2036~><~Scribe.143~><~Game.1925~><~Scribe.144~> A34023
+<Byz> I help you 05D5CC
+$Byz<~Controls.644~>104 201 <~Controls.645~><~Game.2035~> 92094E
+$kapcerz<~Controls.644~><~Controls.645~><~Game.2035~> 46DC8D
+$kapcerz<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 93A709
+$kapcerz<~Controls.323~>247 AE8260
+$kapcerz<~Controls.644~>210 <~Controls.645~><~Game.2035~> 61F185
+$Byz<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 9566C3
+$Byz<~Scribe.141~>reveal 197 65065B0ADE45C90447C179941D747E8C217A4794 13 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 236687
+$Byz<~Scribe.141~>340 341 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1917~><~Scribe.144~> DA393D
+$Byz<~Scribe.141~>338 339 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1969~><~Scribe.144~> 440F7D
+$Byz<~Scribe.141~>342 337 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1956~><~Scribe.144~> A66423
+$Byz<~Controls.644~>360 197 <~Controls.645~><~Game.2035~> 8373D7
+$kapcerz<~Scribe.141~>426 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 3A2482
+$kapcerz<~Scribe.141~>256 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> D9B203
+$kapcerz<~Controls.644~>426 <~Controls.645~><~Game.2035~> C571D0
+$Byz<~Controls.726~>212 213 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> E52571
+$Byz<~Controls.731~>210 211 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 8D33F1
+$Byz<~Controls.757~>102 099 103 101 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> E28C69
+<~Game.7~>4 null
+$Byz<~Controls.762~>360 104 100 105 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 4841BC
+$Byz<~Controls.509~>167<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Byz<~Controls.509~>189<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$kapcerz<~Controls.509~>123<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$kapcerz<~Controls.509~>140<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$kapcerz<~Controls.296~>109 <~Controls.297~><~Controls.45~> CCE234
+$kapcerz<~Controls.296~>142 <~Controls.297~><~Controls.45~> 042829
+$Byz<~Controls.372~>360 15CF57
+<Byz> 1e 3EBDAD
+<kapcerz> fsp ok E7D5F4
+$Byz<~Controls.345~>104 100 105 102 099 103 101 <~Controls.346~>12 15 11 13 14 14 10 null
+$Byz<~Controls.350~>104 100 105 102 099 103 101 null
+$kapcerz<~Controls.345~>210 211 212 213 <~Controls.346~>4 0 4 1 null
+<kapcerz> pass 1492C8
+$Byz<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 05B48F
+$Byz<~Scribe.141~>340 341 008 007 <~Scribe.142~><~Game.1917~><~Scribe.143~><~Game.1927~><~Scribe.144~> 819795
+$Byz<~Scribe.141~>055 057 049 048 047 046 045 <~Scribe.142~><~Game.1946~><~Scribe.143~><~Game.1932~><~Scribe.144~> 0BD7EC
+$Byz<~Controls.644~>104 <~Controls.645~><~Game.2035~> ED8C08
+<kapcerz> pass 05302C
+$Byz<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 0DC836
+<Byz> ofr 4E6B64
+$Byz<~Controls.840~>207 0317C0
+$kapcerz<~Controls.840~>156 EEADC5
+<auto> playchosen 26A1A6
+<auto><~Controls.3~>reveal 156 408819C692940534F0FA760AC6D415EBC9BBD452 15<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> E4C030
+<auto><~Controls.866~>reveal 207 A103346272366A95816902451395DCEDB191EA4C 2<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> E165AD
+<auto> playchosen 660E18
+<game> Byz<~Controls.1~> 2 2 3 5 1 null
+<Byz> 1 6850DC
+<game> kapcerz<~Controls.1~> 4 null
+$kapcerz<~Scribe.141~>065 <~Scribe.142~><~Game.1957~><~Scribe.143~><~Game.2037~><~Scribe.144~> 75275C
+$Byz<~Scribe.141~>258 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> F86060
+$Byz<~Controls.323~>258 5B6479
+$Byz<~Scribe.141~>039 038 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1966~><~Scribe.143~><~Game.1957~><~Scribe.144~> C7653D
+$Byz<~Controls.644~>102 207 156 065 <~Controls.645~><~Game.2035~> 7E144A
+$kapcerz<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 78C148
+$kapcerz<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 2B85A8
+$kapcerz<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> A9F454
+<game> Byz<~Controls.1~> 4 1 null
+$Byz<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 1186BE
+$Byz<~Scribe.141~>reveal 167 365DCCAC1F09889E36B5AA6981A5B731E760F684 5 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 804D82
+$Byz<~Scribe.141~>037 <~Scribe.142~><~Game.1969~><~Scribe.143~><~Game.1937~><~Scribe.144~> 35D5CC
+$Byz<~Scribe.141~>040 <~Scribe.142~><~Game.1927~><~Scribe.143~><~Game.1957~><~Scribe.144~> EE2890
+<game> Byz<~Controls.1~> 4 6 null
+<game> Byz<~Controls.1~> 2 null
+$Byz<~Controls.624~>225<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2036~> null
+<kapcerz> random 416D69
+$Byz<~Controls.637~>243<~Controls.638~><~Game.1998~><~Controls.639~><~Game.2037~> null
+$Byz<~Controls.644~>099 225 167 243 <~Controls.645~><~Game.2035~> A1A187
+$kapcerz<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> ADB313
+$kapcerz<~Scribe.141~>240 <~Scribe.142~><~Game.2039~><~Scribe.143~><~Game.1921~><~Scribe.144~> E87136
+$kapcerz<~Scribe.141~>358 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.2037~><~Scribe.144~> 2630CD
+$kapcerz<~Controls.323~>240 4F8274
+$kapcerz<~Controls.644~>211 358 <~Controls.645~><~Game.2035~> B35D33
+$Byz<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> F33AD9
+<Byz> Lorien A642F0
+$Byz<~Scribe.141~>256 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 365C39
+$kapcerz<~Scribe.141~>097 093 092 087 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.1992~><~Scribe.144~> AD7440
+$Byz<~Scribe.141~>035 340 341 008 007 015 014 013 012 011 <~Scribe.142~><~Game.1927~><~Scribe.143~><~Game.1928~><~Scribe.144~> 050551
+$Byz<~Controls.644~>105 <~Controls.645~><~Game.2035~> 784867
+$kapcerz<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 7358E6
+$kapcerz<~Scribe.141~>266 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1954~><~Scribe.144~> 83DA65
+$kapcerz<~Controls.644~>212 <~Controls.645~><~Game.2035~> 261917
+$Byz<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 4A0ED0
+$Byz<~Scribe.141~>251 <~Scribe.142~><~Game.2011~><~Scribe.143~><~Game.2037~><~Scribe.144~> 1B3B1F
+<Byz> woodland DC80E7
+$kapcerz<~Scribe.141~>098 266 094 088 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1991~><~Scribe.144~> DC5D76
+$Byz<~Scribe.141~>040 039 038 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1957~><~Scribe.143~><~Game.1954~><~Scribe.144~> 296C71
+$Byz<~Controls.644~>103 251 <~Controls.645~><~Game.2035~> 6B68DF
+$kapcerz<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> AC5BBA
+$kapcerz<~Scribe.141~>250 <~Scribe.142~><~Game.2009~><~Scribe.143~><~Game.2037~><~Scribe.144~> ED258A
+$kapcerz<~Controls.790~>248<~Controls.791~><~Game.2015~><~Controls.792~><~Game.2016~> 38449C
+$kapcerz<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 05883A
+$kapcerz<~Scribe.141~>250 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2011~><~Scribe.144~> D271D7
+<game> Byz<~Controls.1~> 1 6 null
+<game> Byz<~Controls.1~> 3 null
+$Byz<~Controls.624~>214<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$kapcerz<~Scribe.141~>247 <~Scribe.142~><~Game.1937~><~Scribe.143~><~Game.1942~><~Scribe.144~> 51BBDD
+$kapcerz<~Scribe.141~>247 <~Scribe.142~><~Game.1942~><~Scribe.143~><~Game.1943~><~Scribe.144~> 790AE3
+$kapcerz<~Controls.323~>247 6226B4
+$kapcerz<~Controls.644~>214 <~Controls.645~><~Game.2035~> 82D9C7
+$Byz<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 685784
+$Byz<~Scribe.141~>253 361 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2037~><~Scribe.144~> 90B078
+$Byz<~Scribe.141~>253 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.1954~><~Scribe.144~> 5C2EEB
+$Byz<~Controls.644~>101 361 <~Controls.645~><~Game.2035~> 18B022
+$Byz<~Controls.323~>259 257 7B8220
+$Byz<~Controls.323~>260 48127A
+$Byz<~Controls.726~>210 213 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 500E1A
+$Byz<~Controls.731~>212 211 358 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 1CA943
+$Byz<~Controls.757~>100 360 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> D2EA31
+<~Game.7~>5 null
+$Byz<~Controls.762~>101 361 103 105 099 102 104 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 0D3004
+$Byz<~Controls.509~>191<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Byz<~Controls.509~>164<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$kapcerz<~Controls.509~>108<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$kapcerz<~Controls.509~>130<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Byz<~Controls.372~>101 41EF19
+<Byz> 1e C4CB97
+$kapcerz<~Controls.296~>120 <~Controls.297~><~Controls.45~> 7B2C7A
+$Byz<~Controls.345~>361 103 105 099 102 104 100 360 <~Controls.346~>12 10 11 10 10 15 11 14 null
+$Byz<~Controls.350~>361 103 105 099 102 104 100 360 null
+<kapcerz> fsp ok 7DFE5D
+$kapcerz<~Controls.345~>212 211 358 210 213 <~Controls.346~>2 1 3 1 0 null
+$kapcerz<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 9E7388
+$kapcerz<~Controls.323~>247 684896
+$kapcerz<~Controls.644~>212 <~Controls.645~><~Game.2035~> 145575
+$Byz<~Scribe.141~>361 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 602E29
+<Byz> woodland 29CB83
+$Byz<~Controls.840~>191 78C1AC
+$kapcerz<~Controls.840~>140 46FCBC
+<auto> playchosen 7C108C
+<auto><~Controls.3~>reveal 140 0CD85F7B3F09E3CE81FDE21F404C78D8DBCC65F1 5<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> AC5305
+<auto><~Controls.866~>reveal 191 8E94D6F7F7CF458B88A6AF61E062E4B4D0DC8786 1<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 77C720
+<auto> playchosen ADDA49
+<game> Byz<~Controls.1~> 5 1 3 5 3 null
+<game> Byz<~Controls.1~> 2 2 2 2 1 null
+<Byz> 0 1D6478
+<game> kapcerz<~Controls.1~> 6 2 4 null
+<kapcerz> 1 A28D3A
+$Byz<~Controls.296~>022 <~Controls.297~><~Game.1954~> 840183
+<Byz> stop draw 1AA330
+$Byz<~Controls.509~>182<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Byz<~Controls.644~>361 191 140 <~Controls.645~><~Game.2035~> 70FF4A
+<kapcerz> pass F9AED5
+$Byz<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 60E892
+<Byz> woodland DC1557
+$Byz<~Controls.840~>164 962D60
+<kapcerz> nc 5F61A8
+<auto><~Controls.866~>reveal 164 407A4488C4CFA7C67E0E1AA5C8AB2DDC3D4640BE 17<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 68ADC7
+<game> Byz<~Controls.1~> 6 1 5 6 6 null
+<game> Byz<~Controls.1~> 1 null
+<Byz> 4 A65460
+<game> kapcerz<~Controls.1~> 5 1 2 null
+<game> kapcerz<~Controls.1~> 6 null
+<kapcerz> 2 0DF8CF
+$Byz<~Controls.296~>023 021 <~Controls.297~><~Game.1954~> E91388
+<Byz> press 8CE517
+$kapcerz<~Scribe.141~>266 094 <~Scribe.142~><~Game.1991~><~Scribe.143~><~Game.2037~><~Scribe.144~> 20E64B
+$Byz<~Controls.304~>036 <~Controls.305~><~Game.1954~> EB9B3D
+$Byz<~Controls.313~>023 <~Controls.307~><~Controls.314~><~Game.1954~> FDBFBD
+$Byz<~Controls.662~>164 266 094 <~Controls.663~><~Game.2035~> 1ADE8D
+<Byz> nc 03F1B6
+<kapcerz> nc FC6B82
+<game> Byz<~Controls.1~> 1 6 4 6 3 null
+<Byz> 1 0C5179
+<game> kapcerz<~Controls.1~> 5 3 null
+<kapcerz> 1 4C0FEE
+$Byz<~Controls.296~>024 <~Controls.297~><~Game.1954~> 4CBAF9
+$kapcerz<~Scribe.141~>098 088 <~Scribe.142~><~Game.1991~><~Scribe.143~><~Game.2037~><~Scribe.144~> 92AE15
+$Byz<~Controls.644~>105 098 088 <~Controls.645~><~Game.2035~> BEBD99
+$Byz<~Scribe.141~>423 <~Scribe.142~><~Game.27~><~Scribe.143~><~Game.29~><~Scribe.144~> B0D59C
+$kapcerz<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 609006
+$kapcerz<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 3D41D4
+$kapcerz<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> BC53DB
+<game> Byz<~Controls.1~> 5 4 null
+$Byz<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> C71478
+$Byz<~Scribe.141~>250 <~Scribe.142~><~Game.2011~><~Scribe.143~><~Game.2037~><~Scribe.144~> 73C3A6
+$Byz<~Scribe.141~>reveal 182 4036CBB9BF063745A38E3068053069B96A607CD9 4 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2029~><~Scribe.144~> C681EB
+$Byz<~Controls.644~>103 250 <~Controls.645~><~Game.2035~> 3D5DFC
+$kapcerz<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> E9298B
+$kapcerz<~Scribe.141~>182 <~Scribe.142~><~Game.2029~><~Scribe.143~><~Game.2036~><~Scribe.144~> 84D510
+$kapcerz<~Controls.644~>213 182 <~Controls.645~><~Game.2035~> A1AF69
+$Byz<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> D18E95
+$Byz<~Scribe.141~>261 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> 8D4436
+$Byz<~Controls.644~>102 <~Controls.645~><~Game.2035~> BFA1E9
+$kapcerz<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> F7892D
+$kapcerz<~Controls.790~>248<~Controls.791~><~Game.2015~><~Controls.792~><~Game.2016~> 1C8876
+$kapcerz<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 3EA19A
+<game> Byz<~Controls.1~> 4 1 null
+$Byz<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 2E2F1C
+$Byz<~Scribe.141~>261 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 23B44E
+$Byz<~Controls.644~>099 <~Controls.645~><~Game.2035~> A716FF
+<kapcerz> pass 684E67
+$Byz<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> C11063
+$Byz<~Scribe.141~>056 052 051 050 <~Scribe.142~><~Game.1986~><~Scribe.143~><~Game.1984~><~Scribe.144~> 7D10B7
+$Byz<~Scribe.141~>253 040 039 038 023 029 028 027 026 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1962~><~Scribe.144~> 59C841
+$Byz<~Controls.644~>100 <~Controls.645~><~Game.2035~> 52EB6C
+$kapcerz<~Scribe.141~>427 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 31A5C8
+$kapcerz<~Controls.509~>150<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$kapcerz<~Controls.644~>427 <~Controls.645~><~Game.2035~> 312C20
+$Byz<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 2469EC
+$Byz<~Scribe.141~>reveal 193 80A82110965F8A3B845BD7974E46B9C2C3D0B8D4 21 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> AF8E0D
+$Byz<~Scribe.141~>247 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.1942~><~Scribe.144~> 5DF6ED
+$Byz<~Controls.644~>360 193 <~Controls.645~><~Game.2035~> 2596E8
+$kapcerz<~HighlightLabel.86~>358<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 342DE8
+$kapcerz<~Scribe.141~>249 <~Scribe.142~><~Game.2008~><~Scribe.143~><~Game.2037~><~Scribe.144~> 28C434
+$kapcerz<~Controls.790~>248<~Controls.791~><~Game.2016~><~Controls.792~><~Game.2017~> FA6785
+$kapcerz<~Controls.795~>358<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 83B243
+<game> Byz<~Controls.1~> 2 6 null
+$Byz<~Controls.624~>223<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2036~> null
+$kapcerz<~Scribe.141~>252 <~Scribe.142~><~Game.2016~><~Scribe.143~><~Game.2017~><~Scribe.144~> F499AF
+$kapcerz<~Scribe.141~>249 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2011~><~Scribe.144~> 19E9EF
+$kapcerz<~Controls.644~>223 <~Controls.645~><~Game.2035~> F251B3
+$Byz<~Controls.726~>358 211 210 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 287A3C
+$Byz<~Controls.731~>213 212 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 7E4E6B
+$Byz<~Controls.757~>104 101 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> A88DDB
+<~Game.7~>6 null
+$Byz<~Controls.762~>360 100 099 102 103 105 361 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 24B38E
+$Byz<~Controls.509~>166<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Byz<~Controls.509~>176<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$kapcerz<~Scribe.141~>247 <~Scribe.142~><~Game.1942~><~Scribe.143~><~Game.1943~><~Scribe.144~> 471E34
+$kapcerz<~Scribe.141~>247 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.1955~><~Scribe.144~> 7D3E8D
+$kapcerz<~Scribe.141~>247 <~Scribe.142~><~Game.1955~><~Scribe.143~><~Game.1969~><~Scribe.144~> 964D7A
+$kapcerz<~Scribe.141~>247 <~Scribe.142~><~Game.1969~><~Scribe.143~><~Game.524~><~Scribe.144~> 39E5FD
+$kapcerz<~Scribe.141~>248 <~Scribe.142~><~Game.2017~><~Scribe.143~><~Game.2014~><~Scribe.144~> 41EF64
+$kapcerz<~Controls.509~>128<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$kapcerz<~Controls.509~>114<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$kapcerz<~Controls.296~>128 <~Controls.297~><~Controls.45~> 1F00B8
+$kapcerz<~Controls.296~>123 <~Controls.297~><~Controls.45~> AEA500
+$Byz<~Controls.372~>360 7D0691
+$Byz<~Controls.372~>100 4ED522
+$Byz<~Controls.372~>099 108C95
+$Byz<~Controls.372~>102 0C9AFE
+<Byz> 4e 02BE5C
+<kapcerz> fsp ok 2C33C2
+$Byz<~Controls.345~>103 105 361 104 101 <~Controls.346~>15 11 12 13 13 null
+$Byz<~Controls.350~>103 105 361 104 101 null
+$kapcerz<~Controls.345~>213 212 358 211 210 <~Controls.346~>4 2 3 2 0 null
+$kapcerz<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 6F4F2F
+$kapcerz<~Scribe.141~>428 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2037~><~Scribe.144~> 12EB56
+$kapcerz<~Controls.345~>211 <~Controls.346~>1 null
+$kapcerz<~Controls.281~>211 <~Controls.282~><~Game.2035~><~Controls.283~><~Game.2042~> 995D3C
+$kapcerz<~Controls.644~>428 <~Controls.645~><~Game.2035~> 0F5567
+$kapcerz<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> D0E284
+$kapcerz<~Scribe.141~>059 <~Scribe.142~><~Game.1973~><~Scribe.143~><~Game.1965~><~Scribe.144~> CD3AEF
+$kapcerz<~Scribe.141~>245 283 289 073 072 <~Scribe.142~><~Game.1925~><~Scribe.143~><~Game.1918~><~Scribe.144~> 56D237
+$kapcerz<~Controls.644~>213 <~Controls.645~><~Game.2035~> 6C2188
+$Byz<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 7C84A1
+$Byz<~Scribe.141~>reveal 166 B261CC18A5434CA9B0F3A25BB99023EE5711E0AB 3 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 4D0FA9
+$Byz<~Controls.281~>236 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2044~> 06515E
+$Byz<~Controls.644~>101 166 <~Controls.645~><~Game.2035~> 654798
+$Byz<~Controls.281~>235 239 <~Controls.282~><~Game.2045~><~Controls.283~><~Game.2044~> 3A7BEC
+$kapcerz<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> B3802A
+$kapcerz<~Controls.790~>247<~Controls.791~><~Game.524~><~Controls.792~><~Game.525~> E567C1
+$kapcerz<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 8BA9DD
+$Byz<~Controls.624~>229<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Byz> cant have anything this game 959B88
+<kapcerz> random AEBC36
+$Byz<~Controls.637~>242<~Controls.638~><~Game.1998~><~Controls.639~><~Game.2036~> null
+$kapcerz<~Scribe.141~>252 <~Scribe.142~><~Game.2017~><~Scribe.143~><~Game.2018~><~Scribe.144~> B8CA65
+$kapcerz<~Controls.644~>242 229 <~Controls.645~><~Game.2035~> 93838E
+$Byz<~Scribe.141~>361 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 2CB420
+$Byz<~Scribe.141~>249 <~Scribe.142~><~Game.2011~><~Scribe.143~><~Game.2037~><~Scribe.144~> 4C2CC1
+$Byz<~Controls.509~>194<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Byz<~Controls.644~>361 249 <~Controls.645~><~Game.2035~> 6292D0
+$kapcerz<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 12262A
+$kapcerz<~CardBuffet.9~>reveal 114 E5BFE9F7183C01F8118059B089AE90A997E1063D 23<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> FDD089
+$kapcerz<~Scribe.141~>114 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2029~><~Scribe.144~> 711B26
+$kapcerz<~Controls.644~>212 <~Controls.645~><~Game.2035~> 66E2DD
+$Byz<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 8D2716
+<Byz> erebor F4A804
+$kapcerz<~Scribe.141~>062 312 061 059 060 <~Scribe.142~><~Game.1965~><~Scribe.143~><~Game.1988~><~Scribe.144~> 26D1ED
+$Byz<~Scribe.141~>253 040 039 038 023 029 028 027 026 <~Scribe.142~><~Game.1962~><~Scribe.143~><~Game.1965~><~Scribe.144~> CEF739
+$kapcerz<~Scribe.141~>257 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> 39E404
+$Byz<~Controls.644~>104 <~Controls.645~><~Game.2035~> BA4A29
+$kapcerz<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 09E8D0
+$kapcerz<~Scribe.141~>235 239 236 228 227 226 222 221 220 219 218 215 <~Scribe.142~><~Game.2044~><~Scribe.143~><~Game.1959~><~Scribe.144~> 8D9D57
+$kapcerz<~Controls.281~>235 239 236 228 227 226 222 221 220 219 218 215 <~Controls.282~><~Game.1959~><~Controls.283~><~Game.2044~> 7389BB
+$kapcerz<~Scribe.141~>240 <~Scribe.142~><~Game.1921~><~Scribe.143~><~Game.1959~><~Scribe.144~> 3F58B3
+$kapcerz<~Controls.644~>211 <~Controls.645~><~Game.2035~> A288ED
+$Byz<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 4A8AE5
+$Byz<~Scribe.141~>255 362 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2037~><~Scribe.144~> FDABE4
+$Byz<~Scribe.141~>255 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.1956~><~Scribe.144~> 37EA96
+$Byz<~Controls.644~>105 362 <~Controls.645~><~Game.2035~> A73CEF
+$kapcerz<~Controls.271~>358<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 86B375
+$kapcerz<~CardBuffet.9~>reveal 150 12EA8A188F66206EBED9CD90CB80D954879DFE41 20<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> A03108
+$kapcerz<~Scribe.141~>267 265 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1920~><~Scribe.144~> 9C2D73
+$kapcerz<~Controls.644~>358 150 <~Controls.645~><~Game.2035~> 6F8242
+$Byz<~Controls.726~>210 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 95D291
+$Byz<~Controls.731~>358 211 212 213 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> CEC645
+$Byz<~Controls.757~>103 102 099 100 360 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 50BC61
+<~Game.7~>7 null
+$Byz<~Controls.762~>105 362 104 361 101 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> B855E4
+$Byz<~Controls.509~>181<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Byz<~Controls.509~>170<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$kapcerz<~Controls.509~>148<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$kapcerz<~Controls.509~>122<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Byz<~Controls.296~>170 <~Controls.297~><~Controls.46~> 9756B5
+<kapcerz> fsp ok 78C32C
+$Byz<~Controls.372~>105 FCDE48
+$Byz<~Controls.372~>105 D1DE51
+$Byz<~Controls.372~>362 34B540
+<Byz> 3e 5C5A45
+$Byz<~Controls.372~>104 D86CD4
+$Byz<~Controls.345~>361 101 103 102 099 100 360 <~Controls.346~>15 11 12 15 15 14 15 null
+$Byz<~Controls.350~>361 101 103 102 099 100 360 null
+$kapcerz<~Controls.345~>358 211 212 213 210 <~Controls.346~>2 1 1 1 1 null
+<Byz> That's a litlte funny 46EC9E
+<kapcerz> hmmm EA0597
+$kapcerz<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 558715
+$kapcerz<~Controls.790~>247<~Controls.791~><~Game.525~><~Controls.792~><~Game.528~> 4855F6
+$kapcerz<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 90F2A3
+$Byz<~Controls.624~>222<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Byz> YESSS CC6D34
+$kapcerz<~Scribe.141~>241 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2035~><~Scribe.144~> D28586
+$kapcerz<~Scribe.141~>252 <~Scribe.142~><~Game.2018~><~Scribe.143~><~Game.2022~><~Scribe.144~> 7E992B
+$kapcerz<~Scribe.141~>244 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> ECBD8D
+$kapcerz<~Controls.323~>247 D682E6
+$kapcerz<~Controls.644~>241 222 <~Controls.645~><~Game.2035~> 84C3B6
+$Byz<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 2349E0
+$Byz<~Scribe.141~>reveal 159 AD1ECC1AEFDA1313221AF8A17FF22457B753A03F 1 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 015AB6
+$Byz<~Scribe.141~>056 052 051 050 <~Scribe.142~><~Game.1984~><~Scribe.143~><~Game.1965~><~Scribe.144~> 85C13C
+$Byz<~Scribe.141~>418 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1973~><~Scribe.144~> BD9F54
+$Byz<~Scribe.141~>257 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> 1520E3
+$Byz<~Scribe.141~>034 033 <~Scribe.142~><~Game.1971~><~Scribe.143~><~Game.1969~><~Scribe.144~> D907C6
+$Byz<~Controls.644~>103 159 <~Controls.645~><~Game.2035~> E151A9
+$kapcerz<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> A74E59
+$kapcerz<~CardBuffet.9~>reveal 108 188B374EF8236CC85E1347A75704DCE25D6E344E 1<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> 01F2FF
+$kapcerz<~Scribe.141~>240 <~Scribe.142~><~Game.1959~><~Scribe.143~><~Game.1967~><~Scribe.144~> EBD7DB
+$kapcerz<~Scribe.141~>240 <~Scribe.142~><~Game.1967~><~Scribe.143~><~Game.1960~><~Scribe.144~> 6ABDD0
+$kapcerz<~Scribe.141~>240 <~Scribe.142~><~Game.1960~><~Scribe.143~><~Game.1963~><~Scribe.144~> E35026
+$kapcerz<~Scribe.141~>240 <~Scribe.142~><~Game.1963~><~Scribe.143~><~Game.1966~><~Scribe.144~> 854C0A
+$kapcerz<~Scribe.141~>240 <~Scribe.142~><~Game.1966~><~Scribe.143~><~Game.1970~><~Scribe.144~> 33FDBE
+$kapcerz<~Scribe.141~>240 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.1965~><~Scribe.144~> 0E8281
+<Byz> Knew that one was coming... 83C650
+$kapcerz<~Scribe.141~>240 <~Scribe.142~><~Game.1965~><~Scribe.143~><~Game.1988~><~Scribe.144~> 97C870
+$kapcerz<~Controls.644~>213 108 <~Controls.645~><~Game.2035~> 6FAF21
+<Byz> Ofc I hit the big eye I wanted, but it will take me about 40 turns to win a mv 55829D
+<Byz> lol 0DD634
+<Byz> pass 47A994
+$kapcerz<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 0C9C16
+$kapcerz<~Controls.323~>247 EF24E2
+$kapcerz<~Controls.644~>212 <~Controls.645~><~Game.2035~> C3C8D9
+$Byz<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> CC375F
+<Byz> Dale 2B2674
+$Byz<~Controls.840~>181 CAD7BB
+$kapcerz<~Controls.840~>122 005EB6
+<auto> playchosen FA1FB8
+<auto><~Controls.3~>reveal 122 13DD2BD23A3D3D8F99E6A45BE4C7118CB6B18186 4<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 86FFD7
+<auto><~Controls.866~>reveal 181 3897320768D45AFC8C1E826EA918916686E766CE 19<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 3F99A8
+<auto> playchosen 7DDF0A
+$Byz<~Scribe.141~>258 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> 76847E
+$kapcerz<~Scribe.141~>068 303 304 066 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.1957~><~Scribe.144~> 886E93
+$kapcerz<~Scribe.141~>068 303 304 066 <~Scribe.142~><~Game.1957~><~Scribe.143~><~Game.1962~><~Scribe.144~> A69B90
+$Byz<~Controls.509~>179<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Byz<~Controls.644~>101 181 122 <~Controls.645~><~Game.2035~> C30E8A
+$kapcerz<~HighlightLabel.86~>358<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> CD0F73
+$kapcerz<~Controls.509~>136<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$kapcerz<~Controls.644~>358 <~Controls.645~><~Game.2035~> DD6683
+$Byz<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> A02074
+$Byz<~Scribe.141~>reveal 179 5354C341AD9812F171DA3466E3F26C4C6C06BE4C 11 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> FFC183
+$Byz<~Controls.281~>238 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2044~> 862B2E
+$Byz<~Controls.644~>100 179 <~Controls.645~><~Game.2035~> 08BE3A
+$kapcerz<~Controls.271~>211<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 424B4A
+$kapcerz<~Scribe.141~>068 303 304 066 <~Scribe.142~><~Game.1962~><~Scribe.143~><~Game.1970~><~Scribe.144~> B2214E
+$kapcerz<~Controls.644~>211 <~Controls.645~><~Game.2035~> C6D3AE
+$Byz<~Controls.726~>210 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 251540
+$Byz<~Controls.731~>211 358 212 213 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> E249A5
+$Byz<~Controls.757~>361 102 099 360 104 362 105 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> B06829
+<~Game.7~>8 null
+$Byz<~Controls.762~>100 101 103 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 188715
+$Byz<~Controls.509~>203<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Byz<~Controls.509~>192<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$kapcerz<~Controls.509~>149<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$kapcerz<~Controls.509~>147<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$kapcerz<~Controls.296~>148 <~Controls.297~><~Controls.45~> 06926B
+<kapcerz> fsp ok 5465C8
+$Byz<~Controls.372~>100 265804
+$Byz<~Controls.372~>100 A3421B
+$Byz<~Controls.372~>101 C658C7
+<Byz> 2e E290DD
+$Byz<~Controls.345~>103 361 102 099 360 104 362 105 <~Controls.346~>10 12 10 14 10 14 10 14 null
+$Byz<~Controls.350~>103 361 102 099 360 104 362 105 null
+$kapcerz<~Controls.345~>211 358 212 213 210 <~Controls.346~>4 1 0 0 4 null
+$kapcerz<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> D0E977
+$kapcerz<~Controls.790~>247<~Controls.791~><~Game.528~><~Controls.792~><~Game.529~> 0689AA
+$kapcerz<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 2ACF9D
+$Byz<~Controls.624~>219<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Byz> 2r 0F610F
+$kapcerz<~Scribe.141~>244 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2035~><~Scribe.144~> A79A56
+$kapcerz<~Controls.323~>247 2B6F6F
+$kapcerz<~Controls.644~>244 219 <~Controls.645~><~Game.2035~> F8EF2F
+$kapcerz<~Scribe.141~>246 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> 56F688
+$Byz<~Scribe.141~>361 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> E0E296
+$Byz<~Scribe.141~>055 057 049 048 047 046 045 043 042 041 <~Scribe.142~><~Game.1932~><~Scribe.143~><~Game.1938~><~Scribe.144~> C23A8D
+$Byz<~Scribe.141~>034 033 338 339 020 019 018 017 <~Scribe.142~><~Game.1969~><~Scribe.143~><~Game.1955~><~Scribe.144~> 1CAF8F
+$Byz<~Controls.644~>361 <~Controls.645~><~Game.2035~> 63F039
+$kapcerz<~HighlightLabel.86~>358<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 40A845
+$kapcerz<~Controls.323~>247 90A9DB
+$kapcerz<~Controls.644~>358 <~Controls.645~><~Game.2035~> 29AA0D
+$Byz<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 496586
+$Byz<~Scribe.141~>346 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1987~><~Scribe.144~> 532EA6
+$Byz<~Controls.644~>360 <~Controls.645~><~Game.2035~> 6355CD
+$kapcerz<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> E2CB4C
+$kapcerz<~Scribe.141~>258 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 261AA2
+$kapcerz<~Controls.644~>210 <~Controls.645~><~Game.2035~> E9F4E2
+$Byz<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> AC4E20
+$Byz<~Controls.281~>102 <~Controls.282~><~Game.2035~><~Controls.283~><~Game.2043~> EACDB3
+$Byz<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 847DF6
+$Byz<~Controls.281~>105 <~Controls.282~><~Game.2035~><~Controls.283~><~Game.2043~> 59E975
+$Byz<~Scribe.141~>362 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 624529
+$Byz<~Controls.323~>255 E6B7C4
+<Byz> Dale ADDE5E
+$Byz<~Controls.840~>194 7DFF38
+$kapcerz<~Controls.840~>138 B9348C
+<auto> playchosen 69B990
+<auto><~Controls.3~>reveal 138 8A6C2E2A02CC8E300789FD949BBAD5FE8B98817A 12<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 7C1D56
+<auto><~Controls.866~>reveal 194 C36744C11AE23EEC623CC95B844142BA5ECF65D2 8<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 15738D
+<auto> playchosen 1B8B3B
+<game> Byz<~Controls.1~> 3 4 1 6 3 null
+<game> Byz<~Controls.1~> 5 1 6 5 null
+<Byz> 2-1 EB1024
+<game> kapcerz<~Controls.1~> 1 5 1 null
+<game> kapcerz<~Controls.1~> 1 null
+<kapcerz> 1 F2BA35
+$Byz<~Controls.296~>026 <~Controls.297~><~Game.1965~> 5A9D50
+$kapcerz<~Scribe.141~>066 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.2037~><~Scribe.144~> B72F46
+<Byz> press 37CDA3
+$Byz<~Controls.509~>165<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$kapcerz<~Scribe.141~>068 303 304 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.1962~><~Scribe.144~> BC714E
+$Byz<~Scribe.141~>023 029 028 027 <~Scribe.142~><~Game.1965~><~Scribe.143~><~Game.1970~><~Scribe.144~> B22623
+$Byz<~Scribe.141~>027 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.1965~><~Scribe.144~> B54C9D
+$Byz<~Scribe.141~>039 <~Scribe.142~><~Game.1965~><~Scribe.143~><~Game.1970~><~Scribe.144~> C2273B
+$Byz<~Controls.644~>362 194 138 066 <~Controls.645~><~Game.2035~> 52EC27
+<kapcerz> pass 3EDC43
+$Byz<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> AA1D05
+$Byz<~Scribe.141~>reveal 176 D02297EFC50E7D7E75E7E770B32289732E3B7724 8 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> F8205B
+$Byz<~Scribe.141~>318 336 335 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1917~><~Scribe.144~> CBD88B
+$Byz<~Controls.644~>102 176 <~Controls.645~><~Game.2035~> 666A79
+<kapcerz> pass 68705D
+$Byz<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> AE3A69
+$Byz<~Controls.509~>174<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Byz<~Controls.644~>105 <~Controls.645~><~Game.2035~> 62C0B8
+<kapcerz> pass 6E569F
+$Byz<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> F37B15
+$Byz<~Scribe.141~>reveal 189 A5E1C7D4703E7ACEDADB9BDC6ECEB1B9A4557AED 15 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> C75568
+$Byz<~Scribe.141~>333 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1965~><~Scribe.144~> 423C96
+$Byz<~Controls.644~>104 189 <~Controls.645~><~Game.2035~> C6D255
+$kapcerz<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> A74CE8
+$kapcerz<~Scribe.141~>302 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1941~><~Scribe.144~> 367AA2
+$kapcerz<~Controls.644~>211 <~Controls.645~><~Game.2035~> 75434C
+$Byz<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> CF3D4E
+$Byz<~Scribe.141~>345 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1987~><~Scribe.144~> 475164
+$Byz<~Controls.644~>103 <~Controls.645~><~Game.2035~> 3CF3A7
+$kapcerz<~Controls.271~>212<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> F3F670
+<kapcerz> wlr 8CEFC2
+$Byz<~Scribe.141~>025 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1991~><~Scribe.144~> 8771C2
+$kapcerz<~Scribe.141~>068 303 304 <~Scribe.142~><~Game.1962~><~Scribe.143~><~Game.1954~><~Scribe.144~> 244CCE
+$kapcerz<~Controls.644~>212 <~Controls.645~><~Game.2035~> 36324D
+$Byz<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 42AED8
+$Byz<~Controls.509~>200<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Byz<~Controls.644~>099 <~Controls.645~><~Game.2035~> 588066
+$kapcerz<~Controls.726~>213 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> CA65CE
+$kapcerz<~Controls.731~>212 211 210 358 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 966290
+$Byz<~Controls.757~>101 100 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 41C994
+<~Game.7~>9 null
+$Byz<~Controls.762~>099 103 104 105 102 362 360 361 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 249E69
+$kapcerz<~Controls.509~>154<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$kapcerz<~Controls.509~>134<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Byz<~Controls.509~>208<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Byz<~Controls.509~>199<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Byz<~Controls.296~>192 <~Controls.297~><~Controls.46~> ECBB47
+$kapcerz<~Controls.296~>154 <~Controls.297~><~Controls.45~> 17B8F9
+<kapcerz> fsp ok 6EDEC3
+$Byz<~Controls.296~>172 <~Controls.297~><~Controls.46~> 1BD335
+$Byz<~Controls.372~>099 68CC83
+<Byz> 1e 04FE60
+$Byz<~Controls.345~>103 104 105 102 362 360 361 101 100 <~Controls.346~>14 13 14 10 13 11 15 14 11 null
+$Byz<~Controls.350~>103 104 105 102 362 360 361 101 100 null
+$kapcerz<~Controls.345~>212 211 210 358 213 <~Controls.346~>4 1 4 1 0 null
+$kapcerz<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 8FAD59
+$kapcerz<~Controls.790~>247<~Controls.791~><~Game.529~><~Controls.792~><~Game.532~> 5A8712
+$kapcerz<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 4704B2
+$Byz<~Controls.624~>239<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$kapcerz<~Scribe.141~>246 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2035~><~Scribe.144~> 061BF8
+$kapcerz<~Scribe.141~>247 <~Scribe.142~><~Game.532~><~Scribe.143~><~Game.529~><~Scribe.144~> 6DE443
+$kapcerz<~Controls.323~>247 172CE2
+$kapcerz<~Controls.644~>246 239 <~Controls.645~><~Game.2035~> A96220
+$Byz<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> AC2D8E
+$Byz<~Scribe.141~>reveal 203 470D2CD85F47C7FD24F90B8773CAC00728B86D7D 7 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> F64BC6
+$Byz<~Scribe.141~>252 <~Scribe.142~><~Game.2022~><~Scribe.143~><~Game.2023~><~Scribe.144~> 940B79
+$Byz<~Controls.644~>104 203 <~Controls.645~><~Game.2035~> 1FE5BA
+$kapcerz<~HighlightLabel.86~>358<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> B7E82F
+$kapcerz<~Controls.323~>247 15286D
+$kapcerz<~Controls.644~>358 <~Controls.645~><~Game.2035~> 261F11
+$kapcerz<~Scribe.141~>364 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1999~><~Scribe.144~> 88B27A
+$Byz<~Scribe.141~>362 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 34E98A
+$Byz<~Scribe.141~>reveal 174 A1E86FEB35B9BDA8F3843DCB49D20F2A0505DAB1 2 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> D407AF
+$Byz<~Scribe.141~>253 038 040 <~Scribe.142~><~Game.1965~><~Scribe.143~><~Game.1938~><~Scribe.144~> 10AEC8
+$Byz<~Scribe.141~>037 <~Scribe.142~><~Game.1937~><~Scribe.143~><~Game.1938~><~Scribe.144~> A6B17C
+<Byz> osgiliath 01F9BA
+$Byz<~Scribe.141~>174 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2034~><~Scribe.144~> 1F8A6A
+$Byz<~Controls.840~>208 3AFD10
+<kapcerz> nc 2313EC
+<auto><~Controls.866~>reveal 208 7FA49BE0DB612BDD6BF2D9AFF4BBAFFB31591A98 16<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> AAE732
+<Byz> ff1 581AE5
+<game> Byz<~Controls.1~> 5 5 2 2 3 null
+<game> Byz<~Controls.1~> 3 2 6 3 null
+<Byz> 1 385D97
+<game> kapcerz<~Controls.1~> 6 null
+<kapcerz> 1 D4F8AB
+$Byz<~Controls.296~>041 <~Controls.297~><~Game.1938~> C04D33
+$kapcerz<~Scribe.141~>079 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.2037~><~Scribe.144~> 10571B
+$kapcerz<~Scribe.141~>080 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.1944~><~Scribe.144~> A82C87
+$Byz<~Scribe.141~>253 037 038 040 055 057 049 048 047 046 045 043 <~Scribe.142~><~Game.1938~><~Scribe.143~><~Game.1943~><~Scribe.144~> DA1E1A
+$kapcerz<~Scribe.141~>260 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> C3AFDA
+$Byz<~Controls.509~>160<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Byz<~Controls.644~>362 208 079 <~Controls.645~><~Game.2035~> 0D75E0
+$Byz<~Controls.296~>174 <~Controls.297~><~Game.2034~> D5A6E0
+$kapcerz<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 281553
+$kapcerz<~CardBuffet.9~>reveal 147 AE60449499509BA302652C45099AB6EFCAA42DED 2<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> 09828F
+$kapcerz<~Scribe.141~>264 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1954~><~Scribe.144~> 27E37A
+$kapcerz<~Controls.509~>121<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$kapcerz<~Controls.644~>210 147 <~Controls.645~><~Game.2035~> B2B51A
+$Byz<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> EFCE9A
+$Byz<~Scribe.141~>reveal 160 7F59C057B4E619AA17A71891DBD9A18FDC9074C6 10 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 097ACD
+$Byz<~Controls.624~>220<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2036~> null
+$Byz<~Controls.644~>101 220 160 <~Controls.645~><~Game.2035~> 6B67DF
+$kapcerz<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 539F6B
+$kapcerz<~CardBuffet.9~>reveal 115 93B56897C770CF4C5DA1727B6380ADE20CC4095A 21<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> F953A3
+$kapcerz<~Scribe.141~>252 <~Scribe.142~><~Game.2023~><~Scribe.143~><~Game.2021~><~Scribe.144~> CFCE5E
+$kapcerz<~Controls.644~>211 115 <~Controls.645~><~Game.2035~> F1DA67
+<Byz> That's probably gg 97577F
+<Byz> What an agonizing game B7670F
+$Byz<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 0CB8F9
+$Byz<~Controls.509~>204<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Byz<~Controls.644~>105 <~Controls.645~><~Game.2035~> 01E711
+<kapcerz> pass 6F6783
+$Byz<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> C93F71
+$Byz<~Scribe.141~>reveal 204 5ADDA8E3860685282E97CF8D51B413ABB5954C97 22 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 41842F
+<Byz> too late BD5214
+<game> Byz<~Controls.1~> 3 6 1 null
+<Byz> 1! 426F53
+<Byz> ok 31B4F8
+$kapcerz<~Scribe.141~>252 <~Scribe.142~><~Game.2021~><~Scribe.143~><~Game.2022~><~Scribe.144~> 24553F
+<kapcerz> pass 072A64
+$Byz<~Controls.644~>103 204 <~Controls.645~><~Game.2035~> C811B0
+$Byz<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 201CBB
+$Byz<~Scribe.141~>034 033 338 339 020 019 018 017 <~Scribe.142~><~Game.1955~><~Scribe.143~><~Game.1938~><~Scribe.144~> D601B7
+$Byz<~Scribe.141~>345 346 054 053 <~Scribe.142~><~Game.1987~><~Scribe.143~><~Game.1980~><~Scribe.144~> 956AE1
+$Byz<~Controls.644~>100 <~Controls.645~><~Game.2035~> 985512
+<kapcerz> pass 0DB50C
+$Byz<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 3FADE9
+$Byz<~Scribe.141~>345 346 054 053 <~Scribe.142~><~Game.1980~><~Scribe.143~><~Game.1970~><~Scribe.144~> FF3248
+$Byz<~Scribe.141~>042 034 <~Scribe.142~><~Game.1938~><~Scribe.143~><~Game.1943~><~Scribe.144~> C57E11
+$Byz<~Controls.644~>360 <~Controls.645~><~Game.2035~> 952838
+$kapcerz<~Controls.271~>212<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> B80B3C
+<kapcerz> WLr DC7870
+<Byz> Oh, I bet 4B77B6
+<kapcerz> nc 58FD54
+<Byz> nc F681DC
+<game> kapcerz<~Controls.1~> 1 5 4 null
+<game> kapcerz<~Controls.1~> 3 null
+<game> Byz<~Controls.1~> 1 null
+<kapcerz> press 669E33
+<kapcerz> nc BF5504
+<Byz> nc 8DDB0E
+$kapcerz<~Controls.304~>264 <~Controls.305~><~Game.1954~> 797433
+$kapcerz<~Controls.313~>088 <~Controls.308~><~Controls.314~><~Game.1954~> BD374A
+<game> kapcerz<~Controls.1~> 6 2 2 null
+<game> Byz<~Controls.1~> 4 null
+$Byz<~Controls.296~>025 <~Controls.297~><~Game.1991~> 0C167C
+$kapcerz<~Controls.644~>212 <~Controls.645~><~Game.2035~> 70DF56
+$Byz<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 3892B5
+$Byz<~Controls.323~>255 036155
+<Byz> woodland 6A8071
+$kapcerz<~Scribe.141~>068 088 303 304 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1991~><~Scribe.144~> F7E843
+$Byz<~Scribe.141~>039 345 346 054 053 023 029 028 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.1954~><~Scribe.144~> 085F69
+$Byz<~Scribe.141~>414 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1970~><~Scribe.144~> 71BD1F
+$Byz<~Scribe.141~>028 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1970~><~Scribe.144~> BF9671
+$Byz<~Controls.644~>102 <~Controls.645~><~Game.2035~> C9C247
+$Byz<~Controls.726~>213 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 442436
+$Byz<~Controls.731~>212 211 210 358 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> B0A8FB
+$Byz<~Controls.757~>361 099 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 08BA0A
+<~Game.7~>10 null
+$Byz<~Controls.762~>102 360 100 103 105 101 362 104 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 617238
+$Byz<~Controls.509~>177<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Byz<~Controls.509~>187<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$kapcerz<~Controls.509~>135<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$kapcerz<~Controls.509~>110<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$kapcerz<~Controls.296~>135 <~Controls.297~><~Controls.45~> EB912D
+$Byz<~Controls.372~>102 552453
+<Byz> 1e A0DB53
+<kapcerz> fsp ok 40D7EE
+<Byz> cmooooon eyes C91689
+$Byz<~Controls.345~>360 100 103 105 101 362 104 361 099 <~Controls.346~>12 13 10 12 11 13 12 12 14 null
+$Byz<~Controls.350~>360 100 103 105 101 362 104 361 099 null
+$kapcerz<~Controls.345~>212 211 210 358 213 <~Controls.346~>3 2 1 1 1 null
+$kapcerz<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> B65FA8
+$kapcerz<~CardBuffet.9~>reveal 136 AB923CEECD421051BAC3274F94DD69D765E8C956 2<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> 927ED6
+$kapcerz<~Scribe.141~>252 <~Scribe.142~><~Game.2022~><~Scribe.143~><~Game.2021~><~Scribe.144~> E47625
+$kapcerz<~Scribe.141~>247 <~Scribe.142~><~Game.529~><~Scribe.143~><~Game.532~><~Scribe.144~> EF42AD
+$Byz<~Controls.624~>226<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2036~> null
+$kapcerz<~Controls.323~>247 250FFA
+$kapcerz<~Scribe.141~>252 <~Scribe.142~><~Game.2021~><~Scribe.143~><~Game.2022~><~Scribe.144~> 61D708
+$kapcerz<~Controls.644~>211 226 136 <~Controls.645~><~Game.2035~> 0B571A
+$Byz<~Scribe.141~>362 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> A04F84
+$Byz<~Scribe.141~>reveal 200 45D9A007EDE5F370CD21B8E788B4953032C09C64 13 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 4B8673
+$Byz<~Scribe.141~>252 <~Scribe.142~><~Game.2022~><~Scribe.143~><~Game.2023~><~Scribe.144~> 5FA2B2
+$Byz<~Controls.644~>362 200 <~Controls.645~><~Game.2035~> 5B8E98
+$kapcerz<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 6EED01
+$kapcerz<~Controls.323~>247 CF24B8
+$kapcerz<~Controls.644~>213 <~Controls.645~><~Game.2035~> 4DC7FE
+$Byz<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 518B32
+$Byz<~Scribe.141~>reveal 177 CF7D573C10D4236FCD1D6548E9C40559D7CDE7D1 9 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 2696C3
+$Byz<~Controls.281~>237 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2044~> 9ACD16
+$Byz<~Controls.644~>100 177 <~Controls.645~><~Game.2035~> 346615
+$kapcerz<~HighlightLabel.86~>358<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> C0B0B9
+$kapcerz<~Controls.790~>247<~Controls.791~><~Game.532~><~Controls.792~><~Game.533~> AC3F13
+$kapcerz<~Controls.795~>358<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 66362D
+$Byz<~Controls.624~>221<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Byz> gg 5E21E1
+<kapcerz> gg 458857
+<Byz> That was painful CC2218
+$kapcerz<~Scribe.141~>252 <~Scribe.142~><~Game.2023~><~Scribe.143~><~Game.2024~><~Scribe.144~> C3A49E
+<Byz> Oh well 7EE0A4
+<kapcerz> thx for sticing it to the end 13F155
+<Byz> You never know 057C73
+<Byz> Almost got the luck I needed after that insanely horrible start F7BB07
+<Byz> Then it swung back to you 90E706
+<kapcerz> there was nothing more yu could do D11BF4
+<kapcerz> i think 747372
+<Byz> Maybe some optimizations 132F33
+<Byz> I decided that VPs didnt really matter 50E5EE
+<Byz> And I think that was correct D1A14B
+<Byz> You can retake woodland, who cares 47B433
+<Byz> At the end I could have played lidless eye but I dont think it is the right play. You just delay 5F8550
+<kapcerz> yeah 41E708
+<kapcerz> maybe i was a little too happy to move B2A75A
+<kapcerz> in the end 355626
+<kapcerz> i couldve drawn 1 or 2 more c cards B68FDA
+<kapcerz> but i got bilbo early 82A8E5
+<kapcerz> and there is another way came F66218
+<kapcerz> only mithril was left that i really cared about CC7A22
+<kapcerz> and your ability to cycle was much higher 5384B7
+<kapcerz> anyway, thx for the game 383819
+<kapcerz> cya! 319CB0

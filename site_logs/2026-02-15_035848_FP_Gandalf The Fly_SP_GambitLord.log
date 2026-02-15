@@ -1,0 +1,1215 @@
+<auto> silent null
+<auto><~Scribe.141~>363 397 398 402 401 400 399 403 404 376 375 374 373 377 378 <~Scribe.142~><~Game.2038~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>365 366 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 367 368 369 370 371 372 <~Scribe.142~><~Game.2040~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>230 231 <~Scribe.142~><~Game.2044~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>155 152 <~Scribe.142~><~Game.2004~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>137 151 <~Scribe.142~><~Game.2005~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>161 198 <~Scribe.142~><~Game.2006~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>163 188 <~Scribe.142~><~Game.2007~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Controls.323~>364 null
+<auto> noisy null
+<auto> silent null
+<auto><~Scribe.141~>312 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1965~><~Scribe.144~> null
+<auto> noisy null
+<~Game.7~>1 null
+<auto> silent null
+<auto><~Scribe.141~>363 397 398 402 401 400 399 403 404 376 375 374 373 377 378 <~Scribe.142~><~Game.2038~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>365 366 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 367 368 369 370 371 372 <~Scribe.142~><~Game.2040~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>230 231 <~Scribe.142~><~Game.2044~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>155 152 <~Scribe.142~><~Game.2004~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>137 151 <~Scribe.142~><~Game.2005~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>161 198 <~Scribe.142~><~Game.2006~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>163 188 <~Scribe.142~><~Game.2007~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Controls.323~>364 null
+<auto> noisy null
+$base silent null
+$TEST<~Scribe.141~>312 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1965~><~Scribe.144~> null
+$base noisy null
+<game> GambitLord<~Controls.408~>[WOTR-Gandalf2 wotr base2] null
+<~Talker.31~> null
+<Swift> hola! 
+<Swift> roll bid? 
+<GambitLord> yeah 
+<game> Swift<~Controls.1~> 6 null
+<game> GambitLord<~Controls.1~> 2 null
+<Swift> 1 token 1 ring 
+<GambitLord> 3 d ring 
+<Swift> ohhh 
+<Swift> 1 token 2 rings 
+<GambitLord> 4 d rings 
+<Swift> accept 
+<Swift> gl hf!! 
+$Swift adds 4 Dwarven Ring(s) 
+$Swift<~Controls.281~>431 430 429 428 <~Controls.282~><~Game.1997~><~Controls.283~><~Game.2042~> 
+$GambitLord<~Controls.479~>042BA80E2A06E148DC530954F33D0BD434380D22 548247F028F7A7BD8725B44EC7494ED7 24 DAA1E1A2B2CE7F73D9EF99D6D3064CC8FEF509DA 104CAB75C1C189E297FC02747FBE127F CF9533F71E5A730410246D84C7BE1F95DB4C7E16 3A7B5DCAD19B26753E533A7357E8FD8B 1E4348C3550DF5651BBAABB47E28FD1A0BB5AACC 284170638F7E54CDEC41CF8130AC0280 32D60ACDC6B595B989ED5DD462A9466B19E8419C 0D800CEA7B92031EE7050645A51B6294 F1D1AF153BD3C8FDC9E002301BDF9EA99D1479A2 7A9419708F946BDD6FD0225A5DFFBDBD 908D983CAD111C7317C19D7A3278094D44720FD2 28B3D931B4DA8D1922E4B5D4A13219A5 DD98B3BA5582ABB89160DDCEF1FBE2F6C2A111C6 F4DEC7B177AB6E04A1A4C1692EA449DC 7D017658B63099E37362DD9B16B01822B5795658 2ABB5015FCDC5F4A747C3F594B104958 3A10C1A25B91B0A6200E4BCB51ED9685CE8C6DFF 05BECFA232EFE13B2ABD72C01CC80ECD 878C68260E056910770FF16B2D4AD123ACFA6C00 7687CE1F481540CBC4DDC614381A6EE6 806E32DAB67FDEFECB3121BA766396DFF004110F 24601C9A5FE25ED753BBE8FA7A301A5D FDAB6464820FDAA6B649E2DC3FA3929C3F189BFD B424302B808D7C30E0BFA0461477A977 24FE0865592A0BABE7A53BE5C8DFA53F01F91041 4921A753CF001D5C8B13EE97E9E07FE2 37125551C871D36F24BCB13E21559D940BCE1105 4EA1D73801284BFAF63B410F1A9D28C0 44D05CB9C727E9EE3822BBF0C39F24F4635FAAC3 723796F00A32FC22E3CDB6E7E1111D0B 3F0C2E6E584497BB20654C110BA63612DAD097E6 F401B9FB1BBAF8651B1519419E308093 17ADFEEA122187F101980D6BA11B31DCBC8856F3 206FD476CB0B7BC591D679FE2F77321C 1023C35D58BA3CB41FDB7B363E0A789ED2CE5CE8 1846618693F6F0FAC790A3B7843214FC 67503989E46E7000653DA9C979741D7AA072EC08 D7F7334080E4423971DEB35571D690A7 3E861157B1FA29AD26B9439D3816FA2678E302A7 737C293C2328E90757DF26F4C67EE72C 3FBD05DEAA3F65BB934C7EEBFE14332F80E0FFED A2406EF9CBB533897FCBB5119CED51D8 6B509F02B30A103243EA28E29523EA4001134DD2 7EE70719F6BBB7C38A14E96DF19A6C55 FDF6B4D941AEA0B1A803699F78F42397A0046E5D 8CE492C903CF194E5EB9603377A957FE AC44B2B00D86503F2AE758E008674964201CE344 FA31B19F2C9CA2EC05B0DB39A8D431F8 24 4EB8652B0446B88A40E2DDE7A6DFAC11F56D7173 27A7B7FAB4577764D48931581DAC0BED 11BB4A065D1237D5D8DE15A863B476CCFE64831F 69B3FB415C5A2E90CFB5FF6B20B082E6 CE871142983D21D61453359C80D58668FCC28C94 0981FB041BA20BE04C05FE0C7F231917 0A8217AC170C8900BED50C1D38C38AFE8C0A76EE 92C4B6E30D2AB81CD55604DBA3A6586C 2AE6D3462526B45D4B0287C21C12FC4EB951ACFA 4BBC2E2DAA4D02E9528B0522E0EF1A0E 8CE65CA290AACFE4F87FF58D6A04227E119E8D15 0124682C3BAB64FD6729E2BC0D353589 3470773A5EF56D3BDA2E388F195276FEEA5B4BF1 0921B2008A39F4011B5337E1571A7832 27AC43BCAD3D14A5A2FE40277A5D81C97985D922 846AA1B8D9842DC8B9F174E9523ABF4B 6C0CCCAAF54FC3275B785F61C306981B7CA670FD E4315FD814472431FA3BD081509BE8EC 611FD2F9235A7A49AEE3C8AB4659D3F6817CD0D5 AF8FDFDF49CF177563FA556EF6A53D87 8B2C7E068807AEEC1BF16E1D16002C8389DFCB4C 83788B3457ECA1AAEC2DB2B60B715CC0 901F9642CEB68125B429F58D3C6F9E362A247040 597E26B0E54EDD2CE2FC788593764923 DC3D10E49E16D4EC32CF30CD66BDE8846F789F50 0DE2783496963BE40D0A17BF1C063FE0 63985EFA89111ED50BB4E9F528EA5F76810296BE 1DB9CAF47A7E92FC159A4DEE57085137 727F1BFCDDF34D080920902DBF06526BD3CA086A B02BC5A3C7DC6A6F212B81F3E9E750BC 967F41D8B1250C36DD46A2442DAC1494C82651FE DA0E1B9AC8691323C062671F83B3C6FC E82424B3F279D9C13855003DC166062ABED14B7D 1E5FAA181482A4900C760B632FCD9120 FC1A3C849701BCC6856D8F85CF3567F0F9A4C5B0 335FDC83035841BC0C70EEC4EDBA1464 5020A2DBD6E2880F97628080F80465CF85AC6B8E 0B5F22665E48B64E5AFA7AB77EECF41C 138790ABE9AA0CFE86EDB0E067841ABC0B242537 106FC9F855465B45058C5A867F8AB0C1 3525AC295C7D53B2773CB287FED37358F19494BC B0833F35B5921CA0B822B440B8A2D9E5 086FAED31DD3F24CEDCD73C2C12561E6676D4AB2 1BCD88195A32FBD41BEA3A1CB545E799 C94F65FEA510E9D27D64895F5EF9828B78B040CF 4B474CF1E1D7796F797575BA96698243 658E0A40DF458388878A46AE933777569CEDEEC0 44C6CA75A23482E8A26F0C5523A63D0B 0 0 6EF497
+$GambitLord<~Controls.509~>193<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$GambitLord<~Controls.509~>205<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Swift<~Controls.464~>DA81BC89F39B49D529E1ECC26C74411D24009619 8C1CCA8182B1EB4F02987BA153F619AA 24 C57B395DBB994F670CC0DECFD5A75D026CCA8152 9DD582A1A6E372A096BADC529CDA337F D28396677750BD5DB7D04A3AD07A096EBBF94F39 447BD08E143A131AD75BB8B3274D748A 021DEF53B4CC0A290F9A33710F5095305E1C4DA4 5F267C46B8FF70A3C6D563E1A4A32E60 2DC671FE95951DBEDBD9620A637E1ED864AEAB48 9F61899C59A88288F67C3775D2AFB9A5 89B1F21317FD457EC87EF98BA665A2067DC1F53F 8E0A565A5237FDD92B13EC4F55E76884 FF591EC90ECC59A3611825746914395DE937ABA7 D4BEE89B88DD93503D408AB8CCB44F26 95834B24E4588F294B17B03E7FD3DB488A8F14E8 B55962809702BF9142355E0B2346C0B5 8B8FFBDC1C123EC0021493B911FB5A043288CFDC DD45CBED4E2D4E5EEBDDDF87256CB8E5 A797BEB30943C7A8A0C46FFD8151EDF4D5A3845F 5FA7BDEC5D7F4BAF2E44A220545F84A1 175A7F74BFA1AB104B81663A04A3344C5111E539 FBA1F9F84CB8EEFA250A637CFC7D087E F123504502E3F582A05D01F93EC5D9A0B723EF76 9F3F0111AFF3C8E4351E7DB58557A094 E65E69B6289D4A7F3F8140F6B9D18AE71CC0C4E7 30BBAD9498963109720D9053099992CF BF9388C6569853CFF6E783AF8546201DDA974D6D 893388694C2090A742985F9C26AFFE77 403B04EE7D6E815469F08B1E1B5E3C5F2E9FB742 C30ACCEF38D2A5E0406D05B31431222E 2A196341D79062E7F4E177BD76B2EFC900DF0D91 B67599242563B578622EC939F96821DC 6B6C32D878056A61848F92D2347B25BB7F19250F C0FF42B1AA3196705D2491D97B8D5FBA 33032994BCA0441A56F6F8FEE15F90063A561EE7 C4060975E2A9A3E74744206497802808 FCAC0A04E4C86CD50CC493D81B37874E5F3980F0 7573426A5FD2501A7E6B7C52B02737A5 C6B7A554872C228E3E0CD5B46846BE7B935FB4BE D43122425E3433B1C8F52161EBB0C08D F70BED8B0ABDDFBB55F07A2B6A044D755905359A F72D3D173B93D721BB11589EB9595E3C A590710FB725F43EA7AB4DC99F59F155689B6976 0BD9EC8E2727E6805F774BA6B48AB4D8 42EB260D37E5ACD682835E57CAE3037427AA413D 9B7AE658174F43AB1165CB2AAF5C4FA8 CC8D7FB3D98EE4152C822193188FA5A759D140B6 11D21F63FFED3425A906DF8B07DB198E 091D04176C84C82E72D9447EDBBA6210766A2E5D 7DCC9D423FE763FADFAA27E13F975635 24 90BB5F12DC647F18AC118BA18576D68D29BD78DD 955252385D6E147BEA6A66B4CC615554 8A203476F1888DEA54DF917743F183AB43B596CD FC72FA17F51D67116928C2092C3C8BDA 4ED3BC7C872D6A134C08B3767F7E996B31AECAF8 C66C3EEEED0920F08605D5843CD86ECA BE6E13623BB39D0F4AACFD1E62E6C9C3E75DC232 3C5E6917EC4090DA59BB5640CB38CD72 BF646D259A402DD2ECE847B4EEB691BB0BFABF1A DB9B26110C71113E8972ABAB69476F0A 12927E5FE2376EB2043AC3EF49243F0EF9B6A567 A2F30E7CCDA34AC03902F5BB857322C5 8059C46A37F5D9E4CBE81814037CFFC80C293F7B 8D60B0CD4D4570ED20B9BE5FB6AEC30F 625DB363DC6383B94F0C34785A067F986AA49C5C 5CF25E35B5EA20F6F9143A3B585A0D0B CF809D68E212F07296C8CECDD7A63F329688982D 98EDC545F68BA3401E0C85B15BFADDBF ABEC174F2031912748B5E2487F404895824024FC D7671C6FB52463BC6FCDD87B57C1B61C 7B7514D5AA93766C254E4E57E22BAC223A6491C2 3EE4501A83F0CE63781A0A04E2498E20 07B26B7E7AB492D97786E5F88042EEAF386AC755 47B4B3E851B68597D29FB242251105CC DDADA226EE91D0FDF978B4E90687F9A5F6BD291C C320E0E522D72521C9EFEC84AD86CE7C 2B153BC6E9AC03C5FED3F29DDF14888F1BA6E938 229F2047021483CB3F0303A07EC5FA40 E64F9DF2165C1A2B898E109E363002791548DE40 F2968A14363F9EE4CF6409456E4AFAD5 163A76A8B69F6DE90332DD9F0770E3E0CFDA76E1 A57BD200B44CCA6A356A5F49AF3BF65A C5D13F48637C182792E32F74134434549793146C 963EA1FDD5752D8DEC1FAF65AC15AD04 3BEB5A34336E51FDD488C16B7F940832A1D84BD2 4E5D403F486484EF18CB8D9919D1AC33 8A8A92CA6CDB865E603885946891C076B8CE6668 021002644A98F864A62588A845D6C059 18A7FC62D2EDCC3F3FC30F48437AE0A0E0D9815E 605C1F16137E3AA5B1B87304B251FBE1 C90BD61729307276E1816C9D938A0E4A71D83633 8A101E8A93E6229D27F99092E6BD2665 8B1530926A82EDE4937E942A21240643164949C8 62EA6CBC5ED72620AC0AA09383B6E583 AB2CFB33F4573BDAE91529376877C2C402DAF461 086F04D7E3E523D5BD4CC43C956894C5 53E97D803527F871DC14A3F79713E2D86F27B20F A036BF07E491BA9E1816314E2B346068 0 0 98CE24
+$Swift<~Controls.509~>116<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Swift<~Controls.509~>124<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+<Swift> fp rdy 23D398
+$GambitLord<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> 8A1460
+$GambitLord<~Controls.345~>105 103 102 101 100 099 <~Controls.346~>10 11 13 10 12 12 null
+$GambitLord<~Controls.350~>105 103 102 101 100 099 null
+$Swift<~Controls.345~>213 212 211 210 <~Controls.346~>2 1 2 4 null
+$Swift<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 1FBB1A
+$Swift<~Scribe.141~>431 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2037~><~Scribe.144~> 6084AE
+$Swift<~Controls.345~>211 <~Controls.346~>1 null
+$Swift<~Controls.281~>211 <~Controls.282~><~Game.2035~><~Controls.283~><~Game.2042~> 6916A2
+$Swift<~Controls.644~>431 <~Controls.645~><~Game.2035~> B4CEE0
+<Swift> pass 9EC573
+$GambitLord<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 834866
+$GambitLord<~Scribe.141~>263 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 834C05
+$GambitLord<~Controls.644~>101 <~Controls.645~><~Game.2035~> F67305
+<Swift> pass 2C222E
+$GambitLord<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> EF9F73
+$GambitLord<~Scribe.141~>039 036 029 028 027 026 <~Scribe.142~><~Game.1979~><~Scribe.143~><~Game.533~><~Scribe.144~> D95779
+$GambitLord<~Scribe.141~>034 033 <~Scribe.142~><~Game.1971~><~Scribe.143~><~Game.1977~><~Scribe.144~> 700376
+$GambitLord<~Controls.644~>100 <~Controls.645~><~Game.2035~> D5FA06
+$Swift<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 36025A
+$Swift<~Scribe.141~>reveal 124 9CFDD3328C75F38336040E93BE10B8E787A5B4CC 12 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2036~><~Scribe.144~> 10752C
+$Swift<~Scribe.141~>272 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1920~><~Scribe.144~> C77D6B
+$Swift<~Scribe.141~>276 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1920~><~Scribe.144~> 8C5DE6
+$Swift<~Controls.509~>110<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Swift<~Controls.644~>213 124 <~Controls.645~><~Game.2035~> 2C1B1C
+$GambitLord<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 52F2B0
+$GambitLord<~Scribe.141~>039 036 029 028 027 026 <~Scribe.142~><~Game.533~><~Scribe.143~><~Game.1974~><~Scribe.144~> 2908B7
+$GambitLord<~Scribe.141~>056 052 051 050 <~Scribe.142~><~Game.1986~><~Scribe.143~><~Game.1984~><~Scribe.144~> 7F7939
+$GambitLord<~Controls.644~>099 <~Controls.645~><~Game.2035~> EC8CA5
+$Swift<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 57759C
+$Swift<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> B7DE55
+$Swift<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 3D3BD9
+<game> GambitLord<~Controls.1~> 3 null
+$GambitLord<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> CC8036
+$GambitLord<~Scribe.141~>254 360 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2037~><~Scribe.144~> FC69D1
+$GambitLord<~Scribe.141~>254 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.1919~><~Scribe.144~> 4AAAAE
+$GambitLord<~Controls.644~>105 360 <~Controls.645~><~Game.2035~> 2C569E
+$Swift<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> B60928
+$Swift<~Controls.790~>248<~Controls.791~><~Game.2015~><~Controls.792~><~Game.2016~> 55446C
+$Swift<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> BC56C7
+<game> GambitLord<~Controls.1~> 5 null
+$GambitLord<~Controls.624~>216<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Swift<~Scribe.141~>240 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2035~><~Scribe.144~> 13D388
+$Swift<~Scribe.141~>247 <~Scribe.142~><~Game.1911~><~Scribe.143~><~Game.1912~><~Scribe.144~> 1E057B
+$Swift<~Controls.323~>247 EF96A0
+$Swift<~Controls.644~>240 216 <~Controls.645~><~Game.2035~> 2F0209
+$Swift<~Scribe.141~>241 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> 283B7E
+$GambitLord<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> E2CB14
+$GambitLord<~Scribe.141~>001 <~Scribe.142~><~Game.1910~><~Scribe.143~><~Game.1912~><~Scribe.144~> 0409FB
+$GambitLord<~Scribe.141~>039 038 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1974~><~Scribe.143~><~Game.1976~><~Scribe.144~> 6A9099
+$GambitLord<~Controls.644~>103 <~Controls.645~><~Game.2035~> 9E4C78
+$Swift<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 26BB9E
+$Swift<~Scribe.141~>073 072 <~Scribe.142~><~Game.1929~><~Scribe.143~><~Game.1925~><~Scribe.144~> 22A285
+$Swift<~Scribe.141~>065 <~Scribe.142~><~Game.1941~><~Scribe.143~><~Game.1957~><~Scribe.144~> 32BD24
+$Swift<~Controls.644~>210 <~Controls.645~><~Game.2035~> FABC7C
+$GambitLord<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> CAACE6
+$GambitLord<~Scribe.141~>039 038 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1976~><~Scribe.143~><~Game.1972~><~Scribe.144~> 816470
+$GambitLord<~Controls.644~>102 <~Controls.645~><~Game.2035~> 70FE8C
+$GambitLord<~Controls.757~>104 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 5762EE
+$GambitLord<~Controls.762~>102 103 105 360 099 100 101 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 9F3BAF
+$Swift<~Controls.726~>211 212 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> D96406
+<~Game.7~>2 null
+$Swift<~Controls.731~>210 213 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> F07F75
+$GambitLord<~Controls.509~>173<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$GambitLord<~Controls.509~>195<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Swift<~Controls.509~>123<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$GambitLord<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> 48A270
+$Swift<~Controls.509~>131<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+<Swift> fp rdy 66D704
+$GambitLord<~Controls.345~>102 103 105 360 099 100 101 <~Controls.346~>12 15 14 12 13 14 11 null
+$GambitLord<~Controls.350~>102 103 105 360 099 100 101 null
+$Swift<~Controls.345~>210 213 211 212 <~Controls.346~>0 0 2 1 null
+$Swift<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 0661A4
+$Swift<~Controls.323~>247 4F1110
+$Swift<~Controls.644~>211 <~Controls.645~><~Game.2035~> 32D137
+$GambitLord<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> BF346F
+$GambitLord<~Scribe.141~>262 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 7627E4
+$GambitLord<~Controls.644~>101 <~Controls.645~><~Game.2035~> 91B217
+$Swift<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 5E0E98
+$Swift<~Scribe.141~>240 <~Scribe.142~><~Game.2039~><~Scribe.143~><~Game.1921~><~Scribe.144~> CCF9F2
+$Swift<~Controls.323~>240 36FAC4
+$Swift<~Scribe.141~>358 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.2037~><~Scribe.144~> C9073F
+$Swift<~Controls.644~>213 358 <~Controls.645~><~Game.2035~> 80CC3C
+$GambitLord<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 9EA5D6
+$GambitLord<~Scribe.141~>039 038 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1972~><~Scribe.143~><~Game.1975~><~Scribe.144~> 783667
+$GambitLord<~Scribe.141~>055 049 048 047 <~Scribe.142~><~Game.1968~><~Scribe.143~><~Game.1946~><~Scribe.144~> 1EA450
+$GambitLord<~Controls.644~>360 <~Controls.645~><~Game.2035~> 8ADC47
+<Swift> pass 5D249D
+$GambitLord<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> C87DCE
+$GambitLord<~Scribe.141~>039 038 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1975~><~Scribe.143~><~Game.1966~><~Scribe.144~> B56C08
+$GambitLord<~Scribe.141~>034 033 032 031 030 <~Scribe.142~><~Game.1977~><~Scribe.143~><~Game.1969~><~Scribe.144~> 1016D9
+$GambitLord<~Controls.644~>102 <~Controls.645~><~Game.2035~> AE687A
+<Swift> pass 178D7C
+$GambitLord<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> E14D07
+$GambitLord<~Scribe.141~>reveal 173 6125C55607FC1A08D83D5F5CDFAA93434F4E3B24 9 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 111B4C
+$GambitLord<~Scribe.141~>237 <~Scribe.142~><~Game.2046~><~Scribe.143~><~Game.2037~><~Scribe.144~> 8F895B
+$GambitLord<~Controls.644~>105 173 237 <~Controls.645~><~Game.2035~> F68BA7
+$Swift<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> DD18BE
+$Swift<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 146489
+$Swift<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 58188D
+<game> GambitLord<~Controls.1~> 6 5 null
+<game> GambitLord<~Controls.1~> 3 null
+$GambitLord<~Controls.624~>217<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Swift> ouch 0897A5
+$Swift<~Scribe.141~>252 <~Scribe.142~><~Game.2014~><~Scribe.143~><~Game.2015~><~Scribe.144~> 97F6FE
+$Swift<~Scribe.141~>247 <~Scribe.142~><~Game.1912~><~Scribe.143~><~Game.1917~><~Scribe.144~> F1FF26
+$Swift<~Controls.323~>247 C534BB
+$GambitLord<~Scribe.141~>217 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2034~><~Scribe.144~> BADB6D
+$GambitLord<~Controls.624~>214<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$GambitLord<~Scribe.141~>217 <~Scribe.142~><~Game.2034~><~Scribe.143~><~Game.2036~><~Scribe.144~> 7C5959
+$Swift<~Controls.644~>217 214 <~Controls.645~><~Game.2035~> 69BDDC
+$GambitLord<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 4AF9F2
+<GambitLord> Attack OFR, nc B87059
+$Swift<~Scribe.141~>reveal 110 4961E48BBBC64383E6471F0C1B439D64D442D6B1 3 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2036~><~Scribe.144~> DECE9C
+$Swift<~Scribe.141~>065 <~Scribe.142~><~Game.1957~><~Scribe.143~><~Game.1954~><~Scribe.144~> D8E479
+$GambitLord<~Scribe.141~>258 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> 0FE562
+$GambitLord<~Controls.323~>258 6ECE11
+$GambitLord<~Scribe.141~>039 038 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1966~><~Scribe.143~><~Game.1957~><~Scribe.144~> 27863D
+$GambitLord<~Controls.644~>099 110 <~Controls.645~><~Game.2035~> 687BCD
+$Swift<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 28A36F
+$Swift<~Controls.323~>247 6650A7
+$Swift<~Controls.644~>210 <~Controls.645~><~Game.2035~> 064C47
+$GambitLord<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 3B2C7D
+$GambitLord<~Scribe.141~>reveal 193 19A4D218BBEA087815F6947618F0540036439CCD 10 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 00B4CC
+$GambitLord<~Scribe.141~>193 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2036~><~Scribe.144~> E53E50
+$GambitLord<~Controls.624~>227<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Swift> random 2156F3
+$GambitLord<~Controls.637~>244<~Controls.638~><~Game.1998~><~Controls.639~><~Game.2037~> null
+$Swift<~Scribe.141~>252 <~Scribe.142~><~Game.2015~><~Scribe.143~><~Game.2016~><~Scribe.144~> 42B3C3
+$Swift<~Controls.644~>100 193 227 244 <~Controls.645~><~Game.2035~> 02C216
+$GambitLord<~Controls.757~>103 104 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 511E98
+$GambitLord<~Controls.762~>100 099 105 102 360 101 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> FEC4D9
+$GambitLord<~Controls.509~>169<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$GambitLord<~Controls.509~>159<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Swift<~Controls.726~>212 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 1D90D9
+<~Game.7~>3 null
+$Swift<~Controls.731~>210 213 358 211 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 05EA37
+$Swift<~Controls.509~>141<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Swift<~Controls.509~>145<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$GambitLord<~Scribe.141~>103 104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> BA7DFF
+<Swift> fp rdy 62FEFD
+$GambitLord<~Controls.345~>100 099 105 102 360 101 <~Controls.346~>15 15 10 11 12 11 null
+$GambitLord<~Controls.350~>100 099 105 102 360 101 null
+$Swift<~Controls.345~>210 213 358 211 212 <~Controls.346~>2 2 4 0 4 null
+<Swift> hmm 1CDBE7
+$Swift<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 3284F5
+$Swift<~Scribe.141~>reveal 123 3FDEE8893E808E18555F360F1B0D1DCC6DA0B5D2 7 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2036~><~Scribe.144~> 7F595A
+$Swift<~Controls.819~> CD8E48
+$Swift<~Controls.819~> D9675B
+$Swift<~Scribe.141~>430 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 0DC50A
+$Swift<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2037~><~Scribe.144~> 680A7D
+$Swift<~Controls.345~>212 <~Controls.346~>4 null
+$Swift<~Controls.345~>212 <~Controls.346~>0 null
+$Swift<~Controls.281~>212 <~Controls.282~><~Game.2037~><~Controls.283~><~Game.2042~> 6205E0
+$Swift<~Controls.644~>430 <~Controls.645~><~Game.2035~> 4E80E4
+$Swift<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 88AEE6
+$Swift<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 27A278
+$Swift<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 0A932E
+<game> GambitLord<~Controls.1~> 4 3 3 5 null
+<game> GambitLord<~Controls.1~> 2 1 null
+<GambitLord> ah 567AEF
+<Swift> lucky! 1F3EBC
+<GambitLord> thats disappointing 57ACC5
+$GambitLord<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 6402F4
+<GambitLord> Attack Dale, NC 5F92F4
+<Swift> nc 78FE8B
+<game> GambitLord<~Controls.1~> 2 1 5 1 null
+<game> GambitLord<~Controls.1~> 5 null
+<game> GambitLord<~Controls.1~> 5 5 null
+<GambitLord> 0 8195E0
+<game> Swift<~Controls.1~> 4 null
+<game> Swift<~Controls.1~> 4 null
+<Swift> 0 647703
+<GambitLord> press 699EB3
+$Swift<~Scribe.141~>068 066 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.1954~><~Scribe.144~> 56FFC5
+$GambitLord<~Scribe.141~>258 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> 442E29
+$GambitLord<~Scribe.141~>258 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 1BFD32
+$GambitLord<~Scribe.141~>039 038 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1957~><~Scribe.143~><~Game.1970~><~Scribe.144~> 9AEF9E
+$GambitLord<~Scribe.141~>419 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1970~><~Scribe.144~> 4BB3AE
+$Swift<~Controls.281~>068 066 <~Controls.282~><~Game.1954~><~Controls.283~><~Game.2042~> 9B7064
+$GambitLord<~Scribe.141~>423 <~Scribe.142~><~Game.27~><~Scribe.143~><~Game.28~><~Scribe.144~> 72B6F8
+$Swift<~Controls.819~> C0D5F1
+$Swift<~Controls.819~> D39239
+$GambitLord<~Controls.644~>360 <~Controls.645~><~Game.2035~> 75D799
+$GambitLord<~Scribe.141~>423 <~Scribe.142~><~Game.27~><~Scribe.143~><~Game.28~><~Scribe.144~> D18DD8
+$Swift<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> DDA38C
+$Swift<~Scribe.141~>059 <~Scribe.142~><~Game.1973~><~Scribe.143~><~Game.1965~><~Scribe.144~> 502587
+$Swift<~Scribe.141~>073 072 <~Scribe.142~><~Game.1925~><~Scribe.143~><~Game.1918~><~Scribe.144~> 4627B9
+$Swift<~Controls.644~>358 <~Controls.645~><~Game.2035~> C8E7D5
+$GambitLord<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 718B7B
+<GambitLord> Attack WLR 3F4409
+$GambitLord<~Scribe.141~>256 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> 7CE208
+$Swift<~Scribe.141~>073 072 <~Scribe.142~><~Game.1918~><~Scribe.143~><~Game.1954~><~Scribe.144~> 6B6209
+$Swift<~Controls.819~> DAC3E9
+$Swift<~Scribe.141~>098 068 094 088 066 065 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1991~><~Scribe.144~> 5C5A1C
+$GambitLord<~Scribe.141~>039 038 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.1954~><~Scribe.144~> 7D190C
+$GambitLord<~Controls.644~>102 <~Controls.645~><~Game.2035~> 0A9C8B
+$Swift<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> C54040
+$Swift<~Scribe.141~>reveal 123 3FDEE8893E808E18555F360F1B0D1DCC6DA0B5D2 7 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2036~><~Scribe.144~> B3829C
+$Swift<~Controls.281~>233 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2045~> 90AD8D
+$Swift<~Controls.644~>210 123 <~Controls.645~><~Game.2035~> 11A6A6
+$GambitLord<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 8608EF
+$GambitLord<~Scribe.141~>253 361 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2037~><~Scribe.144~> 45A0A0
+$GambitLord<~Scribe.141~>253 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.1954~><~Scribe.144~> D766EB
+$GambitLord<~Controls.644~>105 361 <~Controls.645~><~Game.2035~> D0A4B3
+$Swift<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> A86601
+$Swift<~Scribe.141~>reveal 141 FA5C443691AC0A9DCE65321CE8234DDB4265AE1B 1 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2036~><~Scribe.144~> 68D930
+$Swift<~Scribe.141~>241 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.1944~><~Scribe.144~> 3C62B6
+$Swift<~Scribe.141~>242 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> 321BCA
+$Swift<~Controls.644~>213 141 <~Controls.645~><~Game.2035~> A1B880
+$GambitLord<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 82D546
+$GambitLord<~Scribe.141~>008 007 <~Scribe.142~><~Game.1917~><~Scribe.143~><~Game.1927~><~Scribe.144~> 411CC6
+<GambitLord> hmm 8243B7
+$GambitLord<~Scribe.141~>037 034 033 032 031 030 020 019 018 017 <~Scribe.142~><~Game.1969~><~Scribe.143~><~Game.1964~><~Scribe.144~> E78215
+$GambitLord<~Controls.644~>101 <~Controls.645~><~Game.2035~> F6B478
+$Swift<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 393CBA
+$Swift<~Controls.323~>241 F7BF5C
+$Swift<~Scribe.141~>359 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.2037~><~Scribe.144~> 1707AA
+$Swift<~Controls.644~>211 359 <~Controls.645~><~Game.2035~> 68977E
+$Swift<~Controls.726~>212 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 059501
+$Swift<~Controls.731~>211 359 213 210 358 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> A8BAEE
+$Swift<~Controls.509~>154<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$GambitLord<~Controls.757~>100 099 103 104 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 3D4B97
+<~Game.7~>4 null
+$GambitLord<~Controls.762~>101 105 361 102 360 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 271E90
+$Swift<~Controls.509~>143<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$GambitLord<~Controls.509~>182<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$GambitLord<~Controls.509~>189<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Swift<~Scribe.141~>247 <~Scribe.142~><~Game.1917~><~Scribe.143~><~Game.1927~><~Scribe.144~> 1F14E2
+$GambitLord<~Scribe.141~>099 100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> 7877E1
+$Swift<~Scribe.141~>248 <~Scribe.142~><~Game.2015~><~Scribe.143~><~Game.2014~><~Scribe.144~> D9E810
+$GambitLord<~Controls.281~>100 <~Controls.282~><~Game.1997~><~Controls.283~><~Game.2043~> 4546C9
+<Swift> fp rdy! E6DD95
+$GambitLord<~Controls.345~>100 101 105 361 102 360 103 104 <~Controls.346~>13 13 10 10 14 13 14 15 null
+$GambitLord<~Controls.350~>100 101 105 361 102 360 103 104 null
+$Swift<~Controls.345~>211 359 213 210 358 212 <~Controls.346~>4 0 1 0 0 3 null
+<Swift> bloody hell C5FCF4
+<Swift> all the wills today!4 088A80
+$Swift<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> CD7241
+$Swift<~Scribe.141~>260 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> AF4952
+$Swift<~Controls.323~>260 7F9AA7
+$Swift<~Controls.323~>259 257 4792FF
+$Swift<~Controls.644~>210 <~Controls.645~><~Game.2035~> EB8BB1
+$GambitLord<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 7112BB
+$GambitLord<~Scribe.141~>261 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> EED253
+$GambitLord<~Controls.644~>105 <~Controls.645~><~Game.2035~> 2AA3CC
+$Swift<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> EB830C
+$Swift<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 190432
+$Swift<~Controls.795~>358<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> B57F25
+<game> GambitLord<~Controls.1~> 4 1 null
+<game> GambitLord<~Controls.1~> 1 null
+$GambitLord<~Scribe.141~>361 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 74BDFA
+$GambitLord<~Scribe.141~>261 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 80A04D
+$GambitLord<~Controls.644~>361 <~Controls.645~><~Game.2035~> 483410
+$Swift<~Scribe.141~>359 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 5CE946
+$Swift<~Scribe.141~>reveal 154 FF55E10D6F98036EDD5F88CCACFF2EAEED86689C 17 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2036~><~Scribe.144~> 486091
+$Swift<~Controls.281~>235 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2045~> AE458C
+$Swift<~Controls.644~>359 154 <~Controls.645~><~Game.2035~> 62868C
+$GambitLord<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 75BF14
+<GambitLord> Attack WLR 78BA90
+$GambitLord<~Controls.840~>159 F2CECD
+$Swift<~Controls.840~>143 F49DA0
+<auto> playchosen CD52EA
+<auto><~Controls.3~>reveal 143 BC2CFDE0458146281596C22974E5B408A4512718 11<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 0B2E1F
+<auto><~Controls.866~>reveal 159 07C578007443CE01C67E3B45A424B7D64B3244C5 3<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 173B72
+<auto> playchosen CB0C2E
+$GambitLord<~Scribe.141~>022 021 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.2036~><~Scribe.144~> E4D3C2
+<game> GambitLord<~Controls.1~> 2 1 2 1 2 null
+<game> GambitLord<~Controls.1~> 1 6 2 6 null
+<GambitLord> 2 428A1E
+<game> Swift<~Controls.1~> 6 1 null
+<game> Swift<~Controls.1~> 3 1 null
+$GambitLord<~Scribe.141~>023 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.2036~><~Scribe.144~> BC0D98
+<game> Swift<~Controls.1~> 6 5 null
+<Swift> 3 FB46A3
+$GambitLord<~Scribe.141~>025 024 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.2036~><~Scribe.144~> AB7358
+<Swift> rolled too few initially lol 158FFA
+$Swift<~Controls.281~>094 <~Controls.282~><~Game.1991~><~Controls.283~><~Game.2039~> C5EACA
+$Swift<~Controls.281~>143 <~Controls.282~><~Game.2037~><~Controls.283~><~Game.2039~> BB3727
+<GambitLord> press/draw F6EC8D
+$GambitLord<~Controls.662~>159 025 024 023 022 021 <~Controls.663~><~Game.2035~> B7AAF4
+$GambitLord<~Controls.304~>036 <~Controls.305~><~Game.1954~> 683FB3
+$GambitLord<~Controls.313~>025 <~Controls.307~><~Controls.314~><~Game.1954~> A882DD
+$GambitLord<~Controls.509~>171<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<GambitLord> nc 904F09
+$Swift<~Controls.840~>131 834A5D
+<auto> playchosen 3BAD14
+$Swift<~Scribe.141~>reveal 131 7B94917597DA8B2BFCB2AF57E4F901D760E2376F 8 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2036~><~Scribe.144~> 5210C9
+<auto><~Controls.861~>reveal 131 7B94917597DA8B2BFCB2AF57E4F901D760E2376F 8<~Controls.862~><~Controls.45~><~Controls.863~><~Game.2037~> 25D4AC
+<game> GambitLord<~Controls.1~> 4 2 4 null
+<game> GambitLord<~Controls.1~> 4 5 6 null
+<GambitLord> 1 BF7FD5
+<game> Swift<~Controls.1~> 5 1 3 null
+<game> Swift<~Controls.1~> 1 2 null
+<Swift> 1 AD052E
+$GambitLord<~Scribe.141~>026 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.2037~><~Scribe.144~> 754964
+$Swift<~Controls.281~>088 <~Controls.282~><~Game.1991~><~Controls.283~><~Game.2039~> 3742A5
+$GambitLord<~Controls.644~>360 131 026 <~Controls.645~><~Game.2035~> 9F616C
+<Swift> pass C68D82
+$GambitLord<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> B5A135
+$Swift<~Scribe.141~>256 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> A80B8C
+$GambitLord<~Scribe.141~>reveal 182 417EE0F2E96B9D2E1FF96D1D6693FB2310FB8614 22 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> F9BDA6
+<game> GambitLord<~Controls.1~> 4 3 6 null
+$GambitLord<~Scribe.141~>252 <~Scribe.142~><~Game.2016~><~Scribe.143~><~Game.2017~><~Scribe.144~> A3F784
+$GambitLord<~Scribe.141~>252 <~Scribe.142~><~Game.2017~><~Scribe.143~><~Game.2018~><~Scribe.144~> 4EB8FD
+$GambitLord<~Controls.644~>102 182 <~Controls.645~><~Game.2035~> 6A6902
+<Swift> hmm# 4DC285
+$Swift<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 5059E4
+$Swift<~Scribe.141~>257 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> 2A4FE1
+$Swift<~Controls.644~>212 <~Controls.645~><~Game.2035~> 141D10
+$GambitLord<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 153E43
+$GambitLord<~Scribe.141~>040 035 015 014 013 012 011 <~Scribe.142~><~Game.1956~><~Scribe.143~><~Game.1953~><~Scribe.144~> 089DEB
+$GambitLord<~Controls.644~>101 <~Controls.645~><~Game.2035~> 68C651
+$Swift<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> DFA6E1
+$Swift<~Controls.790~>248<~Controls.791~><~Game.2015~><~Controls.792~><~Game.2016~> 36F129
+$Swift<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> F3AE43
+<game> GambitLord<~Controls.1~> 6 1 null
+<game> GambitLord<~Controls.1~> 3 null
+$GambitLord<~Controls.624~>215<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Swift<~Scribe.141~>247 <~Scribe.142~><~Game.1927~><~Scribe.143~><~Game.1937~><~Scribe.144~> 394FD4
+$Swift<~Controls.323~>247 CC8C69
+$Swift<~Controls.644~>215 <~Controls.645~><~Game.2035~> 6D18E4
+$GambitLord<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 2D197A
+$GambitLord<~Scribe.141~>040 035 015 014 013 012 011 <~Scribe.142~><~Game.1953~><~Scribe.143~><~Game.1927~><~Scribe.144~> 785EA6
+$GambitLord<~Controls.644~>100 <~Controls.645~><~Game.2035~> 1DF1DD
+$Swift<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> D5C1D6
+$Swift<~Scribe.141~>256 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 79AB67
+$Swift<~Controls.644~>211 <~Controls.645~><~Game.2035~> F4F35C
+$GambitLord<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> BD41D1
+$GambitLord<~Scribe.141~>reveal 205 C7CCB20F943728A36097D1F66D5BC1B927FF05D6 16 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 786D49
+$GambitLord<~Scribe.141~>352 351 350 349 348 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1971~><~Scribe.144~> 23544F
+$GambitLord<~Scribe.141~>341 340 339 338 337 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1977~><~Scribe.144~> 1EE95D
+$GambitLord<~Scribe.141~>341 340 339 338 337 <~Scribe.142~><~Game.1977~><~Scribe.143~><~Game.1979~><~Scribe.144~> B4AACC
+$GambitLord<~Scribe.141~>352 351 350 349 348 <~Scribe.142~><~Game.1971~><~Scribe.143~><~Game.1977~><~Scribe.144~> 7196E6
+$GambitLord<~Scribe.141~>341 340 339 338 337 <~Scribe.142~><~Game.1979~><~Scribe.143~><~Game.1971~><~Scribe.144~> 601D42
+$GambitLord<~Controls.644~>103 205 <~Controls.645~><~Game.2035~> B8F679
+$GambitLord<~Controls.757~>104 099 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 5FA9D8
+$GambitLord<~Controls.762~>103 100 101 102 360 361 105 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> CE5446
+$GambitLord<~Controls.509~>204<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$GambitLord<~Controls.509~>199<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Swift<~Controls.726~>213 358 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> E0C5E6
+<~Game.7~>5 null
+$Swift<~Controls.731~>211 212 359 210 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> B3DC5C
+$GambitLord<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> 824204
+$Swift<~Controls.509~>109<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Swift<~Controls.509~>138<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+<Swift> fp rdy 75FAC9
+$GambitLord<~Controls.345~>103 100 101 102 360 361 105 104 <~Controls.346~>12 10 11 12 13 10 12 14 null
+$GambitLord<~Controls.350~>103 100 101 102 360 361 105 104 null
+$Swift<~Controls.345~>211 212 359 210 213 358 <~Controls.346~>2 4 1 4 3 1 null
+$Swift<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 67D559
+$Swift<~Scribe.141~>266 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1928~><~Scribe.144~> 362616
+$Swift<~Controls.644~>213 <~Controls.645~><~Game.2035~> CCD531
+$GambitLord<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> A83F95
+$GambitLord<~Scribe.141~>reveal 204 FFD600DB95526B40E2DB2A6BAF4EEE5310A4E0C9 7 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> F59D52
+$GambitLord<~Scribe.141~>204 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2036~><~Scribe.144~> 7DDE22
+$GambitLord<~Controls.624~>221<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$GambitLord<~Controls.644~>104 204 221 <~Controls.645~><~Game.2035~> 2A5779
+<Swift> ouch 485FDE
+$Swift<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 4CEB92
+$Swift<~Scribe.141~>267 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1928~><~Scribe.144~> 881CF5
+$Swift<~Controls.644~>212 <~Controls.645~><~Game.2035~> A90C01
+$GambitLord<~Scribe.141~>361 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> F53254
+$GambitLord<~Scribe.141~>347 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1987~><~Scribe.144~> FDAB38
+$GambitLord<~Controls.644~>361 <~Controls.645~><~Game.2035~> 3FDE95
+$Swift<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 6BF62E
+$Swift<~Controls.323~>247 CC71CF
+$Swift<~Controls.644~>358 <~Controls.645~><~Game.2035~> 9CB491
+$GambitLord<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 2501C5
+$GambitLord<~Scribe.141~>345 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1987~><~Scribe.144~> BBC8DA
+$GambitLord<~Controls.644~>100 <~Controls.645~><~Game.2035~> 7912A6
+$Swift<~Scribe.141~>359 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 95E61B
+$Swift<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> AA8145
+$Swift<~Controls.795~>359<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> AF2AF6
+<game> GambitLord<~Controls.1~> 1 null
+$GambitLord<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> C91035
+$GambitLord<~Scribe.141~>345 347 054 053 <~Scribe.142~><~Game.1987~><~Scribe.143~><~Game.1984~><~Scribe.144~> BA366B
+$GambitLord<~Scribe.141~>341 340 339 338 337 <~Scribe.142~><~Game.1971~><~Scribe.143~><~Game.1977~><~Scribe.144~> EB7F22
+$GambitLord<~Controls.644~>102 <~Controls.645~><~Game.2035~> B1DF11
+<Swift> [ass 68CA13
+$GambitLord<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> DBF759
+$GambitLord<~Scribe.141~>345 347 056 054 053 052 051 050 <~Scribe.142~><~Game.1984~><~Scribe.143~><~Game.1973~><~Scribe.144~> 66E593
+$GambitLord<~Scribe.141~>257 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> A59542
+$GambitLord<~Scribe.141~>416 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1973~><~Scribe.144~> 278BF7
+<GambitLord> did you muster the dwarves once? 19EA72
+<Swift> yeah E35652
+<GambitLord> kk 886083
+<Swift> mb not my best call aha 5DB56D
+$GambitLord<~Scribe.141~>352 351 350 349 348 341 340 339 338 <~Scribe.142~><~Game.1977~><~Scribe.143~><~Game.1969~><~Scribe.144~> 649B90
+$GambitLord<~Controls.644~>105 <~Controls.645~><~Game.2035~> 175C09
+<Swift> pass 117704
+$GambitLord<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> AF6E31
+$GambitLord<~Scribe.141~>352 351 350 349 348 341 340 339 338 016 <~Scribe.142~><~Game.1969~><~Scribe.143~><~Game.1955~><~Scribe.144~> D05CE1
+$GambitLord<~Scribe.141~>345 347 056 054 053 052 051 050 <~Scribe.142~><~Game.1973~><~Scribe.143~><~Game.1970~><~Scribe.144~> AF53D0
+$GambitLord<~Controls.644~>103 <~Controls.645~><~Game.2035~> CF1BB1
+$Swift<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 049150
+$Swift<~Scribe.141~>reveal 116 53927D28D52E087B423FBF8B820A88D59DF8F8C9 5 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2036~><~Scribe.144~> FB5FE1
+$Swift<~Controls.281~>083 <~Controls.282~><~Game.1944~><~Controls.283~><~Game.2039~> 0D9ED9
+$Swift<~Scribe.141~>273 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1944~><~Scribe.144~> 496478
+$Swift<~Controls.509~>113<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Swift<~Controls.509~>119<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Swift<~Controls.644~>211 116 <~Controls.645~><~Game.2035~> 90FF17
+$GambitLord<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> F0A105
+$GambitLord<~Scribe.141~>056 347 345 052 053 054 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.1954~><~Scribe.144~> 8C3F48
+$GambitLord<~Scribe.141~>055 057 049 048 047 046 045 044 <~Scribe.142~><~Game.1946~><~Scribe.143~><~Game.1938~><~Scribe.144~> 1018C3
+$GambitLord<~Controls.644~>101 <~Controls.645~><~Game.2035~> 21961E
+$Swift<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> DB8102
+$Swift<~Scribe.141~>257 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 260734
+$Swift<~Controls.644~>210 <~Controls.645~><~Game.2035~> 4BC7FC
+$GambitLord<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> D61F3B
+<GambitLord> Attack WLR E692D6
+$GambitLord<~Controls.840~>171 4A3934
+$Swift<~Controls.840~>113 A21FAD
+<auto> playchosen 99C923
+<auto><~Controls.3~>reveal 113 CF7DFB3D152208E563594BB275DFA9BC77A9E3F1 22<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 2BE14A
+<auto><~Controls.866~>reveal 171 184C206CACB54F5D4E906C6D54EA4FE1EE8E3027 18<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 82C10C
+<auto> playchosen A0B49B
+<game> GambitLord<~Controls.1~> 2 2 6 6 1 null
+<GambitLord> 2 F5A348
+<game> Swift<~Controls.1~> 5 6 null
+$GambitLord<~Controls.509~>207<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<Swift> 2 1FF9FA
+$Swift<~Controls.281~>098 068 066 065 <~Controls.282~><~Game.1991~><~Controls.283~><~Game.2039~> 22A417
+$GambitLord<~Scribe.141~>027 028 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.2036~><~Scribe.144~> 0FD96A
+$GambitLord<~Scribe.141~>413 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1954~><~Scribe.144~> 96B1BF
+$GambitLord<~Scribe.141~>423 <~Scribe.142~><~Game.28~><~Scribe.143~><~Game.29~><~Scribe.144~> 8B3626
+$GambitLord<~Scribe.141~>423 <~Scribe.142~><~Game.29~><~Scribe.143~><~Game.30~><~Scribe.144~> 08366D
+$GambitLord<~Controls.644~>360 171 027 028 113 <~Controls.645~><~Game.2035~> 824E13
+$Swift<~Controls.726~>359 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> C28112
+$Swift<~Controls.731~>210 211 358 212 213 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 3A26E6
+$GambitLord<~Controls.757~>099 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 140CDF
+<~Game.7~>6 null
+$GambitLord<~Controls.762~>360 101 103 105 102 100 361 104 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 949E8C
+$Swift<~Controls.509~>128<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Swift<~Controls.509~>118<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$GambitLord<~Controls.509~>200<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$GambitLord<~Controls.509~>180<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$GambitLord<~Scribe.141~><~Scribe.142~><~Game.1957~><~Scribe.143~><~Game.1991~><~Scribe.144~> 2B629E
+$GambitLord<~Scribe.141~>420 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1957~><~Scribe.144~> C1C2DA
+$GambitLord<~Controls.819~> 796C8E
+$Swift<~Scribe.141~>247 <~Scribe.142~><~Game.1937~><~Scribe.143~><~Game.1948~><~Scribe.144~> B15F05
+$Swift<~Scribe.141~>248 <~Scribe.142~><~Game.2015~><~Scribe.143~><~Game.2014~><~Scribe.144~> 83D1B3
+<Swift> fp rdy 4BC2DA
+$GambitLord<~Controls.296~>195 <~Controls.297~><~Controls.46~> 959E1A
+$GambitLord<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> 675274
+$GambitLord<~Controls.345~>360 101 103 105 102 100 361 104 <~Controls.346~>12 14 10 15 12 10 15 11 null
+$GambitLord<~Controls.350~>360 101 103 105 102 100 361 104 null
+$Swift<~Controls.345~>210 211 358 212 213 359 <~Controls.346~>2 3 1 0 1 1 null
+$Swift<~Scribe.141~>359 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> E2186C
+$Swift<~Controls.281~>359 <~Controls.282~><~Game.2035~><~Controls.283~><~Game.2042~> ED2F32
+$Swift<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> A7A1ED
+$Swift<~Scribe.141~>314 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1965~><~Scribe.144~> 315DB0
+$Swift<~Controls.644~>212 <~Controls.645~><~Game.2035~> F700FC
+$GambitLord<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 334F2C
+<GambitLord> hmm BBA541
+$GambitLord<~Scribe.141~>253 039 038 056 347 345 052 053 029 025 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1970~><~Scribe.144~> A35F90
+$GambitLord<~Scribe.141~>055 057 049 048 047 046 045 <~Scribe.142~><~Game.1938~><~Scribe.143~><~Game.1932~><~Scribe.144~> 6FDA96
+$GambitLord<~Controls.819~> C5E0BD
+$GambitLord<~Scribe.141~>040 035 015 014 013 012 011 008 <~Scribe.142~><~Game.1927~><~Scribe.143~><~Game.1930~><~Scribe.144~> 0C5CA6
+$GambitLord<~Controls.644~>104 <~Controls.645~><~Game.2035~> 2BBC9D
+$Swift<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 5434DD
+$Swift<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> A66012
+$Swift<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> EC7FB8
+<game> GambitLord<~Controls.1~> 6 3 6 null
+$GambitLord<~Controls.624~>223<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Swift> random AB2490
+$GambitLord<~Controls.637~>245<~Controls.638~><~Game.1998~><~Controls.639~><~Game.2036~> null
+$Swift<~Scribe.141~>245 <~Scribe.142~><~Game.2036~><~Scribe.143~><~Game.1944~><~Scribe.144~> 0AFB86
+$Swift<~Controls.644~>223 <~Controls.645~><~Game.2035~> ACD575
+$GambitLord<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 39CF43
+$GambitLord<~Scribe.141~>320 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1956~><~Scribe.144~> 4A92BB
+$GambitLord<~Scribe.141~>318 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1917~><~Scribe.144~> AF3C7A
+$GambitLord<~Controls.644~>103 <~Controls.645~><~Game.2035~> 4291F1
+$Swift<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> D07555
+$Swift<~Scribe.141~>reveal 118 B621F39CC5843609C4FEE292D789CF7A01A5012B 7 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2036~><~Scribe.144~> 7ABE11
+$Swift<~Scribe.141~>302 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1890~><~Scribe.144~> CDB325
+$Swift<~Scribe.141~>313 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1891~><~Scribe.144~> 46E517
+$Swift<~Controls.509~>122<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Swift<~Controls.644~>210 118 <~Controls.645~><~Game.2035~> DA4BA8
+$GambitLord<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 5AB963
+<GambitLord> Attack Erebor F69F4C
+$Swift<~Scribe.141~>062 314 312 061 059 060 <~Scribe.142~><~Game.1965~><~Scribe.143~><~Game.1988~><~Scribe.144~> 0FEE0B
+$GambitLord<~Scribe.141~>253 039 038 056 347 345 052 053 051 050 029 025 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.1965~><~Scribe.144~> E06608
+$GambitLord<~Controls.644~>102 <~Controls.645~><~Game.2035~> F93BCB
+$Swift<~Scribe.141~>359 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 1D3339
+$Swift<~Scribe.141~>241 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.1937~><~Scribe.144~> D3CC72
+$Swift<~Controls.644~>359 <~Controls.645~><~Game.2035~> B9D344
+<GambitLord> oh, unexpected 0F2F06
+$GambitLord<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 95A87F
+<GambitLord> Attack Erebor E5D09E
+$GambitLord<~Controls.840~>200 16B767
+<Swift> hmm D0229E
+$Swift<~Controls.840~>122 684A0F
+<auto> playchosen 0A7A2A
+<auto><~Controls.3~>reveal 122 876D771B4D713DE121EDE584DEE245B580B08AC8 2<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 6023EB
+<auto><~Controls.866~>reveal 200 A2704D6D3CBDD862EAD4EEF6C4BABA171D3935E6 19<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 5B13BF
+<auto> playchosen 5EF885
+<game> GambitLord<~Controls.1~> 1 6 6 6 2 null
+<game> GambitLord<~Controls.1~> 3 5 null
+<GambitLord> 4 40BF86
+<game> Swift<~Controls.1~> 1 4 6 5 2 null
+<game> Swift<~Controls.1~> 3 null
+<Swift> 3 177C49
+$GambitLord<~Scribe.141~>053 051 050 <~Scribe.142~><~Game.1965~><~Scribe.143~><~Game.2036~><~Scribe.144~> 944B56
+$Swift<~Controls.304~>312 <~Controls.305~><~Game.1988~> 499C02
+$Swift<~Controls.313~>317 <~Controls.307~><~Controls.314~><~Game.1988~> D69C3B
+$Swift<~Controls.304~>061 <~Controls.305~><~Game.1988~> C803D9
+$Swift<~Controls.313~>316 <~Controls.307~><~Controls.314~><~Game.1988~> 311EB8
+$Swift<~Controls.281~>314 <~Controls.282~><~Game.1988~><~Controls.283~><~Game.2039~> 422AD8
+$Swift<~Controls.281~>122 <~Controls.282~><~Game.2037~><~Controls.283~><~Game.2039~> 2256B7
+<GambitLord> hmmm F85068
+<GambitLord> press 2F858D
+<GambitLord> draw 7BE29E
+$GambitLord<~Controls.662~>200 053 051 050 <~Controls.663~><~Game.2035~> 987315
+$GambitLord<~Controls.304~>056 <~Controls.305~><~Game.1965~> AC9334
+$GambitLord<~Controls.313~>053 <~Controls.307~><~Controls.314~><~Game.1965~> F36A89
+$GambitLord<~Controls.509~>174<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$GambitLord<~Controls.840~>207 2F06BD
+$Swift<~Controls.840~>145 6B6863
+<auto> playchosen 548ACE
+<auto><~Controls.3~>reveal 145 4A6BFF0A073126B212CC120EEB623B43D2968A06 5<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> F61EC8
+<auto><~Controls.866~>reveal 207 858BE1F0B1A2CDA10E672DD6C647451FB8F056EC 6<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 110270
+<auto> playchosen 93C035
+<game> GambitLord<~Controls.1~> 5 5 1 4 3 null
+<game> GambitLord<~Controls.1~> 4 5 6 null
+<GambitLord> 5 784DE6
+<game> Swift<~Controls.1~> 6 6 4 6 null
+<Swift> 4 E5CC76
+$Swift<~Controls.281~>062 316 317 059 060 <~Controls.282~><~Game.1988~><~Controls.283~><~Game.2039~> EC7AF0
+$GambitLord<~Scribe.141~>345 347 <~Scribe.142~><~Game.1965~><~Scribe.143~><~Game.2036~><~Scribe.144~> 264F9C
+$Swift<~Scribe.141~>423 <~Scribe.142~><~Game.30~><~Scribe.143~><~Game.32~><~Scribe.144~> 72DAE4
+$GambitLord<~Scribe.141~>420 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1965~><~Scribe.144~> E7C907
+$GambitLord<~Controls.644~>360 207 345 347 145 <~Controls.645~><~Game.2035~> 3BE939
+$Swift<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 12FD5C
+$Swift<~Controls.790~>248<~Controls.791~><~Game.2015~><~Controls.792~><~Game.2016~> 19ABD1
+$Swift<~Controls.795~>358<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> F20B38
+<game> GambitLord<~Controls.1~> 2 6 4 null
+$GambitLord<~Controls.624~>226<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Swift<~Scribe.141~>242 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2035~><~Scribe.144~> A86266
+$Swift<~Controls.644~>242 226 <~Controls.645~><~Game.2035~> F1D4D2
+$Swift<~Scribe.141~>243 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> 8BD082
+$GambitLord<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 9EC799
+$GambitLord<~Scribe.141~>reveal 169 BB6DDBCF620D8042F42FBABA9C924AA6110BAFF4 5 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 31DB39
+$GambitLord<~Scribe.141~>169 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2034~><~Scribe.144~> 967286
+$GambitLord<~Scribe.141~>039 <~Scribe.142~><~Game.1965~><~Scribe.143~><~Game.1948~><~Scribe.144~> C92AE2
+$GambitLord<~Scribe.141~>253 038 <~Scribe.142~><~Game.1965~><~Scribe.143~><~Game.1964~><~Scribe.144~> F4F421
+$GambitLord<~Scribe.141~>318 <~Scribe.142~><~Game.1917~><~Scribe.143~><~Game.1976~><~Scribe.144~> 5E756E
+$GambitLord<~Scribe.141~>320 <~Scribe.142~><~Game.1956~><~Scribe.143~><~Game.1964~><~Scribe.144~> CE869A
+$GambitLord<~Scribe.141~>253 037 038 320 <~Scribe.142~><~Game.1964~><~Scribe.143~><~Game.1955~><~Scribe.144~> 49E545
+<GambitLord> hmm 862000
+<GambitLord> hitting on 4s 11B263
+<GambitLord> rolling 9EE2F9
+<game> GambitLord<~Controls.1~> 3 1 4 null
+<game> GambitLord<~Controls.1~> 4 null
+$GambitLord<~Controls.624~>224<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Swift> randpom 08A6B3
+$GambitLord<~Controls.637~>243<~Controls.638~><~Game.1999~><~Controls.639~><~Game.2036~> null
+$GambitLord<~Scribe.141~>169 <~Scribe.142~><~Game.2034~><~Scribe.143~><~Game.2036~><~Scribe.144~> 012916
+$Swift<~Controls.644~>101 169 243 224 <~Controls.645~><~Game.2035~> 4A8A63
+$Swift<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 647708
+<Swift> hmm 731A5C
+$Swift<~Scribe.141~>251 <~Scribe.142~><~Game.2010~><~Scribe.143~><~Game.2037~><~Scribe.144~> FB2422
+$Swift<~Scribe.141~>251 <~Scribe.142~><~Game.2010~><~Scribe.143~><~Game.2011~><~Scribe.144~> C7FC9D
+$Swift<~Scribe.141~>251 <~Scribe.142~><~Game.2010~><~Scribe.143~><~Game.2011~><~Scribe.144~> A870C0
+$Swift<~Controls.790~>248<~Controls.791~><~Game.2016~><~Controls.792~><~Game.2017~> 3C5047
+$Swift<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 5908C6
+<game> GambitLord<~Controls.1~> 3 4 3 null
+<game> GambitLord<~Controls.1~> 3 null
+$GambitLord<~Controls.624~>220<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<GambitLord> 1R B62E9E
+$Swift<~Scribe.141~>246 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1944~><~Scribe.144~> 00DEC4
+$Swift<~Scribe.141~>247 <~Scribe.142~><~Game.1948~><~Scribe.143~><~Game.1974~><~Scribe.144~> 267229
+$Swift<~Controls.323~>247 DE0106
+$GambitLord<~Scribe.141~>220 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2035~><~Scribe.144~> EAE478
+$GambitLord<~Controls.624~>225<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Swift<~Scribe.141~>252 <~Scribe.142~><~Game.2018~><~Scribe.143~><~Game.2020~><~Scribe.144~> 574979
+$Swift<~Controls.644~>220 225 <~Controls.645~><~Game.2035~> E86688
+$GambitLord<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 8988CD
+<Swift> rouch hunt 8AAFE4
+$GambitLord<~Controls.304~>005 <~Controls.305~><~Game.1919~> 9F48F3
+$GambitLord<~Controls.313~>326 <~Controls.309~><~Controls.314~><~Game.1919~> 264C27
+$GambitLord<~Controls.304~>004 <~Controls.305~><~Game.1919~> 301FE3
+$GambitLord<~Controls.313~>325 <~Controls.309~><~Controls.314~><~Game.1919~> 4A5405
+$GambitLord<~Controls.644~>100 <~Controls.645~><~Game.2035~> 01FC3C
+$Swift<~Controls.726~>211 358 213 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> DC5E74
+$Swift<~Controls.731~>359 210 212 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> DDDE4E
+$GambitLord<~Controls.757~>105 361 099 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 9C533A
+<~Game.7~>7 null
+$GambitLord<~Controls.762~>100 101 360 102 103 104 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 4BF52B
+$Swift<~Controls.509~>142<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Swift<~Controls.509~>106<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$GambitLord<~Controls.509~>201<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$GambitLord<~Controls.509~>170<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Swift<~Scribe.141~>247 <~Scribe.142~><~Game.1974~><~Scribe.143~><~Game.524~><~Scribe.144~> E4632F
+$Swift<~Scribe.141~>364 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1999~><~Scribe.144~> DD1EBD
+<Swift> fp rdy D29484
+$GambitLord<~Controls.281~>235 233 237 221 220 <~Controls.282~><~Game.2045~><~Controls.283~><~Game.2044~> B2C903
+$GambitLord<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> BA6690
+$GambitLord<~Controls.345~>100 101 360 102 103 104 105 361 <~Controls.346~>12 11 15 14 14 10 14 14 null
+$GambitLord<~Controls.350~>100 101 360 102 103 104 105 361 null
+$Swift<~Controls.345~>359 210 212 211 358 213 <~Controls.346~>1 1 4 1 3 3 null
+$Swift<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 52E8DF
+$Swift<~Controls.323~>247 5E635D
+$Swift<~Controls.644~>210 <~Controls.645~><~Game.2035~> 1412AC
+$GambitLord<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 38D5DE
+$GambitLord<~Scribe.141~>255 362 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2037~><~Scribe.144~> 6C0929
+$GambitLord<~Scribe.141~>255 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.1969~><~Scribe.144~> F6ADE1
+$GambitLord<~Controls.644~>104 362 <~Controls.645~><~Game.2035~> 220309
+$Swift<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 20BA4A
+$Swift<~Controls.790~>247<~Controls.791~><~Game.524~><~Controls.792~><~Game.525~> 40FFEE
+$Swift<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 035C0A
+$GambitLord<~Controls.624~>221<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<GambitLord> 2R 44F85A
+$Swift<~Controls.323~>247 1630A2
+$Swift<~Scribe.141~>252 <~Scribe.142~><~Game.2020~><~Scribe.143~><~Game.2022~><~Scribe.144~> 0955FC
+$Swift<~Controls.644~>221 <~Controls.645~><~Game.2035~> 149275
+$GambitLord<~Scribe.141~>221 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.524~><~Scribe.144~> 1C7C18
+$GambitLord<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 886C63
+$GambitLord<~Scribe.141~>reveal 201 AC06763325CE7333271275BDA61C6D69A96543BC 14 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> C3FA37
+$GambitLord<~Scribe.141~>252 <~Scribe.142~><~Game.2022~><~Scribe.143~><~Game.2023~><~Scribe.144~> 6E4686
+$GambitLord<~Controls.644~>103 201 <~Controls.645~><~Game.2035~> 830A2C
+$Swift<~Scribe.141~>359 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> AEBA8E
+$Swift<~Controls.323~>247 BD2D04
+$Swift<~Controls.644~>359 <~Controls.645~><~Game.2035~> 1E946A
+$GambitLord<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> FB61F1
+$GambitLord<~Scribe.141~>reveal 199 9B608B68DEEA1C8F0C9D7897F1C083CE85E65935 23 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> CD1CC5
+$GambitLord<~Scribe.141~>323 324 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1919~><~Scribe.144~> 90FEB3
+$GambitLord<~Scribe.141~>004 005 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1910~><~Scribe.144~> 49EF55
+$GambitLord<~Scribe.141~>332 331 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1914~><~Scribe.144~> 8C5558
+$GambitLord<~Controls.644~>105 199 <~Controls.645~><~Game.2035~> 17DF3B
+<Swift> pass 1DB38E
+$GambitLord<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> A28BDD
+$GambitLord<~Controls.509~>165<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$GambitLord<~Controls.644~>102 <~Controls.645~><~Game.2035~> D51230
+$Swift<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 1AD78F
+$Swift<~Scribe.141~>300 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1941~><~Scribe.144~> 733F9E
+$Swift<~Controls.644~>358 <~Controls.645~><~Game.2035~> 6B108F
+$GambitLord<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 596663
+$GambitLord<~Scribe.141~>040 035 015 014 013 012 011 008 <~Scribe.142~><~Game.1930~><~Scribe.143~><~Game.1937~><~Scribe.144~> 8E9D9F
+$GambitLord<~Scribe.141~>053 029 025 <~Scribe.142~><~Game.1965~><~Scribe.143~><~Game.1970~><~Scribe.144~> 011AE2
+$GambitLord<~Controls.644~>100 <~Controls.645~><~Game.2035~> 705560
+$Swift<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> F5528D
+$Swift<~Scribe.141~>reveal 119 655976B150C0CB203F07D8EAAAD5F23932BA6CF4 15 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2036~><~Scribe.144~> A6363D
+$Swift<~Scribe.141~>296 301 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1941~><~Scribe.144~> 0B068B
+$Swift<~Controls.644~>213 119 <~Controls.645~><~Game.2035~> BC776A
+$GambitLord<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> C98F76
+<GambitLord> hmmm A48A31
+$GambitLord<~Controls.281~>101 <~Controls.282~><~Game.2035~><~Controls.283~><~Game.2043~> 08C429
+$GambitLord<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> B9DAF0
+<GambitLord> hmm 52A945
+<GambitLord> 1 moment 0643B1
+<Swift> np 9E6731
+$GambitLord<~Scribe.141~>332 331 000 <~Scribe.142~><~Game.1914~><~Scribe.143~><~Game.1910~><~Scribe.144~> EBCF28
+$GambitLord<~Scribe.141~>040 035 015 014 013 012 011 008 <~Scribe.142~><~Game.1937~><~Scribe.143~><~Game.1925~><~Scribe.144~> A1713B
+$GambitLord<~Scribe.141~>259 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> 060B75
+$GambitLord<~Scribe.141~>417 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1925~><~Scribe.144~> 7C267D
+$GambitLord<~Controls.644~>101 <~Controls.645~><~Game.2035~> 57458B
+$Swift<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 6AAB84
+$Swift<~Scribe.141~>074 073 072 070 069 <~Scribe.142~><~Game.1918~><~Scribe.143~><~Game.1923~><~Scribe.144~> 913764
+$Swift<~Scribe.141~>079 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.1944~><~Scribe.144~> 5039E6
+$Swift<~Scribe.141~>079 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.1943~><~Scribe.144~> 1BEFBD
+$Swift<~Scribe.141~>313 058 <~Scribe.142~><~Game.1891~><~Scribe.143~><~Game.1939~><~Scribe.144~> 4C0D74
+$Swift<~Controls.644~>212 <~Controls.645~><~Game.2035~> 3C69CC
+$GambitLord<~Scribe.141~>361 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 7B348C
+$GambitLord<~Scribe.141~>reveal 189 F66052F59D5090E849BCB5E43344962982578E35 15 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 663357
+$GambitLord<~Scribe.141~>335 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1970~><~Scribe.144~> 618A52
+$GambitLord<~Controls.644~>361 189 <~Controls.645~><~Game.2035~> E0F1D6
+$GambitLord<~Controls.757~>360 099 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> A58079
+$GambitLord<~Controls.762~>361 101 100 102 105 103 104 362 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> F560EC
+$Swift<~Controls.726~>211 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 94C2C5
+<~Game.7~>8 null
+$Swift<~Controls.731~>212 213 358 359 210 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 6705DD
+$GambitLord<~Controls.509~>194<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$GambitLord<~Controls.509~>183<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Swift<~Controls.509~>107<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Swift<~Controls.509~>153<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$GambitLord<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> F07A44
+$Swift<~Controls.281~>128 <~Controls.282~><~Controls.45~><~Controls.283~><~Game.2039~> F456AD
+<Swift> fp rdy 5FD13E
+$GambitLord<~Controls.345~>361 101 100 102 105 103 104 362 360 <~Controls.346~>11 15 10 13 14 11 13 14 11 null
+$GambitLord<~Controls.350~>361 101 100 102 105 103 104 362 360 null
+$Swift<~Controls.345~>212 213 358 359 210 211 <~Controls.346~>0 0 2 0 1 0 null
+<Swift> oh no... 2578FA
+<GambitLord> =) AFBB3A
+$Swift<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> D2D148
+$Swift<~Scribe.141~>428 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2037~><~Scribe.144~> DCD6E8
+$Swift<~Controls.345~>211 <~Controls.346~>1 null
+$Swift<~Controls.281~>211 <~Controls.282~><~Game.2035~><~Controls.283~><~Game.2042~> CDB9AE
+<GambitLord> new rule 411E89
+<GambitLord> you can change the WoW to whatever you want 8FDB1D
+<GambitLord> with a dring ACF7CF
+<Swift> hahahaha 55D70A
+<GambitLord> so you can pick the result 7A3E6B
+<Swift> tbf i am ok with a C die 652527
+<GambitLord> kk C0816A
+<GambitLord> just letting you know 2A14D5
+<Swift> but thanks ban! 8A5161
+<Swift> actually on 2nd thoughts DCF3CB
+$Swift<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 290D76
+$Swift<~Controls.345~>211 <~Controls.346~>0 null
+$Swift<~Controls.345~>211 <~Controls.346~>3 null
+$Swift<~Controls.281~>211 <~Controls.282~><~Game.2035~><~Controls.283~><~Game.2042~> ED3E41
+<GambitLord> you just manually pick what you want 4D209C
+<GambitLord> using the adjust in the tool bar 29D20B
+<Swift> yeah ill take a M :) A51B1F
+$Swift<~Controls.644~>428 <~Controls.645~><~Game.2035~> F45EC7
+<GambitLord> kk 0CF4B5
+$Swift<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> DFA591
+<Swift> hmm things not looking too hot... FEE446
+<GambitLord> things are looking good for the SP 19451E
+$Swift<~Controls.509~>126<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Swift<~Controls.281~>107 <~Controls.282~><~Controls.45~><~Controls.283~><~Game.2039~> 9F563D
+$Swift<~Controls.644~>212 <~Controls.645~><~Game.2035~> FDA90F
+<GambitLord> hmmm 7EE48D
+$GambitLord<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> FA6CB0
+<GambitLord> Attack OSG from WK 845A8A
+$GambitLord<~Controls.840~>194 4B9C54
+$GambitLord<~Scribe.141~>260 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 082D2D
+<Swift> nc 43C55A
+<auto><~Controls.866~>reveal 194 AC1784961F621B5F776730240BE9C70664241555 1<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> B9CE7A
+<game> GambitLord<~Controls.1~> 6 4 1 3 1 null
+<game> GambitLord<~Controls.1~> 5 5 5 3 null
+<GambitLord> 1 9B03FF
+$Swift<~Controls.281~>080 <~Controls.282~><~Game.1943~><~Controls.283~><~Game.2039~> 2C7532
+<game> Swift<~Controls.1~> 1 2 null
+<GambitLord> press/draw 82D502
+$Swift<~Scribe.141~>079 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.1931~><~Scribe.144~> DF10A0
+$GambitLord<~Controls.509~>162<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$GambitLord<~Scribe.141~>253 037 038 320 352 351 350 349 348 341 340 339 338 016 <~Scribe.142~><~Game.1955~><~Scribe.143~><~Game.1943~><~Scribe.144~> F8C9E1
+$GambitLord<~Controls.644~>102 194 <~Controls.645~><~Game.2035~> A1ED31
+$Swift<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> B0BA4B
+$Swift<~Scribe.141~>274 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1944~><~Scribe.144~> 6484AB
+$Swift<~Controls.644~>211 <~Controls.645~><~Game.2035~> F58BEA
+$GambitLord<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 7776BC
+<GambitLord> Attack MT E40F14
+<GambitLord> actually 41A7E3
+<GambitLord> hang on 3AA277
+$Swift<~Scribe.141~>245 246 085 274 273 084 082 081 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.1994~><~Scribe.144~> 19FE28
+<GambitLord> hmm 69B111
+<GambitLord> yeah E632B2
+$GambitLord<~Scribe.141~>253 037 038 320 352 351 350 349 348 341 340 339 338 016 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.1944~><~Scribe.144~> FB408E
+$GambitLord<~Controls.644~>104 <~Controls.645~><~Game.2035~> 3F1F31
+$Swift<~Scribe.141~>359 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> E42C13
+$Swift<~Scribe.141~>reveal 126 BF1E2ADACF949258E171F6FEE82728BA01235234 18 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2036~><~Scribe.144~> 931D54
+$Swift<~Controls.281~>234 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2044~> 6A1F46
+$Swift<~Controls.644~>359 126 <~Controls.645~><~Game.2035~> 83914F
+$GambitLord<~Scribe.141~>361 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 00E5A3
+$GambitLord<~Controls.281~>361 <~Controls.282~><~Game.2035~><~Controls.283~><~Game.2043~> EACF34
+$GambitLord<~Scribe.141~>361 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 0EE866
+$GambitLord<~Scribe.141~>034 033 032 031 030 020 019 018 017 <~Scribe.142~><~Game.1964~><~Scribe.143~><~Game.1943~><~Scribe.144~> A6D8A1
+$GambitLord<~Scribe.141~>323 324 325 326 006 003 002 <~Scribe.142~><~Game.1919~><~Scribe.143~><~Game.1918~><~Scribe.144~> 469F1B
+$GambitLord<~Controls.644~>361 <~Controls.645~><~Game.2035~> 9CE055
+$Swift<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 5B2293
+$Swift<~Controls.509~>133<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Swift<~Controls.644~>358 <~Controls.645~><~Game.2035~> BC7545
+$GambitLord<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 6F3B55
+<GambitLord> Attack Pelagir from WH D638E2
+<GambitLord> nc 1291D3
+<Swift> nc 8A77CE
+<game> GambitLord<~Controls.1~> 6 5 6 3 1 null
+<game> Swift<~Controls.1~> 3 1 null
+$Swift<~Controls.281~>079 078 <~Controls.282~><~Game.1931~><~Controls.283~><~Game.2039~> 73E07E
+$GambitLord<~Scribe.141~>057 055 049 048 047 046 045 044 <~Scribe.142~><~Game.1938~><~Scribe.143~><~Game.1931~><~Scribe.144~> 625DC6
+$GambitLord<~Scribe.141~>423 <~Scribe.142~><~Game.32~><~Scribe.143~><~Game.33~><~Scribe.144~> 238E09
+$GambitLord<~Scribe.141~>418 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1931~><~Scribe.144~> 67C965
+$GambitLord<~Controls.644~>103 <~Controls.645~><~Game.2035~> CBA3F4
+$Swift<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 8DEB24
+$Swift<~Controls.281~>213 <~Controls.282~><~Game.2035~><~Controls.283~><~Game.2042~> 00DB53
+$Swift<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 31EB4B
+$Swift<~Scribe.141~>reveal 109 3A1CF4DD0AA95420C2080618819BC2F6DA44C5B7 8 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2036~><~Scribe.144~> 481054
+$GambitLord<~Scribe.141~>254 <~Scribe.142~><~Game.1919~><~Scribe.143~><~Game.2036~><~Scribe.144~> 56E61B
+$GambitLord<~Controls.281~>102 <~Controls.282~><~Game.2041~><~Controls.283~><~Game.2040~> 0FA48E
+$Swift<~Scribe.141~>254 109 <~Scribe.142~><~Game.2036~><~Scribe.143~><~Game.2034~><~Scribe.144~> 313B72
+$Swift<~Scribe.141~>reveal 133 DF828E45D12C678774BB3F78469A70A554F84FB4 2 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2036~><~Scribe.144~> FF4232
+$Swift<~Scribe.141~>247 <~Scribe.142~><~Game.525~><~Scribe.143~><~Game.528~><~Scribe.144~> 1879EA
+$Swift<~Scribe.141~>252 <~Scribe.142~><~Game.2023~><~Scribe.143~><~Game.2022~><~Scribe.144~> F0E274
+$GambitLord<~Controls.624~>218<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Swift<~Controls.323~>247 EF5524
+$Swift<~Scribe.141~>252 <~Scribe.142~><~Game.2022~><~Scribe.143~><~Game.2023~><~Scribe.144~> 64823F
+$Swift<~Scribe.141~>254 109 <~Scribe.142~><~Game.2034~><~Scribe.143~><~Game.2037~><~Scribe.144~> 8C613C
+$Swift<~Controls.644~>210 133 254 109 218 <~Controls.645~><~Game.2035~> 23FE11
+$GambitLord<~Scribe.141~>218 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.525~><~Scribe.144~> F02908
+$GambitLord<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> AC1EE9
+<GambitLord> Attack HD 0A1121
+$Swift<~Scribe.141~>074 073 072 070 069 071 <~Scribe.142~><~Game.1923~><~Scribe.143~><~Game.1993~><~Scribe.144~> 7472A2
+$GambitLord<~Scribe.141~>323 324 325 326 006 003 002 <~Scribe.142~><~Game.1918~><~Scribe.143~><~Game.1923~><~Scribe.144~> 2EB225
+$GambitLord<~Scribe.141~>259 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> 60F814
+$GambitLord<~Controls.644~>360 <~Controls.645~><~Game.2035~> 2BDD39
+$Swift<~Controls.819~> B659D2
+$Swift<~Controls.644~>360 <~Controls.645~><~Game.2035~> 7C0905
+<Swift> all good sorry 2C2BD3
+<Swift> misclick :) C4CA0E
+<Swift> pass 2220D6
+$GambitLord<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 95F08C
+$GambitLord<~Controls.323~>255 3E4EA2
+$GambitLord<~Scribe.141~>015 <~Scribe.142~><~Game.1925~><~Scribe.143~><~Game.1933~><~Scribe.144~> C8B342
+$GambitLord<~Scribe.141~>013 <~Scribe.142~><~Game.1925~><~Scribe.143~><~Game.1929~><~Scribe.144~> E68E8A
+$GambitLord<~Scribe.141~>415 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1933~><~Scribe.144~> 339556
+$GambitLord<~Scribe.141~>412 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1929~><~Scribe.144~> CDA9AB
+$GambitLord<~Scribe.141~>423 <~Scribe.142~><~Game.33~><~Scribe.143~><~Game.388~><~Scribe.144~> B7303B
+$GambitLord<~Controls.644~>100 <~Controls.645~><~Game.2035~> EF207C
+<Swift> hmm 319BB3
+$Swift<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 718D66
+$Swift<~Controls.323~>247 AA9DE8
+$Swift<~Controls.644~>213 <~Controls.645~><~Game.2035~> B84F3A
+$GambitLord<~Scribe.141~>362 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> DBEC1C
+$GambitLord<~Scribe.141~>251 <~Scribe.142~><~Game.2011~><~Scribe.143~><~Game.2037~><~Scribe.144~> C05269
+$GambitLord<~Scribe.141~>253 320 038 037 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.1923~><~Scribe.144~> F529E0
+$GambitLord<~Scribe.141~>040 <~Scribe.142~><~Game.1925~><~Scribe.143~><~Game.1944~><~Scribe.144~> 286C7F
+$GambitLord<~Scribe.141~>039 <~Scribe.142~><~Game.1948~><~Scribe.143~><~Game.1944~><~Scribe.144~> 49540F
+$GambitLord<~Scribe.141~>318 <~Scribe.142~><~Game.1976~><~Scribe.143~><~Game.1970~><~Scribe.144~> C08437
+$GambitLord<~Scribe.141~>255 <~Scribe.142~><~Game.1969~><~Scribe.143~><~Game.1955~><~Scribe.144~> 3C8612
+$GambitLord<~Scribe.141~>255 <~Scribe.142~><~Game.1955~><~Scribe.143~><~Game.1943~><~Scribe.144~> 0157C0
+$GambitLord<~Scribe.141~>255 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.1944~><~Scribe.144~> 72F8FB
+$GambitLord<~Controls.644~>362 251 <~Controls.645~><~Game.2035~> A48A83
+$GambitLord<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> B92185
+$GambitLord<~Scribe.141~>reveal 165 BF284F3F091029E2878808226D64E7A3CD870747 16 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 993188
+$GambitLord<~Scribe.141~>165 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2034~><~Scribe.144~> 767673
+<Swift> nice 3B9AD7
+$GambitLord<~Scribe.141~>reveal 174 69E0D7E199EBBBBB112D91A12B64CFE54E626A03 20 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> F46536
+$GambitLord<~Scribe.141~>174 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2036~><~Scribe.144~> 9F290F
+<game> GambitLord<~Controls.1~> 4 4 3 3 2 null
+<game> GambitLord<~Controls.1~> 5 2 5 1 4 null
+<GambitLord> 0 08A139
+$GambitLord<~Scribe.141~>165 <~Scribe.142~><~Game.2034~><~Scribe.143~><~Game.2033~><~Scribe.144~> 770CA9
+<game> Swift<~Controls.1~> 3 4 6 4 3 null
+<game> Swift<~Controls.1~> 4 null
+<Swift> 1 4B7B71
+$GambitLord<~Scribe.141~>002 <~Scribe.142~><~Game.1923~><~Scribe.143~><~Game.2036~><~Scribe.144~> 7023A1
+<Swift> terrible luck B21551
+$GambitLord<~Controls.509~>203<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$GambitLord<~Controls.662~>174 002 <~Controls.663~><~Game.2035~> 2870B7
+$GambitLord<~Controls.840~>180 F7DBD1
+<Swift> hmm 4F5ADA
+$Swift<~Controls.840~>153 5EED8B
+<auto> playchosen BF6C7D
+<auto><~Controls.3~>reveal 153 F3585C67E633C5412816AB0DF2313F24FD14EB5D 6<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 5E24D8
+<auto><~Controls.866~>reveal 180 B95ACF973A5E1B3DE093C2106BCD8ED76B371C82 20<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 3EE239
+<auto> playchosen B2EDF6
+<game> GambitLord<~Controls.1~> 6 3 5 null
+<game> GambitLord<~Controls.1~> 2 1 null
+<GambitLord> 1 8D5600
+<game> Swift<~Controls.1~> 6 4 6 4 2 null
+<game> Swift<~Controls.1~> 6 null
+<Swift> 3 515E24
+$GambitLord<~Scribe.141~>323 003 <~Scribe.142~><~Game.1923~><~Scribe.143~><~Game.2036~><~Scribe.144~> BBD77F
+<GambitLord> take 1 9C0B8A
+$Swift<~Controls.304~>073 <~Controls.305~><~Game.1993~> 3F52BE
+$Swift<~Controls.313~>295 <~Controls.307~><~Controls.314~><~Game.1993~> 9DA548
+<GambitLord> post 67C7E7
+<game> GambitLord<~Controls.1~> 4 1 5 4 null
+<GambitLord> 1 7E5B5C
+$Swift<~Controls.281~>071 <~Controls.282~><~Game.1993~><~Controls.283~><~Game.2039~> D01EAB
+$GambitLord<~Scribe.141~>165 <~Scribe.142~><~Game.2033~><~Scribe.143~><~Game.2032~><~Scribe.144~> E50AA5
+$GambitLord<~Controls.662~>180 323 003 153 <~Controls.663~><~Game.2035~> EAB5C3
+$GambitLord<~Controls.840~>170 A38AEC
+$Swift<~Controls.840~>142 5223B9
+<auto> playchosen 0982FF
+<auto><~Controls.3~>reveal 142 4D5207784F3DCF0A6B16ED8A653B8EE4CFC3319E 4<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 377723
+<auto><~Controls.866~>reveal 170 61F570AF5A24D3AF4C135E1086B60C01D3460D71 10<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 0C6CEC
+<auto> playchosen 518F4E
+<game> GambitLord<~Controls.1~> 4 3 2 5 null
+<game> GambitLord<~Controls.1~> 1 1 null
+<GambitLord> 2 EB0AB2
+<game> Swift<~Controls.1~> 6 4 5 5 null
+<Swift> 6 B5AC73
+$GambitLord<~Scribe.141~>326 006 <~Scribe.142~><~Game.1923~><~Scribe.143~><~Game.2036~><~Scribe.144~> 229113
+$Swift<~Controls.281~>295 072 <~Controls.282~><~Game.1993~><~Controls.283~><~Game.2039~> 2E96C1
+$GambitLord<~Controls.304~>324 <~Controls.305~><~Game.1923~> 39F3D3
+$GambitLord<~Controls.313~>003 <~Controls.307~><~Controls.314~><~Game.1923~> 49B3C9
+$GambitLord<~Controls.304~>325 <~Controls.305~><~Game.1923~> D6B847
+$GambitLord<~Controls.313~>002 <~Controls.307~><~Controls.314~><~Game.1923~> 57E736
+$GambitLord<~Scribe.141~>165 <~Scribe.142~><~Game.2032~><~Scribe.143~><~Game.2037~><~Scribe.144~> 2C8462
+$GambitLord<~Controls.644~>105 170 326 006 165 142 <~Controls.645~><~Game.2035~> 80AF89
+$GambitLord<~Controls.757~>101 099 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 590845
+$GambitLord<~Controls.762~>105 362 100 360 103 361 104 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 0C43F5
+<Swift> kinda amazed that survived 237DE6
+<GambitLord> same 626337
+$Swift<~Controls.731~>213 210 358 359 211 212 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 042B7B
+<~Game.7~>9 null
+$GambitLord<~Controls.509~>202<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Swift<~Controls.509~>117<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Swift<~Controls.509~>150<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$GambitLord<~Controls.509~>186<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<Swift> fp rdy 2D22AC
+$GambitLord<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> C861CA
+$GambitLord<~Controls.345~>105 362 100 360 103 361 104 101 <~Controls.346~>15 12 14 11 14 11 10 12 null
+$GambitLord<~Controls.350~>105 362 100 360 103 361 104 101 null
+$Swift<~Controls.345~>213 210 358 359 211 212 <~Controls.346~>0 4 1 3 4 0 null
+$Swift<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 777B65
+$Swift<~Controls.790~>247<~Controls.791~><~Game.528~><~Controls.792~><~Game.529~> C5562F
+$Swift<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> D1F0AA
+$GambitLord<~Controls.624~>228<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Swift> ouch 176106
+$Swift<~Controls.323~>247 1DD500
+$Swift<~Scribe.141~>252 <~Scribe.142~><~Game.2023~><~Scribe.143~><~Game.2025~><~Scribe.144~> EB4518
+<Swift> gg?# FE701D
+<GambitLord> maybe 89ED3D
+$GambitLord<~Scribe.141~>228 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.528~><~Scribe.144~> A71DC1
+$GambitLord<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 935EFA
+$GambitLord<~Scribe.141~>reveal 203 6B62B8A820DF42D2B56ED0773745AE04CA4C3E45 15 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 91EED9
+$GambitLord<~Scribe.141~>203 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2034~><~Scribe.144~> 9E8820
+$GambitLord<~Controls.624~>222<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$GambitLord<~Scribe.141~>203 <~Scribe.142~><~Game.2034~><~Scribe.143~><~Game.2036~><~Scribe.144~> A26E2C
+$GambitLord<~Controls.644~>103 203 222 <~Controls.645~><~Game.2035~> DEAD80
+<Swift> lol worth a try 81C8B0
+<GambitLord> maybe not ABAC48
+$Swift<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 7374CB
+$Swift<~Controls.281~>358 <~Controls.282~><~Game.2035~><~Controls.283~><~Game.2042~> 9B1F00
+$Swift<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> A467D4
+$Swift<~Controls.509~>136<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Swift<~Controls.644~>213 <~Controls.645~><~Game.2035~> 2C0DC0
+$GambitLord<~Scribe.141~>362 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> AF5CA8
+<GambitLord> Attack MT 8F0AE8
+$GambitLord<~Controls.840~>186 768794
+<Swift> hmm 071608
+$Swift<~Controls.840~>136 F3CAF1
+<auto> playchosen 4617D8
+<auto><~Controls.3~>reveal 136 45E864963909FB0FA2B57224B73DFA4EC87DD647 12<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> AF3A9B
+<auto><~Controls.866~>reveal 186 BF5943E5066E49A1F2EB4B1159727385EE2BC1BC 12<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> E08263
+<auto> playchosen 699F39
+<game> GambitLord<~Controls.1~> 6 6 3 4 4 null
+<game> GambitLord<~Controls.1~> 6 1 3 null
+<GambitLord> 3 2E41C3
+<game> Swift<~Controls.1~> 4 2 4 3 3 null
+<game> Swift<~Controls.1~> 5 null
+<Swift> 1 B21954
+$GambitLord<~Scribe.141~>340 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.2036~><~Scribe.144~> E0DA60
+$Swift<~Controls.304~>084 273 274 <~Controls.305~><~Game.1994~> 5ED763
+$Swift<~Controls.313~>080 078 079 <~Controls.308~><~Controls.314~><~Game.1994~> 2D3463
+<GambitLord> kinda wanted you to get hits there 1A6F4C
+<GambitLord> lol 2E42A6
+<Swift> XD 8A97F2
+$GambitLord<~Controls.644~>362 186 340 136 <~Controls.645~><~Game.2035~> 12C710
+<Swift> pass 26123E
+$GambitLord<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 9DB09E
+<GambitLord> Attack MT 3A4E08
+$GambitLord<~Controls.840~>183 47BCE9
+$Swift<~Controls.840~>150 05A441
+<auto> playchosen 19B657
+<auto><~Controls.3~>reveal 150 55224CCB5878FCD4EF3DE6FD0EF916268186D5C2 16<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 32A080
+<auto><~Controls.866~>reveal 183 73E8B9DC0A98CF4D94BE33C098CEA735EDD22C7E 13<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 0B6BE1
+<auto> playchosen 3212C7
+<game> GambitLord<~Controls.1~> 4 2 4 5 1 null
+<game> GambitLord<~Controls.1~> 3 4 4 6 null
+<GambitLord> 2-1 05514B
+<game> Swift<~Controls.1~> 4 6 2 5 6 null
+<game> Swift<~Controls.1~> 6 null
+<Swift> 5 14458D
+<Swift> there you go ;) DF552A
+$GambitLord<~Scribe.141~>351 350 349 352 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.2036~><~Scribe.144~> 29B09A
+$Swift<~Controls.281~>079 <~Controls.282~><~Game.1994~><~Controls.283~><~Game.2039~> FCA5EB
+$GambitLord<~Scribe.141~>348 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.2036~><~Scribe.144~> CBBAFE
+$GambitLord<~Controls.644~>360 183 348 351 350 349 352 150 <~Controls.645~><~Game.2035~> 57E2B9
+$Swift<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> AA191C
+$Swift<~Controls.323~>247 47CB6C
+$Swift<~Controls.644~>358 <~Controls.645~><~Game.2035~> 3634D6
+$GambitLord<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 376200
+$GambitLord<~Scribe.141~>035 014 012 011 008 <~Scribe.142~><~Game.1925~><~Scribe.143~><~Game.1923~><~Scribe.144~> 90C60B
+$GambitLord<~Scribe.141~>031 032 033 034 018 017 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.1944~><~Scribe.144~> F979E1
+$GambitLord<~Controls.644~>101 <~Controls.645~><~Game.2035~> 1CB98E
+$Swift<~Scribe.141~>359 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 6EDF71
+$Swift<~Scribe.141~>271 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1920~><~Scribe.144~> 2DE60C
+$Swift<~Controls.819~> 25E6FB
+$Swift<~Scribe.141~>299 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1941~><~Scribe.144~> 253D71
+$Swift<~Controls.644~>359 <~Controls.645~><~Game.2035~> A8E5F5
+$GambitLord<~Scribe.141~>361 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 714BB8
+<GambitLord> Attack HD AF99FB
+$GambitLord<~Controls.840~>202 758FC2
+<Swift> nc 008B58
+<auto><~Controls.866~>reveal 202 8102D3348F325B38389A144526AD33810F23D357 4<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> C379E6
+<game> GambitLord<~Controls.1~> 3 2 1 3 6 null
+<game> GambitLord<~Controls.1~> 1 6 2 null
+<GambitLord> 2 9209D8
+<game> Swift<~Controls.1~> 3 5 null
+<game> Swift<~Controls.1~> 4 null
+<Swift> 1 92E231
+$GambitLord<~Scribe.141~>002 <~Scribe.142~><~Game.1923~><~Scribe.143~><~Game.2036~><~Scribe.144~> D885DD
+$GambitLord<~Controls.509~>158<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$GambitLord<~Scribe.141~>423 <~Scribe.142~><~Game.388~><~Scribe.143~><~Game.389~><~Scribe.144~> B8BAE3
+$GambitLord<~Scribe.141~>423 <~Scribe.142~><~Game.389~><~Scribe.143~><~Game.391~><~Scribe.144~> 2B0F42
+$Swift<~Controls.281~>074 070 069 <~Controls.282~><~Game.1993~><~Controls.283~><~Game.2039~> 42C8B3
+$GambitLord<~Scribe.141~>411 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1923~><~Scribe.144~> DE4217
+$GambitLord<~Controls.644~>361 202 002 <~Controls.645~><~Game.2035~> 629C2D
+$Swift<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 967145
+$Swift<~Scribe.141~>296 299 301 300 <~Scribe.142~><~Game.1941~><~Scribe.143~><~Game.1957~><~Scribe.144~> 1E296A
+$Swift<~Scribe.141~>313 058 <~Scribe.142~><~Game.1939~><~Scribe.143~><~Game.1890~><~Scribe.144~> 0B528C
+$Swift<~Controls.644~>211 <~Controls.645~><~Game.2035~> 95935F
+$GambitLord<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 37F077
+$GambitLord<~Controls.509~>197<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$GambitLord<~Controls.644~>100 <~Controls.645~><~Game.2035~> 64E5C9
+<Swift> gonna have to gamble here i think E012D6
+$Swift<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 0AA8F2
+<GambitLord> If I take MT, it doesn't matter 9E5D6C
+$Swift<~Scribe.141~>249 <~Scribe.142~><~Game.2008~><~Scribe.143~><~Game.2011~><~Scribe.144~> 7B7B63
+$Swift<~Controls.509~>157<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Swift<~Controls.644~>210 <~Controls.645~><~Game.2035~> 924FD5
+<GambitLord> oh! 4A7565
+<GambitLord> quite a gamble indeed DC7ECB
+<GambitLord> probably your best move A677CB
+<Swift> yup lol 80FB2A
+<GambitLord> but I woulda taken a strategy card F48169
+<GambitLord> for surivability 1B30C5
+$GambitLord<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 30FC5A
+<Swift> have to assume that mt holds 768B7D
+$GambitLord<~Controls.323~>255 3113A9
+<GambitLord> Attack MT 09B699
+$GambitLord<~Controls.840~>197 2B04C3
+$Swift<~Controls.840~>157 EAC12F
+<auto> playchosen 995069
+<auto><~Controls.3~>reveal 157 4F260AFEFFBE0D6382E424E12FC3333CA410B77A 16<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 4A0330
+<auto><~Controls.866~>reveal 197 08704E2F21CD0FA770A7E5A4FDBB05DD7B22551A 5<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 958BB3
+<auto> playchosen AE355B
+<game> GambitLord<~Controls.1~> 1 4 3 6 5 null
+<game> GambitLord<~Controls.1~> 2 3 2 3 null
+<GambitLord> fair assumption with that card 0D41BB
+<game> Swift<~Controls.1~> 1 6 2 1 null
+<game> Swift<~Controls.1~> 4 null
+$GambitLord<~Scribe.141~>341 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.2036~><~Scribe.144~> DE15B6
+$Swift<~Controls.281~>081 <~Controls.282~><~Game.1994~><~Controls.283~><~Game.2039~> DDF625
+$GambitLord<~Controls.644~>104 197 341 157 <~Controls.645~><~Game.2035~> 346040
+<Swift> thats why you draw a C i guess ;) 57D81B
+$GambitLord<~Controls.509~>191<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$GambitLord<~Controls.509~>178<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Swift<~Controls.726~>212 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 0F817A
+$Swift<~Controls.731~>210 211 359 358 213 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 567819
+$Swift<~Controls.509~>132<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Swift<~Controls.509~>156<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$GambitLord<~Controls.757~>105 099 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 2853F2
+<~Game.7~>10 null
+$GambitLord<~Controls.762~>104 100 361 101 360 362 103 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> F920DB
+$GambitLord<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> F03FC1
+<Swift> fp rdy 8E267D
+<GambitLord> you essentially have to draw 2 good cards back to back 7B29F6
+<GambitLord> seems unlikely 8BF5FD
+<Swift> yeah FD5D2B
+$GambitLord<~Controls.345~>104 100 361 101 360 362 103 105 <~Controls.346~>13 14 12 13 11 13 12 15 null
+$GambitLord<~Controls.350~>104 100 361 101 360 362 103 105 null
+$Swift<~Controls.345~>210 211 359 358 213 212 <~Controls.346~>2 4 1 3 4 1 null
+<Swift> odds defo not good 8BE842
+<GambitLord> well, you have the moves D1E675
+<GambitLord> lol 181622
+$Swift<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 396865
+$Swift<~Scribe.141~>reveal 156 8859C51E0EA6119A9B4337D79908638C2CA3B458 14 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2036~><~Scribe.144~> 9E73FE
+<GambitLord> dam dam dam B11AD1
+$Swift<~Scribe.141~>270 275 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1994~><~Scribe.144~> D1F42C
+$Swift<~Controls.644~>358 156 <~Controls.645~><~Game.2035~> 05A4DF
+<Swift> :) 7B0245
+$GambitLord<~Scribe.141~>362 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> B5B391
+$GambitLord<~Controls.281~>362 <~Controls.282~><~Game.2035~><~Controls.283~><~Game.2043~> D92C03
+$GambitLord<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> CB900E
+$GambitLord<~Scribe.141~>reveal 191 B932B8C31BE95D49614CF27650AFF1FC271B0FA9 11 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 0CA369
+$GambitLord<~Controls.281~>238 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2044~> 6F7452
+$GambitLord<~Controls.644~>100 191 <~Controls.645~><~Game.2035~> 6274CF
+<Swift> not good... D98E4C
+$Swift<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 418C60
+$Swift<~Controls.509~>125<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Swift<~Controls.644~>210 <~Controls.645~><~Game.2035~> 604B2A
+$GambitLord<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> FFD29E
+$GambitLord<~Scribe.141~>253 <~Scribe.142~><~Game.1923~><~Scribe.143~><~Game.1944~><~Scribe.144~> 544C3D
+$GambitLord<~Scribe.141~>039 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.1931~><~Scribe.144~> 8C3E93
+$GambitLord<~Scribe.141~>037 038 320 <~Scribe.142~><~Game.1923~><~Scribe.143~><~Game.1970~><~Scribe.144~> C4FDA9
+$GambitLord<~Scribe.141~>038 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.1931~><~Scribe.144~> 7FEB91
+$GambitLord<~Scribe.141~>320 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.1931~><~Scribe.144~> 5BC49C
+$GambitLord<~Scribe.141~>039 <~Scribe.142~><~Game.1931~><~Scribe.143~><~Game.1944~><~Scribe.144~> A79DD4
+$GambitLord<~Controls.644~>101 <~Controls.645~><~Game.2035~> 75E93F
+<Swift> pass 7D8C64
+$GambitLord<~Scribe.141~>361 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 1D1E6E
+<GambitLord> Attack MT 950AC9
+$GambitLord<~Controls.840~>158 934D7A
+$Swift<~Controls.840~>125 7AA46B
+<auto> playchosen 569F00
+<auto><~Controls.3~>reveal 125 3C419FCB398F616414DB17FF68E6C1CFD634336C 3<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 11D5F4
+<auto><~Controls.866~>reveal 158 8701392D339E8924941E7D4879BBAD4474074B2B 21<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 8E4D38
+<auto> playchosen 72E1D6
+<game> GambitLord<~Controls.1~> 1 5 6 null
+<game> GambitLord<~Controls.1~> 1 null
+<GambitLord> 2 6FB9E3
+<game> Swift<~Controls.1~> 6 2 5 4 null
+<game> Swift<~Controls.1~> 3 1 null
+<Swift> 2 38949E
+$GambitLord<~Scribe.141~>338 016 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.2036~><~Scribe.144~> C31214
+$Swift<~Controls.281~>275 <~Controls.282~><~Game.1994~><~Controls.283~><~Game.2039~> 8B8195
+$GambitLord<~Controls.509~>177<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$GambitLord<~Controls.644~>361 158 338 016 125 <~Controls.645~><~Game.2035~> 5E88DC
+<Swift> gonna have to move no matter what... 82E44F
+$Swift<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 770BAD
+$Swift<~Controls.790~>247<~Controls.791~><~Game.529~><~Controls.792~><~Game.532~> F53E79
+$Swift<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 45A0D4
+$GambitLord<~Controls.624~>219<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<GambitLord> gg F58ABC
+<Swift> gg C4875D
+$GambitLord<~Scribe.141~>reveal 177 935A4BE4F4A0714710C3C1E44F09B09ECD40B344 3 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.1972~><~Scribe.144~> A3FF1A
+<Swift> sad to get no blues A3C33C
+<GambitLord> yeah 3A6613
+<GambitLord> that seemed unlikely 2B0D4F
+<GambitLord> you had some unlikely spouts 172121
+<Swift> no mithrol, no bilbos no challenge of the king :( 796F43
+<GambitLord> the dice stats don't reflect that 819B3D
+$Swift<~Controls.509~>115<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Swift<~Controls.509~>135<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Swift<~Controls.509~>108<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$GambitLord<~Scribe.141~>reveal 178 BE0B7BF33BABC901615AC1924710A8FA1B1117A9 1 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.1976~><~Scribe.144~> 636C0E
+$Swift<~Controls.509~>112<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Swift<~Controls.509~>127<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Swift<~Controls.509~>149<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+<GambitLord> I was 100% gonna take MT 55C064
+$Swift<~Controls.509~>139<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Swift<~Controls.509~>148<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Swift<~Controls.509~>144<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+<GambitLord> I can move my pelagir army in and then attack again F266F6
+<Swift> yeah 96CDAE
+<Swift> man AF80F4
+<Swift> athelas bilbos and mithrol 9A67CB
+<Swift> were my last 3 cards aha 483166
+<Swift> gg tho F0CA31
+<Swift> u played well 93A219
+<GambitLord> Yeah, I thought you were winning for a while 03EEA3
+<Swift> i mb shouldnt have rushed mordor 1B0B15
+<GambitLord> then the fsp just kinda stymid B9DDAE
+<GambitLord> I'm not sure what you did wrong 8BD169
+<GambitLord> just unlucky? 752340
+<GambitLord> DEW line was well defneded 4A53B0
+<Swift> a bit yeah, but i knew i was gonna take a beating B318ED
+<GambitLord> Gondor was setup for success 384DCB
+<GambitLord> Lorien was buffetted 2F07A2
+<Swift> i was worried that u took erebor a little faster than expected B2D1B5
+<GambitLord> Maybe you coulda threatened a little FPMV 73920B
+<GambitLord> Yeah, that was wildly unexpected C5C76F
+<GambitLord> I got lucky there 4476B7
+<Swift> maybe yeah but i didnt really have any big armies anywhere for fpmv D31209
+<GambitLord> Lorien DAE211
+<GambitLord> + OFR 2F08C7
+<Swift> and u never had any shocking rolls D7DEAB
+<GambitLord> Moria na dMG or DG 0E7BCC
+<Swift> i think i could have mustered up in carrock a bit faster EE5C07
+<Swift> that was probs a mistake 55FC55
+<GambitLord> You protected the shire well too 4B6A8A
+<GambitLord> Just roll luck 2267EA
+<Swift> if that army was a bit bigger could have been a serious threat to retaking DEW D967BF
+<GambitLord> yeah, that was my fear 54A9E0
+<GambitLord> I had hill trolls for that scenario for a while B2742F
+<GambitLord> and I used my olg-hai muster up there too 14A0EB
+<Swift> i mb should have left aragorn in MT also EC1BDD
+<GambitLord> yeah, I was happy to see him leave 2CE06D
+<Swift> tbh i was banking on cards that never =really came 1DE9E3
+<GambitLord> but also sad that i couldn't kill him 257AD7
+<Swift> like dead men etc 24E80F
+<GambitLord> MT looked impenetrable 3886CE
+<GambitLord> even with my 30 man army at the gates 8C0DC7
+<Swift> haha yeah 8E5B61
+<GambitLord> You coulda mustered once more in erebor 0EB25F
+<Swift> mb i should have abandoned HD and moved gandi in 0A0BF2
+<GambitLord> for another elite or at least a leader F1D7C9
+<Swift> yeah i wanted to 271F7C
+<GambitLord> I think you had a window 8314FE
+<Swift> for the leader at least 28CB73
+<GambitLord> you chose something else 8374B9
+<Swift> but gondor wasnt at war CE1139
+<Swift> and i wanted to muster something there 941B95
+<Swift> kinda forgot about carrock 772AFB
+<GambitLord> I spent a bit too much time on the border of gondor F47F5E
+<GambitLord> you didn't want to muster 81BBE2
+<GambitLord> and I didn't want to attack 39FEDC
+<GambitLord> so you got a long delay 1CEC06
+<Swift> yeah but it kinda frustrated me also haha 672251

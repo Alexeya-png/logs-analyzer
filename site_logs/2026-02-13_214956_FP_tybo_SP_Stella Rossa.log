@@ -1,0 +1,935 @@
+<auto> silent null
+<auto><~Scribe.141~>363 397 398 402 401 400 399 403 404 376 375 374 373 377 378 <~Scribe.142~><~Game.2038~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>365 366 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 367 368 369 370 371 372 <~Scribe.142~><~Game.2040~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>230 231 <~Scribe.142~><~Game.2044~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>155 152 <~Scribe.142~><~Game.2004~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>137 151 <~Scribe.142~><~Game.2005~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>161 198 <~Scribe.142~><~Game.2006~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>163 188 <~Scribe.142~><~Game.2007~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Controls.323~>364 null
+<auto> noisy null
+<auto> silent null
+<auto><~Scribe.141~>312 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1965~><~Scribe.144~> null
+<auto> noisy null
+<~Game.7~>1 null
+<auto> silent null
+<auto><~Scribe.141~>363 397 398 402 401 400 399 403 404 376 375 374 373 377 378 <~Scribe.142~><~Game.2038~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>365 366 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 367 368 369 370 371 372 <~Scribe.142~><~Game.2040~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>230 231 <~Scribe.142~><~Game.2044~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>155 152 <~Scribe.142~><~Game.2004~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>137 151 <~Scribe.142~><~Game.2005~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>161 198 <~Scribe.142~><~Game.2006~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>163 188 <~Scribe.142~><~Game.2007~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Controls.323~>364 null
+<auto> noisy null
+$base silent null
+$TEST<~Scribe.141~>312 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1965~><~Scribe.144~> null
+$base noisy null
+<game> Stella_Rossa<~Controls.408~>[WOTR-Gandalf2 wotr base2] null
+<~Talker.31~> null
+<Stella_Rossa> hello 
+<tybo> hey :) 
+<Stella_Rossa> roll and bid? 
+<tybo> sure 
+<game> tybo<~Controls.1~> 6 null
+<game> Stella_Rossa<~Controls.1~> 3 null
+<tybo> 1 token 
+<Stella_Rossa> 1+1 
+<tybo> I'll take it :) 
+<Stella_Rossa> gl hf 
+$tybo adds 1 Dwarven Ring(s) 
+$Stella_Rossa<~Controls.479~>AD0417661991CCC6877D01339B06241C15DDF461 CE98F199738F35E7644BFF956E498A81 24 4EA523E6653CCD99A3F4E80DCCC5E8F56BC639B4 D06F0D921AB32CCA73BF3B6F317C69F1 0130425919EEA4DE4DA3A98C0CE9DD344A2CC615 20F2478B3324647C3520CFB05EABBC9B 48C9E95611CA48DE696A5E3F88D50C0EE112B7C1 B4D58F2C74BADAE41A1C3FCEE7D99A4B 73F700E2AB2381BBBF1009BBB8F2300EF24317A2 C39CA73C2098AD7F14D48225FE3729D3 58492DEFC200C4EE72C12B21444E24CFFDE6656F CFADAACDBEFB061536DD09DDEB2D409B 7A567E6A7AF262E30CD443454CDE0FE8314E7D7D E6677D810BF9BB359738FFBF1EC0D5D4 DBB15B1CC2269B9C56D5D4FE7E72471E206D2312 24B773C4314D583F7C65E94F87A0A1BB FE7E392C62BC177D2E1DE21BA80B4E337D987760 7BED2D6637C296A9B5F136312581E0EB 080D4CD76637EB3C58AEC02E75914006FC7CDF43 B6E36312BBD537DC472C59D7DD7B618D DE2632835A50EED558DEB4DFAF8FEE4F08B52324 BAA65240DF960F5D4BDE04CB8CA3618D 64A87BBA0F858D23E2A60270D98C43477253A1FA 0F35013081EF3E96152E4B1C5F12672C 631F16978C52C35B6B8DF789B17DD8B8F8962CFB 9E10D52CAECC1B039710BBF861098E36 4E3A133F50A3F9184392F12B7562D8313D468CFE BCA8374557DA8E3207EDDD0555F5CF98 7D403CCDD3C8C33374CB4726AE944A519136AB3A 66E099F345C6E4A6C0566800C56CF505 C5A8997BE3ADFE46904281AE67A1A41BB1A84036 CE3433564A3E7C486501A2525A7B61AF 1B830E9798FD5762AACD6130BCF1E7FF2C732172 1648AECCB81D99714C5316576ECEF5F9 1C3DA3D3FC6F857798A1931DF55BB81834184CDC 5AD4CC6D177E38D1183AD1F1DF9634A3 1513A7C77B87E0F413B18D11FD7C1C2144B53FE0 F44A294F119F48B8A72582182634BE27 40C94A6E4F25E0FC8437E5196AD16813B9E88BC9 FAA3DC1EB1D962432F4D19F3A7FC95E7 D13E6ADF4A4CB22B1698DAFAD4F82841B8463ACE 0B2233E6CC12551AA3A211014AB77A8F EFE0393286C056BBB835B2139FA4615F939CA4D3 4B0E03CEBF60ABC15A18DC55499A549E B09C62A2650834623CF19B07B488A6B5E595A946 ABB0E4845AD84140F21C079F4BE3836B A3CB9A106C15AC3CD0F77FA7EB9201398816D6B9 6D08BB151BB5F1DE7271077BB25CF82B F25F87CD91B5E1ED26A90FC9282BEB30DBD2FCAA E708F1F59E50EC39AEBD354E3164ABF9 24 A7F6C9018C8BB9632EC6AC5C49688D121010164D 865EC73E549D899DEF86E67EA0469B88 EBC5E174C47232BAA973638A3A499535631F9E1F 15004B1073187792D26CB8F7130500C7 ADE0D6C59BDE447F209BD1ECFCB4E075032F3F9E 3F104D372D678F9A70D08E4A28D75E41 EE006EBD0551A026163777239D0CAD0564EC7C07 52D3384E231372EFBF496D7DA0FEA277 DA9B1B6229EF47D3B5DDB39A487BC18BC86D2085 45BD2CAB1C1A76C9378FCABE30C0B7E3 21A3F8A7D3FFBE01C94B0B878C9A6679DD4E8E49 FCDB87C0F1440978B8B3372F999588DD 4FBB93D67F81989F45E7D050AFEB2DE858CE7FBF C9216DE0CB7939BFAADEA2F4F6EC09B9 6FDF682FED00A9D0A44C005B2603A6453E21464A 3654D21B917D445066E24AA654093EF2 4F311F2E98AE40A3F4AE3D4D4B9AD2D9027B3CA7 01A3C8C29BD8DD4FD454EB3187D84E4E B123E0001C7833C6422682002BC7CE235328C109 672B09AAABD2A12B540EFFE83BD20EF1 65047A6DAFA3A89122BC99C4F6D0F8E7035FCD9D A5EBAF191CBA272CE13271DA4934C040 0D891BB9CA1CDBD4661E13E703FF05F94EF9D456 BBEAB33E5BEA94597329F3C74B302360 E017750C14DDF415BC23070B5070416D1A62138A 7298533C9645B540A525B05872DEC02D AC8B22ADCF9C5A7A9D8A4DD078FE40763616D92C A0A998E8B415B5B598277DFB96097250 8F239CE6EC0317F0DFDA0945A35A12C54CAB4E62 AAF486B78488E3D216962EB38E287E71 099851CF37E8E6DAD850804469A5CE13A387EF17 4B12BEFF383BA494FAD6AAA6C118A07D 01D8BAF761A1A73039117614F42DA8EB4FA3D813 92C68D41148929BBCE89E345FD6D0395 85AE49577CDE74702B22A79F31A443587F2560D0 3176F95A6191F81DB448558B866B2640 2156D7255FBDE3477C97DA0479FAEE3971617674 F32B2708A828D3A78A1348E172FAB9E9 14C7F2F9D569CB4A0E9F70392D208832CB3CCCB4 8EF27AEC1C29B38249C9086933315A75 911ACB96865E720A77D222938DC3A89C3A4DDBA7 9B8667DD57D64506AD53F66275408FD5 EB5F5E45F51618AC78A6E6EA7446D24EDD5C7702 E1A409C149480D271A69C3B62AD92F9A D142C1352A6377D6512D6C5DBF0AFFB901DB85C7 D97833086C11390CBE08F8B5E25F3BC0 F0145149916C78CBDCA5021DAE2B2B51AFD00891 6EEFE1613C94A625F214CC255F81D356 0 0 30A8A2
+$Stella_Rossa<~Controls.509~>204<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Stella_Rossa<~Controls.509~>178<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$tybo<~Controls.464~>ECA4EFDDBFA95D252A989C2F2F65B4EE518191A9 6B635634335BFE72DAF67A15066103B1 24 1A0046AA4CD181A4B6D8FCF32137D73787DEECA5 BEB7C11C1F6FAD203167DF8A3324DB1A BB1239FE8922A561655741F53D65D588E4A5CA0E 7B2560FB2DCD2D36EF75672375DB7925 F3191086E02315ED092932755C4414AD9F6B44A1 4068746DB30532E477DAAF862A8B2B1F 2A297967EE5F6D796ED1ABFE7785E730145E78DA F01E35D3DF242BF20904563E21956B36 410094C8596A3C642770E3E62C8EA895E5E9BDAA 6ED72AAD32CD95CE209580E7271A0DA8 6AEDC632CA66E1DADD06602D0CEA039784229EBB A7927CD72F05DAB81AB1E9D3E1608F5D 527F067ABBC28F490124EBD54E04850354CE9C2F D604B26B4FAC6D9D1E008E22DC5551FB 700F7AF4E9805B4D6433E67906A586E2ABA21D71 0316237C37CB7403398DEDFCE278F43D 292F19541B09D98E20D4058EAB6350ED8C59CD82 CC66C0592C331A47CAE2F9A48FCB70BA 71C22AEADE0D9558CE5EB3CF2A49F18C3E245AED 67DD588DC6208EB020099F1B239560D2 994F705942B6902ED4ACF26658790A9F7ECA40A8 E67E3C4DE3D53F1C614B8B06980F243F 907857244FD84F2A729C78320D5AE3D0E61F97F1 BD185DAFDE5EC268ADE6B3E7F751EA97 9463023D0BC1B74522AA9B09468C94B6C6AF86B5 817E119B01F71BB9820753E0E60BAED9 6667B6FE12157310DD80620E32B83FB1E83442E0 F25FA80437C0428261B9FDED86E60942 54790E5DBF4CC593A61AA70FA6C0C88DF9F8880F 3BFB430406C280F7B1AC36897B9EB1D7 BE65BA92167CA04F2CFD69F1C7B50717435B0848 772F4821BB63A496E4F6CCA34B2B9A32 72785F5606FB047ECB404A206915C35042B86362 77B338B8E6D581A1D830A478EC87AC7B 5182926A49EDD97A13FD173C863E86B1FDB3C384 C2747DBA081F9D417F97755097F08305 6DCBFBF514E0CF36E252FB1B3AD3C3559D2225B2 DC625F7A8BBF1BDCC112F015E2A97136 F22484DC02525F57FFA9185D77D28F9580B54ED5 CB2AF091F12098EAA04697390DA50DFD A36344104C09FDEE1B887CF198CDF8038035E63A D6A6B3CD504460209D1220499B953C85 561CF85C9569B1346356DE00D78A459AFA79743B 8F060AF4FD634C0E5A230BB1244C0901 FA4D97017D9F95AE67E634D7DE2916F5DD855F75 14F3C524877CF120807A2438696A38D0 98F15A10B8680D5B7B27B5B6826BAEED66945C76 91334AC1E7F0BE38E21099DDA8C45A30 24 26D36FAC4E01E4AA17364CBCF5BD40B028866BA6 08963E79F5BDD528E2F6C13932049486 01A30D2D59A5308CBC8FAC9F73ED3F9E8B57CB32 5420A4621CF15AC31397D6593A5F90B9 B2E48D22247F1EA2D9197FC150C945261B49363B 6ACD0C5A5156EE571FFFAD2DEE797D7E 6379E67EAE76281C3F9C785059F7C9AD02FFBC06 E25A3B3940910976EB52D10ECBC487CC 52FA31A437341388ECDAD1204CF3C5BE74BC810B B5EAB373C8159BA0F8CD9F172DEC9E50 DEC992DA02DBCA3328BB243F965AA2E84C733F98 487D0E12A9B3735D0CF76602252D59FC 70C56527D2A715F9C47778F53730301178843C5F A98768D27CA9549111EA57118EA3F6FF 6AB476FADE742E197BA3686D0BC5AE80FF415D31 172A63E6E272D7833CDC6C2B62E50256 E0520AA8E1FB1A10E552C8A3CCC809A42967EA9D C7CAEFA100C647C4713EE065497F24C0 91FB221C4FB00F74A9CFB0E397B6FE423AC3D80C E51805BA2A741BBDE52109C073268FC5 5C31A91ED502305AE2CE20BED5B6245C1F554FF4 D8BB72FBDE213B4604C386EEA6B38615 1D68DD57BC141A916B86A327B286342719AD3AF1 CA32AAB8F3090A62955EDFDC9A3BAE20 6AB0F8CA07DC3F6D7B63E85C75D50DAED2F650E2 67A8B76511404A651CB5549884D8BFDB 2E746E140B2F86E9A0F6981D63747252400F3948 E4BE0DCC6326DEA97FE0F2D5F0F8FE52 99058FD32E5B94BD86A268835E83563B1D682012 429873088B0A3F1FEC5F044FD34780F8 727BCF4C48F8D8A17E289566798459EED58BA483 D39E94C4D61D8C4CF97D60FCE0817FB5 6808807D95D9C220544EDC9D4045AD0D55943216 FDD1A537B03C94D60C75B7681ACCACA1 29C6941C0F284929A319B6D7368B9BE34BAEE5DB 3D9B8CD65A39703BFCF55126AA5FE08F 1BDB8BD34AF61477634D2892B7D91A1729D75902 6E6F2FE8D99D6A0CF8F4EF13F29E3C27 918697B3F75FE4EA32BC3C88A79E29B86714BE05 4BC0589E31194D89A7E0CCD0E1E7B31F 69C6166F8A67D1E57FB905A60DB6C85850AAD573 320219D3D30BFB9C91A78D3788B76822 DA973C74E1C7FD6DFEF6514D0A13AD64CF02F852 2ACA1C1653E7C30DBD2F3F45EDF2B346 4F952E77E578E8A31C50B500EEB9DC29B17A3A8B 274838895D554F639A24D2AA1F6906C5 B695BF2459D5A41E694C94B6621BB24DCC06731B 8CA1B9E7E959B0EB223FEBC68AE2972E 0 0 F74A96
+$tybo<~Controls.281~>428 <~Controls.282~><~Game.1997~><~Controls.283~><~Game.2042~> 74F914
+$tybo<~Controls.281~>426 <~Controls.282~><~Game.2038~><~Controls.283~><~Game.2042~> C865F9
+<tybo> gl hf :) 46849C
+<Stella_Rossa> 0e 2DB738
+$Stella_Rossa<~Controls.345~>105 104 103 102 101 100 099 <~Controls.346~>14 12 14 15 10 15 14 null
+$Stella_Rossa<~Controls.350~>105 104 103 102 101 100 099 null
+$tybo<~Controls.509~>108<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$tybo<~Controls.509~>110<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$tybo<~Controls.345~>213 212 211 210 <~Controls.346~>2 1 1 0 null
+<tybo> pass 4DA11C
+$Stella_Rossa<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 7FD1B8
+$Stella_Rossa<~Scribe.141~>263 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 039374
+$Stella_Rossa<~Controls.644~>101 <~Controls.645~><~Game.2035~> 9B0B56
+$tybo<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 1F3B68
+$tybo<~Scribe.141~>241 244 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1915~><~Scribe.144~> 78B4F6
+$tybo<~Scribe.141~>241 244 <~Scribe.142~><~Game.1915~><~Scribe.143~><~Game.1912~><~Scribe.144~> 84CFFB
+$tybo<~Scribe.141~>241 244 <~Scribe.142~><~Game.1912~><~Scribe.143~><~Game.1910~><~Scribe.144~> 7C9252
+$tybo<~Controls.644~>212 <~Controls.645~><~Game.2035~> 288953
+$Stella_Rossa<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 687036
+$Stella_Rossa<~Scribe.141~>038 025 024 023 022 021 <~Scribe.142~><~Game.1974~><~Scribe.143~><~Game.1976~><~Scribe.144~> 548D9A
+$Stella_Rossa<~Scribe.141~>001 <~Scribe.142~><~Game.1910~><~Scribe.143~><~Game.1917~><~Scribe.144~> C3A93C
+$Stella_Rossa<~Controls.644~>104 <~Controls.645~><~Game.2035~> 606F2D
+$tybo<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 4B2FF5
+$tybo<~Scribe.141~>241 244 <~Scribe.142~><~Game.1910~><~Scribe.143~><~Game.1914~><~Scribe.144~> 4F0723
+$tybo<~Scribe.141~>241 244 <~Scribe.142~><~Game.1914~><~Scribe.143~><~Game.1916~><~Scribe.144~> BCFB83
+$tybo<~Scribe.141~>241 244 <~Scribe.142~><~Game.1916~><~Scribe.143~><~Game.1905~><~Scribe.144~> 395FCB
+$tybo<~Controls.644~>211 <~Controls.645~><~Game.2035~> 7200B7
+$Stella_Rossa<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 0DF16D
+$Stella_Rossa<~Scribe.141~>reveal 178 C4A4C6BD850372797183652A839AB32BCB926686 9 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> A7B53E
+$Stella_Rossa<~Scribe.141~>039 036 029 028 027 026 <~Scribe.142~><~Game.1979~><~Scribe.143~><~Game.1976~><~Scribe.144~> 4FAA26
+$Stella_Rossa<~Controls.644~>099 178 <~Controls.645~><~Game.2035~> 2720DF
+$tybo<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> FEE83B
+$tybo<~Controls.366~>251<~Controls.367~><~Game.2010~><~Controls.368~><~Game.2011~> 26D8F2
+$tybo<~Scribe.141~>241 244 <~Scribe.142~><~Game.1905~><~Scribe.143~><~Game.1907~><~Scribe.144~> ED8376
+$tybo<~Scribe.141~>241 244 <~Scribe.142~><~Game.1907~><~Scribe.143~><~Game.1909~><~Scribe.144~> 1E47B3
+$tybo<~Scribe.141~>241 244 <~Scribe.142~><~Game.1909~><~Scribe.143~><~Game.1920~><~Scribe.144~> 28EE36
+$tybo<~Controls.644~>213 <~Controls.645~><~Game.2035~> DB27BD
+$Stella_Rossa<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> E14B50
+$Stella_Rossa<~Scribe.141~>reveal 204 6A59BDE224156D205805A6B6EEFB55BF32534F00 11 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 219998
+$Stella_Rossa<~Controls.281~>238 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2045~> 988DBE
+$Stella_Rossa<~Controls.644~>103 204 <~Controls.645~><~Game.2035~> 7D96C9
+$tybo<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 163C9B
+$tybo<~Controls.323~>241 1F60FC
+$Stella_Rossa<~Controls.323~>260 C64989
+$tybo<~Controls.644~>210 <~Controls.645~><~Game.2035~> F84B2E
+$Stella_Rossa<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 73B5DF
+$Stella_Rossa<~Scribe.141~>251 <~Scribe.142~><~Game.2011~><~Scribe.143~><~Game.2037~><~Scribe.144~> FEF1F9
+$Stella_Rossa<~Scribe.141~>254 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1919~><~Scribe.144~> 29841A
+$Stella_Rossa<~Scribe.141~>360 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2037~><~Scribe.144~> D68EC1
+$Stella_Rossa<~Controls.644~>105 360 251 <~Controls.645~><~Game.2035~> D67E70
+$tybo<~Controls.731~>210 213 211 212 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 9D4A44
+$tybo<~Controls.509~>157<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$tybo<~Controls.509~>140<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Stella_Rossa<~Controls.757~>102 100 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 906208
+<~Game.7~>2 null
+$Stella_Rossa<~Controls.762~>105 360 103 099 104 101 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 6E93B9
+$Stella_Rossa<~Controls.509~>177<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Stella_Rossa<~Controls.509~>164<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$tybo<~Controls.281~>358 <~Controls.282~><~Game.2038~><~Controls.283~><~Game.2042~> 411DE2
+<tybo> fs pok FBD6D2
+<Stella_Rossa> 0e 504059
+$Stella_Rossa<~Controls.345~>105 360 103 099 104 101 102 100 <~Controls.346~>12 10 12 11 10 15 12 10 null
+$Stella_Rossa<~Controls.350~>105 360 103 099 104 101 102 100 null
+$tybo<~Controls.345~>358 210 213 211 212 <~Controls.346~>3 2 4 3 1 null
+<tybo> pass 45FB22
+$Stella_Rossa<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> EFBF36
+$Stella_Rossa<~Scribe.141~>262 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> AB6960
+$Stella_Rossa<~Controls.644~>100 <~Controls.645~><~Game.2035~> 17B556
+$tybo<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 8A4592
+$tybo<~Scribe.141~>256 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> 9478F3
+$tybo<~Controls.644~>211 <~Controls.645~><~Game.2035~> A833D0
+$Stella_Rossa<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 69ECD3
+$Stella_Rossa<~Scribe.141~>261 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> EEB1BA
+$Stella_Rossa<~Controls.644~>360 <~Controls.645~><~Game.2035~> ABCFB1
+$tybo<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 8197AE
+$tybo<~Scribe.141~>reveal 157 B4A6B6097A82C1B1152E3C2155D2717F3EA742AF 0 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2029~><~Scribe.144~> BAB013
+$tybo<~Controls.509~>123<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$tybo<~Controls.644~>210 <~Controls.645~><~Game.2035~> 126A13
+$Stella_Rossa<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> C13BCF
+$Stella_Rossa<~Scribe.141~>039 038 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1976~><~Scribe.143~><~Game.1964~><~Scribe.144~> CE9A30
+$Stella_Rossa<~Scribe.141~>040 035 015 014 013 012 011 <~Scribe.142~><~Game.1956~><~Scribe.143~><~Game.1958~><~Scribe.144~> EB1DD0
+$Stella_Rossa<~Controls.644~>105 <~Controls.645~><~Game.2035~> ACD3C3
+$tybo<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> C655C9
+$tybo<~Scribe.141~>260 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> 590434
+$tybo<~Controls.644~>358 <~Controls.645~><~Game.2035~> F951A7
+$Stella_Rossa<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> DB3ED7
+$Stella_Rossa<~Scribe.141~>055 049 048 047 <~Scribe.142~><~Game.1968~><~Scribe.143~><~Game.1946~><~Scribe.144~> 0B24BC
+$Stella_Rossa<~Scribe.141~>040 035 015 014 013 012 011 <~Scribe.142~><~Game.1958~><~Scribe.143~><~Game.1957~><~Scribe.144~> EDAF18
+$Stella_Rossa<~Controls.323~>258 6441E2
+$Stella_Rossa<~Controls.644~>102 <~Controls.645~><~Game.2035~> 7A0F30
+<tybo> pass 7CE022
+$Stella_Rossa<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 6738A9
+<Stella_Rossa> Osgiliath 953615
+$Stella_Rossa<~Scribe.141~>260 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 33B1BF
+$Stella_Rossa<~Controls.840~>164 767C86
+<tybo> nc 6ED008
+$Stella_Rossa<~Scribe.141~>reveal 164 78BBC5ED67E9AFB17ECD89B1038001449971A04E 13 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2036~><~Scribe.144~> ED3804
+<game> Stella_Rossa<~Controls.1~> 2 6 4 5 3 null
+<game> tybo<~Controls.1~> 6 6 null
+<Stella_Rossa> 2 C20B61
+<tybo> 2 013680
+$Stella_Rossa<~Controls.281~>024 025 <~Controls.282~><~Game.1964~><~Controls.283~><~Game.2040~> 6100E6
+$tybo<~Scribe.141~>080 079 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.2036~><~Scribe.144~> 6E919F
+$Stella_Rossa<~Scribe.141~>039 038 036 029 028 027 026 023 022 021 <~Scribe.142~><~Game.1964~><~Scribe.143~><~Game.1943~><~Scribe.144~> 6D64B8
+$Stella_Rossa<~Controls.644~>103 164 080 079 <~Controls.645~><~Game.2035~> D0A1D8
+$tybo<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 6B8082
+$tybo<~Scribe.141~>276 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1944~><~Scribe.144~> 475D9C
+$tybo<~Controls.644~>213 <~Controls.645~><~Game.2035~> 77F6BB
+$Stella_Rossa<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 9C379E
+<Stella_Rossa> MT 72CAED
+$tybo<~Scribe.141~>085 276 084 083 082 081 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.1994~><~Scribe.144~> 65B297
+$Stella_Rossa<~Scribe.141~>039 038 036 029 028 027 026 023 022 021 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.1944~><~Scribe.144~> 4CE682
+$Stella_Rossa<~Scribe.141~>022 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.1943~><~Scribe.144~> 7858F5
+$Stella_Rossa<~Controls.644~>099 <~Controls.645~><~Game.2035~> A808C2
+$tybo<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> AD2A8A
+$tybo<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> A8D70D
+$tybo<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 408757
+<game> Stella_Rossa<~Controls.1~> 1 null
+$Stella_Rossa<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 6160B6
+$Stella_Rossa<~Scribe.141~>253 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1944~><~Scribe.144~> 52A383
+$Stella_Rossa<~Scribe.141~>361 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2037~><~Scribe.144~> D492CE
+$Stella_Rossa<~Controls.644~>104 361 <~Controls.645~><~Game.2035~> C3E60A
+$tybo<~Controls.323~>257 259 06CD31
+$tybo<~Scribe.141~>426 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> E83B7F
+$tybo<~Scribe.141~>256 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> EEDE1A
+$tybo<~Controls.644~>426 <~Controls.645~><~Game.2035~> 2150AE
+$Stella_Rossa<~Controls.757~>101 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> BEBCC7
+$Stella_Rossa<~Controls.762~>104 361 099 103 102 105 360 100 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 124D27
+$Stella_Rossa<~Controls.509~>191<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$tybo<~Controls.726~>212 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> EAD5E5
+<~Game.7~>3 null
+$tybo<~Controls.731~>213 358 210 211 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 76F598
+$Stella_Rossa<~Controls.509~>171<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$tybo<~Controls.509~>128<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$tybo<~Controls.509~>113<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+<tybo> fsp ok F2DBB0
+$Stella_Rossa<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> E6401E
+$Stella_Rossa<~Controls.345~>104 361 099 103 102 105 360 100 <~Controls.346~>11 12 11 10 13 10 15 12 null
+$Stella_Rossa<~Controls.350~>104 361 099 103 102 105 360 100 null
+$tybo<~Controls.345~>213 358 210 211 212 <~Controls.346~>0 4 4 1 3 null
+$tybo<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 759928
+$tybo<~Controls.281~>212 <~Controls.282~><~Game.2035~><~Controls.283~><~Game.2042~> 2FC615
+$tybo<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 6B3952
+$tybo<~Controls.281~>212 <~Controls.282~><~Game.2035~><~Controls.283~><~Game.2042~> 99E866
+<tybo> pass 7DBA34
+$Stella_Rossa<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 06F5BD
+$Stella_Rossa<~Scribe.141~>261 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> C65E31
+$Stella_Rossa<~Controls.644~>103 <~Controls.645~><~Game.2035~> 9268FA
+$tybo<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> DEBF71
+$tybo<~Controls.790~>248<~Controls.791~><~Game.2015~><~Controls.792~><~Game.2016~> 104299
+$tybo<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 74C441
+<game> Stella_Rossa<~Controls.1~> 2 1 null
+$Stella_Rossa<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 84E294
+$Stella_Rossa<~Scribe.141~>037 020 019 018 017 016 <~Scribe.142~><~Game.1969~><~Scribe.143~><~Game.1955~><~Scribe.144~> 3EFABC
+$Stella_Rossa<~Scribe.141~>055 057 049 048 047 046 045 044 <~Scribe.142~><~Game.1946~><~Scribe.143~><~Game.1932~><~Scribe.144~> 53AB1D
+$Stella_Rossa<~Scribe.141~>044 <~Scribe.142~><~Game.1932~><~Scribe.143~><~Game.1946~><~Scribe.144~> 05F5E1
+$Stella_Rossa<~Controls.644~>100 <~Controls.645~><~Game.2035~> 8BA95A
+$tybo<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 0CB1DF
+$tybo<~Scribe.141~>241 <~Scribe.142~><~Game.1920~><~Scribe.143~><~Game.1924~><~Scribe.144~> 690CEF
+$tybo<~Scribe.141~>241 <~Scribe.142~><~Game.1924~><~Scribe.143~><~Game.1931~><~Scribe.144~> 6614DB
+$tybo<~Scribe.141~>241 <~Scribe.142~><~Game.1931~><~Scribe.143~><~Game.1935~><~Scribe.144~> 9CE310
+$tybo<~Controls.644~>211 <~Controls.645~><~Game.2035~> 29FD24
+$Stella_Rossa<~Scribe.141~>361 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 981356
+$Stella_Rossa<~Scribe.141~>reveal 171 D30BF41FF6B9F15CE1D41D7DE36D008DE02665E9 6 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 66938D
+$tybo<~Scribe.141~>244 077 076 075 <~Scribe.142~><~Game.1920~><~Scribe.143~><~Game.1995~><~Scribe.144~> 28F728
+<Stella_Rossa> all except one CB2981
+$Stella_Rossa<~Scribe.141~>055 057 049 048 047 046 045 043 042 041 <~Scribe.142~><~Game.1932~><~Scribe.143~><~Game.1920~><~Scribe.144~> A6FBE7
+$Stella_Rossa<~Scribe.141~>043 <~Scribe.142~><~Game.1920~><~Scribe.143~><~Game.1932~><~Scribe.144~> 798631
+$Stella_Rossa<~Controls.644~>361 171 <~Controls.645~><~Game.2035~> 7EEE77
+$tybo<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> D2806E
+$tybo<~Scribe.141~>reveal 113 738C3CBF998AC4D9752371305120DB0E8CAC9883 12 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2036~><~Scribe.144~> DD6F45
+$tybo<~Scribe.141~>270 275 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1995~><~Scribe.144~> 3A1BAD
+$tybo<~Controls.644~>212 113 <~Controls.645~><~Game.2035~> 4C21E1
+$Stella_Rossa<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 6E9E82
+$Stella_Rossa<~Scribe.141~>022 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.1935~><~Scribe.144~> 46216A
+$Stella_Rossa<~Scribe.141~>037 020 019 018 017 016 <~Scribe.142~><~Game.1955~><~Scribe.143~><~Game.1943~><~Scribe.144~> F315E9
+$Stella_Rossa<~Controls.644~>104 <~Controls.645~><~Game.2035~> A7AE6B
+<tybo> pass 7A6D97
+$Stella_Rossa<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 528F1A
+$Stella_Rossa<~Scribe.141~>347 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1986~><~Scribe.144~> 2E3984
+$Stella_Rossa<~Controls.644~>105 <~Controls.645~><~Game.2035~> 594A81
+$tybo<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 0E964F
+$tybo<~Scribe.141~>073 072 <~Scribe.142~><~Game.1929~><~Scribe.143~><~Game.1925~><~Scribe.144~> 50079B
+$tybo<~Scribe.141~>059 <~Scribe.142~><~Game.1973~><~Scribe.143~><~Game.1965~><~Scribe.144~> 3F00B1
+$tybo<~Controls.644~>358 <~Controls.645~><~Game.2035~> D01FDE
+$Stella_Rossa<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 5D889C
+$Stella_Rossa<~Scribe.141~>037 018 019 020 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.1944~><~Scribe.144~> 3E7383
+$Stella_Rossa<~Scribe.141~>042 <~Scribe.142~><~Game.1920~><~Scribe.143~><~Game.1924~><~Scribe.144~> 981F21
+$Stella_Rossa<~Controls.644~>099 <~Controls.645~><~Game.2035~> 302C34
+$tybo<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 7D10B4
+$tybo<~Scribe.141~>256 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 954E43
+$tybo<~Controls.644~>210 <~Controls.645~><~Game.2035~> ACF269
+$Stella_Rossa<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 18D538
+<Stella_Rossa> Wr 8B6DFB
+$tybo<~Scribe.141~>098 094 088 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1991~><~Scribe.144~> A6534D
+$Stella_Rossa<~Scribe.141~>040 035 015 014 013 012 011 <~Scribe.142~><~Game.1957~><~Scribe.143~><~Game.1954~><~Scribe.144~> 9EDD85
+$Stella_Rossa<~Controls.644~>102 <~Controls.645~><~Game.2035~> 2090E1
+$tybo<~Controls.726~>213 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 56B188
+$tybo<~Controls.731~>210 358 212 211 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 478402
+$Stella_Rossa<~Controls.757~>360 101 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 7E8935
+<~Game.7~>4 null
+$Stella_Rossa<~Controls.762~>102 099 105 104 361 100 103 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 3286FD
+$tybo<~Controls.509~>107<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Stella_Rossa<~Controls.509~>174<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Stella_Rossa<~Controls.509~>190<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$tybo<~Controls.509~>130<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$tybo<~Controls.296~>140 <~Controls.297~><~Controls.45~> A1D3B9
+<tybo> fsp ok 378E87
+$Stella_Rossa<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> 9EF85F
+$Stella_Rossa<~Controls.345~>102 099 105 104 361 100 103 360 <~Controls.346~>12 13 14 14 10 14 11 10 null
+$Stella_Rossa<~Controls.350~>102 099 105 104 361 100 103 360 null
+$tybo<~Controls.345~>210 358 212 211 213 <~Controls.346~>3 1 1 2 1 null
+<tybo> pass A3E513
+$Stella_Rossa<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 659AC5
+$Stella_Rossa<~Controls.509~>172<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Stella_Rossa<~Controls.644~>105 <~Controls.645~><~Game.2035~> 57B170
+<tybo> pass 92D067
+$Stella_Rossa<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 927AFB
+<Stella_Rossa> MT 2FEF33
+$Stella_Rossa<~Controls.840~>190 06770A
+$tybo<~Controls.840~>130 990A4C
+<auto> playchosen A6E1DE
+<auto><~Controls.3~>reveal 130 A9C84062193C6BBA691DC1E06921912BBA616A63 18<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 49DC9E
+<auto><~Controls.866~>reveal 190 76CBE0D7A157472D8512BA10877C28C90F5A8EC2 14<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> DB7A97
+<auto> playchosen 87C195
+<game> Stella_Rossa<~Controls.1~> 2 1 2 4 6 null
+<game> Stella_Rossa<~Controls.1~> 2 4 4 1 null
+<Stella_Rossa> 1 FD14F8
+<game> tybo<~Controls.1~> 3 4 5 4 2 null
+<game> tybo<~Controls.1~> 6 null
+<tybo> 4 D9826B
+$Stella_Rossa<~Controls.281~>028 027 029 020 <~Controls.282~><~Game.1944~><~Controls.283~><~Game.2040~> 182C46
+<Stella_Rossa> stop 7FD69B
+$tybo<~Scribe.141~>082 <~Scribe.142~><~Game.1994~><~Scribe.143~><~Game.2036~><~Scribe.144~> D3B4C3
+$Stella_Rossa<~Controls.509~>197<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Stella_Rossa<~Controls.644~>099 190 082 130 <~Controls.645~><~Game.2035~> 37944B
+$tybo<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> C5C24D
+$tybo<~Scribe.141~>reveal 110 F31FA87921CD11EDC537F38F5E86CCBE4C59B77D 14 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2036~><~Scribe.144~> 37C2ED
+$tybo<~Scribe.141~>271 274 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1994~><~Scribe.144~> CC1F4A
+$tybo<~Controls.509~>114<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$tybo<~Controls.644~>211 110 <~Controls.645~><~Game.2035~> 4235E7
+$Stella_Rossa<~Scribe.141~>361 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 4B1EC1
+$Stella_Rossa<~Scribe.141~>336 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1969~><~Scribe.144~> D26BCB
+$Stella_Rossa<~Controls.644~>361 <~Controls.645~><~Game.2035~> 0AC007
+<tybo> pass DD11CB
+$Stella_Rossa<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 0FF3AF
+$Stella_Rossa<~Scribe.141~>335 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1969~><~Scribe.144~> A4306E
+$Stella_Rossa<~Controls.644~>360 <~Controls.645~><~Game.2035~> 2BCE02
+$tybo<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> F095A1
+$tybo<~Controls.790~>248<~Controls.791~><~Game.2016~><~Controls.792~><~Game.2017~> 204B00
+$tybo<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 2AD26D
+<game> Stella_Rossa<~Controls.1~> 1 null
+$Stella_Rossa<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 2C2B04
+$Stella_Rossa<~Scribe.141~>032 031 030 <~Scribe.142~><~Game.1977~><~Scribe.143~><~Game.1969~><~Scribe.144~> 39931B
+$Stella_Rossa<~Scribe.141~>044 <~Scribe.142~><~Game.1946~><~Scribe.143~><~Game.1938~><~Scribe.144~> AA8BB8
+$Stella_Rossa<~Controls.644~>102 <~Controls.645~><~Game.2035~> A1EED3
+$tybo<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> A65197
+$tybo<~Controls.790~>248<~Controls.791~><~Game.2017~><~Controls.792~><~Game.2018~> D2711D
+$tybo<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 3A7FAD
+<game> Stella_Rossa<~Controls.1~> 4 null
+$Stella_Rossa<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 05913C
+$Stella_Rossa<~Scribe.141~>reveal 197 02FFA0B3198ADBF00AA1B4CF604FD8967683C0DC 1 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 5811FA
+$Stella_Rossa<~Scribe.141~>335 336 032 031 030 <~Scribe.142~><~Game.1969~><~Scribe.143~><~Game.1943~><~Scribe.144~> 6030EF
+$Stella_Rossa<~Scribe.141~>347 056 052 051 050 <~Scribe.142~><~Game.1986~><~Scribe.143~><~Game.1987~><~Scribe.144~> D25EDC
+$Stella_Rossa<~Controls.644~>100 197 <~Controls.645~><~Game.2035~> E23B62
+$tybo<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 1F3016
+$tybo<~Controls.790~>248<~Controls.791~><~Game.2018~><~Controls.792~><~Game.2019~> E2CC01
+$tybo<~Controls.795~>358<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 8A168E
+<game> Stella_Rossa<~Controls.1~> 5 1 null
+<Stella_Rossa> sorry 701685
+<tybo> np 9928DE
+$Stella_Rossa<~Controls.624~>227<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<tybo> wait 352CF9
+$Stella_Rossa<~Controls.819~> 36274F
+<Stella_Rossa> staff B8B7D4
+<tybo> wizard ABC25D
+<Stella_Rossa> sorry CD3D14
+$tybo<~Controls.296~>157 <~Controls.297~><~Game.2029~> 6AB14E
+$Stella_Rossa<~Scribe.141~>157 <~Scribe.142~><~Game.2029~><~Scribe.143~><~Game.2036~><~Scribe.144~> C21761
+$Stella_Rossa<~Controls.644~>157 <~Controls.645~><~Game.2035~> 1BD501
+$Stella_Rossa<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 2193D2
+$Stella_Rossa<~Scribe.141~>336 335 031 032 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.1944~><~Scribe.144~> 927128
+$Stella_Rossa<~Scribe.141~>347 056 052 051 050 054 053 <~Scribe.142~><~Game.1987~><~Scribe.143~><~Game.1984~><~Scribe.144~> 463783
+$Stella_Rossa<~Controls.644~>103 <~Controls.645~><~Game.2035~> B00130
+$tybo<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> A189F1
+$tybo<~Scribe.141~>257 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> 29F783
+$tybo<~Controls.644~>210 <~Controls.645~><~Game.2035~> 6D7590
+$Stella_Rossa<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 595964
+$Stella_Rossa<~Scribe.141~>reveal 174 99FB861B950F85449E23A2BB6F80BCE93CD4648A 8 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2034~><~Scribe.144~> 7F1535
+$Stella_Rossa<~Scribe.141~>253 038 039 037 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.1920~><~Scribe.144~> B72C34
+<Stella_Rossa> DA BB85FB
+$Stella_Rossa<~Controls.840~>172 638AE1
+<tybo> nc C36DC0
+$Stella_Rossa<~Scribe.141~>reveal 172 1AADBDC8193C2BD9E365211A23CE4C727E0C120E 19 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2036~><~Scribe.144~> C7FDA6
+<game> Stella_Rossa<~Controls.1~> 1 2 6 1 2 null
+<game> Stella_Rossa<~Controls.1~> 1 6 5 5 null
+<Stella_Rossa> 4 053280
+<game> tybo<~Controls.1~> 2 2 6 5 3 null
+<game> tybo<~Controls.1~> 5 3 null
+<tybo> 5 76A819
+$Stella_Rossa<~Controls.281~>055 046 045 041 <~Controls.282~><~Game.1920~><~Controls.283~><~Game.2040~> 5DEAEE
+<Stella_Rossa> press 0E5571
+$tybo<~Scribe.141~>275 076 077 <~Scribe.142~><~Game.1995~><~Scribe.143~><~Game.2036~><~Scribe.144~> D5E79C
+$Stella_Rossa<~Controls.304~>057 <~Controls.305~><~Game.1920~> FA9397
+$Stella_Rossa<~Controls.313~>046 <~Controls.307~><~Controls.314~><~Game.1920~> 6A4933
+$Stella_Rossa<~Controls.509~>186<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Stella_Rossa<~Controls.662~>172 275 076 077 <~Controls.663~><~Game.2035~> 31767E
+$Stella_Rossa<~Controls.840~>186 E64E8F
+<tybo> nc 453490
+$Stella_Rossa<~Scribe.141~>reveal 186 BC6ACFF0B614791C26DDC16B5103281A9DE3C6D0 23 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2036~><~Scribe.144~> 946155
+<Stella_Rossa> auto 57768B
+<game> tybo<~Controls.1~> 2 5 null
+$Stella_Rossa<~Scribe.141~>423 <~Scribe.142~><~Game.27~><~Scribe.143~><~Game.29~><~Scribe.144~> 01631A
+<game> tybo<~Controls.1~> 1 null
+<tybo> 1 12CA12
+$Stella_Rossa<~Controls.281~>047 <~Controls.282~><~Game.1920~><~Controls.283~><~Game.2040~> 99DAB8
+$tybo<~Scribe.141~>244 270 075 <~Scribe.142~><~Game.1995~><~Scribe.143~><~Game.2036~><~Scribe.144~> F5A07F
+$Stella_Rossa<~Scribe.141~>174 <~Scribe.142~><~Game.2034~><~Scribe.143~><~Game.2037~><~Scribe.144~> 5FE0EB
+$Stella_Rossa<~Controls.644~>104 186 244 270 075 174 <~Controls.645~><~Game.2035~> F91FF9
+$Stella_Rossa<~Controls.757~>101 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 8BFF5E
+$Stella_Rossa<~Controls.762~>104 103 100 102 360 361 099 105 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 850164
+$Stella_Rossa<~Controls.509~>165<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Stella_Rossa<~Controls.509~>189<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$tybo<~Controls.726~>358 213 212 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> DE2FCB
+<~Game.7~>5 null
+$tybo<~Controls.731~>210 211 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 0AD4DA
+$tybo<~Controls.509~>136<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$tybo<~Controls.509~>147<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$tybo<~Controls.296~>136 <~Controls.297~><~Controls.45~> 020655
+<tybo> fsp ok BE4343
+$Stella_Rossa<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> 38C777
+$Stella_Rossa<~Controls.345~>104 103 100 102 360 361 099 105 <~Controls.346~>11 12 11 11 10 14 15 13 null
+$Stella_Rossa<~Controls.350~>104 103 100 102 360 361 099 105 null
+$tybo<~Controls.345~>210 211 358 213 212 <~Controls.346~>1 4 3 1 1 null
+<tybo> hm 94A623
+$tybo<~Scribe.141~>428 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 6B88EF
+$tybo<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2037~><~Scribe.144~> 8FA478
+$tybo<~Controls.345~>358 <~Controls.346~>1 null
+$tybo<~Controls.281~>358 <~Controls.282~><~Game.2037~><~Controls.283~><~Game.2042~> 4458D6
+$tybo<~Controls.644~>428 <~Controls.645~><~Game.2035~> 758D9C
+$tybo<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 5AD524
+$tybo<~Controls.790~>248<~Controls.791~><~Game.2019~><~Controls.792~><~Game.2020~> E99765
+$tybo<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 44600D
+<game> Stella_Rossa<~Controls.1~> 2 1 null
+$Stella_Rossa<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> B7E81C
+$Stella_Rossa<~Scribe.141~>347 056 052 051 050 054 053 <~Scribe.142~><~Game.1984~><~Scribe.143~><~Game.1973~><~Scribe.144~> 96B40E
+$Stella_Rossa<~Scribe.141~>257 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> 5FAE55
+$Stella_Rossa<~Scribe.141~>034 033 <~Scribe.142~><~Game.1971~><~Scribe.143~><~Game.1977~><~Scribe.144~> 237656
+$Stella_Rossa<~Controls.644~>103 <~Controls.645~><~Game.2035~> FF2556
+$tybo<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 2FC24D
+$tybo<~Controls.790~>248<~Controls.791~><~Game.2020~><~Controls.792~><~Game.2021~> 494047
+$tybo<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 9342F0
+<game> Stella_Rossa<~Controls.1~> 5 6 null
+$Stella_Rossa<~Controls.624~>224<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$tybo<~Scribe.141~>240 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2037~><~Scribe.144~> D96BD1
+$tybo<~Controls.644~>224 240 <~Controls.645~><~Game.2035~> 801DB9
+$tybo<~Scribe.141~>243 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> CA300E
+$Stella_Rossa<~Scribe.141~>361 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 6B9701
+$Stella_Rossa<~Controls.509~>170<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Stella_Rossa<~Controls.644~>361 <~Controls.645~><~Game.2035~> 243069
+<tybo> pass 19B1F0
+$Stella_Rossa<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 0EE017
+$Stella_Rossa<~Scribe.141~>253 037 039 038 <~Scribe.142~><~Game.1920~><~Scribe.143~><~Game.1944~><~Scribe.144~> 7AC2CC
+$Stella_Rossa<~Scribe.141~>040 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1944~><~Scribe.144~> 6F2A86
+$Stella_Rossa<~Controls.644~>105 <~Controls.645~><~Game.2035~> 5E833D
+<tybo> pass 5B631F
+$Stella_Rossa<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 35B181
+<Stella_Rossa> MT 094E3D
+$Stella_Rossa<~Controls.840~>170 BB41A1
+$tybo<~Controls.840~>114 03AC44
+<auto> playchosen 221D84
+<auto><~Controls.3~>reveal 114 43711CC11EF238CC8D8E3D61BF305A5B438ABD12 20<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> AF54DF
+<auto><~Controls.866~>reveal 170 D5995A199807B64E334578A465DD2C7661897B13 3<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 44B70C
+<auto> playchosen CD07AC
+<Stella_Rossa> you first 3FFE82
+<game> tybo<~Controls.1~> 1 5 3 null
+<tybo> 1 84A985
+$Stella_Rossa<~Scribe.141~>032 031 021 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.2036~><~Scribe.144~> 820401
+<game> Stella_Rossa<~Controls.1~> 3 6 1 1 4 null
+<game> Stella_Rossa<~Controls.1~> 2 5 4 null
+<Stella_Rossa> 2 3E417A
+<game> tybo<~Controls.1~> 3 6 5 5 6 null
+<game> tybo<~Controls.1~> 6 null
+<Stella_Rossa> wow E20F1C
+<tybo> man 720C14
+<tybo> insane ACD4D3
+<Stella_Rossa> yes, since the beginning 5142D3
+<tybo> yup 9096BE
+$Stella_Rossa<~Scribe.141~>036 018 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.2036~><~Scribe.144~> B54AF4
+$Stella_Rossa<~Controls.509~>187<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Stella_Rossa<~Controls.644~>102 170 036 018 032 031 021 114 <~Controls.645~><~Game.2035~> 4407C5
+$tybo<~Controls.304~>276 274 <~Controls.305~><~Game.1994~> ACEBB7
+$tybo<~Controls.313~>076 075 <~Controls.308~><~Controls.314~><~Game.1994~> 497AE1
+$tybo<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 2B766E
+$tybo<~Controls.790~>248<~Controls.791~><~Game.2021~><~Controls.792~><~Game.2022~> 2B124E
+$tybo<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> B30E0A
+<game> Stella_Rossa<~Controls.1~> 2 1 null
+<Stella_Rossa> wow 54451E
+<tybo> lol 1C222C
+<Stella_Rossa> well. I just have to lose A7E417
+<Stella_Rossa> fine 85EC29
+$Stella_Rossa<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 526B43
+<tybo> Java decided 0F5E32
+$Stella_Rossa<~Scribe.141~>036 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1969~><~Scribe.144~> 3A4733
+$Stella_Rossa<~Controls.644~>360 <~Controls.645~><~Game.2035~> 5052C0
+$tybo<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 1F0D11
+$tybo<~Scribe.141~>reveal 107 CF1111BFA0CDA34ED3C04B9FC1A02479BA6D3F30 9 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2036~><~Scribe.144~> 1BA63C
+$tybo<~Controls.281~>232 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2045~> 109B86
+$tybo<~Controls.281~>232 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2045~> 919787
+$tybo<~Controls.644~>358 107 <~Controls.645~><~Game.2035~> 8F7850
+$Stella_Rossa<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> FE7E8F
+$Stella_Rossa<~Scribe.141~>030 017 016 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.1944~><~Scribe.144~> B17D9E
+$Stella_Rossa<~Scribe.141~>078 <~Scribe.142~><~Game.1931~><~Scribe.143~><~Game.1944~><~Scribe.144~> 5F229F
+$Stella_Rossa<~Scribe.141~>078 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.1931~><~Scribe.144~> C18E18
+$Stella_Rossa<~Scribe.141~>022 <~Scribe.142~><~Game.1935~><~Scribe.143~><~Game.1944~><~Scribe.144~> 4B6B19
+$Stella_Rossa<~Controls.644~>100 <~Controls.645~><~Game.2035~> 93FD5D
+$Stella_Rossa<~Scribe.141~>420 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1935~><~Scribe.144~> 0D5E08
+$tybo<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> D0C1DA
+$tybo<~Scribe.141~>258 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> 2F56C3
+$tybo<~Controls.644~>211 <~Controls.645~><~Game.2035~> 53B2C9
+$Stella_Rossa<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 3C8567
+<Stella_Rossa> MT 6850C3
+$Stella_Rossa<~Controls.840~>189 3DDB90
+$tybo<~Controls.840~>147 25C60E
+<auto> playchosen 194CA7
+<auto><~Controls.3~>reveal 147 3B7D45E4BB667A91D45E51F6ADC28F0E27E2579B 11<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 218C3C
+<auto><~Controls.866~>reveal 189 6F5CE18FC83B92E158887D0341B3469AF16B3FA3 18<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> D9A07C
+<auto> playchosen FEE921
+<game> Stella_Rossa<~Controls.1~> 1 4 6 1 2 null
+<game> Stella_Rossa<~Controls.1~> 1 1 2 4 null
+<Stella_Rossa> 1 318550
+<game> tybo<~Controls.1~> 2 4 6 1 1 null
+<game> tybo<~Controls.1~> 2 4 null
+<tybo> 1 550931
+$Stella_Rossa<~Controls.281~>030 <~Controls.282~><~Game.1944~><~Controls.283~><~Game.2040~> 306026
+$tybo<~Controls.304~>084 <~Controls.305~><~Game.1994~> 8EEA62
+$tybo<~Controls.313~>077 <~Controls.308~><~Controls.314~><~Game.1994~> A3CC69
+<Stella_Rossa> press 15EAF3
+$Stella_Rossa<~Controls.304~>336 <~Controls.305~><~Game.1944~> ABCFF1
+$Stella_Rossa<~Controls.313~>030 <~Controls.307~><~Controls.314~><~Game.1944~> BD39AF
+$Stella_Rossa<~Controls.509~>159<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Stella_Rossa<~Controls.662~>189 147 <~Controls.663~><~Game.2035~> B61435
+$Stella_Rossa<~Controls.840~>165 D9BB36
+<tybo> nc 9C26FB
+$Stella_Rossa<~Scribe.141~>reveal 165 858C4A2CAB71CC7CBF2805CD3CE82A488092DFC1 15 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2036~><~Scribe.144~> 440A9E
+<game> Stella_Rossa<~Controls.1~> 3 4 5 3 1 null
+<game> Stella_Rossa<~Controls.1~> 4 4 4 1 null
+<Stella_Rossa> lol 4D7ACF
+<Stella_Rossa> 1 EF403A
+<tybo> woah BE4E4D
+<game> tybo<~Controls.1~> 2 1 1 4 6 null
+<game> tybo<~Controls.1~> 5 2 null
+<tybo> 2 BD4482
+$Stella_Rossa<~Controls.281~>019 016 <~Controls.282~><~Game.1944~><~Controls.283~><~Game.2040~> 0A919A
+<Stella_Rossa> stop 0DC7B6
+$Stella_Rossa<~Controls.644~>104 165 <~Controls.645~><~Game.2035~> 902AE8
+$tybo<~Scribe.141~>077 <~Scribe.142~><~Game.1994~><~Scribe.143~><~Game.2036~><~Scribe.144~> 203DD5
+$Stella_Rossa<~Controls.757~>099 101 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 07AFBD
+$Stella_Rossa<~Controls.762~>104 100 360 102 105 361 103 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 7F76F6
+$tybo<~Controls.644~>077 <~Controls.645~><~Game.2035~> 5AB9E6
+$Stella_Rossa<~Controls.509~>193<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Stella_Rossa<~Controls.509~>195<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$tybo<~Controls.726~>213 210 212 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 65FB92
+<~Game.7~>6 null
+$tybo<~Controls.731~>211 358 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 16DAD8
+$tybo<~Controls.509~>132<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$tybo<~Controls.509~>118<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+<tybo> ok E8DD4D
+$Stella_Rossa<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> 77C84E
+$Stella_Rossa<~Controls.345~>104 100 360 102 105 361 103 099 <~Controls.346~>12 12 11 11 15 12 13 12 null
+$Stella_Rossa<~Controls.350~>104 100 360 102 105 361 103 099 null
+$tybo<~Controls.345~>211 358 213 210 212 <~Controls.346~>1 0 3 1 0 null
+$tybo<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 893102
+$tybo<~Scribe.141~>359 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.2037~><~Scribe.144~> CAF3BA
+$tybo<~Scribe.141~>240 <~Scribe.142~><~Game.2039~><~Scribe.143~><~Game.1921~><~Scribe.144~> C83869
+$tybo<~Controls.323~>240 A0A1EE
+$tybo<~Controls.644~>212 359 <~Controls.645~><~Game.2035~> 85DA99
+$Stella_Rossa<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> AEE112
+$Stella_Rossa<~Scribe.141~>reveal 159 E4184B052AD966297A5D550DED463A0438A9A90B 21 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 9F50A7
+$Stella_Rossa<~Scribe.141~>322 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1944~><~Scribe.144~> 637B3B
+$Stella_Rossa<~Controls.644~>104 159 <~Controls.645~><~Game.2035~> 323CA6
+<tybo> pass A71DEE
+$Stella_Rossa<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 7165C0
+<Stella_Rossa> MT 9EEF56
+$Stella_Rossa<~Controls.840~>187 810D84
+$tybo<~Controls.840~>118 69DB6E
+<auto> playchosen B17259
+<auto><~Controls.3~>reveal 118 A3052502B39730C6EE3095C64DF385CBB4579DC1 7<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 4B7193
+<auto><~Controls.866~>reveal 187 6B76B9CB47AA26FE3E5A637062C5937F9DA1CF08 0<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> ADD311
+<auto> playchosen F896FC
+<game> Stella_Rossa<~Controls.1~> 4 4 2 2 2 null
+<game> Stella_Rossa<~Controls.1~> 4 1 1 1 3 null
+<Stella_Rossa> 0 15DB2E
+<game> tybo<~Controls.1~> 4 1 6 2 null
+<game> tybo<~Controls.1~> 3 4 null
+<tybo> 1 03269B
+$Stella_Rossa<~Controls.281~>022 <~Controls.282~><~Game.1944~><~Controls.283~><~Game.2040~> DB1034
+<Stella_Rossa> press 039B8A
+<tybo> hard to win w theses rolls BC181B
+$Stella_Rossa<~Controls.304~>335 <~Controls.305~><~Game.1944~> 2AA41E
+$Stella_Rossa<~Controls.313~>022 <~Controls.307~><~Controls.314~><~Game.1944~> 63E556
+$Stella_Rossa<~Controls.509~>180<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Stella_Rossa<~Controls.662~>187 118 <~Controls.663~><~Game.2035~> 15EE66
+$Stella_Rossa<~Controls.840~>195 7A8FDB
+<tybo> nc F6A993
+$Stella_Rossa<~Scribe.141~>reveal 195 0A13443873F42A583F37E59A67618949BFAA9219 17 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2036~><~Scribe.144~> A0E5EC
+<game> Stella_Rossa<~Controls.1~> 5 6 6 3 2 null
+<game> Stella_Rossa<~Controls.1~> 4 1 null
+<Stella_Rossa> 3 11F057
+<game> tybo<~Controls.1~> 2 6 5 3 null
+<game> tybo<~Controls.1~> 1 6 null
+<tybo> 3 E167E4
+$Stella_Rossa<~Controls.281~>017 030 <~Controls.282~><~Game.1944~><~Controls.283~><~Game.2040~> 99769D
+<Stella_Rossa> press 933099
+$tybo<~Scribe.141~>083 075 076 <~Scribe.142~><~Game.1994~><~Scribe.143~><~Game.2036~><~Scribe.144~> 0646FE
+$Stella_Rossa<~Controls.304~>322 <~Controls.305~><~Game.1944~> 4B846C
+$Stella_Rossa<~Controls.313~>332 <~Controls.307~><~Controls.314~><~Game.1944~> 951307
+$Stella_Rossa<~Controls.662~>195 083 075 076 <~Controls.663~><~Game.2035~> 7CEFFB
+$Stella_Rossa<~Controls.840~>180 A4F653
+<tybo> I did 3 D92C77
+<tybo> You took 2 EAE090
+<tybo> I think F93A4A
+<Stella_Rossa> not sure but ok FA35E9
+<tybo> yeah 1 missing 5846DB
+$Stella_Rossa<~Controls.281~>332 <~Controls.282~><~Game.1944~><~Controls.283~><~Game.2040~> 3A3A25
+$Stella_Rossa<~Controls.840~>180 FF9289
+<tybo> well if i look at the log 66749E
+<tybo> nc 2E5CFB
+$Stella_Rossa<~Scribe.141~>reveal 180 DED02EE850504AD495CE0B205100449F81665B60 7 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2036~><~Scribe.144~> 0D784E
+<Stella_Rossa> auto E96CB1
+<game> tybo<~Controls.1~> 1 null
+<game> tybo<~Controls.1~> 2 null
+$Stella_Rossa<~Scribe.141~>423 <~Scribe.142~><~Game.29~><~Scribe.143~><~Game.31~><~Scribe.144~> 606165
+$tybo<~Scribe.141~>271 085 081 <~Scribe.142~><~Game.1994~><~Scribe.143~><~Game.2036~><~Scribe.144~> B4D60E
+$Stella_Rossa<~Controls.644~>099 180 271 085 081 <~Controls.645~><~Game.2035~> 54AB21
+<tybo> pass DC0636
+$Stella_Rossa<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> EA32DC
+$Stella_Rossa<~Scribe.141~>044 <~Scribe.142~><~Game.1938~><~Scribe.143~><~Game.1943~><~Scribe.144~> 6E01F2
+$Stella_Rossa<~Scribe.141~>253 038 039 037 040 026 022 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.1943~><~Scribe.144~> 200885
+$Stella_Rossa<~Controls.644~>100 <~Controls.645~><~Game.2035~> 366759
+$tybo<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 8B9588
+$tybo<~Scribe.141~>241 <~Scribe.142~><~Game.1935~><~Scribe.143~><~Game.1943~><~Scribe.144~> E0A6BE
+$tybo<~Scribe.141~>241 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.1942~><~Scribe.144~> 553B4A
+$tybo<~Scribe.141~>241 <~Scribe.142~><~Game.1942~><~Scribe.143~><~Game.1937~><~Scribe.144~> CEE978
+$tybo<~Controls.644~>210 <~Controls.645~><~Game.2035~> 0D394E
+$Stella_Rossa<~Scribe.141~>361 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 0A9DCB
+<Stella_Rossa> Pel E36AFD
+<Stella_Rossa> nc 5E635E
+<tybo> nc 972599
+<game> Stella_Rossa<~Controls.1~> 5 1 5 null
+<game> Stella_Rossa<~Controls.1~> 3 5 5 null
+<Stella_Rossa> 0 5DF1DF
+<game> tybo<~Controls.1~> 6 null
+<tybo> 1 50BE33
+$Stella_Rossa<~Controls.281~>044 <~Controls.282~><~Game.1943~><~Controls.283~><~Game.2040~> A4F288
+<Stella_Rossa> press 64F090
+<tybo> stay 312BC4
+<Stella_Rossa> ridicolous 8731F6
+<Stella_Rossa> nc 355194
+<tybo> nc 98791E
+<game> Stella_Rossa<~Controls.1~> 3 6 null
+<Stella_Rossa> 1 D62DEE
+<game> tybo<~Controls.1~> 4 null
+$tybo<~Scribe.141~>078 <~Scribe.142~><~Game.1931~><~Scribe.143~><~Game.2036~><~Scribe.144~> FF49B6
+$Stella_Rossa<~Scribe.141~>026 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.1931~><~Scribe.144~> C0EB85
+$Stella_Rossa<~Scribe.141~>423 <~Scribe.142~><~Game.31~><~Scribe.143~><~Game.32~><~Scribe.144~> EF2C56
+$Stella_Rossa<~Controls.644~>361 078 <~Controls.645~><~Game.2035~> EDBF78
+$tybo<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 423000
+$tybo<~Controls.790~>248<~Controls.791~><~Game.2022~><~Controls.792~><~Game.2023~> A0226F
+$tybo<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> C74F74
+<game> Stella_Rossa<~Controls.1~> 4 3 null
+$Stella_Rossa<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> B96CD9
+$Stella_Rossa<~Scribe.141~>253 037 039 038 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.1954~><~Scribe.144~> D1397D
+$Stella_Rossa<~Controls.644~>103 <~Controls.645~><~Game.2035~> 717854
+$tybo<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> B7504E
+$tybo<~Controls.790~>248<~Controls.791~><~Game.2023~><~Controls.792~><~Game.2024~> AE7D66
+$tybo<~Controls.795~>358<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 27B8D3
+<game> Stella_Rossa<~Controls.1~> 2 6 null
+$Stella_Rossa<~Controls.624~>218<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$tybo<~Scribe.141~>243 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2037~><~Scribe.144~> ACD3E0
+$Stella_Rossa<~Scribe.141~>218 243 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2036~><~Scribe.144~> 44ACF0
+$tybo<~Scribe.141~>247 <~Scribe.142~><~Game.1911~><~Scribe.143~><~Game.1974~><~Scribe.144~> 065266
+$tybo<~Controls.323~>247 A3F39E
+<Stella_Rossa> moria F731B8
+$Stella_Rossa<~Controls.624~>223<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$tybo<~Scribe.141~>242 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> A2E161
+$tybo<~Scribe.141~>252 <~Scribe.142~><~Game.2014~><~Scribe.143~><~Game.2015~><~Scribe.144~> 6C28E2
+$Stella_Rossa<~Scribe.141~>223 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2036~><~Scribe.144~> 8EC2A7
+<Stella_Rossa> morannon 3D9F9E
+$Stella_Rossa<~Controls.624~>228<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$tybo<~Scribe.141~>242 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2037~><~Scribe.144~> 3722B8
+$tybo<~Scribe.141~>246 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.2037~><~Scribe.144~> 37B087
+$tybo<~Scribe.141~>245 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> 148A3E
+$tybo<~Scribe.141~>246 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.1976~><~Scribe.144~> DC014F
+$tybo<~Controls.644~>223 218 243 228 242 <~Controls.645~><~Game.2035~> E5858C
+$Stella_Rossa<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 49F526
+<Stella_Rossa> WR 3E05C3
+$Stella_Rossa<~Controls.840~>193 47B738
+<tybo> nc 0C79FB
+$Stella_Rossa<~Scribe.141~>reveal 193 293506FEDCA7C0FA8A53EE2C3B1CDFAE7A4E3479 14 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2036~><~Scribe.144~> AA3FF7
+<game> Stella_Rossa<~Controls.1~> 1 4 6 6 5 null
+<game> Stella_Rossa<~Controls.1~> 5 1 5 null
+<Stella_Rossa> 4 C96127
+<game> tybo<~Controls.1~> 6 3 null
+<game> tybo<~Controls.1~> 6 null
+<tybo> 2 FF3A26
+$tybo<~Scribe.141~>098 094 088 <~Scribe.142~><~Game.1991~><~Scribe.143~><~Game.2036~><~Scribe.144~> 399504
+$Stella_Rossa<~Scribe.141~>423 <~Scribe.142~><~Game.32~><~Scribe.143~><~Game.388~><~Scribe.144~> F378BC
+$Stella_Rossa<~Scribe.141~>012 013 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.2037~><~Scribe.144~> 4A9651
+$Stella_Rossa<~Controls.509~>173<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Stella_Rossa<~Controls.644~>102 193 098 094 088 012 013 <~Controls.645~><~Game.2035~> A5B000
+$tybo<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 65154C
+$tybo<~Scribe.141~>258 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> 7AF4DD
+$tybo<~Controls.644~>213 <~Controls.645~><~Game.2035~> 79D235
+$Stella_Rossa<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 3BB9A7
+<Stella_Rossa> Erebor 558A0B
+$tybo<~Scribe.141~>062 312 061 059 060 <~Scribe.142~><~Game.1965~><~Scribe.143~><~Game.1988~><~Scribe.144~> 59DCC1
+$Stella_Rossa<~Scribe.141~>257 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 0C4350
+$Stella_Rossa<~Scribe.141~>347 056 052 051 050 054 053 <~Scribe.142~><~Game.1973~><~Scribe.143~><~Game.1965~><~Scribe.144~> 1C92CC
+$Stella_Rossa<~Scribe.141~>419 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1973~><~Scribe.144~> 1A6B1E
+$Stella_Rossa<~Controls.644~>360 <~Controls.645~><~Game.2035~> E0D83C
+$Stella_Rossa<~Controls.757~>105 101 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 7BD766
+$Stella_Rossa<~Controls.762~>360 102 103 361 100 099 104 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 17C3BD
+$tybo<~Scribe.141~>247 <~Scribe.142~><~Game.1974~><~Scribe.143~><~Game.524~><~Scribe.144~> 32715A
+$Stella_Rossa<~Controls.509~>201<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Stella_Rossa<~Controls.509~>185<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Stella_Rossa<~Controls.281~>238 232 <~Controls.282~><~Game.2045~><~Controls.283~><~Game.2044~> 318E6D
+$tybo<~Controls.281~>238 232 <~Controls.282~><~Game.2045~><~Controls.283~><~Game.2044~> 83E55D
+$tybo<~Controls.726~>358 211 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 636269
+<~Game.7~>7 null
+$tybo<~Controls.731~>213 210 212 359 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> F9AF39
+$tybo<~Controls.509~>144<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$tybo<~Controls.509~>131<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+<tybo> ok 86EC69
+$Stella_Rossa<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> 9A5088
+$Stella_Rossa<~Controls.345~>360 102 103 361 100 099 104 105 <~Controls.346~>13 10 15 15 11 14 10 11 null
+$Stella_Rossa<~Controls.350~>360 102 103 361 100 099 104 105 null
+$tybo<~Controls.345~>213 210 212 359 358 211 <~Controls.346~>3 2 4 1 2 2 null
+$tybo<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> ED8BE9
+$tybo<~Scribe.141~>reveal 132 04B32BA978AD41B0E63B7CC56537C12720B4A61C 19 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2036~><~Scribe.144~> F95B2C
+<tybo> pel 57AF0D
+$Stella_Rossa<~Scribe.141~>026 <~Scribe.142~><~Game.1931~><~Scribe.143~><~Game.2037~><~Scribe.144~> 6C75B6
+$tybo<~Scribe.141~>241 <~Scribe.142~><~Game.1937~><~Scribe.143~><~Game.1931~><~Scribe.144~> F5063C
+$tybo<~Scribe.141~>279 280 281 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1931~><~Scribe.144~> C1E324
+$tybo<~Controls.644~>210 132 026 <~Controls.645~><~Game.2035~> 432DE3
+$Stella_Rossa<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> D39842
+$Stella_Rossa<~Scribe.141~>255 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1969~><~Scribe.144~> D15185
+$Stella_Rossa<~Scribe.141~>362 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2037~><~Scribe.144~> E11788
+$Stella_Rossa<~Controls.644~>102 362 <~Controls.645~><~Game.2035~> D52EE2
+$tybo<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 29E45A
+$tybo<~Scribe.141~>273 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1931~><~Scribe.144~> F01AE9
+$tybo<~Controls.644~>213 <~Controls.645~><~Game.2035~> 0A460A
+$Stella_Rossa<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> E3B784
+$Stella_Rossa<~Scribe.141~>034 033 <~Scribe.142~><~Game.1977~><~Scribe.143~><~Game.1969~><~Scribe.144~> 894963
+$Stella_Rossa<~Scribe.141~>253 038 039 037 035 015 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1962~><~Scribe.144~> 3A8B9A
+$Stella_Rossa<~Controls.644~>100 <~Controls.645~><~Game.2035~> 78D19B
+$tybo<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> D49577
+$tybo<~Scribe.141~>241 273 279 280 281 <~Scribe.142~><~Game.1931~><~Scribe.143~><~Game.1935~><~Scribe.144~> 72B8EF
+$tybo<~Controls.296~>420 <~Controls.297~><~Game.1935~> E5728E
+$tybo<~Scribe.141~>065 <~Scribe.142~><~Game.1941~><~Scribe.143~><~Game.1957~><~Scribe.144~> FA3FAE
+$tybo<~Scribe.141~>065 <~Scribe.142~><~Game.1957~><~Scribe.143~><~Game.1941~><~Scribe.144~> 386DDA
+$tybo<~Scribe.141~>073 072 <~Scribe.142~><~Game.1925~><~Scribe.143~><~Game.1923~><~Scribe.144~> A061E5
+$tybo<~Controls.644~>212 <~Controls.645~><~Game.2035~> B211E0
+$Stella_Rossa<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 03D798
+$Stella_Rossa<~Scribe.141~>040 022 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.1944~><~Scribe.144~> 3FB25B
+$Stella_Rossa<~Scribe.141~>255 036 034 033 <~Scribe.142~><~Game.1969~><~Scribe.143~><~Game.1955~><~Scribe.144~> CAD6E2
+$Stella_Rossa<~Controls.644~>105 <~Controls.645~><~Game.2035~> 302312
+$tybo<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 7C7DF6
+$tybo<~Scribe.141~>423 <~Scribe.142~><~Game.388~><~Scribe.143~><~Game.33~><~Scribe.144~> EE694D
+$tybo<~Controls.509~>153<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$tybo<~Controls.644~>358 <~Controls.645~><~Game.2035~> 039D0B
+$Stella_Rossa<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 1C2B98
+$Stella_Rossa<~Scribe.141~>253 038 039 037 035 015 <~Scribe.142~><~Game.1962~><~Scribe.143~><~Game.1965~><~Scribe.144~> 1CEC95
+$Stella_Rossa<~Scribe.141~>255 036 034 033 <~Scribe.142~><~Game.1955~><~Scribe.143~><~Game.1943~><~Scribe.144~> E4610A
+$Stella_Rossa<~Controls.644~>104 <~Controls.645~><~Game.2035~> F9C183
+$Stella_Rossa<~Controls.323~>255 E1220C
+$tybo<~Scribe.141~>359 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 75B5B8
+<tybo> MT 406996
+$Stella_Rossa<~Scribe.141~>040 022 023 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.1994~><~Scribe.144~> 7C5633
+$tybo<~Scribe.141~>241 273 279 280 281 <~Scribe.142~><~Game.1935~><~Scribe.143~><~Game.1944~><~Scribe.144~> 71360B
+$tybo<~Controls.644~>359 <~Controls.645~><~Game.2035~> CD51B4
+$Stella_Rossa<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 74599F
+$Stella_Rossa<~Scribe.141~>reveal 185 5345E79AF994AE9B1F05C3EF063D3BFF989207D5 15 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 266DF7
+$Stella_Rossa<~Scribe.141~>336 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1994~><~Scribe.144~> 49DD6A
+$Stella_Rossa<~Controls.644~>099 185 <~Controls.645~><~Game.2035~> B205F1
+$tybo<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 81D4F6
+$tybo<~Controls.366~>250<~Controls.367~><~Game.2009~><~Controls.368~><~Game.2011~> 52207E
+$tybo<~Controls.323~>247 3367FC
+$tybo<~Controls.644~>211 <~Controls.645~><~Game.2035~> 5D98A1
+$Stella_Rossa<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> F74714
+<Stella_Rossa> Erebor A7EA44
+$Stella_Rossa<~Controls.840~>201 FA688D
+<tybo> nc 267B78
+$Stella_Rossa<~Scribe.141~>reveal 201 74B4930387A301AF180B456DCF5CA9A8A9B6A9F7 18 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2036~><~Scribe.144~> 250126
+<game> Stella_Rossa<~Controls.1~> 3 4 5 5 5 null
+<game> Stella_Rossa<~Controls.1~> 3 5 3 2 null
+<Stella_Rossa> 1 0F6022
+<game> tybo<~Controls.1~> 5 4 1 3 null
+<game> tybo<~Controls.1~> 5 null
+<tybo> 2 89F809
+$Stella_Rossa<~Controls.281~>054 050 <~Controls.282~><~Game.1965~><~Controls.283~><~Game.2040~> BEC3E2
+<Stella_Rossa> press 2EFDCA
+$tybo<~Controls.304~>312 <~Controls.305~><~Game.1988~> DADC7C
+$tybo<~Controls.313~>317 <~Controls.307~><~Controls.314~><~Game.1988~> B1800F
+$Stella_Rossa<~Controls.304~>035 <~Controls.305~><~Game.1965~> 9A0C48
+$Stella_Rossa<~Controls.313~>026 <~Controls.307~><~Controls.314~><~Game.1965~> 1E2181
+$Stella_Rossa<~Controls.509~>205<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Stella_Rossa<~Controls.662~>201 <~Controls.663~><~Game.2035~> 6008AE
+$Stella_Rossa<~Controls.840~>173 9A1D92
+<tybo> nc 1C995A
+$Stella_Rossa<~Scribe.141~>reveal 173 31134FBB0F2420E2D2F4C803FCA2CFDC1AFC89BD 21 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2036~><~Scribe.144~> 2F26E5
+<game> Stella_Rossa<~Controls.1~> 6 6 3 3 6 null
+<game> Stella_Rossa<~Controls.1~> 1 1 null
+<Stella_Rossa> 3 C58D9D
+<game> tybo<~Controls.1~> 6 5 3 3 null
+<game> tybo<~Controls.1~> 2 3 null
+<tybo> 2 CD4F28
+$Stella_Rossa<~Controls.281~>053 051 <~Controls.282~><~Game.1965~><~Controls.283~><~Game.2040~> 0FA99C
+<Stella_Rossa> press 2DA713
+$Stella_Rossa<~Controls.304~>056 <~Controls.305~><~Game.1965~> 897C13
+$Stella_Rossa<~Controls.313~>053 <~Controls.307~><~Controls.314~><~Game.1965~> 0B4B8E
+$tybo<~Scribe.141~>061 317 <~Scribe.142~><~Game.1988~><~Scribe.143~><~Game.2036~><~Scribe.144~> 901C58
+$Stella_Rossa<~Controls.662~>173 061 317 <~Controls.663~><~Game.2035~> 644292
+$Stella_Rossa<~Controls.840~>205 C9C29A
+$tybo<~Controls.840~>131 83D353
+<auto> playchosen 22AC70
+<auto><~Controls.3~>reveal 131 53B18D605E66462281F0E7E11DDDDA450F8B575C 8<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> DFE61E
+<auto><~Controls.866~>reveal 205 833655E02A13EC5418D1B9369C16E3CFD424A826 11<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> DC7F86
+<auto> playchosen DD1ED7
+<game> Stella_Rossa<~Controls.1~> 1 5 3 3 1 null
+<game> Stella_Rossa<~Controls.1~> 3 5 1 5 6 null
+<Stella_Rossa> 1 57FF7C
+<game> tybo<~Controls.1~> 4 5 null
+<game> tybo<~Controls.1~> 3 null
+<tybo> 1 45D510
+$Stella_Rossa<~Controls.281~>053 <~Controls.282~><~Game.1965~><~Controls.283~><~Game.2040~> E01327
+<Stella_Rossa> press BA2821
+$tybo<~Scribe.141~>059 <~Scribe.142~><~Game.1988~><~Scribe.143~><~Game.2036~><~Scribe.144~> ED6A1C
+$Stella_Rossa<~Controls.304~>347 <~Controls.305~><~Game.1965~> 0146C1
+$Stella_Rossa<~Controls.313~>053 <~Controls.307~><~Controls.314~><~Game.1965~> 832249
+$Stella_Rossa<~Controls.662~>205 059 131 <~Controls.663~><~Game.2035~> 79FF5D
+<Stella_Rossa> nc E64161
+<tybo> nc 2B50C6
+<game> Stella_Rossa<~Controls.1~> 5 3 1 6 null
+<Stella_Rossa> 1 212D61
+<game> tybo<~Controls.1~> 4 null
+<game> tybo<~Controls.1~> 6 null
+$Stella_Rossa<~Scribe.141~>423 <~Scribe.142~><~Game.33~><~Scribe.143~><~Game.389~><~Scribe.144~> 5D10E5
+$tybo<~Scribe.141~>062 060 <~Scribe.142~><~Game.1988~><~Scribe.143~><~Game.2036~><~Scribe.144~> C8B869
+$Stella_Rossa<~Controls.644~>360 062 060 <~Controls.645~><~Game.2035~> DB3C03
+$Stella_Rossa<~Controls.757~>103 361 101 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> D30EA2
+$Stella_Rossa<~Controls.762~>360 099 104 105 100 102 362 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 7BA577
+$Stella_Rossa<~Controls.281~>053 <~Controls.282~><~Game.1965~><~Controls.283~><~Game.2040~> 85AFDF
+$tybo<~Controls.731~>211 359 358 212 213 210 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 2A9B22
+<~Game.7~>8 null
+$Stella_Rossa<~Controls.509~>208<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Stella_Rossa<~Controls.509~>192<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$tybo<~Controls.509~>149<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$tybo<~Controls.509~>119<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$tybo<~Controls.296~>108 <~Controls.297~><~Controls.45~> 7325CA
+<tybo> ok A96C51
+$Stella_Rossa<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> D1EF2C
+$Stella_Rossa<~Controls.345~>360 099 104 105 100 102 362 103 361 <~Controls.346~>14 12 13 13 10 14 15 10 14 null
+$Stella_Rossa<~Controls.350~>360 099 104 105 100 102 362 103 361 null
+$tybo<~Controls.345~>211 359 358 212 213 210 <~Controls.346~>3 2 4 1 1 1 null
+$tybo<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 58D0FA
+<tybo> MT 66721D
+$tybo<~Controls.840~>144 D3F598
+<Stella_Rossa> nc 49E9EE
+<auto><~Controls.861~>reveal 144 99151DD6A60F5217BE154407A315F12AE8EC2192 23<~Controls.862~><~Controls.45~><~Controls.863~><~Game.2037~> 7884ED
+<game> tybo<~Controls.1~> 3 1 3 1 4 null
+<game> Stella_Rossa<~Controls.1~> 6 1 1 null
+<game> Stella_Rossa<~Controls.1~> 5 null
+<Stella_Rossa> 2 E7BFF7
+<tybo> 2 C5C1E4
+$Stella_Rossa<~Controls.281~>336 <~Controls.282~><~Game.1994~><~Controls.283~><~Game.2041~> 020D9D
+$tybo<~Scribe.141~>281 280 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.2036~><~Scribe.144~> 2E9D61
+<tybo> press 9D879B
+$tybo<~Controls.304~>273 <~Controls.305~><~Game.1944~> 8EB3CF
+$tybo<~Controls.313~>078 <~Controls.308~><~Controls.314~><~Game.1944~> 8112B3
+$Stella_Rossa<~Controls.662~>281 280 144 <~Controls.663~><~Game.2035~> 5CBDD6
+$tybo<~Controls.840~>119 2AC077
+<Stella_Rossa> nc 49D3A9
+<auto><~Controls.861~>reveal 119 86409FFBD1DC0B98DFB89569A3EFD68FC689C968 9<~Controls.862~><~Controls.45~><~Controls.863~><~Game.2037~> 395D9A
+<game> tybo<~Controls.1~> 4 4 null
+<tybo> 0 87441A
+<game> tybo<~Controls.1~> 2 3 4 null
+<game> tybo<~Controls.1~> 5 6 null
+<tybo> 1 C37A98
+<game> Stella_Rossa<~Controls.1~> 3 5 null
+<game> Stella_Rossa<~Controls.1~> 5 null
+<Stella_Rossa> 2 CFAC47
+<tybo> oof E7B775
+$Stella_Rossa<~Scribe.141~>023 <~Scribe.142~><~Game.1994~><~Scribe.143~><~Game.2037~><~Scribe.144~> 6B987E
+$tybo<~Scribe.141~>241 078 279 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.2036~><~Scribe.144~> B0E6A3
+$Stella_Rossa<~Scribe.141~>040 022 <~Scribe.142~><~Game.1994~><~Scribe.143~><~Game.1944~><~Scribe.144~> F1324B
+$Stella_Rossa<~Controls.644~>212 241 078 279 119 023 <~Controls.645~><~Game.2035~> 146B63
+$tybo<~Controls.281~>212 <~Controls.282~><~Game.2039~><~Controls.283~><~Game.2038~> CFB4F3
+<tybo> well 8E8739
+<Stella_Rossa> gg I guess 949148
+<tybo> looks like it C81708
+<tybo> you can play 4C518D
+$Stella_Rossa<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> DA88A6
+$Stella_Rossa<~Scribe.141~>034 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.1935~><~Scribe.144~> 0658F8
+$Stella_Rossa<~Scribe.141~>042 <~Scribe.142~><~Game.1924~><~Scribe.143~><~Game.1931~><~Scribe.144~> 074ABC
+$Stella_Rossa<~Scribe.141~>420 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1924~><~Scribe.144~> 38F47D
+$Stella_Rossa<~Scribe.141~>423 <~Scribe.142~><~Game.389~><~Scribe.143~><~Game.391~><~Scribe.144~> E30BA7
+$Stella_Rossa<~Controls.644~>099 <~Controls.645~><~Game.2035~> 77AA31
+$tybo<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 3B8137
+$tybo<~Scribe.141~>258 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 3B9D44
+$tybo<~Controls.644~>211 <~Controls.645~><~Game.2035~> 165CC0
+$Stella_Rossa<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 4FDB35
+<Stella_Rossa> Dale nc 03CCAD
+<tybo> hm 0E1DC4
+<tybo> nc 60B6CD
+<game> Stella_Rossa<~Controls.1~> 5 6 5 null
+<Stella_Rossa> 1 805857
+<game> tybo<~Controls.1~> 1 null
+$Stella_Rossa<~Scribe.141~>423 <~Scribe.142~><~Game.391~><~Scribe.143~><~Game.392~><~Scribe.144~> 08B00E
+<game> tybo<~Controls.1~> 5 null
+<tybo> 1 F753DF
+$Stella_Rossa<~Controls.281~>052 <~Controls.282~><~Game.1965~><~Controls.283~><~Game.2040~> 4A336C
+$tybo<~Scribe.141~>068 066 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.2036~><~Scribe.144~> 26B57F
+$Stella_Rossa<~Scribe.141~>253 038 039 037 026 015 <~Scribe.142~><~Game.1965~><~Scribe.143~><~Game.1970~><~Scribe.144~> C8399B
+$Stella_Rossa<~Scribe.141~>418 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1965~><~Scribe.144~> 4FA1BB
+$Stella_Rossa<~Controls.644~>104 068 066 <~Controls.645~><~Game.2035~> 2F4E09
+$tybo<~Scribe.141~>359 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 52AAC4
+$tybo<~Scribe.141~>reveal 153 AF00590E20427E17C1E880A0DA2911F7AF36D7DF 15 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> DD1B3F
+<Stella_Rossa> lol 0B49ED
+$tybo<~Scribe.141~>298 299 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1941~><~Scribe.144~> 7724D2
+$tybo<~Controls.644~>359 153 <~Controls.645~><~Game.2035~> 894E8F
+$Stella_Rossa<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 430352
+$Stella_Rossa<~Controls.509~>184<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Stella_Rossa<~Controls.644~>102 <~Controls.645~><~Game.2035~> C4ED10
+<tybo> maybe should have used it on dale CF2D3C
+$tybo<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> FB6A11
+$tybo<~Scribe.141~>302 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1941~><~Scribe.144~> 65A00C
+$tybo<~Controls.644~>358 <~Controls.645~><~Game.2035~> 56023E
+$Stella_Rossa<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> C68A06
+$Stella_Rossa<~Scribe.141~>011 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1970~><~Scribe.144~> D493BE
+$Stella_Rossa<~Scribe.141~>255 036 033 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.1942~><~Scribe.144~> 95CDD3
+$Stella_Rossa<~Controls.644~>103 <~Controls.645~><~Game.2035~> 9042CF
+$tybo<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 343665
+$tybo<~Scribe.141~>298 302 299 065 <~Scribe.142~><~Game.1941~><~Scribe.143~><~Game.1957~><~Scribe.144~> FAFA57
+$tybo<~Controls.644~>210 <~Controls.645~><~Game.2035~> C1494E
+$Stella_Rossa<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 927A25
+$Stella_Rossa<~Scribe.141~>reveal 208 FE9A6A1D64B1A7E09D40331FADB6EB3E1C213902 20 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2036~><~Scribe.144~> EA37CE
+<Stella_Rossa> OFR 7BF413
+<game> Stella_Rossa<~Controls.1~> 4 2 1 3 null
+<Stella_Rossa> 0 0473F4
+$Stella_Rossa<~Controls.644~>360 208 <~Controls.645~><~Game.2035~> D9DF7C
+$tybo<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> D17141
+<tybo> dale 207648
+<tybo> nc 1BFD67
+<Stella_Rossa> nc 2D8BA4
+<game> tybo<~Controls.1~> 1 6 5 null
+<game> tybo<~Controls.1~> 2 null
+<tybo> 1 1891A4
+<game> Stella_Rossa<~Controls.1~> 6 2 null
+<game> Stella_Rossa<~Controls.1~> 5 null
+<game> Stella_Rossa<~Controls.1~> 6 null
+<Stella_Rossa> 3 9BFBB5
+<tybo> one more B54043
+<tybo> lol 9CDEF4
+$Stella_Rossa<~Controls.281~>011 <~Controls.282~><~Game.1970~><~Controls.283~><~Game.2040~> 952D2E
+<Stella_Rossa> lol 566B22
+$tybo<~Controls.296~>302 <~Controls.297~><~Game.1957~> 109653
+$tybo<~Controls.304~>299 <~Controls.305~><~Game.1957~> 71E78F
+$tybo<~Controls.313~>066 <~Controls.308~><~Controls.314~><~Game.1957~> C5398D
+<tybo> press F8A6C2
+<Stella_Rossa> stay 0AB8D7
+<tybo> nc F6D466
+$Stella_Rossa<~Scribe.141~>reveal 184 B1007CE56960481C6524C7F0F165817DC6940AA5 16 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> D155CB
+<game> tybo<~Controls.1~> 5 5 null
+<tybo> 2 8F6A9F
+<game> Stella_Rossa<~Controls.1~> 2 1 null
+<game> Stella_Rossa<~Controls.1~> 3 1 null
+$Stella_Rossa<~Scribe.141~>253 038 039 037 026 015 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.2036~><~Scribe.144~> 6775B4
+$tybo<~Scribe.141~>298 066 065 <~Scribe.142~><~Game.1957~><~Scribe.143~><~Game.1970~><~Scribe.144~> 2084C3
+$Stella_Rossa<~Scribe.141~>423 <~Scribe.142~><~Game.392~><~Scribe.143~><~Game.391~><~Scribe.144~> F68CDD
+<tybo> gg anyways 812DF9
+$Stella_Rossa<~Controls.644~>213 253 038 039 037 026 015 184 <~Controls.645~><~Game.2035~> 58E085
+$Stella_Rossa<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 67498F
+$Stella_Rossa<~Scribe.141~>255 036 033 <~Scribe.142~><~Game.1942~><~Scribe.143~><~Game.1933~><~Scribe.144~> FDB7E5
+$Stella_Rossa<~Controls.644~>105 <~Controls.645~><~Game.2035~> CCECA0
+<Stella_Rossa> yes E3D996
+$Stella_Rossa<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 44B7E1
+$Stella_Rossa<~Scribe.141~>255 036 033 <~Scribe.142~><~Game.1933~><~Scribe.143~><~Game.1929~><~Scribe.144~> 944D6C
+$Stella_Rossa<~Scribe.141~>417 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1933~><~Scribe.144~> 704539
+$Stella_Rossa<~Scribe.141~>423 <~Scribe.142~><~Game.391~><~Scribe.143~><~Game.392~><~Scribe.144~> F0BBD1
+<tybo> well might have messed up on the end DA8D80

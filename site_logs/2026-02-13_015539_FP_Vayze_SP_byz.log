@@ -1,0 +1,899 @@
+<auto> silent null
+<auto><~Scribe.141~>363 397 398 402 401 400 399 403 404 376 375 374 373 377 378 <~Scribe.142~><~Game.2038~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>365 366 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 367 368 369 370 371 372 <~Scribe.142~><~Game.2040~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>230 231 <~Scribe.142~><~Game.2044~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>155 152 <~Scribe.142~><~Game.2004~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>137 151 <~Scribe.142~><~Game.2005~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>161 198 <~Scribe.142~><~Game.2006~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>163 188 <~Scribe.142~><~Game.2007~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Controls.323~>364 null
+<auto> noisy null
+<auto> silent null
+<auto><~Scribe.141~>312 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1965~><~Scribe.144~> null
+<auto> noisy null
+<~Game.7~>1 null
+<auto> silent null
+<auto><~Scribe.141~>363 397 398 402 401 400 399 403 404 376 375 374 373 377 378 <~Scribe.142~><~Game.2038~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>365 366 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 367 368 369 370 371 372 <~Scribe.142~><~Game.2040~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>230 231 <~Scribe.142~><~Game.2044~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>155 152 <~Scribe.142~><~Game.2004~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>137 151 <~Scribe.142~><~Game.2005~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>161 198 <~Scribe.142~><~Game.2006~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>163 188 <~Scribe.142~><~Game.2007~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Controls.323~>364 null
+<auto> noisy null
+$base silent null
+$TEST<~Scribe.141~>312 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1965~><~Scribe.144~> null
+$base noisy null
+<game> Vayze<~Controls.408~>[WOTR-Gandalf2 wotr base2] null
+<~Talker.31~> null
+<Vayze> hi 
+<Byz> Hey! 
+<Byz> How are ya 
+<Vayze> good 
+<Byz> Want to try muster points again? 
+<Vayze> ok 
+<game> Byz<~Controls.1~> 6 null
+<game> Vayze<~Controls.1~> 2 null
+<Byz> bid 1 pt shadow 
+<Vayze> ok i'll take it 
+<Vayze> good luck! 
+<Byz> glhf! 
+$Byz<~Controls.479~>901A0C0D70BD34A4687F473DF88EC66FBDB40D65 CBA2B3E9A8A8C3AEF33637A3C84DB46E 24 7B11EB431EC4796628AE53D9FB77EA3EE77597C8 D37F02A49C6CE3E0BE6DEBAD22111D8C E7FD9490C5661AB187D3EBCA179FBC9418CF5D85 C1C49B2DB9569EB7F3D915E3A1D9B0DD 64B716ADBE92BA17478463A8F3CB868B6B4BD4F0 2F6AA7922C50C71AE5F662D33A7F0061 70680D9934074CDA197C4A7AA51523801B95AD84 D5C96275A9FC1554FE2EA7BBDDA36E35 122B8CC88738404B909D79908707606095F1933E 072C1BF19C93A9BCE20EAA48C3D1D6E6 A35B03777ECA7222CCFB8EEC80322251B07374B4 81290556A4984352D406CF850BAB57A9 B66A33F82B796DCF23A79CFC0A793867D1DBBA88 67E581794127910A585E3E0F84FED752 E94E3990855F2F5D6F876E72AF685EF750A95587 8663EF8FCBC5103D1A3E37B5CCD50770 0FC977B2D09BA4BA362213DFCD0D04117288E151 DF7E3163A5F38DA20EF45D7599D01BC5 068147B4CAD0AC181162949447FCC2FDFD832E24 6644F57FB2E60AC3D7D567865661921F 3D9C9FB49C8C344BA75D0B391FFF1D0057F0BFAD 07B688EB082C847B6C65B84CF1BE37AB 7E2A81BD725D0FF24B88EB47D4C31A4E48C854D3 E9393DA9E41F81C3F99B9971F39F962A C58558257C48D18180CC195B18FACB83679D76A8 F539EBD8DC701F72027FF32CD01251FF FF6578A7D268C6E38597FE468648A6E1CE32BEAB 99B7915C5A227752CE6305A98007BEEA 38B18E8BE4F2B05C07DC943153BBB49237A79499 C8D7749148C217F30285E5724D5EDDBF 7E33ECB41289B1D2F3FB9A9D6D179AD946010F2A 45ABCADD08C636CB8BCEB13FEE8F7DDE 0ADF8374A0E027873C6242B877F8989544040623 21B7353FA742324DC103A727D5428B89 80571A1FAD961E2A82EAD6BDE26C72521CF4037F 8201410C51748A78C9A30174C56134E1 8CA6E5220F95CB1DAA08BA57C035E8834B6A9837 A5A6092406C9A7583A30DE7CA6870D32 7E70AA18E4B463E5690C79E620733CBB4840E147 253A7E7F8D62EA7002BA84FF9CD4012E 46C18BD1DF40F80F65D445796E0463FA816DB2E6 7C785CAFA943DB6C8AD8E5155580C29F 2853F373951F6E747B0BC3B2F4A0235A11C0AF3A CA0C9A3D8A9C2604186FCD3BA2BDECEE 950E376CCF296572711EC19F58635947D110BC4A D56E6D2086EA891075E4B1E749C371DF E8C01FB905E935F98C3D2455EFA770008D71A61D 501DF8AC08DF577FCFB04C62180E36F3 24 BF8E75C5B5AE731B4152A4506FE04143355D3BD9 60B8E37FC841DF6BE06593133D309AA6 376852EE5B62F09323FA1D0EC184E519E5F30C71 5BC057273C42211B4E95762BD5C1F0E8 9B325D0696055E3E455FD1CCBE139C6518F590AE D2FCC5834DEC164755393EC3C2460A06 6311C737C2F1C4644F6F1602EE7B6A24323482B0 D1CF67A04EB48C9FA383B197C11D391F 65DED8FCDC388D5995E6DACCE4B567F6AE79DFE3 65F92681294E964B8236B2B6BACCBC0D 0B547C96C61C60B43041EB03E20C2F5224B9F981 5E8F5026DB430CA83CECD1BA5A3EA567 A4902A5149A06CF8F322E2CB942C4C543241CFEE 552D19E721FFA750BAF0E9E6DFC43388 72ED37BAD92EE4A3992847A456183D9C9444128C F0A0E59E733A6A796E9124F932F6C826 C13EE02674E3696C3B4F9F6EB20F4A263240C342 6496BBDE310D43B87207715A3AB5CBC0 E10987E87BEEF2DEE97CA3717C34A633200830CC 3B0972081C07B20AF15F49436EFCE604 AC11BDC88315D7CEA3B3546A2CBA81DB1404A503 567D7194070F8843C506440BAC3DC17D 5CE47331191D60E25EEDB88724869F97AA85FA91 354450B1CDF85B3961D76084496B29F9 F04053963BAB8A1A728CCB7E893FF54274ED345B 7652975E8506DE51F1D79B8768FEE2F3 B85D108F2387068931673EF8F8F45AA356D853F1 9B69C04DF4C84520BF024EA48F8EFB9A 0FCA2EFF4DA415E20AE80AE6FE77C0BF94383D91 109A466E4313D930D8C186C977CE297F A076D43C1B4DC4BD83B7D3D5328AAC3DEF10AF4D 6B61AE8FF1F54130EF000F3622025FBE EC27B491CEE1AE6C75BAB775FFB89C6EB2F3CE24 F5E8FAF60AF554FE80F9709B3342B158 08564BF435B2100076BFAE46DE3C0702CA3C066F 68285AE898ED47F8381D6E2879205661 3F3CA0AF5CD10702382264230556E77D344FD7C6 FAF029C25A5E6DA193C2FEC1CC81CA57 151DBBD63FAE05A4E989E2B40A3E330BCADC087D 9A241468B3078F82C7778D951CC1BDD9 1D46E4BFA1377DE0FEA11D6CFE5A9F4EC18782F3 789D20F4E5163E8AE01FDA0DC66F2309 05A474062DB20FE23887F34A97B5614A22027081 CB897F447E501ECB2B3E0F1C29473004 7C365C9C9AE22251017BB5AE28E24AEE86499862 CE3FB75F12EE943BD813566A791F3C0C 5CBD5AF07B4F7D29BC5727C9E0B652ECA695361F 0ACE0C6A29239B1BDA73DC02D2FFCBED 0 0 7AF03E
+$Byz<~Controls.509~>193<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Byz<~Controls.509~>195<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Vayze<~Scribe.141~>281 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1920~><~Scribe.144~> 
+$Vayze<~Scribe.141~>303 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1941~><~Scribe.144~> 
+$Vayze<~Controls.464~>4550FA284175B128A1A73183C568A64938A5D3FD 4C194BF63055D54C85FCBB82CFBB3F38 24 FF7C282F3C6FD8271513C8FDAE762E0A7DF4673A 6D1DC134204F3CA2F7020BB8D40EE6ED F052BF83C4146DE0524F9A9FDB8FEDAB029C3498 276B0FFD3DF37A9FEBCE4FA069B0EA90 6ED704BF2730697693D3A7C913603B0335485E24 4B20084F56E06FB9784A445DC0465418 81CB3D8C3BE6C6693C393A0878F986F2A8F3B120 C0A70ED156B842BA82C7D5335BF8F274 00C83C935875A968A38D4817B214CB8E6810BB2A 840E028EFDEA3BFE6206144AE4974D87 36F4E9D687141561BFC39ACD7C91A67FFEAC0E4F F1240900D2F74115C682B7573E39158C D5C6FA0BB37EA27FF2F1FC2CDE2C770CC288DA97 41F028DC575B94B9D42AC568D783941F 8C449FA250D3EA65147BD5F17D508F876C34EB9E 5430124A7E9B2B8195E493C13F5611FA CE6FCB0BFA877F54E58111ED7318E219EA2CA8F3 B0FD1AF75C27A9599085DA78FE8E6C97 C46EB6FFFD75F5CE8311D1FC235462261AAEDC90 C8C325FF1BFE38E6B520B3ADA10EB5B4 9A544C75D18219731C403346CC6F9484F60351FE 801B87BA355172967DCEEAB6164720DC F66A989427622F91F751EFB9CA388AA7E2FA78B5 F04910A1DF9563944E53C30439EC2B9C 47643CABB60E9389E29CC7D5ADE1CDA2F155D6A1 68677C28C2B9C9F92348BE10AE99D1D6 363872CCF34D1FF5DFEB53EC63324540367A1109 B372DA9BF06E39906CA95FE6F081EE3A CC146DD0E734EDCF55532E0C778512C9A952F6D5 A0D46EB215C3FC6032F04FF6AA7A8E31 4D2035752484C6AE28F4DF8F2BDD16B55D21ACD1 BD172B3BEC75D6A67E1924D145FAEAA3 7803E6140490728A77425313F743713A8A94D59E 65D8829EF5C2FF20FB3F948AC2DAE322 107DC582C3A78A6BC4D3067AB6A5665789224674 FD30519F6492CC1ADAAB4F37C8F5C05E E020F261E4B145A1F1FBF622019F18C022CA1FD2 7A26F2845C45ADB1F57C27B100EE6813 0BC5F86FE0CAE85C0721556C0534904828C08AE4 25D9E7585D91046B3753376DA0B92AB3 23945477D1A82B242AEC6C55461A529EA3AFC2B9 A27D9BC9F91EBB273A99453846C2FC25 4EA41D6F49E72EAF14883B68886DAD966245ADC7 2E62467ECDDFE10B31550B8506AEEDED 54AB3ADAA287EBAF126AA2E2DAF8AD68FAC6783B 27840FA6AF4F4F5007A4AD28C625B048 F7E7552808884EDFCC09653DE40BB4C0DEE3CEFE D1792E82241533EAC842B1D9C82CEC6A 24 B94FAE79383CFB757EE91D249AF778EDD9D3AF29 56B4ACD014B55EF440CA521788DD9579 5750DC9006241E8A631AFB1638BC768BE6FD2D24 0E5E6ACFC04DB936E180B4C0C79F3249 910FA2C95AFA573A7620972D84FF57FAE56B4398 01599C0DF38C3FA5E9E6FC2EE72BF357 30A3E5B8253D2391759A21A15697495FAD86F883 A9214D3177555048C3608F1979EF19AF 2B8E0B85D67C205B28847D76E1A147CDBF0652B1 FB99C2FECAC71977AEA33A8A14A78AEF 39819E025626ACA54E1BB53F1BA8177B13C218A6 A800475D12A2015A9CC8CE366841D96D CF41E0598077F385CAEB7537959B01AFE5668847 9F98F3574D2B1F395C294760925FFBE8 4218B73AED09E1B2302168507D348AF7B5580B34 D6C4FF85CC1D8C89FA6BD2EBB00621A5 E01E6C0DA139DC2C5B4D2187404F5272AA02F8F1 4A9CFF34E144B50E6560C579B8566EEF ECADBFAA5950DC92624B741F21595EE350D9D977 443AA9BCD7C12AC252942B60855A99C0 D8D696CFAFD7CB7A01AF56FBDC7D3B051D76E4F5 DD4E68AF222CFBC761C1725C32450C29 A82AAC553213FD64471DC0FF61E3AE49E2B85A4B C3B37B09D700A42E7D79DCA7ABB05DCA 346920BB4F9C1B0A6D2D837AB99519B4D2D46563 3C09D1F95D1555FB87B5339F80B1F514 6C867F38ABDA75DD60653E053E48D50377D18A70 6A9F8E906501EC64362AFA05FCD3CF96 391D6B7B0094F588848B866A24093C43FCBC0A3F D12F7C3717B4E7AC38871BE27656B7FE A56D5CB6F0755898CEA18D1150BB471110F2D037 162B7FCC8DA8E3BC9D04732DE6345CBF 1D22DA2BDFBAD71FA959BC5935D516D5A759A340 099F67FE846D2D4475E251F8BBD9747C 8E81B7E13404A84B1334E1CCB14BC120FE7D5DCC E5F896E45074FE2AB7BEFBC9EA8709BB B69E99E5BE55EDEF825BFD8C9583491BFD5F80E7 D527DAF2105B0FAB64E5F7EB4AD2431A 84931A1CD4839A76312A098362C155DBDB92A00C BAE364682326D986EBFE64191EB4EDA4 5F83F94BA365ACFE611BC4DDB80183B6FFB4FC29 2B1C7433DA1C2CB5CFC06EA6F31E716A 0277EFBA3E7A5D73C8CD0B4EFC0286990A2E0F30 BDD3F9466E3D0B5D8684DB63AC11E269 DBABEADE90AF14838419D0C945B17AE2D544132C 83EB145D347C3659A4E8A131DB8CAA2F F6C8B554F4C609B7175932D2D88DF1AC05ABF065 D8A23BAC0E42BD4A38E0D4AF51F81028 0 0 D758CA
+$Vayze<~Controls.509~>108<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Vayze<~Controls.509~>114<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+<Vayze> fsp good 8A06D3
+<Byz> let's do,.. 1e 9D4639
+$Byz<~Controls.372~>105 407052
+$Byz<~Controls.345~>104 103 102 101 100 099 <~Controls.346~>14 10 13 13 11 14 null
+$Byz<~Controls.350~>104 103 102 101 100 099 null
+$Vayze<~Controls.345~>213 212 211 210 <~Controls.346~>3 1 2 2 null
+$Byz<~Controls.281~>103 <~Controls.282~><~Game.2043~><~Controls.283~><~Game.2043~> 5C9A29
+$Byz<~Controls.281~>100 <~Controls.282~><~Game.2043~><~Controls.283~><~Game.2043~> 32DE38
+<Vayze> pass 73B585
+$Byz<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 4DAD2D
+$Byz<~Controls.509~>207<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Byz<~Controls.644~>099 <~Controls.645~><~Game.2035~> 7C384A
+<Vayze> pass 798A98
+$Byz<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> DEE26D
+$Byz<~Scribe.141~>263 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 88DCD5
+$Byz<~Controls.644~>103 <~Controls.645~><~Game.2035~> EFBF0C
+$Vayze<~Controls.271~>210<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 5F5B42
+$Vayze<~CardBuffet.9~>reveal 108 3A980C3D8ECB0E70FB80DA06225F3289CFB4129B 15<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> F2E02B
+$Vayze<~Scribe.141~>108 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2029~><~Scribe.144~> BFE753
+$Vayze<~Controls.509~>116<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Vayze<~Controls.644~>210 <~Controls.645~><~Game.2035~> CDFA06
+$Byz<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 131891
+$Byz<~Scribe.141~>039 036 029 028 027 026 <~Scribe.142~><~Game.1979~><~Scribe.143~><~Game.533~><~Scribe.144~> 52FC21
+$Byz<~Controls.644~>101 <~Controls.645~><~Game.2035~> 411892
+$Vayze<~Controls.271~>212<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> CF6C60
+$Vayze<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 725EE7
+$Vayze<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 76C6EE
+<game> Byz<~Controls.1~> 5 null
+$Byz<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> E871A8
+$Byz<~Scribe.141~>039 036 029 028 027 026 <~Scribe.142~><~Game.533~><~Scribe.143~><~Game.1974~><~Scribe.144~> FFBC28
+$Byz<~Controls.644~>102 <~Controls.645~><~Game.2035~> D7C7C5
+$Vayze<~Controls.271~>211<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 093580
+$Vayze<~Controls.509~>106<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Vayze<~Controls.644~>211 <~Controls.645~><~Game.2035~> 63AE71
+$Byz<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> A0064D
+$Byz<~Scribe.141~>254 360 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2037~><~Scribe.144~> C7ADC2
+$Byz<~Scribe.141~>254 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.1919~><~Scribe.144~> 0AF8CF
+$Byz<~Controls.644~>100 360 <~Controls.645~><~Game.2035~> B98376
+$Vayze<~Controls.271~>213<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 8C7CB0
+$Vayze<~Scribe.141~>256 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> 5214E5
+$Vayze<~Controls.644~>213 <~Controls.645~><~Game.2035~> 7A12D7
+$Byz<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> A19746
+$Byz<~Scribe.141~>reveal 207 164BB1829878DE59360E374DAB47EED83D7672C3 23 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 5B5F0B
+$Byz<~Scribe.141~>323 322 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1919~><~Scribe.144~> C4F212
+$Byz<~Scribe.141~>331 330 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1914~><~Scribe.144~> 6A5323
+$Byz<~Scribe.141~>329 328 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1910~><~Scribe.144~> A7F66B
+$Byz<~Controls.644~>104 207 <~Controls.645~><~Game.2035~> D30A83
+$Vayze<~Controls.726~>212 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 85A19F
+$Vayze<~Controls.731~>213 211 210 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> EEB83C
+$Byz<~Controls.757~>105 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> C47680
+<~Game.7~>2 null
+$Byz<~Controls.762~>104 100 360 102 101 103 099 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 9A563A
+$Byz<~Controls.509~>208<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Byz<~Controls.509~>185<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Vayze<~Controls.509~>144<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Vayze<~Controls.509~>156<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+<Vayze> fsp good 85A997
+$Byz<~Controls.372~>104 A60412
+<Byz> 1e 0AC97D
+$Byz<~Controls.345~>100 360 102 101 103 099 105 <~Controls.346~>14 14 15 14 13 14 11 null
+$Byz<~Controls.350~>100 360 102 101 103 099 105 null
+$Vayze<~Controls.345~>213 211 210 212 <~Controls.346~>4 4 0 3 null
+$Vayze<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 1DF5FF
+$Vayze<~Scribe.141~>073 072 <~Scribe.142~><~Game.1929~><~Scribe.143~><~Game.1925~><~Scribe.144~> 8A49AB
+$Vayze<~Scribe.141~>303 065 <~Scribe.142~><~Game.1941~><~Scribe.143~><~Game.1957~><~Scribe.144~> 188D81
+$Vayze<~Controls.644~>211 <~Controls.645~><~Game.2035~> 4BE3CB
+$Byz<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 6F157D
+$Byz<~Controls.509~>204<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Byz<~Controls.644~>100 <~Controls.645~><~Game.2035~> 4985C4
+<Vayze> pass 12FCE9
+$Byz<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> D9E76B
+$Byz<~Controls.509~>182<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Byz<~Controls.644~>360 <~Controls.645~><~Game.2035~> 0DFD3E
+<Vayze> pass 1BFE81
+$Byz<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 374217
+$Byz<~Scribe.141~>reveal 204 E8257648BF5E2D2F77F131FD901992FF41154235 9 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 56DB1C
+$Byz<~Scribe.141~>237 <~Scribe.142~><~Game.2046~><~Scribe.143~><~Game.2037~><~Scribe.144~> 87CDC8
+$Byz<~Controls.644~>101 204 237 <~Controls.645~><~Game.2035~> CB5A37
+$Vayze<~Controls.271~>210<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> E53800
+$Vayze<~Controls.790~>248<~Controls.791~><~Game.2015~><~Controls.792~><~Game.2016~> 5F2C09
+$Vayze<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 8AFF88
+<game> Byz<~Controls.1~> 2 5 null
+$Byz<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> B2D20A
+$Byz<~Scribe.141~>331 330 000 <~Scribe.142~><~Game.1914~><~Scribe.143~><~Game.1910~><~Scribe.144~> 3B8696
+$Byz<~Scribe.141~>039 038 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1974~><~Scribe.143~><~Game.1976~><~Scribe.144~> 69994A
+$Byz<~Controls.644~>105 <~Controls.645~><~Game.2035~> B47950
+$Vayze<~Controls.271~>212<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 051617
+$Vayze<~Scribe.141~>256 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> 06AD29
+$Vayze<~Controls.644~>212 <~Controls.645~><~Game.2035~> FF713B
+$Byz<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 63F1B0
+$Byz<~Scribe.141~>reveal 182 AB2C4F3C7718C0852B3C51D30AA420C68AF2FB4C 2 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 90FA7D
+$Byz<~Scribe.141~>038 039 <~Scribe.142~><~Game.1976~><~Scribe.143~><~Game.1917~><~Scribe.144~> 1D3050
+$Byz<~Scribe.141~>040 <~Scribe.142~><~Game.1956~><~Scribe.143~><~Game.1910~><~Scribe.144~> B6EA55
+$Byz<~Scribe.141~>037 <~Scribe.142~><~Game.1969~><~Scribe.143~><~Game.1910~><~Scribe.144~> 372A1E
+$Byz<~Scribe.141~>037 040 331 330 000 329 328 001 <~Scribe.142~><~Game.1910~><~Scribe.143~><~Game.1912~><~Scribe.144~> C552D4
+$Byz<~Scribe.141~>038 039 008 007 <~Scribe.142~><~Game.1917~><~Scribe.143~><~Game.1912~><~Scribe.144~> 642D2F
+$Byz<~Controls.644~>099 182 <~Controls.645~><~Game.2035~> 038F66
+$Vayze<~Controls.271~>213<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> AA14E8
+$Vayze<~Scribe.141~>074 070 <~Scribe.142~><~Game.1918~><~Scribe.143~><~Game.1923~><~Scribe.144~> 08A2C1
+$Vayze<~Scribe.141~>059 <~Scribe.142~><~Game.1973~><~Scribe.143~><~Game.1965~><~Scribe.144~> 5A2E1C
+$Vayze<~Controls.644~>213 <~Controls.645~><~Game.2035~> E79C9D
+$Byz<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> E1BD07
+$Byz<~Scribe.141~>038 039 037 040 331 330 000 329 328 001 008 007 <~Scribe.142~><~Game.1912~><~Scribe.143~><~Game.1908~><~Scribe.144~> 026633
+$Byz<~Controls.644~>103 <~Controls.645~><~Game.2035~> CB9EA6
+$Byz<~Controls.726~>210 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 2204AE
+$Byz<~Controls.731~>213 212 211 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 2923DF
+$Byz<~Controls.757~>102 104 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 8806CA
+<~Game.7~>3 null
+$Byz<~Controls.762~>103 099 105 101 360 100 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> B787AA
+$Byz<~Controls.509~>168<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Byz<~Controls.509~>170<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Vayze<~Controls.509~>157<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Vayze<~Controls.509~>146<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Vayze<~Controls.296~>156 <~Controls.297~><~Controls.45~> D75298
+<Vayze> fsp good 6B987F
+$Byz<~Controls.372~>103 EF2906
+<Byz> 1e 24E2BB
+$Byz<~Controls.345~>099 105 101 360 100 102 104 <~Controls.346~>13 10 11 10 14 15 13 null
+$Byz<~Controls.350~>099 105 101 360 100 102 104 null
+$Vayze<~Controls.345~>213 212 211 210 <~Controls.346~>4 1 4 0 null
+$Vayze<~Controls.271~>211<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 944FE0
+$Vayze<~Scribe.141~>256 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> CDA402
+$Vayze<~Controls.644~>211 <~Controls.645~><~Game.2035~> C312B3
+$Byz<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 361BB2
+<Byz> Rivendell 7F50BD
+<Vayze> not at war yet F40600
+<Byz> Isenguard is 33B787
+<Vayze> k AF4808
+$Vayze<~Scribe.141~>247 096 091 090 <~Scribe.142~><~Game.1911~><~Scribe.143~><~Game.1990~><~Scribe.144~> 405410
+$Byz<~Scribe.141~>038 039 037 040 331 330 000 329 328 001 <~Scribe.142~><~Game.1908~><~Scribe.143~><~Game.1911~><~Scribe.144~> A11B93
+$Vayze<~Scribe.141~>247 <~Scribe.142~><~Game.1990~><~Scribe.143~><~Game.1911~><~Scribe.144~> FAF117
+$Byz<~Controls.644~>099 <~Controls.645~><~Game.2035~> 6036AC
+$Vayze<~Controls.271~>212<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> C90F13
+$Vayze<~Controls.790~>248<~Controls.791~><~Game.2016~><~Controls.792~><~Game.2017~> CF6355
+$Vayze<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 7B26E6
+<game> Byz<~Controls.1~> 5 2 null
+<game> Byz<~Controls.1~> 3 2 null
+$Byz<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> A3C227
+$Byz<~Scribe.141~>253 361 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2037~><~Scribe.144~> 860714
+$Byz<~Scribe.141~>253 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.1976~><~Scribe.144~> 7F7EBE
+$Byz<~Controls.323~>259 258 257 3AF7F8
+$Byz<~Controls.323~>260 16082C
+$Byz<~Controls.644~>360 361 <~Controls.645~><~Game.2035~> DCEF5A
+<Vayze> pass 3DC6CB
+$Byz<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> F604F5
+$Byz<~Scribe.141~>reveal 170 4C554A3C085ED6F59A00F090FEBDAAC653EA6F19 21 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 364C5E
+$Byz<~Scribe.141~>324 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1911~><~Scribe.144~> C8F7F1
+$Byz<~Controls.644~>101 170 <~Controls.645~><~Game.2035~> 641325
+<Vayze> pass BFE04E
+$Byz<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 03AF52
+$Byz<~Scribe.141~>262 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> CCA8C5
+$Byz<~Controls.644~>105 <~Controls.645~><~Game.2035~> BBCEC3
+<Byz> My apologies C08AF9
+<Byz> Recruited WK out of order AC713C
+<Byz> I can do it this turn though 11D6D4
+$Vayze<~Controls.271~>213<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 6598BA
+$Vayze<~Scribe.141~>249 <~Scribe.142~><~Game.2008~><~Scribe.143~><~Game.2011~><~Scribe.144~> 8CA4A8
+$Vayze<~Controls.790~>248<~Controls.791~><~Game.2017~><~Controls.792~><~Game.2018~> 7A9A2C
+$Vayze<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 48AF35
+<game> Byz<~Controls.1~> 4 4 null
+<game> Byz<~Controls.1~> 3 2 null
+<Byz> Impressive EE0511
+$Byz<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> D3F22E
+$Byz<~Scribe.141~>253 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1976~><~Scribe.143~><~Game.1972~><~Scribe.144~> 027C73
+$Byz<~Controls.644~>104 <~Controls.645~><~Game.2035~> 9EC78D
+$Vayze<~Controls.271~>210<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> C771C9
+$Vayze<~Controls.790~>248<~Controls.791~><~Game.2018~><~Controls.792~><~Game.2019~> 2898B8
+$Vayze<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 845FB4
+<game> Byz<~Controls.1~> 2 2 null
+<game> Byz<~Controls.1~> 1 1 null
+<Byz> LOL 45D268
+$Byz<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 06F7F3
+$Byz<~Scribe.141~>reveal 193 D0E5A06122B8048B49BDE6301221A454C9BAD13F 5 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 30E664
+$Byz<~Scribe.141~>253 <~Scribe.142~><~Game.1972~><~Scribe.143~><~Game.1911~><~Scribe.144~> 8B945A
+$Byz<~Scribe.141~>039 <~Scribe.142~><~Game.1911~><~Scribe.143~><~Game.1972~><~Scribe.144~> CDAB87
+$Byz<~Scribe.141~>037 040 <~Scribe.142~><~Game.1911~><~Scribe.143~><~Game.1937~><~Scribe.144~> D7CCE2
+$Byz<~Scribe.141~>037 <~Scribe.142~><~Game.1937~><~Scribe.143~><~Game.1930~><~Scribe.144~> EAD6D6
+$Byz<~Scribe.141~>040 <~Scribe.142~><~Game.1937~><~Scribe.143~><~Game.1953~><~Scribe.144~> 016E5D
+<game> Byz<~Controls.1~> 2 1 null
+<game> Byz<~Controls.1~> 4 1 null
+$Byz<~Controls.624~>217<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2036~> null
+$Vayze<~Scribe.141~>240 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2036~><~Scribe.144~> 2C5CCF
+$Vayze<~Scribe.141~>241 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> 3E2CB2
+$Vayze<~Scribe.141~>247 <~Scribe.142~><~Game.1911~><~Scribe.143~><~Game.1915~><~Scribe.144~> 51DE11
+$Vayze<~Scribe.141~>247 <~Scribe.142~><~Game.1915~><~Scribe.143~><~Game.1912~><~Scribe.144~> 9C5FBC
+$Vayze<~Scribe.141~>247 <~Scribe.142~><~Game.1912~><~Scribe.143~><~Game.1917~><~Scribe.144~> 23218C
+$Vayze<~Scribe.141~>247 <~Scribe.142~><~Game.1917~><~Scribe.143~><~Game.1927~><~Scribe.144~> 842353
+$Vayze<~Scribe.141~>247 <~Scribe.142~><~Game.1927~><~Scribe.143~><~Game.1930~><~Scribe.144~> 66559A
+$Vayze<~Controls.323~>247 CAE3D7
+$Byz<~Controls.624~>224<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2036~> null
+$Vayze<~Scribe.141~>108 <~Scribe.142~><~Game.2029~><~Scribe.143~><~Game.2036~><~Scribe.144~> 16D9A8
+$Byz<~Controls.644~>100 108 224 217 240 193 <~Controls.645~><~Game.2035~> 802F6F
+$Byz<~Controls.726~>210 213 212 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> A32DB1
+$Byz<~Controls.731~>211 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 7C894C
+$Byz<~Controls.757~>102 103 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 4097CC
+<~Game.7~>4 null
+$Byz<~Controls.762~>100 104 105 101 360 361 099 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 39C21E
+$Byz<~Controls.509~>160<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Byz<~Controls.509~>206<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Vayze<~Controls.509~>125<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Vayze<~Controls.509~>119<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Vayze<~Controls.296~>116 <~Controls.297~><~Controls.45~> F6EB5A
+$Vayze<~Controls.296~>146 <~Controls.297~><~Controls.45~> 9E6D99
+$Byz<~Controls.372~>100 21973C
+<Vayze> fsp good 749939
+<Byz> 1e 5C6679
+$Byz<~Controls.345~>104 105 101 360 361 099 102 103 <~Controls.346~>13 11 10 11 14 13 12 14 null
+$Byz<~Controls.350~>104 105 101 360 361 099 102 103 null
+$Vayze<~Controls.345~>211 210 213 212 <~Controls.346~>4 1 0 1 null
+$Vayze<~Controls.271~>211<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 26FD68
+$Vayze<~Controls.323~>247 7827E1
+$Vayze<~Controls.644~>211 <~Controls.645~><~Game.2035~> C6986B
+$Byz<~Scribe.141~>361 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 17C39A
+$Byz<~Scribe.141~>reveal 208 EC60E1AA49CA29AA4D1F14180B2A6C21E365AD92 10 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 5D6612
+$Byz<~Controls.624~>227<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2036~> null
+<Vayze> random 65BD14
+$Byz<~Controls.637~>242<~Controls.638~><~Game.1998~><~Controls.639~><~Game.2037~> null
+$Vayze<~Scribe.141~>252 <~Scribe.142~><~Game.2014~><~Scribe.143~><~Game.2015~><~Scribe.144~> DBB9A7
+$Byz<~Controls.644~>361 227 208 242 <~Controls.645~><~Game.2035~> E53182
+$Vayze<~Controls.271~>212<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 718D9F
+$Vayze<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> EF4D43
+$Vayze<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> FFC9F3
+<game> Byz<~Controls.1~> 5 null
+<game> Byz<~Controls.1~> 4 null
+$Byz<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 4D601E
+$Byz<~Scribe.141~>338 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1917~><~Scribe.144~> 39973F
+$Byz<~Scribe.141~>337 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1956~><~Scribe.144~> AD695D
+$Byz<~Controls.644~>101 <~Controls.645~><~Game.2035~> EDC18D
+<Vayze> pass E26A45
+$Byz<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 4618EE
+<Byz> rivendell B48CA0
+$Byz<~Controls.840~>160 EA252B
+<Vayze> nc CE74B5
+<auto> playchosen E1EFFF
+<auto><~Controls.866~>reveal 160 347E2F80F0C637C3DA5CD3F3ABA68181E994FAA1 20<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> BD9AFD
+<game> Byz<~Controls.1~> 2 4 3 1 1 null
+<game> Byz<~Controls.1~> 1 3 3 2 null
+<Byz> 0 1C1369
+<game> Vayze<~Controls.1~> 3 2 null
+<game> Vayze<~Controls.1~> 1 null
+<Byz> stop draw AB377E
+$Byz<~Controls.509~>194<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Byz<~Controls.644~>099 160 <~Controls.645~><~Game.2035~> 686DEC
+<Vayze> pass 9F8480
+$Byz<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 59E9E2
+$Byz<~Scribe.141~>reveal 206 90A31E2F4E1357EB4BD1FA362EEA1D509F2CC988 14 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> B3062D
+$Byz<~Scribe.141~>341 340 339 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1922~><~Scribe.144~> D4F634
+$Byz<~Scribe.141~>344 343 342 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1956~><~Scribe.144~> 71616D
+$Byz<~Controls.644~>103 206 <~Controls.645~><~Game.2035~> 7DC661
+<Vayze> pass D23BEF
+$Byz<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 7CF0C2
+$Byz<~Scribe.141~>035 344 343 342 337 015 014 013 012 011 <~Scribe.142~><~Game.1956~><~Scribe.143~><~Game.1953~><~Scribe.144~> D3A6CA
+$Byz<~Scribe.141~>039 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1972~><~Scribe.143~><~Game.1975~><~Scribe.144~> FE6A0C
+$Byz<~Controls.644~>102 <~Controls.645~><~Game.2035~> D4AE79
+<Vayze> pass B64DB8
+$Byz<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> B86F35
+$Byz<~Scribe.141~>040 035 344 343 342 337 015 014 013 012 011 <~Scribe.142~><~Game.1953~><~Scribe.143~><~Game.1930~><~Scribe.144~> 044805
+$Byz<~Scribe.141~>039 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1975~><~Scribe.143~><~Game.1966~><~Scribe.144~> 87ABDE
+$Byz<~Controls.644~>360 <~Controls.645~><~Game.2035~> 9C12C4
+$Vayze<~Controls.271~>210<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> D16B4F
+$Vayze<~Controls.790~>248<~Controls.791~><~Game.2015~><~Controls.792~><~Game.2016~> E3E4B7
+$Vayze<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 5B5044
+<game> Byz<~Controls.1~> 5 null
+$Byz<~Controls.624~>225<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Vayze<~Scribe.141~>252 <~Scribe.142~><~Game.2015~><~Scribe.143~><~Game.2017~><~Scribe.144~> E0E037
+$Vayze<~Controls.644~>225 <~Controls.645~><~Game.2035~> 0D76A3
+$Byz<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> F0FAB7
+<Byz> Lorien 9B0219
+$Vayze<~Scribe.141~>097 093 092 087 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.1992~><~Scribe.144~> 49A65D
+$Byz<~Scribe.141~>040 035 344 343 342 337 015 014 013 012 011 <~Scribe.142~><~Game.1930~><~Scribe.143~><~Game.1928~><~Scribe.144~> AC34F6
+$Byz<~Controls.644~>105 <~Controls.645~><~Game.2035~> 5BC4EE
+$Vayze<~Controls.271~>213<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 1CCEE3
+$Vayze<~Scribe.141~>240 <~Scribe.142~><~Game.2039~><~Scribe.143~><~Game.1921~><~Scribe.144~> C7936A
+$Vayze<~Controls.323~>240 67FA6D
+$Vayze<~Scribe.141~>358 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.2037~><~Scribe.144~> 3C0C75
+$Vayze<~Controls.644~>213 358 <~Controls.645~><~Game.2035~> 1B0659
+$Byz<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 36ECE8
+<Byz> rivendell 6A8218
+$Byz<~Controls.840~>195 1A5CAE
+$Vayze<~Controls.840~>114 EB2675
+<auto> playchosen B237A2
+<auto><~Controls.3~>reveal 114 C93AC02DFE17E26E59D3279FCEDB9C07A99C8FA0 6<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 119EE5
+<auto><~Controls.866~>reveal 195 6FA0F1142D9C15620CADFC2C6A42C4298E24CCFF 3<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> ECF88C
+<auto> playchosen 1913B2
+<Byz> no hits 7D62C5
+<game> Byz<~Controls.1~> 4 3 2 null
+<game> Byz<~Controls.1~> 2 5 1 null
+<Byz> lol 79EABD
+<game> Vayze<~Controls.1~> 3 6 null
+<game> Vayze<~Controls.1~> 1 null
+<Vayze> 1 E201C1
+$Byz<~Controls.296~>001 <~Controls.297~><~Game.1911~> 51D118
+<Byz> stop I guess 448394
+$Byz<~Controls.509~>196<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Byz<~Controls.644~>104 195 114 <~Controls.645~><~Game.2035~> 74A25D
+$Vayze<~Controls.726~>210 212 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 669F23
+$Vayze<~Controls.731~>213 358 211 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> BC5558
+$Byz<~Controls.757~>100 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> ECD7CA
+<~Game.7~>5 null
+$Byz<~Controls.762~>104 105 360 102 103 099 101 361 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 763BBF
+$Byz<~Controls.509~>158<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Byz<~Controls.509~>183<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Vayze<~Controls.509~>126<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Vayze<~Controls.509~>143<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Vayze<~Controls.296~>143 <~Controls.297~><~Controls.45~> B6C838
+$Vayze<~Scribe.141~>247 <~Scribe.142~><~Game.1930~><~Scribe.143~><~Game.1937~><~Scribe.144~> 4B7B06
+$Vayze<~Scribe.141~>247 <~Scribe.142~><~Game.1937~><~Scribe.143~><~Game.1942~><~Scribe.144~> 88462B
+$Vayze<~Scribe.141~>248 <~Scribe.142~><~Game.2016~><~Scribe.143~><~Game.2014~><~Scribe.144~> 2E590B
+<Byz> 1e F0DBFF
+<Vayze> fsp good EB4902
+$Byz<~Controls.345~>104 105 360 102 103 099 101 361 100 <~Controls.346~>14 15 11 11 10 14 14 14 15 null
+$Byz<~Controls.350~>104 105 360 102 103 099 101 361 100 null
+<Byz> sorry F9FC99
+<Byz> rightmost was eye anyways 830472
+<Vayze> had to allocate though 5158B7
+<Byz> Yeah I meant to but forgot 9C9E08
+<Byz> But my rightmost rolled die was an eye 5231A3
+<Vayze> you have to  change a P CB9536
+<Byz> I don't know if that's how it works, but that's probably good for me A9E73D
+$Byz<~Scribe.141~>361 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> D18548
+$Vayze<~Controls.345~>213 358 211 210 212 <~Controls.346~>4 2 0 2 3 null
+<Byz> So if you're happy, I'm happy 4DF28A
+<Vayze> it's just how it's supposed to be played E2FA2B
+$Vayze<~Controls.271~>212<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 82D6E2
+$Vayze<~Scribe.141~>265 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1954~><~Scribe.144~> 85FF1A
+$Vayze<~Controls.644~>212 <~Controls.645~><~Game.2035~> 3A3D7D
+$Byz<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 7E076E
+<Byz> Rivendell BF9D08
+$Byz<~Controls.840~>196 3805A6
+<Vayze> nc 098C9F
+<auto> playchosen 5862FB
+<auto><~Controls.866~>reveal 196 A65A94958B737FE1CA66A4AAB3C60C22B8326CDE 17<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 5F5532
+<game> Byz<~Controls.1~> 2 4 1 4 2 null
+<game> Byz<~Controls.1~> 2 3 6 2 null
+<Byz> Wow, a hit! 30559B
+<game> Vayze<~Controls.1~> 2 5 null
+<game> Vayze<~Controls.1~> 3 null
+<Vayze> 1 4E78CB
+$Byz<~Controls.296~>330 <~Controls.297~><~Game.1911~> B8EAA7
+$Vayze<~Controls.304~>090 <~Controls.305~><~Game.1990~> 448FDD
+$Vayze<~Controls.313~>269 <~Controls.307~><~Controls.314~><~Game.1990~> 84407E
+<Byz> stop draw I guess 46638C
+<Byz> This is pathetic orcs 72041E
+$Byz<~Controls.509~>190<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Byz<~Controls.644~>360 196 <~Controls.645~><~Game.2035~> D96AF9
+$Vayze<~Controls.271~>210<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> FB876A
+$Vayze<~CardBuffet.9~>reveal 106 D674F65EBA90AA12FB31AF5E564E2D30C25399A6 21<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> EA312D
+$Vayze<~Scribe.141~>266 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1992~><~Scribe.144~> C54B4B
+$Vayze<~Controls.509~>122<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Vayze<~Controls.644~>210 106 <~Controls.645~><~Game.2035~> FDBDE6
+$Byz<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 8287D2
+<Byz> rivendell 6D9901
+$Byz<~Controls.840~>190 14DC12
+$Vayze<~Controls.840~>122 0A940E
+<auto> playchosen F6198B
+<auto><~Controls.3~>reveal 122 404B3D796EDFDE4CC6FC987171C99B6C1CB1F26C 0<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 01B19D
+<auto><~Controls.866~>reveal 190 4390A95D583E82799AE6A594AB98746070B82AAD 19<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> F8ADBE
+<auto> playchosen D05FA3
+<game> Byz<~Controls.1~> 2 5 1 2 4 null
+<game> Byz<~Controls.1~> 5 5 null
+<Byz> enough 95873D
+<game> Vayze<~Controls.1~> 2 4 null
+<game> Vayze<~Controls.1~> 1 null
+<Vayze> 1 5F667C
+$Vayze<~Controls.296~>096 091 269 <~Controls.297~><~Game.1990~> 9CD087
+$Byz<~Controls.296~>324 <~Controls.297~><~Game.1911~> 89BEA9
+$Byz<~Controls.509~>164<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Byz<~Controls.644~>102 190 122 <~Controls.645~><~Game.2035~> 27AC30
+$Vayze<~Controls.271~>211<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> D6F6A6
+$Vayze<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 33B16E
+$Vayze<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 2440FD
+<game> Byz<~Controls.1~> 5 5 1 null
+$Vayze<~Scribe.141~>423 <~Scribe.142~><~Game.27~><~Scribe.143~><~Game.29~><~Scribe.144~> A0F00B
+<Byz> What a putrid game 7AFAC5
+$Byz<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 5FF0EF
+$Byz<~Scribe.141~>261 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> 2CC1ED
+$Byz<~Controls.644~>103 <~Controls.645~><~Game.2035~> 530EE0
+<Vayze> pass 6F29A6
+$Byz<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 64285C
+$Byz<~Scribe.141~>reveal 158 1E33AEEE1036D0D77F720780046D2657B40657A7 11 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> F0D040
+$Byz<~Controls.281~>238 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2045~> 40D442
+$Byz<~Controls.644~>101 158 <~Controls.645~><~Game.2035~> 068A41
+$Vayze<~Controls.271~>358<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 0700E8
+$Vayze<~CardBuffet.9~>reveal 126 F6AFF8E6A6E787F5D868F0FAA266CBD54C8AE6F4 22<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> CFA748
+$Vayze<~Scribe.141~>126 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2029~><~Scribe.144~> 6F39B4
+$Vayze<~Controls.644~>358 <~Controls.645~><~Game.2035~> AF47EB
+$Byz<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 1EC943
+$Byz<~Controls.509~>191<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Byz<~Controls.644~>104 <~Controls.645~><~Game.2035~> AA5CFE
+$Vayze<~Controls.271~>213<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 73FD14
+$Vayze<~Scribe.141~>258 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> 34A5F1
+$Vayze<~Controls.644~>213 <~Controls.645~><~Game.2035~> ACA60E
+$Byz<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 901A2B
+$Byz<~Scribe.141~>reveal 168 9637C9466E4A066D057F5B0B0BEB9277EF924759 21 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> D71C20
+$Byz<~Scribe.141~>247 <~Scribe.142~><~Game.1942~><~Scribe.143~><~Game.1937~><~Scribe.144~> 07212A
+$Byz<~Controls.644~>099 168 <~Controls.645~><~Game.2035~> 2A4881
+$Byz<~Controls.726~>211 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 03927B
+$Byz<~Controls.731~>213 358 210 212 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 25AB09
+$Byz<~Controls.757~>361 105 100 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 7167C7
+<~Game.7~>6 null
+$Byz<~Controls.762~>099 104 101 103 102 360 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 9435BD
+$Byz<~Controls.509~>169<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Byz<~Controls.509~>192<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Vayze<~Controls.509~>127<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Vayze<~Controls.509~>113<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Byz<~Controls.296~>164 <~Controls.297~><~Controls.46~> 6D2E57
+$Byz<~Controls.372~>099 13E276
+$Byz<~Controls.372~>104 E8DFCC
+<Vayze> fsp good 8CD2C6
+$Byz<~Controls.281~>099 <~Controls.282~><~Game.1997~><~Controls.283~><~Game.2043~> D62E8A
+<Byz> 1e 183604
+$Byz<~Controls.345~>099 101 103 102 360 361 105 100 <~Controls.346~>15 14 10 13 10 12 13 12 null
+$Byz<~Controls.350~>099 101 103 102 360 361 105 100 null
+$Vayze<~Controls.345~>213 358 210 212 211 <~Controls.346~>2 1 3 4 0 null
+$Vayze<~Controls.271~>358<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 253803
+$Vayze<~Controls.790~>248<~Controls.791~><~Game.2015~><~Controls.792~><~Game.2016~> B0DC19
+$Vayze<~Controls.795~>358<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 713531
+<game> Byz<~Controls.1~> 6 4 null
+$Byz<~Controls.624~>226<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Vayze<~Scribe.141~>126 <~Scribe.142~><~Game.2029~><~Scribe.143~><~Game.2037~><~Scribe.144~> ADD1F8
+$Vayze<~Scribe.141~>252 <~Scribe.142~><~Game.2017~><~Scribe.143~><~Game.2018~><~Scribe.144~> 050DA7
+$Vayze<~Controls.644~>126 226 <~Controls.645~><~Game.2035~> A52C66
+$Byz<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> F1E5A8
+$Byz<~Scribe.141~>reveal 169 AE2CB6C818A60CB84118F271DF5C5E3958CA907C 4 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2029~><~Scribe.144~> 2B7169
+$Byz<~Controls.644~>102 <~Controls.645~><~Game.2035~> 8B6003
+$Vayze<~Controls.271~>211<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 20E879
+$Vayze<~Controls.790~>248<~Controls.791~><~Game.2016~><~Controls.792~><~Game.2017~> 0E9728
+$Vayze<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> C21A26
+<game> Byz<~Controls.1~> 2 2 null
+$Byz<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 28808A
+$Byz<~Scribe.141~>reveal 192 B0AFF7A2728FA0E5ACB3B762BBBBA3A1A0DC3900 20 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> A075DB
+$Byz<~Controls.304~>344 <~Controls.305~><~Game.1928~> 03437D
+$Byz<~Controls.313~>336 <~Controls.309~><~Controls.314~><~Game.1928~> 3A9FD8
+$Byz<~Controls.304~>029 <~Controls.305~><~Game.1966~> 424E9E
+$Byz<~Controls.313~>335 <~Controls.309~><~Controls.314~><~Game.1966~> 5058B1
+$Byz<~Controls.509~>200<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Byz<~Controls.644~>101 192 <~Controls.645~><~Game.2035~> D767E9
+$Vayze<~Controls.271~>213<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> FDFB6E
+$Vayze<~Scribe.141~>250 <~Scribe.142~><~Game.2009~><~Scribe.143~><~Game.2012~><~Scribe.144~> 901761
+$Vayze<~Controls.790~>248<~Controls.791~><~Game.2017~><~Controls.792~><~Game.2018~> 777DCF
+$Vayze<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 7BFE9B
+<game> Byz<~Controls.1~> 4 4 null
+$Byz<~Controls.624~>222<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Byz> 2r 4823D8
+<Vayze> random B8D7B7
+<Byz> something, I suppose 87BAE6
+$Byz<~Controls.637~>245<~Controls.638~><~Game.1998~><~Controls.639~><~Game.2036~> null
+$Vayze<~Scribe.141~>252 <~Scribe.142~><~Game.2018~><~Scribe.143~><~Game.2019~><~Scribe.144~> FC28C0
+$Vayze<~Scribe.141~>245 <~Scribe.142~><~Game.2036~><~Scribe.143~><~Game.1925~><~Scribe.144~> 14363F
+$Vayze<~Scribe.141~>247 <~Scribe.142~><~Game.1937~><~Scribe.143~><~Game.1969~><~Scribe.144~> 1A1FC6
+$Vayze<~Controls.323~>247 48A88E
+$Byz<~Controls.624~>220<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2036~> null
+$Byz<~Controls.644~>220 222 <~Controls.645~><~Game.2035~> B135D1
+$Byz<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> A611FF
+$Byz<~Scribe.141~>reveal 194 7A5909E8945EAECC4E77398BD6C95ED239A8A55F 14 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 5FF737
+$Byz<~Controls.637~>244<~Controls.638~><~Game.1998~><~Controls.639~><~Game.2036~> null
+<Vayze> dead 2FDC2D
+$Byz<~Controls.644~>105 244 194 <~Controls.645~><~Game.2035~> 420841
+<Vayze> pass 24A228
+$Byz<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> F4D2B7
+$Byz<~Scribe.141~>261 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 57055B
+$Byz<~Controls.644~>103 <~Controls.645~><~Game.2035~> A69304
+<Vayze> pass 6DB8BC
+$Byz<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 94F6DC
+$Byz<~Scribe.141~>055 049 048 047 <~Scribe.142~><~Game.1968~><~Scribe.143~><~Game.1946~><~Scribe.144~> 6CF9CD
+$Byz<~Controls.819~> 9EA0A4
+<Byz> Dale nc 1290E4
+$Vayze<~CardBuffet.9~>reveal 119 0494D7D071A3BD3410B0265F92B4C4AC791A1205 15<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> 2DA2F3
+$Vayze<~Scribe.141~>068 066 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.1965~><~Scribe.144~> B81897
+$Byz<~Scribe.141~>039 335 036 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1966~><~Scribe.143~><~Game.1970~><~Scribe.144~> D8C42F
+$Byz<~Scribe.141~>258 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2003~><~Scribe.144~> 4C568F
+$Byz<~Controls.644~>100 119 <~Controls.645~><~Game.2035~> 56D60D
+$Vayze<~Controls.271~>212<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 5DFC29
+$Vayze<~Scribe.141~>303 065 <~Scribe.142~><~Game.1957~><~Scribe.143~><~Game.1954~><~Scribe.144~> B36A73
+$Vayze<~Scribe.141~>245 073 072 <~Scribe.142~><~Game.1925~><~Scribe.143~><~Game.1923~><~Scribe.144~> EBACC9
+$Vayze<~Controls.644~>212 <~Controls.645~><~Game.2035~> 3905C5
+$Byz<~Scribe.141~>361 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> E74F89
+<Byz> woodland 026C47
+$Vayze<~Scribe.141~>098 265 094 088 303 065 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1991~><~Scribe.144~> A4B141
+$Byz<~Scribe.141~>039 335 036 028 027 026 025 024 023 022 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.1954~><~Scribe.144~> EFD05D
+$Byz<~Controls.644~>361 <~Controls.645~><~Game.2035~> 17F066
+$Vayze<~Controls.271~>210<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> B6439A
+$Vayze<~CardBuffet.9~>reveal 113 D73EF349BFCF6F803AF4E1D6AA7D98077748DA4D 4<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> CA0B0B
+$Vayze<~Scribe.141~>283 289 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1929~><~Scribe.144~> 91E7A2
+$Vayze<~Scribe.141~>259 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> D0CC3D
+$Vayze<~Controls.644~>210 113 <~Controls.645~><~Game.2035~> 5C5BA6
+$Byz<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 72A2D1
+$Byz<~Scribe.141~>347 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1986~><~Scribe.144~> FD3821
+$Byz<~Controls.644~>360 <~Controls.645~><~Game.2035~> 938DA1
+$Byz<~Controls.726~>213 211 358 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 739FC1
+$Byz<~Controls.731~>210 212 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 201152
+$Byz<~Controls.757~>099 104 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 115476
+<~Game.7~>7 null
+$Byz<~Controls.762~>360 361 100 103 105 101 102 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 008321
+$Byz<~Controls.509~>202<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Byz<~Controls.509~>176<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Vayze<~Controls.509~>132<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Vayze<~Controls.509~>110<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Vayze<~Scribe.141~>247 <~Scribe.142~><~Game.1969~><~Scribe.143~><~Game.524~><~Scribe.144~> 567CB4
+$Byz<~Controls.281~>238 237 222 220 <~Controls.282~><~Game.2045~><~Controls.283~><~Game.2044~> 964E96
+<Vayze> fsp good 0511C3
+$Byz<~Controls.372~>360 2CCF57
+$Byz<~Controls.372~>361 BAB100
+$Byz<~Controls.372~>100 2B0992
+<Byz> 3e 206825
+$Byz<~Controls.345~>103 105 101 102 099 104 <~Controls.346~>13 10 10 12 13 15 null
+$Byz<~Controls.350~>103 105 101 102 099 104 null
+$Vayze<~Controls.345~>210 212 213 211 358 <~Controls.346~>1 0 0 3 1 null
+$Vayze<~Controls.271~>213<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 9A529F
+$Vayze<~Controls.323~>247 4FB170
+$Vayze<~Controls.644~>213 <~Controls.645~><~Game.2035~> D03774
+$Byz<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 690336
+$Byz<~Scribe.141~>250 <~Scribe.142~><~Game.2012~><~Scribe.143~><~Game.2034~><~Scribe.144~> CD57F4
+$Byz<~Scribe.141~>reveal 200 C15BBE51352370C6F1DC7678323E99606D736E42 15 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 8BA48D
+$Byz<~Controls.624~>222<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2036~> null
+<Byz> yeahhh 141EC4
+$Byz<~Scribe.141~>250 <~Scribe.142~><~Game.2034~><~Scribe.143~><~Game.2036~><~Scribe.144~> 61510C
+$Byz<~Controls.644~>101 250 222 200 <~Controls.645~><~Game.2035~> 114944
+$Byz<~Controls.509~>177<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Vayze<~Controls.271~>212<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> F5585E
+$Vayze<~CardBuffet.9~>reveal 125 D90562F129B9E8DBEB2C11F9A7B7587759E8A545 10<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> AD431C
+$Vayze<~Scribe.141~>125 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2030~><~Scribe.144~> EF3EE2
+$Vayze<~Controls.644~>212 <~Controls.645~><~Game.2035~> E6E97D
+$Byz<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 222FBB
+$Byz<~Scribe.141~>reveal 183 3D5399DF786C4F5D71B040FCC0BBC41DDAABE74A 9 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> F717A8
+$Byz<~Scribe.141~>347 056 052 051 050 <~Scribe.142~><~Game.1986~><~Scribe.143~><~Game.1970~><~Scribe.144~> C8C0DC
+$Byz<~Controls.644~>102 183 <~Controls.645~><~Game.2035~> CD789D
+$Byz<~Scribe.141~>416 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1973~><~Scribe.144~> DDC7F4
+$Byz<~Scribe.141~>257 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> 5079ED
+$Vayze<~Controls.271~>358<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> ED7025
+$Vayze<~CardBuffet.9~>reveal 127 DAD7C60329506EEB8D7ACCC4AF8EC82E3E85C7E8 17<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> D4B632
+$Vayze<~Controls.281~>235 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2044~> 3FA415
+$Vayze<~Controls.644~>358 127 <~Controls.645~><~Game.2035~> D72FD5
+$Byz<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 97661D
+$Byz<~Scribe.141~>255 362 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2037~><~Scribe.144~> E770ED
+$Byz<~Scribe.141~>255 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.1956~><~Scribe.144~> F481BF
+$Byz<~Controls.644~>105 362 <~Controls.645~><~Game.2035~> A29B2F
+$Vayze<~Controls.271~>210<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> CE8A37
+$Vayze<~Controls.790~>247<~Controls.791~><~Game.524~><~Controls.792~><~Game.525~> B98064
+$Vayze<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 9253D0
+$Byz<~Controls.624~>219<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Byz> 4r 6E0C0C
+$Vayze<~Scribe.141~>241 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2037~><~Scribe.144~> CCA32B
+$Vayze<~Scribe.141~>243 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> DE615B
+$Vayze<~Scribe.141~>252 <~Scribe.142~><~Game.2019~><~Scribe.143~><~Game.2020~><~Scribe.144~> D7C93B
+$Vayze<~Controls.323~>247 2BD29F
+$Vayze<~Controls.644~>219 241 <~Controls.645~><~Game.2035~> 9C674F
+$Byz<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 43419B
+$Byz<~Scribe.141~>reveal 202 484F0B7B8FF83D2F9C91BDE0B38F410A170CE8AE 7 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> FABB08
+$Byz<~Controls.624~>214<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2036~> null
+<Byz> no mithril? 632B77
+<Byz> Just confirming FADCA8
+<Vayze> no thanks B59DC3
+$Byz<~Controls.644~>099 214 202 <~Controls.645~><~Game.2035~> FE7116
+<Byz> I figured not FC9683
+<Byz> But you do get the chance FAC051
+$Vayze<~Controls.271~>211<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> CE3254
+$Vayze<~Scribe.141~>260 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> 26BFD8
+$Vayze<~Controls.644~>211 <~Controls.645~><~Game.2035~> C89DE4
+$Byz<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> D65E69
+$Byz<~Scribe.141~>255 <~Scribe.142~><~Game.1956~><~Scribe.143~><~Game.1954~><~Scribe.144~> 23D1A6
+$Byz<~Scribe.141~>253 <~Scribe.142~><~Game.1911~><~Scribe.143~><~Game.1954~><~Scribe.144~> CA5B31
+$Byz<~Scribe.141~>038 <~Scribe.142~><~Game.1911~><~Scribe.143~><~Game.1928~><~Scribe.144~> D781DA
+$Byz<~Scribe.141~>255 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1928~><~Scribe.144~> E593C6
+$Byz<~Scribe.141~>037 <~Scribe.142~><~Game.1930~><~Scribe.143~><~Game.1954~><~Scribe.144~> 4E7B00
+$Byz<~Scribe.141~>038 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.1954~><~Scribe.144~> 177DC0
+$Byz<~Scribe.141~>040 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.1968~><~Scribe.144~> 5FC482
+$Byz<~Controls.644~>103 <~Controls.645~><~Game.2035~> D06EA7
+$Vayze<~Scribe.141~>423 <~Scribe.142~><~Game.29~><~Scribe.143~><~Game.30~><~Scribe.144~> 700E8C
+$Vayze<~Controls.726~>210 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 0FABE8
+$Vayze<~Controls.731~>211 358 212 213 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 3AA87F
+$Byz<~Controls.757~>104 100 361 360 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> CF1250
+<~Game.7~>8 null
+$Byz<~Controls.762~>103 099 105 362 102 101 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 19B45C
+$Byz<~Controls.509~>181<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Byz<~Controls.509~>199<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Vayze<~Controls.509~>142<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Vayze<~Controls.509~>150<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+<Vayze> fsp good 5234FC
+$Byz<~Controls.372~>103 8A566A
+$Byz<~Controls.372~>099 6D6C0F
+<Byz> 2e A14102
+$Byz<~Controls.345~>105 362 102 101 104 100 361 360 <~Controls.346~>14 12 13 10 14 11 12 11 null
+$Byz<~Controls.350~>105 362 102 101 104 100 361 360 null
+$Vayze<~Controls.345~>211 358 212 213 210 <~Controls.346~>1 2 4 0 3 null
+$Vayze<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> CD271B
+$Vayze<~Controls.323~>247 1D219C
+$Vayze<~Controls.644~>213 <~Controls.645~><~Game.2035~> 8E0645
+$Byz<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 8CE312
+$Byz<~Scribe.141~>reveal 177 7E9F5A2CB4152B3C45857CEE726609E7991EA0CD 16 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2032~><~Scribe.144~> 686CBB
+<Byz> woodland 89349A
+$Byz<~Controls.840~>181 54BC72
+<auto><~Controls.866~>reveal 181 55EE14D71B54EE025EF518F987509EB887CC690A 12<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 38325E
+<game> Byz<~Controls.1~> 4 2 6 2 4 null
+<game> Byz<~Controls.1~> 4 5 3 2 null
+<Byz> 1 2C080C
+<game> Vayze<~Controls.1~> 1 6 5 2 5 null
+<Vayze> 3 5E9452
+$Byz<~Controls.296~>024 023 022 <~Controls.297~><~Game.1954~> FD40D3
+$Byz<~Controls.509~>203<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Byz<~Controls.662~>181 <~Controls.663~><~Game.2035~> CFA5C6
+$Vayze<~Controls.304~>094 <~Controls.305~><~Game.1991~> E15F33
+$Vayze<~Controls.313~>269 <~Controls.308~><~Controls.314~><~Game.1991~> 00B68A
+$Byz<~Scribe.141~>177 <~Scribe.142~><~Game.2032~><~Scribe.143~><~Game.2033~><~Scribe.144~> F45C99
+<Byz> nc 9BAD2F
+<Vayze> nc B4BB03
+<game> Byz<~Controls.1~> 4 3 1 5 6 null
+<game> Byz<~Controls.1~> 2 1 3 6 null
+<Byz> 2 AAB4A4
+<game> Vayze<~Controls.1~> 1 4 3 5 4 null
+<game> Vayze<~Controls.1~> 3 null
+<Vayze> 1 B0C5EE
+$Vayze<~Controls.296~>265 <~Controls.297~><~Game.1991~> 9A42EE
+$Byz<~Controls.304~>036 <~Controls.305~><~Game.1954~> EBD633
+$Byz<~Controls.313~>024 <~Controls.307~><~Controls.314~><~Game.1954~> F6BD68
+$Byz<~Scribe.141~>177 <~Scribe.142~><~Game.2033~><~Scribe.143~><~Game.2034~><~Scribe.144~> 0BF38E
+<Byz> nc r3 AACF90
+<Vayze> nc 4873BA
+<game> Byz<~Controls.1~> 2 2 1 2 1 null
+<game> Byz<~Controls.1~> 3 3 3 5 6 null
+<Byz> 1 20D12D
+<game> Vayze<~Controls.1~> 6 6 3 6 null
+<game> Vayze<~Controls.1~> 2 null
+<Vayze> 3 2CEA86
+$Byz<~Controls.296~>335 024 <~Controls.297~><~Game.1954~> FAEE68
+$Vayze<~Controls.296~>088 <~Controls.297~><~Game.1991~> 2DCA74
+<Byz> drawing from palantir F4B971
+$Byz<~Controls.509~>166<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Byz<~Controls.296~>177 <~Controls.297~><~Game.2034~> D1AA62
+$Byz<~Controls.644~>105 <~Controls.645~><~Game.2035~> 79758C
+$Vayze<~Controls.271~>211<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 33DC10
+$Vayze<~Controls.790~>247<~Controls.791~><~Game.525~><~Controls.792~><~Game.528~> 4A7138
+$Vayze<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 588E6E
+$Byz<~Controls.624~>238<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Vayze<~Scribe.141~>125 <~Scribe.142~><~Game.2030~><~Scribe.143~><~Game.2036~><~Scribe.144~> 5C615B
+$Vayze<~Scribe.141~>238 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2034~><~Scribe.144~> DF9C47
+$Byz<~Controls.624~>237<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Vayze<~Controls.281~>238 <~Controls.282~><~Game.2034~><~Controls.283~><~Game.2044~> 6D48F4
+<Byz> ouch D8E9B3
+<game> Byz<~Controls.1~> 2 null
+$Vayze<~Scribe.141~>247 <~Scribe.142~><~Game.528~><~Scribe.143~><~Game.525~><~Scribe.144~> 3676BC
+$Vayze<~Scribe.141~>243 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2037~><~Scribe.144~> 7BA03E
+$Vayze<~Scribe.141~>246 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> 1DF230
+$Vayze<~Controls.644~>125 237 243 <~Controls.645~><~Game.2035~> 8BDF83
+$Byz<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> F247BC
+$Byz<~Scribe.141~>reveal 166 5B6BA7A6931DB8A126226FF8810ABE45B4F2ECCB 3 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> ABF3AB
+$Byz<~Controls.281~>236 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2044~> C529AD
+$Byz<~Controls.509~>173<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Byz<~Controls.644~>104 166 <~Controls.645~><~Game.2035~> 7F0513
+<Vayze> pass BD3C6D
+$Byz<~Scribe.141~>361 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> B7BEE5
+$Byz<~Scribe.141~>056 347 050 021 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.1954~><~Scribe.144~> 7B72FD
+$Byz<~Scribe.141~>040 055 049 048 047 <~Scribe.142~><~Game.1968~><~Scribe.143~><~Game.1946~><~Scribe.144~> 0342FA
+$Byz<~Controls.644~>361 <~Controls.645~><~Game.2035~> F65C50
+$Vayze<~Controls.271~>210<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> F1CF0A
+$Vayze<~Scribe.141~>260 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> D2EF75
+$Vayze<~Controls.644~>210 <~Controls.645~><~Game.2035~> 063EAC
+$Byz<~Scribe.141~>362 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 35B3A5
+<Byz> woodland 13FC90
+$Byz<~Controls.840~>176 BFC076
+$Vayze<~Controls.840~>150 3E4B49
+<auto> playchosen 4A3F05
+<auto><~Controls.3~>reveal 150 330F64B6546F2B62BEDF5E3B867C18074CDB6382 22<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 1C2D23
+<auto><~Controls.866~>reveal 176 BF6706023FD1ACBC70A6851033D484E0001A654F 7<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> A58545
+<auto> playchosen 6CDAC1
+<game> Byz<~Controls.1~> 4 3 6 3 2 null
+<game> Byz<~Controls.1~> 4 5 1 4 null
+<Byz> 1 11E74D
+<game> Vayze<~Controls.1~> 1 1 6 null
+<game> Vayze<~Controls.1~> 3 null
+<Byz> will be 2 3AE6F7
+<Vayze> 1 0C29A1
+$Byz<~Controls.296~>025 <~Controls.297~><~Game.1954~> 2B7087
+$Vayze<~Controls.296~>269 303 <~Controls.297~><~Game.1991~> 2D7D91
+<Byz> press draw 936739
+$Byz<~Controls.509~>171<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Byz<~Controls.662~>176 150 <~Controls.663~><~Game.2035~> B3822B
+$Byz<~Controls.304~>056 <~Controls.305~><~Game.1954~> F33E43
+$Byz<~Controls.313~>357 <~Controls.307~><~Controls.314~><~Game.1954~> D5AFCA
+<Byz> nc 3A10E8
+<Vayze> nc 9A9AAD
+<game> Byz<~Controls.1~> 1 3 3 2 6 null
+<Byz> 1 DD4B2C
+<game> Vayze<~Controls.1~> 3 null
+<game> Vayze<~Controls.1~> 5 null
+<Vayze> 1 4F5D45
+$Vayze<~Controls.296~>098 065 <~Controls.297~><~Game.1991~> 692416
+$Byz<~Controls.296~>026 <~Controls.297~><~Game.1954~> 14AEFE
+$Byz<~Scribe.141~>423 <~Scribe.142~><~Game.30~><~Scribe.143~><~Game.32~><~Scribe.144~> 7A50B4
+$Byz<~Controls.644~>362 <~Controls.645~><~Game.2035~> 8BAF56
+<Vayze> pass 0DD951
+$Byz<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 3D328E
+$Byz<~Scribe.141~>040 055 057 049 048 047 046 045 <~Scribe.142~><~Game.1946~><~Scribe.143~><~Game.1932~><~Scribe.144~> F2C828
+$Byz<~Scribe.141~>341 340 339 010 009 <~Scribe.142~><~Game.1922~><~Scribe.143~><~Game.1934~><~Scribe.144~> 82752A
+$Byz<~Controls.644~>360 <~Controls.645~><~Game.2035~> BD165F
+$Vayze<~Controls.271~>212<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> A5FBDE
+$Vayze<~Scribe.141~>273 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1920~><~Scribe.144~> 1E84CC
+$Vayze<~Controls.644~>212 <~Controls.645~><~Game.2035~> BAB876
+$Byz<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 06913D
+$Byz<~Scribe.141~>reveal 171 2DFFF0C8E0A10F9643D3E6A7DAC737E626F91909 6 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 31C357
+$Vayze<~Scribe.141~>273 281 077 076 075 <~Scribe.142~><~Game.1920~><~Scribe.143~><~Game.1995~><~Scribe.144~> 555B61
+$Byz<~Scribe.141~>040 055 057 049 048 047 046 045 043 042 041 <~Scribe.142~><~Game.1932~><~Scribe.143~><~Game.1920~><~Scribe.144~> 9F423C
+$Byz<~Controls.644~>100 171 <~Controls.645~><~Game.2035~> 26C5E9
+<Vayze> pass F244B9
+$Byz<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> AA4BC0
+$Byz<~Scribe.141~>reveal 203 A23106B6E0AAF406564D3E5D47D2A7AAD2E1DAB6 8 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 710A96
+$Byz<~Scribe.141~>253 037 038 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1920~><~Scribe.144~> 926A50
+$Byz<~Scribe.141~>203 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2033~><~Scribe.144~> 6E52EB
+<Byz> DA 0B2D7A
+$Byz<~Controls.840~>199 B83B87
+<Vayze> nc BA95B2
+<auto> playchosen DB0B22
+<auto><~Controls.866~>reveal 199 A301F74EFCCDFBB63F036289F4EDBDFFBFE194F5 15<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 815099
+<game> Byz<~Controls.1~> 3 6 4 6 4 null
+<game> Byz<~Controls.1~> 1 3 4 null
+<Byz> 2 FBCC4B
+<game> Vayze<~Controls.1~> 2 1 2 5 5 null
+<Vayze> 2 914ED6
+$Byz<~Controls.296~>041 042 <~Controls.297~><~Game.1920~> AA3762
+$Vayze<~Controls.296~>273 <~Controls.297~><~Game.1995~> 260A47
+<Byz> post A8ABF1
+<game> Byz<~Controls.1~> 2 5 null
+<Byz> 1 AE9185
+$Vayze<~Controls.296~>281 <~Controls.297~><~Game.1995~> E3985A
+$Byz<~Controls.304~>057 <~Controls.305~><~Game.1920~> 0E2825
+$Byz<~Controls.313~>041 <~Controls.307~><~Controls.314~><~Game.1920~> 259069
+<Byz> pressing 0748B9
+$Byz<~Controls.509~>172<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Byz<~Controls.662~>199 <~Controls.663~><~Game.2035~> 9955E7
+$Byz<~Controls.840~>172 0DE35B
+<Vayze> nc 5EF8DB
+<auto> playchosen 5C2EDA
+<auto><~Controls.866~>reveal 172 AFB771B9E15658DD4C2E228F20F4EFF506EB3B0D 18<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> C9D8FF
+<game> Byz<~Controls.1~> 2 1 6 6 3 null
+<Byz> 3 4C87F1
+<game> Vayze<~Controls.1~> 6 2 3 null
+<Vayze> 1 2F79E6
+$Vayze<~Controls.296~>077 076 075 <~Controls.297~><~Game.1995~> 87364A
+$Byz<~Controls.296~>043 <~Controls.297~><~Game.1920~> C2E8DB
+$Byz<~Controls.644~>102 172 <~Controls.645~><~Game.2035~> E9BA3E
+$Byz<~Controls.296~>203 <~Controls.297~><~Game.2033~> F1426F
+$Byz<~Scribe.141~>423 <~Scribe.142~><~Game.32~><~Scribe.143~><~Game.388~><~Scribe.144~> 8D7A1F
+$Vayze<~Controls.271~>358<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 2A1887
+$Vayze<~Scribe.141~>251 <~Scribe.142~><~Game.2010~><~Scribe.143~><~Game.2013~><~Scribe.144~> 6A0307
+$Vayze<~Controls.790~>247<~Controls.791~><~Game.525~><~Controls.792~><~Game.528~> 7C3A52
+$Vayze<~Controls.795~>358<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 71EB47
+$Byz<~Controls.624~>223<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Vayze<~Scribe.141~>246 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2037~><~Scribe.144~> 85DA6A
+$Vayze<~Scribe.141~>364 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1999~><~Scribe.144~> 767D01
+$Vayze<~Controls.644~>223 246 <~Controls.645~><~Game.2035~> A3D651
+<Byz> Very dumb of me to not play this earlier EF8C24
+$Byz<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> A758F9
+$Byz<~Scribe.141~>reveal 173 EBC2B6DEEDB874CA1413078442CAA282DDFA906E 17 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 5C8C0C
+$Byz<~Scribe.141~>249 <~Scribe.142~><~Game.2011~><~Scribe.143~><~Game.2037~><~Scribe.144~> 2F21FA
+<Byz> Ah well EBEA77
+$Byz<~Controls.281~>239 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2044~> 6E3909
+$Byz<~Controls.509~>201<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Byz<~Controls.644~>101 173 249 <~Controls.645~><~Game.2035~> 4790EF
+$Byz<~Controls.644~>101 173 249 <~Controls.645~><~Game.2035~> 75E921
+$Vayze<~Controls.726~>358 211 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 265453
+$Vayze<~Controls.731~>212 210 213 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 38F609
+$Byz<~Controls.757~>099 103 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 057B60
+<~Game.7~>9 null
+$Byz<~Controls.762~>101 102 100 360 362 361 104 105 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 57A257
+$Byz<~Controls.509~>162<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Byz<~Controls.509~>189<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Vayze<~Controls.509~>109<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Vayze<~Controls.509~>131<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Vayze<~Controls.296~>109 <~Controls.297~><~Controls.45~> 347F45
+<Vayze> fsp good 5128A9
+$Byz<~Controls.372~>101 687044
+<Byz> 1e D8CFDE
+$Byz<~Controls.345~>102 100 360 362 361 104 105 099 103 <~Controls.346~>14 12 12 12 13 11 15 11 11 null
+$Byz<~Controls.350~>102 100 360 362 361 104 105 099 103 null
+$Vayze<~Controls.345~>212 210 213 358 211 <~Controls.346~>1 1 4 4 1 null
+$Vayze<~Controls.271~>358<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 36BD9A
+$Vayze<~Scribe.141~>085 084 083 082 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.1943~><~Scribe.144~> 26FA05
+$Vayze<~Scribe.141~>283 289 <~Scribe.142~><~Game.1929~><~Scribe.143~><~Game.1925~><~Scribe.144~> 36EFB4
+$Vayze<~Controls.644~>358 <~Controls.645~><~Game.2035~> ACCAAA
+$Byz<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 5254F0
+$Byz<~Scribe.141~>253 037 038 040 055 045 041 049 048 047 046 <~Scribe.142~><~Game.1920~><~Scribe.143~><~Game.1924~><~Scribe.144~> FB278C
+$Byz<~Scribe.141~>331 000 329 328 <~Scribe.142~><~Game.1911~><~Scribe.143~><~Game.1908~><~Scribe.144~> 68C8D8
+$Byz<~Scribe.141~>415 417 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1920~><~Scribe.144~> 76A232
+$Byz<~Scribe.141~>417 <~Scribe.142~><~Game.1920~><~Scribe.143~><~Game.1911~><~Scribe.144~> 6E614B
+$Byz<~Controls.644~>360 <~Controls.645~><~Game.2035~> CE1749
+<Vayze> hmm 62BE50
+$Vayze<~Controls.271~>211<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 93AD4D
+$Vayze<~CardBuffet.9~>reveal 157 71E74796392A3190CA1AE2F103E5506B1BFCA6D9 2<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> D24F03
+$Vayze<~Scribe.141~>252 <~Scribe.142~><~Game.2020~><~Scribe.143~><~Game.2019~><~Scribe.144~> FF3D95
+$Vayze<~Scribe.141~>247 <~Scribe.142~><~Game.528~><~Scribe.143~><~Game.529~><~Scribe.144~> D32FAB
+$Vayze<~Scribe.141~>157 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2036~><~Scribe.144~> 3D0822
+$Byz<~Controls.624~>229<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Vayze<~Scribe.141~>252 <~Scribe.142~><~Game.2019~><~Scribe.143~><~Game.2022~><~Scribe.144~> 6D2DEE
+$Vayze<~Controls.644~>211 157 229 <~Controls.645~><~Game.2035~> 2F1403
+$Byz<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> E41A6B
+<Byz> Pelargir 3BBD69
+$Byz<~Controls.840~>162 4D09AA
+<Vayze> nc 602A97
+<auto> playchosen 69918F
+<auto><~Controls.866~>reveal 162 323CEFDBD3D19B1C9CBDE7FFA90ADC5332B7F106 0<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 001A3D
+<game> Byz<~Controls.1~> 4 6 6 1 6 null
+<Byz> 1 6B0E48
+<game> Vayze<~Controls.1~> 3 null
+$Vayze<~Controls.296~>078 <~Controls.297~><~Game.1931~> FF7903
+$Byz<~Scribe.141~>253 037 038 040 055 045 041 049 048 047 <~Scribe.142~><~Game.1924~><~Scribe.143~><~Game.1931~><~Scribe.144~> F3A1EC
+$Byz<~Scribe.141~>423 <~Scribe.142~><~Game.388~><~Scribe.143~><~Game.389~><~Scribe.144~> FAFB6D
+$Byz<~Controls.509~>167<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Byz<~Controls.644~>100 162 <~Controls.645~><~Game.2035~> B84D0D
+$Vayze<~Controls.271~>210<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> C49BF7
+$Vayze<~Controls.790~>247<~Controls.791~><~Game.529~><~Controls.792~><~Game.532~> 2E632F
+$Vayze<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 9BD011
+$Byz<~Controls.624~>235<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Vayze<~Controls.644~>235 <~Controls.645~><~Game.2035~> 18B9AA
+$Byz<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 56DBC6
+$Byz<~Scribe.141~>reveal 201 4ED33216E9803DB2E11D0D382467EAB3959A5BCA 6 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 32CAE4
+$Byz<~Scribe.141~>362 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> 84883E
+$Byz<~Controls.509~>174<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Byz<~Controls.644~>102 201 <~Controls.645~><~Game.2035~> D71794
+<Vayze> pass 15F345
+$Byz<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 507B9C
+$Byz<~Scribe.141~>331 000 329 328 008 007 <~Scribe.142~><~Game.1908~><~Scribe.143~><~Game.1906~><~Scribe.144~> E099EE
+$Byz<~Scribe.141~>020 019 018 017 016 <~Scribe.142~><~Game.1969~><~Scribe.143~><~Game.1955~><~Scribe.144~> F4BE1B
+$Byz<~Controls.644~>103 <~Controls.645~><~Game.2035~> 4B90C4
+<Vayze> pass 1CB53C
+$Byz<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 654E58
+$Byz<~Scribe.141~>reveal 189 00165D957F4F7D91F55B8D96117D579E1853F52A 1 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> E25395
+$Byz<~Scribe.141~>020 019 018 017 <~Scribe.142~><~Game.1955~><~Scribe.143~><~Game.1931~><~Scribe.144~> D45708
+$Byz<~Scribe.141~>338 <~Scribe.142~><~Game.1917~><~Scribe.143~><~Game.1906~><~Scribe.144~> 757A6B
+$Byz<~Controls.644~>099 189 <~Controls.645~><~Game.2035~> A58550
+$Vayze<~Controls.271~>213<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 4D6A77
+$Vayze<~CardBuffet.9~>reveal 131 E0BAA4E9362E80973EC2E2257CB3378E0F4D521C 7<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> 707730
+$Vayze<~Scribe.141~>299 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1890~><~Scribe.144~> E39583
+$Vayze<~Scribe.141~>315 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1891~><~Scribe.144~> 5A159E
+$Vayze<~Controls.509~>120<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Vayze<~Controls.644~>213 131 <~Controls.645~><~Game.2035~> 455097
+$Byz<~Scribe.141~>361 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 32869C
+$Byz<~Scribe.141~>253 <~Scribe.142~><~Game.1931~><~Scribe.143~><~Game.1928~><~Scribe.144~> 3B014D
+$Byz<~Scribe.141~>039 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1928~><~Scribe.144~> 4858D3
+$Byz<~Scribe.141~>040 <~Scribe.142~><~Game.1931~><~Scribe.143~><~Game.1928~><~Scribe.144~> 511C16
+$Byz<~Controls.644~>361 <~Controls.645~><~Game.2035~> 584A1F
+$Vayze<~Controls.271~>212<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 25E461
+$Vayze<~Controls.790~>247<~Controls.791~><~Game.532~><~Controls.792~><~Game.533~> 549D66
+$Vayze<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> D52768
+<Byz> glgl 5BF51E
+<Byz> close to 50/50 0FCE7C
+$Byz<~Controls.624~>215<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Byz> GG EC0845
+<Vayze> gg! 38574B
+<Byz> AH well 960DE1
+<Byz> Close game 778BD8

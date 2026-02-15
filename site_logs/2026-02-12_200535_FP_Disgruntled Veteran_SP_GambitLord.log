@@ -1,0 +1,932 @@
+<auto> silent null
+<auto><~Scribe.141~>363 397 398 402 401 400 399 403 404 376 375 374 373 377 378 <~Scribe.142~><~Game.2038~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>365 366 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 367 368 369 370 371 372 <~Scribe.142~><~Game.2040~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>230 231 <~Scribe.142~><~Game.2044~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>155 152 <~Scribe.142~><~Game.2004~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>137 151 <~Scribe.142~><~Game.2005~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>161 198 <~Scribe.142~><~Game.2006~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>163 188 <~Scribe.142~><~Game.2007~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Controls.323~>364 null
+<auto> noisy null
+<auto> silent null
+<auto><~Scribe.141~>312 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1965~><~Scribe.144~> null
+<auto> noisy null
+<~Game.7~>1 null
+<auto> silent null
+<auto><~Scribe.141~>363 397 398 402 401 400 399 403 404 376 375 374 373 377 378 <~Scribe.142~><~Game.2038~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>365 366 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 367 368 369 370 371 372 <~Scribe.142~><~Game.2040~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>230 231 <~Scribe.142~><~Game.2044~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>155 152 <~Scribe.142~><~Game.2004~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>137 151 <~Scribe.142~><~Game.2005~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>161 198 <~Scribe.142~><~Game.2006~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>163 188 <~Scribe.142~><~Game.2007~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Controls.323~>364 null
+<auto> noisy null
+$base silent null
+$TEST<~Scribe.141~>312 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1965~><~Scribe.144~> null
+$base noisy null
+<game> Disgruntled_Veteran<~Controls.408~>[WOTR-Gandalf2 wotr base2] null
+<~Talker.31~> null
+<GambitLord> Hi 
+<Disgruntled_Veteran> hello 
+<GambitLord> Roll and bid? 
+<Disgruntled_Veteran> sure 
+<game> Disgruntled_Veteran<~Controls.1~> 4 null
+<game> GambitLord<~Controls.1~> 2 null
+<Disgruntled_Veteran> rings/tokens or musters? 
+<GambitLord> up to you 
+<Disgruntled_Veteran> 2 tokens for SP 
+<GambitLord> 3 tokens 
+<Disgruntled_Veteran> ok 
+$Disgruntled_Veteran<~Controls.464~>C006317801D6E1D30F5AD0646B9870F2DD4A7AE8 AFB68FA00BA0B408BA8B9FD024241B76 24 6EFC29D47CA15BD326C75923D0678CCCEF8FCBF0 DD86FBF50550ADD9262864014D6C46F1 470D68EF095A74ECD9EBD990451843575689F65F 9778D3610BBD672D669B97361F6AFC51 42877B7FAC7200E2B78D98593D31D88E8173E5FF D01B8154F7C3334E18E9E6AA22B902F0 E42BEAF7119CBE8801890828EF1C2289EF9B9F33 9FAE7C1691F800EE3CEC69947E557EB3 B688D68E8E42A08783A54B9BCDF6ECFD5BC51073 4273D24348DD1B4DD2C62F15D27C3CD0 20E39E371C4E1D78A4A4468F54C2600D40F95218 65E2981F1F625A43C02730BE44486871 AA574898BF0AF222B17790DCBA3EEC973EE271B5 A43D213BE5DE1C9DF98A70C9D853374C 6293DC6EF622DE09AA84254F2118EAED46F50687 4E464021A8FC27D2DCD77A8B0507E93D F781A6574C86B5F6A692EB45CEF606934A0D6952 6C1CA5376B42AF13D90135B6855219CB 0C26C0EB37018F11816E2C3A213D86E80866A2C5 018A102316392F005A8FFFA56CF72075 E1DDFC580C64F216916F8C43BBAC0851A9410616 923E9F7FAD5A3122DF2AFBFF7CAB4AA3 44319F33BBAEA9773D35B39D4BE54B54F1078525 E8BE7D40C540035A6BA2B3B3B7AE4522 3B2E8AEDEAD5D19C80F74DDC342BFE3880155298 140D852232C60DC51EF970ED34A6B3A1 662FDC18123E44FEF73B38BC7DA54C218948DD9C B24CAB27051010E7236F558736D038D7 3F7A7D8B50F268DC6C847133A04EBFCC2B0AA487 72E7236EB5B14D45CBA379087AE55215 B808C34D90E3C30BE18FE62E1F403EBAE1CE0A72 D4F5BE099B60FE38FA35A6A0CF3BACD3 259F5F81D8F34802C0FBA07AA415D80E4431C45A 32F0CFF8A3EA4020C1865CCFECFDE553 FA3E4758F3D33DB2F77E082AE74CD424A6ACE21E 03ECDF4B4064BADA4C82D66B7D8C2DC2 BBD535264F4996BBA53E0A9B78931B564388BE44 5DE9EF10A0C12574FE92BF9B7E5C9EC9 7ECE6C4ED6E977B4E80AB9945102350B8622A6DF BBF4533C214FA742DA22E75DCCE6B202 709A1E313C5A7DB1D55446F2EEB9FB7A61AE7CC6 0021785A02BDFA83244F4FB7F97C1C2B DD6213C983C08364FAEB6A0D88492E8F34437F9C BB9D6C4B5DB2C99247B200425F178313 0864640012790990F9F9A5B0B7B90AA492DE683B AC6D2623541BE43FF96736F077702B4E BF13D0EEF345513AA125B1FF18E67F0AAFCC2441 878136CC8BA6F2409CAF03CA6B01932A 24 F3144DEAD7FE25C9320D6E9DB3AC6BEBF3380819 F73A917ED525CF42E7D0C661E9B3F682 BC88012CCBDAEDEA9A61F90EF25EA1C2370C60DF E59B1C0D31C63538C526D3BA395DB27A E6EC5286BB5D7A69FDBBE0ADAC7FD6D15D537970 F9A55B8BF7523D617D74F68F9156B404 CF50EC05E6C601260E6865F33841F121AE005AA8 60AEF1AC4EF8332412E91BDBA8C621F1 37EB257684E955DFA04FF26EE76FB9FC95BAA7FE D0A9205BE03861B8EC7491668870FD3D 50D39D6BF4102CA380622D6EEC2CE84D25B887D7 C9B4116DD10A055EB7559A21A81B6C71 4847715FBC45836F9A7FD182B33DD52C1012187F 1C5CE7D6EC4FF7278AFC432739E94E2A DA779436194A4C16132A1726AD8A8CAFA4928199 B0698D651F1DCA614CB2207EC02A9DB6 D30A6DB5FF0F3567AB4010AD22A99AF126B7E02F 833932A229858444539EDDD3E48D6C13 1967ADC94CC3C86883418B079CECC98845473B1D EFDA916C91DA32CB4D13E0FE88B12F0A 55AF449831003E477FD36012B2FE80DF95ADB40C 2E82FB6ED99CE41A6346702C1C78A046 C60F990A9F5BC716AD9D7DF8A03D913A606C218C 200E7EB6F3847F969BD4B50130AB4CF2 3FC8DA065F65EF841A7A6739DDF64A242C5FBA79 4BA6306DF46452917DBA2CEB4AC41023 2EDB883F68F0CA0958112677AC39223DFE6C07B2 22B5583007CFC9CAF9A17F97F8EE35D2 318C10145DFBA7778A3C3EBC9678CCD7250F9A91 89C27E80A3B753CD87AA1E822798A50F 154BFF2D226FDA035E20B97D68BD837C31934673 98F297DA00879EC1900FB83DB61EF638 B5FC6261D53FC6A54BBECD4D14B9954F7BC3DFB6 9F2C82AFC64D33C90C512A414679397C D2746ACE829AF7DD7E152B19FE18D2C4D30294A5 692E6D76071132F76BC2DD9853E5AF43 BE86309515466587DEB1EF6771D2A96C4E1CAF26 C50FABCF6F61F22EB8A3ED7488F30D0F 520AD397DF797842F6097790EBDB09E0E23AC6A7 41FA062CBAB1B9ADFC2867E84E85260A C21239A957D8DE2BD376B1FBFCE696ACCFDD4538 381969C96520DCA1E01367C1A58FBE84 B43196C6B619FE8F8767064EE9DDD64425C06954 0F067B6CA8A8B3B595C3448337B75985 F05F3EABD26552FBD6F1573FB2388CA2E33C864B BB3470F0A2EE24DBF8DE83B5AA192C96 F16280D2BED2E33D5D05ED3DA72680AE19EEE77D 85244A36D61A285CF0FC33CA35D84EC1 0 0 0FE39F
+$GambitLord<~Controls.479~>F6161B442FF127DA80EE33B5AE136B5E2954C6F9 C501920315A64829D69992F56A0A0EB6 24 634F40E547190E2F61DDC28F6D6AA159FC233CAF DFD61F084BE556048CC22DFFD4760808 E3BEA8F127B28DF4834145AC20559366C6D4A935 A1054CC2AA4C0FA4A4DAC6D660ADF128 259A252FF9B873A9D627288EEB943FDDBFBF662F 0189C1A78A6EFB852DED5D0410A16101 3434796E53136F1D8D0DE09DAD0D2A13E8BE986E D1062126897E4B350CB4FA4B9D334D29 E60A37C2BF0C5BEBD638922117ADE69DDC67DDC3 44395ECCC2D6189223079CACCFDF023F 9610E63A48D1656F1C7F973BF335D573EACA40F8 B1ECCB323E1C2F4DAF998CFE0F3597C3 40D94B65B4CBF0F19646DAFCE6111B8A19569596 9795C390AAB6DEF4F1A97BF23AF86409 BFE96A6DC93025DB193CD9C9ACCF534E203005B6 E0C221824A8F522810877E97B7FD2DC7 089E76E105B674B1962BABB351419928239B82B5 69F0A0922D4B0E103D110AD1CB10A7D5 40CDB22A4330C81AFD1DD67BEC5230730726045B C27DB0BDA274D962189841852B7C0A7F 420FE3DBC16116C8F8A519A0E8EC683C8A21FAAC 32CDFD36EA47AF0951BBEAA9D207F26D 0D337FB72D153FD14D2323AB3E252332FDD3A1F8 FDCEC1CE2E1792DA92312C791580729B 9A7F60316CD9C80589B41171D57E4A8CEE8899A5 E87C45EDB3799C0C9C9937E9F31980D9 E895971BBB597A6437461746DF6F9ED18AFE6414 FC0934074BBA9996B0B95C51B148448F 27B761B46C51B6E103EE28CB9E30C31BFF6C9AF6 8ACA79280E3912F02FD106E6A6D88296 A5DDC21AE524399675ACBC9CFA21CED0E7CB19B8 6F18DBA14AB44FF284E00A3A5363B59C F620B8BEED387EA21208753AD403C8823F32B018 99B75E66B7ACA856410BB838B6706105 1332E25C9085B5F24D08C70FF8A02A7FB964EAB7 C97E5B5DEF58A1788878896FDFD99EAE 174DA3D8E5AAE3A7ADE00F18A9E0B6F054FE064A 9A48B1041CDC6338AC556B02C340099A 4541489994E340C28763FB06DDD0531CF29FDB8F C170B1A0F2B3F8B317DF7A304FB1B0E4 D1BFE5E0160D83546F4B35A45A69D21E88B20540 9561BBD4E091C3D66D9343EBC0BF4A85 DCCB0A7EA3E28692D4D97027D9C40CE8F57D4D68 D1F5D58C811358B6F1F4F91D31B8266A B34A6BBE36D13AC4EF4082B80C7FCABA31194842 99B2D655580EFD4C277D56EF75B37C0D 806D7FEE64BE534D1EC2E01F0DBDE09C64126836 BA1D349BBC626C44BBA6B97D26A5D8C7 24 0D1C851AA61D032627F5EB43F23A5250DB9C1A4A 36B4B03F118AC849A1316C6CFEB6DFBA B235BC757FF13AADF31650C78B9F8D415C9EA610 FE44E0EC3854A05D7C055D906585BF63 684C61DB875BC278463B90A0C4BCAE2AF98CE25D 01B4618D48886C034456F0444A117CD1 51EE5886814D2D2F48C59DCD0BC7FEA52CF7D61B 6569C33A7D5C7A5222EF8974357B4A49 1E77416FA4C376C10B5AF3F69CAAF31AF7D9CA40 13F1A88A70F9F0219EC7B6569DDB734F CA485F99471FEB673DC89B05FBCF0CA32DA400E3 798E2C6B887CCFB9FB4678DD76CC1CA7 A1F5DD5B52704E58EE0A1D21D6F63759B7418C8F 8AC8DF7CB02DA42EE1D975F60E7803CC 43E4712C403E437CD1D60A358616F2116AB72B2A 09327A2D4ADC945C3CBEFF3919410FA8 324A14D15517E37EF6DC71A15546E0DE8ED54CD2 07F2756162975B136429189B0A58AA20 AD454F530EC6C2B3D850CE9B38DF0F73DD9B8266 AAD0CDA026355A9F7E2C66C7A3D18E6E E51C1713FE0424EFD5689902C4B97933436AD909 2FCC08E4965D1A5721FB4766CF1236BB 5B6662925F239C04A053E01F63A320A584B686F3 317AFBF6770CB7073B787071AFA5B202 7EC40CACA7C1978BD0151EC335B6A831E75286A0 2AB9671E8CBE0711362DD6C1F2CBA9D4 384EA7A73556EE81A04BEA5DD8232BCB4E1A1EBB 3A76273908BE343B560F784F6962A3F4 C840A9D2D5C74EB565DCBD63FF63EEE5479E8EB8 278B17ED3E42DFFD64B7DEDBD9E93B8E 3A4C5E0A947DEBD20181E834252AF23C3E42F9B3 A5F8C3CF9A567F3C90EF860413C92D4E 52775EB0D3640F527A870B744047EE1427EB73A8 D60027A3D4BC44BF93BBCC65421CE422 E02DE6C8180CC0077D7CB7BE6CE12C6EA38C90DF 13E6E033613EE7BA143FBC4683A59A2F E128D775571C2BAA211C7F7A938E67C9C190FF16 EC5166B02D21A60F4C26A09CBBB233F1 12BC15FB40E164E25C7E4CCC9276240083F9C288 6DA8FF3B87B37DFFEC747B58A30C261D FC11F02E9A5B15F0823C210DC3D50E439842EF6A A3CB535D5D2395A03DDF164B2743721E B35542B62EA59DBCA952443E8F63301E79BDF7A4 5E13DDCAA81456628911284CF0EAAF93 CA158D2FB358927C58C463A35540ABE8D7587791 377D4F1829ABC26CB9899B283FA038F9 A7D9303B630331DAD4BE0ECB3A441E8F19F14D8D D458E34255FBB5393FE76F81FCE27FF4 0 0 64A6B8
+$Disgruntled_Veteran<~Controls.509~>149<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Disgruntled_Veteran<~Controls.509~>110<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$GambitLord<~Controls.509~>181<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$GambitLord<~Controls.509~>176<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Disgruntled_Veteran<~Scribe.141~>426 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.29~><~Scribe.144~> 2E3E9F
+<GambitLord> 0e 2AEBCD
+$Disgruntled_Veteran<~Controls.281~>427 <~Controls.282~><~Game.2038~><~Controls.283~><~Game.2042~> 052A79
+$Disgruntled_Veteran<~Scribe.141~>427 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.28~><~Scribe.144~> 91A330
+<Disgruntled_Veteran> FP good 192110
+$GambitLord<~Controls.281~>427 <~Controls.282~><~Game.28~><~Controls.283~><~Game.2042~> AC235C
+$GambitLord<~Controls.281~>426 <~Controls.282~><~Game.29~><~Controls.283~><~Game.2042~> 08564D
+<GambitLord> 3rd token FA9E06
+<GambitLord> is? AB7F1A
+<Disgruntled_Veteran> its on the 2 and 1 respectivbely C7D37B
+<GambitLord> oh 9459FF
+<GambitLord> gotcha E2CEF9
+$GambitLord<~Controls.819~> 7FC3BA
+$GambitLord<~Controls.819~> 783F97
+<GambitLord> I've never seen that before 3B5F25
+<GambitLord> makes sense ED2EE4
+<Disgruntled_Veteran> keeps track of which im using 3F8911
+$GambitLord<~Controls.345~>105 104 103 102 101 100 099 <~Controls.346~>11 10 13 14 11 14 15 null
+$GambitLord<~Controls.350~>105 104 103 102 101 100 099 null
+$Disgruntled_Veteran<~Controls.345~>213 212 211 210 <~Controls.346~>3 2 2 3 null
+<Disgruntled_Veteran> pass 1FE16B
+$GambitLord<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 1F49C6
+$GambitLord<~Scribe.141~>263 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 7C6B29
+$GambitLord<~Controls.644~>104 <~Controls.645~><~Game.2035~> 6DCE57
+<Disgruntled_Veteran> pass 7D4EBE
+$GambitLord<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 8CAB6B
+$GambitLord<~Scribe.141~>254 360 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2037~><~Scribe.144~> 142C78
+$GambitLord<~Scribe.141~>254 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.1919~><~Scribe.144~> 7556D2
+$GambitLord<~Controls.644~>101 360 <~Controls.645~><~Game.2035~> 4EB8CA
+$Disgruntled_Veteran<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 6E7673
+$Disgruntled_Veteran<~Scribe.141~>260 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> 163939
+$Disgruntled_Veteran<~Controls.644~>210 <~Controls.645~><~Game.2035~> 756CDF
+$GambitLord<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 76AD7F
+$GambitLord<~Scribe.141~>039 036 029 028 027 026 <~Scribe.142~><~Game.1979~><~Scribe.143~><~Game.533~><~Scribe.144~> A44548
+$GambitLord<~Scribe.141~>034 033 <~Scribe.142~><~Game.1971~><~Scribe.143~><~Game.1977~><~Scribe.144~> 640202
+$GambitLord<~Controls.644~>105 <~Controls.645~><~Game.2035~> 8607C4
+$Disgruntled_Veteran<~Scribe.141~>427 <~Scribe.142~><~Game.28~><~Scribe.143~><~Game.2035~><~Scribe.144~> 7C8290
+$Disgruntled_Veteran<~Controls.509~>120<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Disgruntled_Veteran<~Controls.644~>427 <~Controls.645~><~Game.2035~> E2B098
+$GambitLord<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> DAE8A5
+$GambitLord<~Controls.509~>200<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$GambitLord<~Controls.644~>102 <~Controls.645~><~Game.2035~> 445845
+$Disgruntled_Veteran<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 656585
+$Disgruntled_Veteran<~Scribe.141~>reveal 120 797B815FE0C7B37671BAEACE525E07337058420C 2 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2036~><~Scribe.144~> EE7300
+$Disgruntled_Veteran<~Scribe.141~>266 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1954~><~Scribe.144~> BADCF5
+$Disgruntled_Veteran<~Controls.509~>145<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Disgruntled_Veteran<~Controls.509~>138<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Disgruntled_Veteran<~Controls.644~>211 120 <~Controls.645~><~Game.2035~> DC2B3C
+$GambitLord<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> F7E42A
+$GambitLord<~Scribe.141~>039 036 029 028 027 026 <~Scribe.142~><~Game.533~><~Scribe.143~><~Game.1969~><~Scribe.144~> 73F695
+$GambitLord<~Controls.819~> 22D737
+$GambitLord<~Scribe.141~>039 036 029 028 027 026 <~Scribe.142~><~Game.533~><~Scribe.143~><~Game.1974~><~Scribe.144~> 9EB62F
+$GambitLord<~Controls.819~> 1DC477
+$GambitLord<~Scribe.141~>039 036 029 028 027 026 <~Scribe.142~><~Game.533~><~Scribe.143~><~Game.1974~><~Scribe.144~> 24805C
+$GambitLord<~Controls.644~>103 <~Controls.645~><~Game.2035~> 7AF95F
+$Disgruntled_Veteran<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> D2F632
+$Disgruntled_Veteran<~Scribe.141~>reveal 138 B4D9495A5A2D744F0980B7A295D975B15D1A8722 5 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2029~><~Scribe.144~> 49D169
+$Disgruntled_Veteran<~Scribe.141~>258 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> 2DFA28
+$Disgruntled_Veteran<~Controls.509~>119<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Disgruntled_Veteran<~Controls.644~>212 <~Controls.645~><~Game.2035~> 1AE2EA
+$GambitLord<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 852096
+$GambitLord<~Scribe.141~>reveal 181 A595C7E9438C839D13EEC63356DBCBB0D2C537FA 4 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 2FA00C
+$GambitLord<~Scribe.141~>181 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2030~><~Scribe.144~> CC6AB0
+$GambitLord<~Controls.644~>100 <~Controls.645~><~Game.2035~> 232A6D
+$Disgruntled_Veteran<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> EA8616
+$Disgruntled_Veteran<~Scribe.141~>258 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> D8EA19
+$Disgruntled_Veteran<~Controls.644~>213 <~Controls.645~><~Game.2035~> 1001D3
+$Disgruntled_Veteran<~Controls.731~>213 212 211 210 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 768931
+$Disgruntled_Veteran<~Controls.509~>108<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Disgruntled_Veteran<~Controls.509~>134<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$GambitLord<~Controls.757~>099 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 727630
+<~Game.7~>2 null
+$GambitLord<~Controls.762~>100 103 102 105 101 360 104 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> AC8C24
+$GambitLord<~Controls.509~>174<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$GambitLord<~Controls.509~>183<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<Disgruntled_Veteran> FP good ABAEB1
+<GambitLord> 0e B9CDD1
+$GambitLord<~Controls.345~>100 103 102 105 101 360 104 099 <~Controls.346~>10 15 13 13 13 15 15 13 null
+$GambitLord<~Controls.350~>100 103 102 105 101 360 104 099 null
+$Disgruntled_Veteran<~Controls.345~>213 212 211 210 <~Controls.346~>4 2 4 1 null
+<Disgruntled_Veteran> pass ACA7DB
+$GambitLord<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> ECAAFD
+$GambitLord<~Scribe.141~>262 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 4C5F64
+$GambitLord<~Controls.644~>100 <~Controls.645~><~Game.2035~> 506C14
+$Disgruntled_Veteran<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 8D6C02
+$Disgruntled_Veteran<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 078ECC
+$Disgruntled_Veteran<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> A2FDD3
+<game> GambitLord<~Controls.1~> 2 1 2 null
+$GambitLord<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> EEC7F3
+$GambitLord<~Scribe.141~>040 035 015 014 013 012 011 <~Scribe.142~><~Game.1956~><~Scribe.143~><~Game.1958~><~Scribe.144~> 066644
+$GambitLord<~Controls.644~>099 <~Controls.645~><~Game.2035~> 5111B8
+$Disgruntled_Veteran<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 76A43C
+$Disgruntled_Veteran<~Scribe.141~>065 <~Scribe.142~><~Game.1941~><~Scribe.143~><~Game.1957~><~Scribe.144~> 68274B
+$Disgruntled_Veteran<~Scribe.141~>073 072 <~Scribe.142~><~Game.1929~><~Scribe.143~><~Game.1925~><~Scribe.144~> 664D6B
+$Disgruntled_Veteran<~Controls.644~>211 <~Controls.645~><~Game.2035~> 720824
+$GambitLord<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> CFADFC
+$GambitLord<~Scribe.141~>039 038 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1974~><~Scribe.143~><~Game.1976~><~Scribe.144~> 26CCA0
+$GambitLord<~Controls.644~>102 <~Controls.645~><~Game.2035~> E8E0E5
+$Disgruntled_Veteran<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 5C3BCC
+<Disgruntled_Veteran> yuk 12B168
+<GambitLord> yeah, bad rolls for you ABFF42
+$Disgruntled_Veteran<~Scribe.141~>reveal 149 2FAF896FD77E5573074D33C38E895B3983ECDED3 12 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2036~><~Scribe.144~> B00207
+$Disgruntled_Veteran<~Scribe.141~>243 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1940~><~Scribe.144~> A028C1
+$Disgruntled_Veteran<~Scribe.141~>243 <~Scribe.142~><~Game.1940~><~Scribe.143~><~Game.1939~><~Scribe.144~> E15815
+$Disgruntled_Veteran<~Scribe.141~>243 <~Scribe.142~><~Game.1939~><~Scribe.143~><~Game.1998~><~Scribe.144~> C20B65
+$Disgruntled_Veteran<~Scribe.141~>241 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1916~><~Scribe.144~> 6AB4AB
+$Disgruntled_Veteran<~Controls.644~>212 149 <~Controls.645~><~Game.2035~> 1D6D77
+$Disgruntled_Veteran<~Controls.509~>117<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$GambitLord<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 38D8E0
+$GambitLord<~Scribe.141~>039 038 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1976~><~Scribe.143~><~Game.1972~><~Scribe.144~> CEB687
+$GambitLord<~Controls.644~>105 <~Controls.645~><~Game.2035~> 32018C
+$Disgruntled_Veteran<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 0837E8
+$Disgruntled_Veteran<~Scribe.141~>073 072 <~Scribe.142~><~Game.1925~><~Scribe.143~><~Game.1923~><~Scribe.144~> 56901B
+$Disgruntled_Veteran<~Scribe.141~>059 <~Scribe.142~><~Game.1973~><~Scribe.143~><~Game.1965~><~Scribe.144~> C340CD
+$Disgruntled_Veteran<~Controls.644~>213 <~Controls.645~><~Game.2035~> A70AAE
+$GambitLord<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 442893
+$GambitLord<~Scribe.141~>039 038 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1972~><~Scribe.143~><~Game.1975~><~Scribe.144~> 697540
+$GambitLord<~Controls.644~>101 <~Controls.645~><~Game.2035~> DB076E
+$GambitLord<~Controls.757~>103 360 104 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 6D01BA
+$GambitLord<~Controls.762~>101 105 102 099 100 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 88936D
+$Disgruntled_Veteran<~Controls.726~>210 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 6C672D
+<~Game.7~>3 null
+$Disgruntled_Veteran<~Controls.731~>213 212 211 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 407E10
+$GambitLord<~Controls.509~>193<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$GambitLord<~Controls.509~>196<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Disgruntled_Veteran<~Controls.509~>136<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Disgruntled_Veteran<~Controls.509~>111<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$GambitLord<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> 606C13
+$Disgruntled_Veteran<~Controls.296~>136 <~Controls.297~><~Controls.45~> 72844E
+$Disgruntled_Veteran<~Controls.296~>108 <~Controls.297~><~Controls.45~> C8883A
+<Disgruntled_Veteran> Good 5E047A
+$GambitLord<~Controls.345~>101 105 102 099 100 103 360 <~Controls.346~>11 13 10 14 13 14 10 null
+$GambitLord<~Controls.350~>101 105 102 099 100 103 360 null
+$Disgruntled_Veteran<~Controls.345~>213 212 211 210 <~Controls.346~>1 0 2 0 null
+$Disgruntled_Veteran<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 295B24
+$Disgruntled_Veteran<~Controls.790~>248<~Controls.791~><~Game.2015~><~Controls.792~><~Game.2016~> 70C19C
+$Disgruntled_Veteran<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 61E89D
+<game> GambitLord<~Controls.1~> 3 null
+$GambitLord<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> B409DE
+$GambitLord<~Scribe.141~>261 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> AA55F4
+$GambitLord<~Controls.644~>102 <~Controls.645~><~Game.2035~> A60E55
+$Disgruntled_Veteran<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> FD64FB
+$Disgruntled_Veteran<~Controls.790~>248<~Controls.791~><~Game.2016~><~Controls.792~><~Game.2017~> E04B77
+$Disgruntled_Veteran<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 090CAA
+<game> GambitLord<~Controls.1~> 1 null
+$GambitLord<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> A6D0E4
+$GambitLord<~Scribe.141~>056 052 051 050 <~Scribe.142~><~Game.1986~><~Scribe.143~><~Game.1984~><~Scribe.144~> D88686
+$GambitLord<~Scribe.141~>039 038 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1975~><~Scribe.143~><~Game.1966~><~Scribe.144~> BAEC19
+$GambitLord<~Controls.644~>101 <~Controls.645~><~Game.2035~> F16F74
+<Disgruntled_Veteran> pass 04792C
+$GambitLord<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> E941B5
+<GambitLord> Attack Dale 240399
+<GambitLord> nc 164B43
+$Disgruntled_Veteran<~Controls.840~>111 ABB8A0
+<auto><~Controls.861~>reveal 111 C903F1966778A74F1EC83772AC139D3085D8FA2F 3<~Controls.862~><~Controls.45~><~Controls.863~><~Game.2037~> 5DDC9E
+<Disgruntled_Veteran> thinking 148398
+$GambitLord<~Scribe.141~>258 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 24334D
+$GambitLord<~Controls.323~>258 7E5BF4
+$Disgruntled_Veteran<~Scribe.141~>068 066 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.1965~><~Scribe.144~> 568541
+$GambitLord<~Scribe.141~>039 038 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1966~><~Scribe.143~><~Game.1970~><~Scribe.144~> 6342FC
+$GambitLord<~Scribe.141~>419 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1970~><~Scribe.144~> E674F3
+$GambitLord<~Scribe.141~>423 <~Scribe.142~><~Game.27~><~Scribe.143~><~Game.28~><~Scribe.144~> 0BF9E0
+$Disgruntled_Veteran<~Controls.644~>100 111 <~Controls.645~><~Game.2035~> 84D655
+<Disgruntled_Veteran> pass 6C38F2
+$GambitLord<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> F3FDC3
+<GambitLord> Attack WLR 0F42EA
+$Disgruntled_Veteran<~Scribe.141~>256 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> C63BBC
+$Disgruntled_Veteran<~Scribe.141~>098 266 094 088 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1991~><~Scribe.144~> D43A83
+$GambitLord<~Scribe.141~>039 038 036 029 028 027 026 025 024 023 022 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.1954~><~Scribe.144~> 7FAB25
+$GambitLord<~Controls.644~>105 <~Controls.645~><~Game.2035~> 2EDCFD
+$Disgruntled_Veteran<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 38E2E2
+$Disgruntled_Veteran<~Controls.281~>211 <~Controls.282~><~Game.2035~><~Controls.283~><~Game.2042~> 8404EC
+<Disgruntled_Veteran> pass BB6FAE
+$GambitLord<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> E162B5
+$GambitLord<~Scribe.141~>253 361 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2037~><~Scribe.144~> 076397
+$GambitLord<~Scribe.141~>253 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.1954~><~Scribe.144~> 2F17B3
+$GambitLord<~Controls.644~>360 361 <~Controls.645~><~Game.2035~> 674099
+$GambitLord<~Controls.323~>259 257 E12168
+$GambitLord<~Controls.323~>260 ED4D27
+$Disgruntled_Veteran<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 9B8783
+$Disgruntled_Veteran<~Controls.366~>251<~Controls.367~><~Game.2010~><~Controls.368~><~Game.2011~> 2A22DE
+$Disgruntled_Veteran<~Controls.790~>248<~Controls.791~><~Game.2017~><~Controls.792~><~Game.2018~> E580A6
+$Disgruntled_Veteran<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> D7ADCF
+<game> GambitLord<~Controls.1~> 2 null
+$GambitLord<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 5620ED
+$GambitLord<~Scribe.141~>reveal 174 FC160EE7E6B5E326F0B0DBD659054A113163DA17 16 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 51C778
+$GambitLord<~Scribe.141~>174 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2034~><~Scribe.144~> 48A3A8
+$GambitLord<~Controls.840~>183 5A1902
+<auto><~Controls.866~>reveal 183 EC643F6E4AE5E3D5F8AA484D43C83CE81723ECE5 3<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> CC264A
+$Disgruntled_Veteran<~Scribe.141~>256 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> 38E814
+$GambitLord<~Scribe.141~>022 023 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.2036~><~Scribe.144~> 7817DA
+<game> GambitLord<~Controls.1~> 4 2 4 5 1 null
+<game> GambitLord<~Controls.1~> 3 5 null
+<GambitLord> 3 339389
+<game> Disgruntled_Veteran<~Controls.1~> 6 6 4 null
+<game> Disgruntled_Veteran<~Controls.1~> 4 null
+$Disgruntled_Veteran<~Controls.296~>094 088 <~Controls.297~><~Game.1991~> 58D422
+$GambitLord<~Scribe.141~>025 024 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.2036~><~Scribe.144~> 0C0D84
+$GambitLord<~Controls.509~>185<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$GambitLord<~Scribe.141~>174 <~Scribe.142~><~Game.2034~><~Scribe.143~><~Game.2033~><~Scribe.144~> B1DD2C
+$GambitLord<~Controls.662~>183 025 024 022 023 <~Controls.663~><~Game.2035~> FBDE08
+<GambitLord> round 2 30A9EA
+$GambitLord<~Controls.840~>196 CEC52B
+$Disgruntled_Veteran<~Controls.840~>145 63FB16
+<auto> playchosen 3EB922
+<auto><~Controls.3~>reveal 145 BCEAA73ACFF124C77FF334660EFD9C7BCD2C7A83 1<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> A2A89D
+<auto><~Controls.866~>reveal 196 4AD46A12395F2A4ED4EEBE7096D2031E011D683A 7<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 71286B
+<auto> playchosen A6FE46
+<game> GambitLord<~Controls.1~> 4 3 6 6 5 null
+<game> Disgruntled_Veteran<~Controls.1~> 4 null
+<game> Disgruntled_Veteran<~Controls.1~> 3 null
+$Disgruntled_Veteran<~Scribe.141~>098 266 <~Scribe.142~><~Game.1991~><~Scribe.143~><~Game.2037~><~Scribe.144~> 4F0316
+$GambitLord<~Scribe.141~>418 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1954~><~Scribe.144~> 54FB5E
+$GambitLord<~Scribe.141~>174 <~Scribe.142~><~Game.2033~><~Scribe.143~><~Game.2036~><~Scribe.144~> 4F1089
+<GambitLord> redawing for palantir of orthanc 8D0589
+$GambitLord<~Controls.509~>203<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$GambitLord<~Controls.644~>103 174 196 145 098 266 <~Controls.645~><~Game.2035~> 9D82FB
+$Disgruntled_Veteran<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> BBD5B0
+$Disgruntled_Veteran<~Controls.790~>248<~Controls.791~><~Game.2018~><~Controls.792~><~Game.2019~> CC5000
+$Disgruntled_Veteran<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 5ECA42
+<game> GambitLord<~Controls.1~> 2 null
+<GambitLord> wow 47563A
+<GambitLord> lots of movement 215251
+<Disgruntled_Veteran> not bad in......3 turns 93CFB1
+$GambitLord<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> D6D98F
+$GambitLord<~Scribe.141~>reveal 185 C83FD4F5318B13FEA8D174E6A782AA1022725394 15 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> BD241B
+<GambitLord> hmm 2542A9
+$GambitLord<~Scribe.141~>334 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2036~><~Scribe.144~> DCCA55
+$GambitLord<~Scribe.141~>334 <~Scribe.142~><~Game.2036~><~Scribe.143~><~Game.1970~><~Scribe.144~> 722A89
+$GambitLord<~Controls.509~>179<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$GambitLord<~Controls.644~>099 185 <~Controls.645~><~Game.2035~> 6B15B6
+$Disgruntled_Veteran<~Controls.726~>210 211 212 213 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 062412
+$GambitLord<~Controls.757~>104 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 818FE5
+<~Game.7~>4 null
+$GambitLord<~Controls.762~>099 103 360 361 105 100 101 102 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> E78048
+$Disgruntled_Veteran<~Controls.509~>141<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Disgruntled_Veteran<~Controls.509~>130<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$GambitLord<~Controls.509~>208<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$GambitLord<~Controls.509~>205<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<Disgruntled_Veteran> FP good C1C57A
+$GambitLord<~Controls.296~>193 <~Controls.297~><~Controls.46~> 7601A3
+$GambitLord<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> 27C088
+$Disgruntled_Veteran<~Scribe.141~>256 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> DAE022
+$GambitLord<~Controls.345~>099 103 360 361 105 100 101 102 <~Controls.346~>10 12 13 14 15 10 15 15 null
+$GambitLord<~Controls.350~>099 103 360 361 105 100 101 102 null
+$Disgruntled_Veteran<~Controls.345~>210 211 212 213 <~Controls.346~>0 4 4 0 null
+$Disgruntled_Veteran<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> D5C82A
+$Disgruntled_Veteran<~Controls.790~>248<~Controls.791~><~Game.2019~><~Controls.792~><~Game.2020~> 68EAE8
+$Disgruntled_Veteran<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 7AD706
+<game> GambitLord<~Controls.1~> 6 1 2 4 null
+$GambitLord<~Controls.624~>229<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Disgruntled_Veteran<~Scribe.141~>240 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2037~><~Scribe.144~> C34760
+$Disgruntled_Veteran<~Controls.644~>229 240 <~Controls.645~><~Game.2035~> CB2EBE
+$Disgruntled_Veteran<~Scribe.141~>244 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> F61386
+$GambitLord<~Scribe.141~>361 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 753977
+$GambitLord<~Scribe.141~>reveal 208 6FE4C0A0A60C409DDB60C5972BD2ECC34F5ED5A3 17 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 5165A2
+$GambitLord<~Scribe.141~>239 <~Scribe.142~><~Game.2046~><~Scribe.143~><~Game.2037~><~Scribe.144~> 3DC09A
+$GambitLord<~Controls.509~>207<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$GambitLord<~Controls.644~>361 208 239 <~Controls.645~><~Game.2035~> 1CCB9C
+<Disgruntled_Veteran> pass 445B00
+$GambitLord<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 063C7C
+$GambitLord<~Scribe.141~>261 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> FE68C3
+$GambitLord<~Controls.644~>100 <~Controls.645~><~Game.2035~> 27E177
+$Disgruntled_Veteran<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 789D6C
+$Disgruntled_Veteran<~Scribe.141~>240 <~Scribe.142~><~Game.2039~><~Scribe.143~><~Game.2037~><~Scribe.144~> 5D352D
+$Disgruntled_Veteran<~Scribe.141~>358 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.2036~><~Scribe.144~> 1390F2
+$Disgruntled_Veteran<~Scribe.141~>240 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.1921~><~Scribe.144~> 268C63
+$Disgruntled_Veteran<~Controls.323~>240 AB166F
+$Disgruntled_Veteran<~Controls.644~>210 358 <~Controls.645~><~Game.2035~> 4DD69D
+$GambitLord<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 944F7F
+<GambitLord> Attack OFR E5CFF8
+<GambitLord> from Narrows D560DA
+<GambitLord> nc 1A39C7
+$Disgruntled_Veteran<~Controls.840~>134 EB9414
+<auto><~Controls.861~>reveal 134 9027D92EF40A9BD1144CB73EDB4D557DAE955111 15<~Controls.862~><~Controls.45~><~Controls.863~><~Game.2037~> 2F85EF
+$Disgruntled_Veteran<~Scribe.141~>065 <~Scribe.142~><~Game.1957~><~Scribe.143~><~Game.1961~><~Scribe.144~> 12DFED
+$GambitLord<~Scribe.141~>040 035 015 014 013 012 011 <~Scribe.142~><~Game.1958~><~Scribe.143~><~Game.1957~><~Scribe.144~> 337ABB
+$GambitLord<~Controls.644~>360 134 <~Controls.645~><~Game.2035~> B21CA5
+$Disgruntled_Veteran<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> E433D2
+$Disgruntled_Veteran<~Scribe.141~>065 <~Scribe.142~><~Game.1961~><~Scribe.143~><~Game.1956~><~Scribe.144~> AA2A98
+$Disgruntled_Veteran<~Scribe.141~>067 <~Scribe.142~><~Game.1899~><~Scribe.143~><~Game.1901~><~Scribe.144~> 653DE0
+$Disgruntled_Veteran<~Controls.644~>212 <~Controls.645~><~Game.2035~> A3F68A
+$GambitLord<~Scribe.141~>307 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1956~><~Scribe.144~> C48EF2
+$Disgruntled_Veteran<~Scribe.141~>422 <~Scribe.142~><~Game.27~><~Scribe.143~><~Game.29~><~Scribe.144~> B84B5E
+$GambitLord<~Controls.819~> 19342F
+$GambitLord<~Scribe.141~>422 <~Scribe.142~><~Game.27~><~Scribe.143~><~Game.29~><~Scribe.144~> 980977
+$GambitLord<~Controls.281~>065 <~Controls.282~><~Game.1956~><~Controls.283~><~Game.2038~> DCC187
+$GambitLord<~Scribe.141~>410 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1956~><~Scribe.144~> 3F9E25
+$GambitLord<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 8D0B3F
+$GambitLord<~Scribe.141~>040 035 015 014 013 012 011 <~Scribe.142~><~Game.1957~><~Scribe.143~><~Game.1970~><~Scribe.144~> 2888CF
+$GambitLord<~Scribe.141~>253 038 039 036 029 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1970~><~Scribe.144~> 552C8A
+$GambitLord<~Controls.644~>103 <~Controls.645~><~Game.2035~> 442B09
+$Disgruntled_Veteran<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 36C96C
+$Disgruntled_Veteran<~Scribe.141~>reveal 110 FE6083A916288A6160AB7C9427DF5248DAC6A9B3 16 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2036~><~Scribe.144~> AEF2A3
+$Disgruntled_Veteran<~Scribe.141~>241 <~Scribe.142~><~Game.1916~><~Scribe.143~><~Game.1933~><~Scribe.144~> 49235E
+$Disgruntled_Veteran<~Controls.644~>211 110 <~Controls.645~><~Game.2035~> E356C9
+$GambitLord<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> A9EA0F
+$GambitLord<~Controls.304~>005 <~Controls.305~><~Game.1919~> 5805EE
+$GambitLord<~Controls.313~>326 <~Controls.309~><~Controls.314~><~Game.1919~> 7802FD
+$GambitLord<~Controls.304~>004 <~Controls.305~><~Game.1919~> 104C57
+$GambitLord<~Controls.313~>325 <~Controls.309~><~Controls.314~><~Game.1919~> 2F8D54
+$GambitLord<~Controls.644~>099 <~Controls.645~><~Game.2035~> C48F72
+$GambitLord<~Controls.757~>105 101 102 104 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 732229
+$GambitLord<~Controls.762~>099 103 360 100 361 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 979419
+$Disgruntled_Veteran<~Controls.726~>213 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> D2671A
+<~Game.7~>5 null
+$Disgruntled_Veteran<~Controls.731~>211 212 210 358 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 8D9BF1
+$Disgruntled_Veteran<~Controls.509~>107<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Disgruntled_Veteran<~Controls.509~>114<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$GambitLord<~Controls.509~>173<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$GambitLord<~Controls.509~>171<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<Disgruntled_Veteran> FP good 4B19EC
+$GambitLord<~Controls.296~>173 <~Controls.297~><~Controls.46~> 163D6A
+$GambitLord<~Controls.296~>200 <~Controls.297~><~Controls.46~> BDA3CE
+$GambitLord<~Controls.345~>099 103 360 100 361 105 101 102 104 <~Controls.346~>15 13 15 15 11 13 11 10 10 null
+$GambitLord<~Controls.350~>099 103 360 100 361 105 101 102 104 null
+$Disgruntled_Veteran<~Controls.345~>211 212 210 358 213 <~Controls.346~>1 3 0 2 1 null
+<Disgruntled_Veteran> pass 81989F
+<GambitLord> hmmm AEE7FF
+$GambitLord<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> FD0D24
+<GambitLord> Erebor B757DC
+$Disgruntled_Veteran<~Scribe.141~>068 062 312 061 066 059 060 <~Scribe.142~><~Game.1965~><~Scribe.143~><~Game.1988~><~Scribe.144~> E121C1
+$GambitLord<~Scribe.141~>253 038 039 040 036 035 334 021 029 015 014 013 012 011 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.1965~><~Scribe.144~> 559CD4
+$Disgruntled_Veteran<~Scribe.141~>257 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> 481DA1
+$GambitLord<~Controls.644~>105 <~Controls.645~><~Game.2035~> 69C514
+$Disgruntled_Veteran<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> A269CF
+$Disgruntled_Veteran<~Controls.790~>248<~Controls.791~><~Game.2020~><~Controls.792~><~Game.2021~> DA5F93
+$Disgruntled_Veteran<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> B7A987
+<game> GambitLord<~Controls.1~> 5 3 2 null
+$GambitLord<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> F55722
+$GambitLord<~Controls.281~>103 <~Controls.282~><~Game.2035~><~Controls.283~><~Game.2043~> 4C3BFF
+$GambitLord<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> A7BAAF
+<GambitLord> Erebor 7FC9C1
+$Disgruntled_Veteran<~Scribe.141~>257 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> 4C7CE9
+$GambitLord<~Controls.840~>207 5A2970
+$Disgruntled_Veteran<~Controls.840~>119 3A6F28
+<auto> playchosen 0BF2BF
+<auto><~Controls.3~>reveal 119 258F45336D040A1B764F7545BB6CF2DA4B9180F3 13<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> B5B39D
+<auto><~Controls.866~>reveal 207 79E0D2F2A942CE5499A0729EC455E9AE4537AAE1 19<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 7B3086
+<auto> playchosen 11F57A
+<game> GambitLord<~Controls.1~> 4 3 6 2 6 null
+<game> GambitLord<~Controls.1~> 4 3 null
+<GambitLord> 4 C66EE4
+<game> Disgruntled_Veteran<~Controls.1~> 1 1 1 4 1 null
+<game> Disgruntled_Veteran<~Controls.1~> 5 6 null
+$Disgruntled_Veteran<~Controls.296~>312 061 <~Controls.297~><~Game.1988~> 57510D
+$GambitLord<~Scribe.141~>014 013 012 011 <~Scribe.142~><~Game.1965~><~Scribe.143~><~Game.2036~><~Scribe.144~> 24B496
+<GambitLord> press/draw A7619C
+$GambitLord<~Controls.662~>207 014 013 012 011 119 <~Controls.663~><~Game.2035~> A32930
+$GambitLord<~Controls.509~>195<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<GambitLord> hmmm DE263C
+$GambitLord<~Controls.840~>171 CDAFD5
+<auto> playchosen 0B33C7
+<auto><~Controls.866~>reveal 171 2DFFA9B1EADD51347A98519DA2FDDC4E845862F3 8<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 63FED2
+$GambitLord<~Controls.304~>036 <~Controls.305~><~Game.1965~> 77E825
+$GambitLord<~Controls.313~>014 <~Controls.307~><~Controls.314~><~Game.1965~> 219AF3
+<GambitLord> need to downgrade 1 7331FF
+<game> GambitLord<~Controls.1~> 5 3 3 4 2 null
+<game> GambitLord<~Controls.1~> 4 1 4 2 3 null
+<GambitLord> 0 3F986A
+<game> Disgruntled_Veteran<~Controls.1~> 2 3 3 null
+<game> Disgruntled_Veteran<~Controls.1~> 1 6 null
+$GambitLord<~Scribe.141~>035 029 015 <~Scribe.142~><~Game.1965~><~Scribe.143~><~Game.2036~><~Scribe.144~> A1BDBD
+<Disgruntled_Veteran> take 1 12DDF8
+$GambitLord<~Controls.819~> 74B256
+$GambitLord<~Controls.296~>021 <~Controls.297~><~Game.1965~> 251339
+<GambitLord> onslauhgt for 4 CD0AC9
+$GambitLord<~Scribe.141~>334 014 029 <~Scribe.142~><~Game.1965~><~Scribe.143~><~Game.2036~><~Scribe.144~> 5B64D4
+<game> GambitLord<~Controls.1~> 5 2 2 6 null
+<GambitLord> 2 409D2B
+$Disgruntled_Veteran<~Scribe.141~>066 059 <~Scribe.142~><~Game.1988~><~Scribe.143~><~Game.2037~><~Scribe.144~> A607EA
+<GambitLord> hmm 9CACA9
+<GambitLord> stop E30439
+$GambitLord<~Controls.644~>101 171 334 014 029 066 059 <~Controls.645~><~Game.2035~> 806031
+$Disgruntled_Veteran<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> ACA82B
+$Disgruntled_Veteran<~Scribe.141~>317 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1973~><~Scribe.144~> E671B6
+$Disgruntled_Veteran<~Scribe.141~>303 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1941~><~Scribe.144~> 55EA87
+$Disgruntled_Veteran<~Controls.644~>212 <~Controls.645~><~Game.2035~> 7400D8
+$GambitLord<~Scribe.141~>361 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 951789
+<GambitLord> Attack Iron hills from East Rhun 0F6E3C
+<GambitLord> nc 69226F
+<Disgruntled_Veteran> nc EAC0B5
+<game> GambitLord<~Controls.1~> 4 5 2 6 1 null
+<game> Disgruntled_Veteran<~Controls.1~> 2 null
+$Disgruntled_Veteran<~Scribe.141~>317 <~Scribe.142~><~Game.1973~><~Scribe.143~><~Game.2036~><~Scribe.144~> 76C59A
+$GambitLord<~Scribe.141~>056 052 051 050 <~Scribe.142~><~Game.1984~><~Scribe.143~><~Game.1973~><~Scribe.144~> 38E94F
+$GambitLord<~Scribe.141~>417 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1973~><~Scribe.144~> D69DDB
+$GambitLord<~Controls.644~>361 317 <~Controls.645~><~Game.2035~> 6118CF
+$Disgruntled_Veteran<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> B3DA54
+$Disgruntled_Veteran<~Scribe.141~>241 <~Scribe.142~><~Game.1933~><~Scribe.143~><~Game.1944~><~Scribe.144~> 9B2B7B
+$Disgruntled_Veteran<~Controls.644~>211 <~Controls.645~><~Game.2035~> FDA3F4
+$GambitLord<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 0D2C32
+$GambitLord<~Scribe.141~>251 <~Scribe.142~><~Game.2011~><~Scribe.143~><~Game.2037~><~Scribe.144~> BE1A37
+$GambitLord<~Scribe.141~>reveal 176 0E9F4CC2A460E7DF65533384F51367D33A3A7B95 5 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2036~><~Scribe.144~> 15432B
+$Disgruntled_Veteran<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2036~><~Scribe.144~> 42E9E7
+$GambitLord changes 102  to P 3D4422
+$GambitLord<~Controls.509~>172<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$GambitLord<~Controls.644~>102 210 176 251 <~Controls.645~><~Game.2035~> 41C3BD
+$Disgruntled_Veteran<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> EA697B
+$Disgruntled_Veteran<~Scribe.141~>reveal 130 77EEFFA5AE49BA81734A9B0BAC145F57BF2D91E3 19 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2036~><~Scribe.144~> FF3F85
+<GambitLord> no 72148B
+$Disgruntled_Veteran<~Scribe.141~>309 315 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1988~><~Scribe.144~> 14F58B
+$Disgruntled_Veteran<~Controls.644~>358 130 <~Controls.645~><~Game.2035~> 3BC133
+$GambitLord<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 1C705D
+$GambitLord<~Scribe.141~>reveal 179 04742011001F1A5CB68CD3C85D807A9085D5C643 11 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 68F3C4
+$GambitLord<~Scribe.141~>238 <~Scribe.142~><~Game.2046~><~Scribe.143~><~Game.2037~><~Scribe.144~> 4D935D
+$GambitLord<~Controls.644~>103 179 238 <~Controls.645~><~Game.2035~> 012A3B
+$GambitLord<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 257A2E
+$GambitLord<~Scribe.141~>320 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1917~><~Scribe.144~> F2B13C
+$GambitLord<~Scribe.141~>321 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1974~><~Scribe.144~> 2336E1
+$GambitLord<~Controls.644~>104 <~Controls.645~><~Game.2035~> 6C6DE9
+$GambitLord<~Controls.757~>099 360 100 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 61A885
+$GambitLord<~Controls.762~>104 103 102 361 101 105 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 0DF8A8
+$Disgruntled_Veteran<~Controls.726~>213 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> D81ECB
+<~Game.7~>6 null
+$Disgruntled_Veteran<~Controls.731~>358 210 211 212 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 1B7932
+$Disgruntled_Veteran<~Controls.509~>142<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Disgruntled_Veteran<~Controls.509~>140<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$GambitLord<~Controls.509~>191<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$GambitLord<~Controls.509~>180<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<Disgruntled_Veteran> FP good 2E370B
+$GambitLord<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> 7F2682
+$GambitLord<~Controls.345~>104 103 102 361 101 105 099 360 <~Controls.346~>12 10 10 14 10 12 11 10 null
+$GambitLord<~Controls.350~>104 103 102 361 101 105 099 360 null
+$Disgruntled_Veteran<~Controls.345~>358 210 211 212 213 <~Controls.346~>1 1 1 1 4 null
+<Disgruntled_Veteran> pass D941B5
+$GambitLord<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 143599
+$GambitLord<~Scribe.141~>319 318 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1967~><~Scribe.144~> 4F6DF9
+$GambitLord<~Scribe.141~>319 <~Scribe.142~><~Game.1967~><~Scribe.143~><~Game.1917~><~Scribe.144~> 64CB4E
+$GambitLord<~Scribe.141~>318 <~Scribe.142~><~Game.1967~><~Scribe.143~><~Game.1969~><~Scribe.144~> 2034C7
+$GambitLord<~Controls.644~>102 <~Controls.645~><~Game.2035~> EE0C03
+<Disgruntled_Veteran> pass 95438F
+$GambitLord<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> DEFA53
+$Disgruntled_Veteran<~Scribe.141~>257 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> B622AC
+$GambitLord<~Controls.304~>003 <~Controls.305~><~Game.1919~> 207310
+$GambitLord<~Controls.313~>324 <~Controls.309~><~Controls.314~><~Game.1919~> 33550C
+$GambitLord<~Controls.304~>002 <~Controls.305~><~Game.1919~> 3CA9D4
+$GambitLord<~Controls.313~>323 <~Controls.309~><~Controls.314~><~Game.1919~> 4C227B
+$GambitLord<~Controls.644~>101 <~Controls.645~><~Game.2035~> 99AB06
+<Disgruntled_Veteran> pass ECDFCF
+$GambitLord<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> DF4BD9
+$GambitLord<~Scribe.141~>056 052 051 050 <~Scribe.142~><~Game.1973~><~Scribe.143~><~Game.1965~><~Scribe.144~> 7DE334
+$GambitLord<~Scribe.141~>055 049 048 047 <~Scribe.142~><~Game.1968~><~Scribe.143~><~Game.1946~><~Scribe.144~> 44EFB8
+$GambitLord<~Controls.644~>105 <~Controls.645~><~Game.2035~> 42BC80
+$Disgruntled_Veteran<~Scribe.141~>426 <~Scribe.142~><~Game.29~><~Scribe.143~><~Game.28~><~Scribe.144~> 8E2232
+$Disgruntled_Veteran<~Scribe.141~>260 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 9D8C6F
+$Disgruntled_Veteran<~Controls.644~><~Controls.645~><~Game.2035~> EE858A
+$GambitLord<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 8291D1
+$GambitLord<~Controls.819~> 912785
+<GambitLord> hmmm CBA882
+$GambitLord<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> B2D670
+<GambitLord> Attack Erebor 001449
+$GambitLord<~Controls.840~>180 C47A50
+$Disgruntled_Veteran<~Controls.840~>140 F58416
+<auto> playchosen D86A5D
+<auto><~Controls.3~>reveal 140 891B83C94B7EEA4F426FA41057CA99A2EFCFD858 9<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 49BC1B
+<auto><~Controls.866~>reveal 180 16663B2F38C054A6344405C2770A3B0378284059 9<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> E48488
+<auto> playchosen A694B4
+<game> Disgruntled_Veteran<~Controls.1~> 4 2 1 null
+<game> GambitLord<~Controls.1~> 3 3 5 1 3 null
+<game> GambitLord<~Controls.1~> 6 2 2 4 null
+<GambitLord> 2 C9551E
+<game> Disgruntled_Veteran<~Controls.1~> 6 2 null
+<game> Disgruntled_Veteran<~Controls.1~> 6 null
+<Disgruntled_Veteran> 2 920409
+$Disgruntled_Veteran<~Controls.296~>315 <~Controls.297~><~Game.1988~> D6A3CA
+$GambitLord<~Scribe.141~>050 015 <~Scribe.142~><~Game.1965~><~Scribe.143~><~Game.2036~><~Scribe.144~> 207A18
+<GambitLord> press/draw 3A92E2
+$GambitLord<~Controls.304~>035 <~Controls.305~><~Game.1965~> 91DC5B
+$GambitLord<~Controls.313~>014 <~Controls.307~><~Controls.314~><~Game.1965~> 03EB87
+$GambitLord<~Controls.662~>180 050 015 140 <~Controls.663~><~Game.2035~> 79C8DE
+$GambitLord<~Controls.509~>184<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$GambitLord<~Controls.840~>184 05783D
+$GambitLord<~Controls.840~>184 A970DD
+<GambitLord> wait 297358
+<auto> playchosen 82727F
+<auto><~Controls.866~>reveal 184 D9351BD2DC93DF67379BA9CB8772172590D9FD4F 14<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 29C6AF
+<GambitLord> picking a different card 135533
+<GambitLord> ah too late B8CE86
+<GambitLord> up to you on how to move forward EBCFA0
+<GambitLord> just play it or? 83E508
+<Disgruntled_Veteran> yah 70020D
+<GambitLord> kk D084A4
+<Disgruntled_Veteran> u said wait...but i really didnt see it B419F3
+<GambitLord> its ok CC8EC2
+<GambitLord> moving forward with this 3CE3DF
+<game> GambitLord<~Controls.1~> 2 6 5 6 null
+<game> Disgruntled_Veteran<~Controls.1~> 1 null
+<game> Disgruntled_Veteran<~Controls.1~> 4 null
+$Disgruntled_Veteran<~Scribe.141~>068 309 062 060 <~Scribe.142~><~Game.1988~><~Scribe.143~><~Game.2037~><~Scribe.144~> 0260A1
+$Disgruntled_Veteran<~Scribe.141~>423 <~Scribe.142~><~Game.28~><~Scribe.143~><~Game.32~><~Scribe.144~> 5FC2AC
+$GambitLord<~Scribe.141~>413 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1965~><~Scribe.144~> A0A082
+$GambitLord<~Controls.644~>104 184 068 309 062 060 <~Controls.645~><~Game.2035~> 5AE6DC
+$GambitLord<~Scribe.141~>423 <~Scribe.142~><~Game.32~><~Scribe.143~><~Game.33~><~Scribe.144~> 98F0C8
+$GambitLord<~Scribe.141~>423 <~Scribe.142~><~Game.33~><~Scribe.143~><~Game.388~><~Scribe.144~> AEA204
+$Disgruntled_Veteran<~Scribe.141~>423 <~Scribe.142~><~Game.388~><~Scribe.143~><~Game.32~><~Scribe.144~> 41137B
+$Disgruntled_Veteran<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> EADC7D
+$Disgruntled_Veteran<~Controls.790~>248<~Controls.791~><~Game.2021~><~Controls.792~><~Game.2022~> 9D9642
+$Disgruntled_Veteran<~Controls.795~>358<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 7F4802
+<game> GambitLord<~Controls.1~> 4 null
+$GambitLord<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 0C807A
+$GambitLord<~Scribe.141~>055 057 049 048 047 046 <~Scribe.142~><~Game.1946~><~Scribe.143~><~Game.1932~><~Scribe.144~> 0160EF
+$GambitLord<~Scribe.141~>055 057 049 048 047 046 <~Scribe.142~><~Game.1932~><~Scribe.143~><~Game.1938~><~Scribe.144~> F5807A
+$GambitLord<~Scribe.141~>045 044 <~Scribe.142~><~Game.1946~><~Scribe.143~><~Game.1938~><~Scribe.144~> E3B983
+$GambitLord<~Scribe.141~>034 033 032 031 030 <~Scribe.142~><~Game.1977~><~Scribe.143~><~Game.1969~><~Scribe.144~> FF0F43
+$GambitLord<~Controls.819~> 9F7155
+$GambitLord<~Controls.819~> 862024
+$GambitLord<~Controls.819~> 1B6CE1
+$GambitLord<~Controls.819~> FF72C9
+$GambitLord<~Controls.819~> 6615E6
+$GambitLord<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 3C09CB
+$GambitLord<~Scribe.141~>345 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1946~><~Scribe.144~> AEE627
+$GambitLord<~Scribe.141~>345 <~Scribe.142~><~Game.1946~><~Scribe.143~><~Game.1932~><~Scribe.144~> 169D7C
+$GambitLord<~Controls.644~>103 <~Controls.645~><~Game.2035~> 0A4A52
+$Disgruntled_Veteran<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> F14DA0
+$Disgruntled_Veteran<~Controls.790~>248<~Controls.791~><~Game.2022~><~Controls.792~><~Game.2023~> 0A035A
+$Disgruntled_Veteran<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 5380D0
+<game> GambitLord<~Controls.1~> 6 null
+$GambitLord<~Controls.624~>222<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<GambitLord> 1R BBD055
+$Disgruntled_Veteran<~Controls.637~>243<~Controls.638~><~Game.1998~><~Controls.639~><~Game.2036~> null
+<Disgruntled_Veteran> i meant for u to FCA1BF
+<Disgruntled_Veteran> from now on u E6EFDF
+<GambitLord> no worries 47908A
+$Disgruntled_Veteran<~Scribe.141~>247 <~Scribe.142~><~Game.1911~><~Scribe.143~><~Game.1976~><~Scribe.144~> F9ED71
+$Disgruntled_Veteran<~Controls.323~>247 45B7A9
+<GambitLord> thru moria A3151E
+<GambitLord> so drawing 1 more 628E0B
+$GambitLord<~Scribe.141~>222 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2034~><~Scribe.144~> B2654A
+$GambitLord<~Scribe.141~>243 <~Scribe.142~><~Game.2036~><~Scribe.143~><~Game.2034~><~Scribe.144~> 1BA070
+$GambitLord<~Controls.624~>221<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Disgruntled_Veteran<~Controls.644~>221 <~Controls.645~><~Game.2035~> 4A78B8
+$GambitLord<~Scribe.141~>222 243 <~Scribe.142~><~Game.2034~><~Scribe.143~><~Game.2036~><~Scribe.144~> 48E940
+$Disgruntled_Veteran<~Controls.644~>222 243 <~Controls.645~><~Game.2035~> 4DB63A
+$GambitLord<~Controls.644~><~Controls.645~><~Game.2035~> 21BB2B
+$GambitLord<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> C49C45
+$GambitLord<~Scribe.141~>034 033 032 031 030 <~Scribe.142~><~Game.1977~><~Scribe.143~><~Game.1969~><~Scribe.144~> D9E6B8
+$GambitLord<~Scribe.141~>057 055 049 048 047 046 <~Scribe.142~><~Game.1946~><~Scribe.143~><~Game.1932~><~Scribe.144~> 1A496F
+$GambitLord<~Controls.644~>099 <~Controls.645~><~Game.2035~> 7C41BF
+$Disgruntled_Veteran<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> D984A9
+$Disgruntled_Veteran<~Scribe.141~>276 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1920~><~Scribe.144~> E82E7C
+$Disgruntled_Veteran<~Controls.644~>213 <~Controls.645~><~Game.2035~> 1E12F1
+$GambitLord<~Scribe.141~>361 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> E56403
+$GambitLord<~Scribe.141~>reveal 195 F5C30C0E8FEFB7ED55C9EBAF03B61B198CAE45C3 6 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 0817BD
+$Disgruntled_Veteran<~Scribe.141~>276 077 076 075 <~Scribe.142~><~Game.1920~><~Scribe.143~><~Game.1995~><~Scribe.144~> 281755
+$GambitLord<~Scribe.141~>057 055 345 049 048 047 046 043 042 <~Scribe.142~><~Game.1932~><~Scribe.143~><~Game.1920~><~Scribe.144~> 558434
+$GambitLord<~Controls.509~>189<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$GambitLord<~Controls.644~>361 195 <~Controls.645~><~Game.2035~> CD88EF
+$Disgruntled_Veteran<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> BE4E52
+$Disgruntled_Veteran<~Controls.323~>247 E9C7CB
+$Disgruntled_Veteran<~Controls.644~>211 <~Controls.645~><~Game.2035~> AABBB7
+$GambitLord<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> DD3C62
+$GambitLord<~Scribe.141~>029 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1974~><~Scribe.144~> E23D37
+$GambitLord<~Scribe.141~>357 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1932~><~Scribe.144~> E4F6E1
+$GambitLord<~Controls.644~>360 <~Controls.645~><~Game.2035~> 29D9EA
+$Disgruntled_Veteran<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 285311
+$Disgruntled_Veteran<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 53EBB4
+$Disgruntled_Veteran<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> C6AD6F
+<game> GambitLord<~Controls.1~> 1 null
+$Disgruntled_Veteran<~Controls.726~>210 212 358 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 433E51
+$Disgruntled_Veteran<~Controls.731~>211 213 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 438D63
+$Disgruntled_Veteran<~Controls.509~>139<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$GambitLord<~Controls.757~>100 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> E2D6E5
+<~Game.7~>7 null
+$GambitLord<~Controls.762~>360 361 099 103 104 105 101 102 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 437A65
+$Disgruntled_Veteran<~Controls.509~>129<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$GambitLord<~Controls.509~>160<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$GambitLord<~Controls.509~>206<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$GambitLord<~Controls.296~>160 <~Controls.297~><~Controls.46~> 2BA4D7
+$GambitLord<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> 21BD09
+$Disgruntled_Veteran<~Controls.296~>142 <~Controls.297~><~Controls.45~> A22AE6
+$Disgruntled_Veteran<~Scribe.141~>247 <~Scribe.142~><~Game.1976~><~Scribe.143~><~Game.524~><~Scribe.144~> 03CFF0
+$Disgruntled_Veteran<~Controls.323~>247 2CE932
+$Disgruntled_Veteran<~Controls.323~>247 FE9406
+$Disgruntled_Veteran<~Controls.281~>222 221 238 239 <~Controls.282~><~Game.2045~><~Controls.283~><~Game.2044~> 9DF1E9
+<Disgruntled_Veteran> FP good 3DF59B
+$GambitLord<~Controls.276~>104<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> EB2445
+$GambitLord<~Controls.281~>104 <~Controls.282~><~Game.2035~><~Controls.283~><~Game.2043~> 115BB4
+$GambitLord<~Controls.345~>104 360 361 099 103 105 101 102 <~Controls.346~>12 13 13 15 11 10 10 15 null
+$GambitLord<~Controls.350~>104 360 361 099 103 105 101 102 null
+$Disgruntled_Veteran<~Controls.345~>211 213 210 212 358 <~Controls.346~>0 1 2 1 1 null
+<GambitLord> holy movement E7367E
+$Disgruntled_Veteran<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 496BC2
+$Disgruntled_Veteran<~Controls.790~>247<~Controls.791~><~Game.524~><~Controls.792~><~Game.525~> FB5208
+$Disgruntled_Veteran<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 28839B
+$GambitLord<~Controls.624~>238<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Disgruntled_Veteran<~Scribe.141~>244 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2037~><~Scribe.144~> 2D5F63
+<Disgruntled_Veteran> cause why not F164A6
+$Disgruntled_Veteran<~Scribe.141~>242 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> C76BE2
+$Disgruntled_Veteran<~Scribe.141~>247 <~Scribe.142~><~Game.525~><~Scribe.143~><~Game.524~><~Scribe.144~> 3F3526
+$Disgruntled_Veteran<~Controls.644~>238 244 <~Controls.645~><~Game.2035~> 2B44AE
+$GambitLord<~Scribe.141~>238 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.1977~><~Scribe.144~> FA57E7
+$GambitLord<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 8CBCF0
+$GambitLord<~Scribe.141~>255 362 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2037~><~Scribe.144~> 94E0F0
+$GambitLord<~Scribe.141~>255 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.1969~><~Scribe.144~> F60A51
+$GambitLord<~Controls.644~>101 362 <~Controls.645~><~Game.2035~> 984875
+<Disgruntled_Veteran> pass 771E98
+$GambitLord<~Scribe.141~>361 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 9DB9AC
+$GambitLord<~Scribe.141~>253 040 039 038 <~Scribe.142~><~Game.1965~><~Scribe.143~><~Game.1920~><~Scribe.144~> 9C3653
+$GambitLord<~Scribe.141~>320 319 <~Scribe.142~><~Game.1917~><~Scribe.143~><~Game.1919~><~Scribe.144~> 1C0B96
+$GambitLord<~Scribe.141~>321 <~Scribe.142~><~Game.1974~><~Scribe.143~><~Game.1969~><~Scribe.144~> A3142B
+$GambitLord<~Controls.644~>361 <~Controls.645~><~Game.2035~> 1BF4D5
+$Disgruntled_Veteran<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> E90905
+$Disgruntled_Veteran<~Controls.790~>247<~Controls.791~><~Game.524~><~Controls.792~><~Game.525~> 44F2E4
+$Disgruntled_Veteran<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> BF6526
+$GambitLord<~Controls.624~>228<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Disgruntled_Veteran<~Scribe.141~>246 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> 607B05
+$Disgruntled_Veteran<~Scribe.141~>242 246 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2037~><~Scribe.144~> 0AB231
+$Disgruntled_Veteran<~Controls.644~>228 242 246 <~Controls.645~><~Game.2035~> CFC2CB
+$GambitLord<~Scribe.141~>228 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.524~><~Scribe.144~> D47018
+$Disgruntled_Veteran<~Scribe.141~>245 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> 3742C4
+$GambitLord<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> B8DF68
+<GambitLord> DA 14C609
+$GambitLord<~Controls.840~>203 778DAD
+<auto> playchosen 6AB973
+<auto><~Controls.866~>reveal 203 7C41BB876F9E5C9DC7FADE6F91363EB29814635B 21<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> A71414
+<game> GambitLord<~Controls.1~> 2 4 5 5 4 null
+<game> GambitLord<~Controls.1~> 6 2 1 null
+<game> Disgruntled_Veteran<~Controls.1~> 6 1 5 2 null
+<GambitLord> 3 F03B16
+$Disgruntled_Veteran<~Controls.296~>276 077 <~Controls.297~><~Game.1995~> 94A456
+$GambitLord<~Scribe.141~>043 042 <~Scribe.142~><~Game.1920~><~Scribe.143~><~Game.2036~><~Scribe.144~> AA772E
+<GambitLord> press/deraw 1E7F8B
+$GambitLord<~Controls.662~>203 043 042 <~Controls.663~><~Game.2035~> 56719C
+$GambitLord<~Controls.509~>168<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$GambitLord<~Controls.840~>206 F5B845
+<auto> playchosen 1902C4
+<auto><~Controls.866~>reveal 206 821B4F63493788678559B61FACC609FF554945EF 23<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 70C74A
+<game> GambitLord<~Controls.1~> 1 3 5 2 3 null
+<game> Disgruntled_Veteran<~Controls.1~> 3 5 null
+<game> GambitLord<~Controls.1~> 2 3 6 2 5 null
+<GambitLord> 1+1 563ACA
+$Disgruntled_Veteran<~Scribe.141~>076 075 <~Scribe.142~><~Game.1995~><~Scribe.143~><~Game.2037~><~Scribe.144~> C85EAA
+$GambitLord<~Scribe.141~>046 <~Scribe.142~><~Game.1920~><~Scribe.143~><~Game.2036~><~Scribe.144~> C6F28A
+$GambitLord<~Controls.644~>103 206 046 076 075 <~Controls.645~><~Game.2035~> 3DF303
+$Disgruntled_Veteran<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 8E0093
+$Disgruntled_Veteran<~Controls.790~>247<~Controls.791~><~Game.525~><~Controls.792~><~Game.528~> FAEB88
+$Disgruntled_Veteran<~Controls.795~>358<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 152DF8
+$GambitLord<~Controls.624~>220<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<GambitLord> 5R 570899
+<Disgruntled_Veteran> i know 148BE5
+<Disgruntled_Veteran> very annoying game B44B0D
+$Disgruntled_Veteran<~Scribe.141~>245 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2037~><~Scribe.144~> 23E1E6
+$Disgruntled_Veteran<~Scribe.141~>252 <~Scribe.142~><~Game.2014~><~Scribe.143~><~Game.2018~><~Scribe.144~> E2F560
+$Disgruntled_Veteran<~Controls.644~>220 245 <~Controls.645~><~Game.2035~> 2621E3
+$Disgruntled_Veteran<~Controls.323~>247 F7E316
+$GambitLord<~Scribe.141~>220 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.525~><~Scribe.144~> 9A833E
+$GambitLord<~Scribe.141~>411 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1920~><~Scribe.144~> 0BB666
+$GambitLord<~Scribe.141~>423 <~Scribe.142~><~Game.32~><~Scribe.143~><~Game.33~><~Scribe.144~> 9D37CE
+$GambitLord<~Scribe.141~>423 <~Scribe.142~><~Game.33~><~Scribe.143~><~Game.388~><~Scribe.144~> 98CEBC
+$GambitLord<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> ECE3DE
+<GambitLord> Attack Orthanc 192D1E
+<GambitLord> I mean fords of isen F4688E
+<GambitLord> nc 613D79
+$Disgruntled_Veteran<~Controls.840~>129 5D3FE8
+<auto><~Controls.861~>reveal 129 F4749447F4EA90702B455D0D474415E6D31483FD 4<~Controls.862~><~Controls.45~><~Controls.863~><~Game.2037~> 394071
+$Disgruntled_Veteran<~Scribe.141~>074 070 069 <~Scribe.142~><~Game.1918~><~Scribe.143~><~Game.1923~><~Scribe.144~> BD5422
+$Disgruntled_Veteran<~Scribe.141~>259 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> FB27B8
+$GambitLord<~Scribe.141~>320 319 323 324 325 326 006 <~Scribe.142~><~Game.1919~><~Scribe.143~><~Game.1918~><~Scribe.144~> 8FF6C3
+$GambitLord<~Controls.644~>360 129 <~Controls.645~><~Game.2035~> D86843
+$Disgruntled_Veteran<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> C6FCBE
+$Disgruntled_Veteran<~Controls.323~>247 3EE854
+$Disgruntled_Veteran<~Controls.644~>211 <~Controls.645~><~Game.2035~> 051C60
+$GambitLord<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 4DE279
+<GambitLord> Attack HD 2DAECF
+$Disgruntled_Veteran<~Scribe.141~>074 073 070 069 072 071 <~Scribe.142~><~Game.1923~><~Scribe.143~><~Game.1993~><~Scribe.144~> 1A63B2
+$GambitLord<~Scribe.141~>320 319 323 324 325 326 006 <~Scribe.142~><~Game.1918~><~Scribe.143~><~Game.1923~><~Scribe.144~> BFAF6D
+$Disgruntled_Veteran<~Scribe.141~>259 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> 9EA0A6
+$GambitLord<~Controls.644~>104 <~Controls.645~><~Game.2035~> 989690
+<Disgruntled_Veteran> i think i have to move again 196CE5
+$Disgruntled_Veteran<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 17413D
+$Disgruntled_Veteran<~Controls.366~>250<~Controls.367~><~Game.2009~><~Controls.368~><~Game.2011~> 66BCB8
+$Disgruntled_Veteran<~Controls.790~>247<~Controls.791~><~Game.528~><~Controls.792~><~Game.529~> A49D8F
+$Disgruntled_Veteran<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 095CFD
+$GambitLord<~Controls.624~>218<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Disgruntled_Veteran<~Scribe.141~>252 <~Scribe.142~><~Game.2018~><~Scribe.143~><~Game.2020~><~Scribe.144~> A761BA
+$Disgruntled_Veteran<~Controls.644~>218 <~Controls.645~><~Game.2035~> 4CF7D7
+$GambitLord<~Scribe.141~>218 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.528~><~Scribe.144~> 182441
+$GambitLord<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> F9E1C5
+<GambitLord> ah i only have D1F078
+<GambitLord> needed 8 C8A8F2
+<Disgruntled_Veteran> yup 3CA40A
+<GambitLord> attack HD C9EB14
+<Disgruntled_Veteran> i knew u couldnt win this turn B31F2E
+$Disgruntled_Veteran<~Scribe.141~>259 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 9BB461
+$GambitLord<~Controls.840~>205 82FCFD
+$Disgruntled_Veteran<~Controls.840~>114 21EE28
+<auto> playchosen 5873FD
+<auto><~Controls.3~>reveal 114 BF614EBDB82670B5ED604766A68124790961153D 21<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> DABAE6
+<auto><~Controls.866~>reveal 205 F8DC2C03370B2E022F743CBE27CA5EA9EFD94B84 20<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> B67BEF
+<auto> playchosen F28231
+<game> GambitLord<~Controls.1~> 1 1 3 null
+<game> GambitLord<~Controls.1~> 6 3 5 null
+<game> Disgruntled_Veteran<~Controls.1~> 1 5 2 2 null
+<GambitLord> 1 47CBE1
+<game> Disgruntled_Veteran<~Controls.1~> 2 null
+<game> Disgruntled_Veteran<~Controls.1~> 6 null
+<Disgruntled_Veteran> 2 13D99A
+$GambitLord<~Controls.304~>323 <~Controls.305~><~Game.1923~> 3F250D
+$GambitLord<~Controls.313~>002 <~Controls.307~><~Controls.314~><~Game.1923~> 158D04
+$Disgruntled_Veteran<~Controls.304~>073 <~Controls.305~><~Game.1993~> C83FDE
+$Disgruntled_Veteran<~Controls.313~>295 <~Controls.307~><~Controls.314~><~Game.1993~> EB7A42
+$GambitLord<~Scribe.141~>002 <~Scribe.142~><~Game.1923~><~Scribe.143~><~Game.2036~><~Scribe.144~> F44391
+<GambitLord> post EBB3C3
+<game> GambitLord<~Controls.1~> 4 4 4 2 null
+<GambitLord> no pres 29F97D
+$GambitLord<~Controls.644~>105 205 002 114 <~Controls.645~><~Game.2035~> 032CE6
+$Disgruntled_Veteran<~Controls.726~>210 358 212 213 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 0A53FF
+$Disgruntled_Veteran<~Controls.731~>211 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 99E6AA
+$GambitLord<~Controls.757~>099 102 100 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> DF77A9
+<~Game.7~>8 null
+$GambitLord<~Controls.762~>105 104 360 103 361 101 362 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 921F75
+$Disgruntled_Veteran<~Controls.509~>112<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Disgruntled_Veteran<~Controls.509~>113<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$GambitLord<~Controls.509~>158<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$GambitLord<~Controls.509~>192<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$GambitLord<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> 4700F8
+<Disgruntled_Veteran> Good EF8AD4
+$GambitLord<~Controls.345~>105 104 360 103 361 101 362 099 102 <~Controls.346~>15 15 12 15 13 14 14 14 11 null
+$GambitLord<~Controls.350~>105 104 360 103 361 101 362 099 102 null
+$Disgruntled_Veteran<~Controls.345~>211 210 358 212 213 <~Controls.346~>4 3 1 0 1 null
+$Disgruntled_Veteran<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 8F6873
+$Disgruntled_Veteran<~Scribe.141~>reveal 141 2091ACE543D0F2155C5E80EF0B928724FD77AE4B 2 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2036~><~Scribe.144~> BE8C20
+$Disgruntled_Veteran<~Controls.281~>212 <~Controls.282~><~Game.2035~><~Controls.283~><~Game.2042~> 8A0DB3
+$Disgruntled_Veteran<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> AF2D7B
+$Disgruntled_Veteran<~Scribe.141~>252 <~Scribe.142~><~Game.2020~><~Scribe.143~><~Game.2019~><~Scribe.144~> 7E2DA0
+$Disgruntled_Veteran<~Scribe.141~>247 <~Scribe.142~><~Game.529~><~Scribe.143~><~Game.532~><~Scribe.144~> 9EDD96
+$GambitLord<~Controls.624~>216<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<GambitLord> yike 4F36DD
+$Disgruntled_Veteran<~Scribe.141~>252 <~Scribe.142~><~Game.2019~><~Scribe.143~><~Game.2020~><~Scribe.144~> ACBD96
+$Disgruntled_Veteran<~Controls.644~>213 141 216 <~Controls.645~><~Game.2035~> C0E079
+$GambitLord<~Scribe.141~>216 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.529~><~Scribe.144~> CF65A2
+$GambitLord<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 56305B
+$GambitLord<~Scribe.141~>reveal 158 8557274B51AEB441CB33D508E85EF015ECD95F7D 6 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 299E23
+$GambitLord<~Scribe.141~>362 099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> 6B5D90
+$GambitLord<~Controls.509~>166<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$GambitLord<~Controls.644~>101 158 <~Controls.645~><~Game.2035~> 5C026C
+$Disgruntled_Veteran<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 99934A
+$Disgruntled_Veteran<~Scribe.141~>reveal 139 F79BF891B0EB796DA2C34DA8E73F0FBEEB0B386A 1 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2036~><~Scribe.144~> 222BCE
+$Disgruntled_Veteran<~Scribe.141~>240 <~Scribe.142~><~Game.1921~><~Scribe.143~><~Game.1993~><~Scribe.144~> C907E6
+$Disgruntled_Veteran<~Controls.644~>358 139 <~Controls.645~><~Game.2035~> D7173A
+$GambitLord<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 08D464
+$GambitLord<~Scribe.141~>253 040 039 038 057 055 345 049 048 <~Scribe.142~><~Game.1920~><~Scribe.143~><~Game.1924~><~Scribe.144~> 284D3B
+$GambitLord<~Scribe.141~>414 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1924~><~Scribe.144~> E1E79C
+$GambitLord<~Scribe.141~>255 321 318 037 034 033 032 031 030 020 019 018 017 <~Scribe.142~><~Game.1969~><~Scribe.143~><~Game.1964~><~Scribe.144~> 1A7EFD
+$GambitLord<~Controls.644~>360 <~Controls.645~><~Game.2035~> 834769
+$Disgruntled_Veteran<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 76FB39
+$Disgruntled_Veteran<~Scribe.141~>reveal 107 AD36D3D26A4ACE30BF387425AC5452E7B5B8F72E 5 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2036~><~Scribe.144~> 690835
+$Disgruntled_Veteran<~Scribe.141~>081 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.2036~><~Scribe.144~> DBDACB
+$Disgruntled_Veteran<~Scribe.141~>274 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1944~><~Scribe.144~> BACE44
+$Disgruntled_Veteran<~Controls.509~>146<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Disgruntled_Veteran<~Controls.509~>143<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Disgruntled_Veteran<~Controls.644~>212 107 081 <~Controls.645~><~Game.2035~> 3DCA02
+$GambitLord<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 75F6AF
+<GambitLord> Attack HD C0C7CC
+<GambitLord> shining? 2810CC
+<Disgruntled_Veteran> yes 4ABD2B
+$Disgruntled_Veteran<~Controls.323~>240 74C573
+$GambitLord<~Controls.840~>172 34F723
+$Disgruntled_Veteran<~Controls.840~>113 302B05
+<auto> playchosen 83AE62
+<auto><~Controls.3~>reveal 113 B1E020AC4B0A2CBA74DE1DE28885AB62510977C3 12<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 4D4FF6
+<auto><~Controls.866~>reveal 172 B578123B6C0EEC7C6B2E5B6655BDD99A1C307A54 22<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 277145
+<auto> playchosen 0AEB35
+<game> GambitLord<~Controls.1~> 2 3 4 5 null
+<game> GambitLord<~Controls.1~> 1 4 3 null
+<GambitLord> 1 48933C
+<game> Disgruntled_Veteran<~Controls.1~> 5 4 5 5 3 null
+<game> Disgruntled_Veteran<~Controls.1~> 1 null
+<Disgruntled_Veteran> 3 79A345
+$GambitLord<~Controls.304~>324 <~Controls.305~><~Game.1923~> E7385C
+$GambitLord<~Controls.313~>002 <~Controls.307~><~Controls.314~><~Game.1923~> 7C62E5
+$GambitLord<~Controls.304~>325 <~Controls.305~><~Game.1923~> 40907B
+$GambitLord<~Controls.313~>003 <~Controls.307~><~Controls.314~><~Game.1923~> 529D7D
+$GambitLord<~Controls.304~>326 <~Controls.305~><~Game.1923~> 781240
+$GambitLord<~Controls.313~>004 <~Controls.307~><~Controls.314~><~Game.1923~> 936DF3
+$Disgruntled_Veteran<~Controls.296~>071 <~Controls.297~><~Game.1993~> 86CE9D
+<GambitLord> press 4E409C
+$GambitLord<~Controls.662~>172 113 <~Controls.663~><~Game.2035~> A992EB
+$GambitLord<~Controls.304~>004 <~Controls.305~><~Game.1923~> 08A231
+$GambitLord<~Controls.313~>326 <~Controls.309~><~Controls.314~><~Game.1923~> 59432B
+$GambitLord<~Controls.304~>326 <~Controls.305~><~Game.1923~> 764154
+$GambitLord<~Controls.313~>004 <~Controls.307~><~Controls.314~><~Game.1923~> 21C2E9
+$GambitLord<~Controls.304~>006 <~Controls.305~><~Game.1923~> B3DCC2
+$GambitLord<~Controls.313~>005 <~Controls.307~><~Controls.314~><~Game.1923~> 93DD4A
+$GambitLord<~Controls.840~>189 F59AEE
+$Disgruntled_Veteran<~Controls.840~>143 004D05
+<auto> playchosen 45362B
+<auto><~Controls.3~>reveal 143 23C90F69CD80415D9EF64A02936266DF614470C2 17<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> BA2E2D
+<auto><~Controls.866~>reveal 189 9B660E48090D33A6469D54C43659F682558B68D0 11<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 2DE871
+<auto> playchosen 833968
+<game> GambitLord<~Controls.1~> 6 5 1 2 null
+<GambitLord> 1 DA7723
+<game> Disgruntled_Veteran<~Controls.1~> 5 1 1 1 null
+<game> Disgruntled_Veteran<~Controls.1~> 2 null
+<Disgruntled_Veteran> 1 B76E6D
+$GambitLord<~Scribe.141~>005 <~Scribe.142~><~Game.1923~><~Scribe.143~><~Game.2036~><~Scribe.144~> CE170A
+$Disgruntled_Veteran<~Scribe.141~>072 <~Scribe.142~><~Game.1993~><~Scribe.143~><~Game.2037~><~Scribe.144~> F63DF9
+$GambitLord<~Controls.644~>102 189 005 143 072 <~Controls.645~><~Game.2035~> 3D8DCF
+$Disgruntled_Veteran<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 6A7316
+$Disgruntled_Veteran<~Scribe.141~>293 294 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1925~><~Scribe.144~> 0C3D93
+$Disgruntled_Veteran<~Scribe.141~>294 <~Scribe.142~><~Game.1925~><~Scribe.143~><~Game.1929~><~Scribe.144~> C54F42
+$Disgruntled_Veteran<~Controls.644~>210 <~Controls.645~><~Game.2035~> FF04E0
+$GambitLord<~Scribe.141~>361 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 0CEE5F
+$GambitLord<~Scribe.141~>reveal 166 A6CA4B1842AE780484E0E29CE2327A95C3D60F7E 15 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 22A526
+$GambitLord<~Scribe.141~>166 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2034~><~Scribe.144~> 3FD7A7
+$GambitLord<~Controls.624~>214<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$GambitLord<~Scribe.141~>166 <~Scribe.142~><~Game.2034~><~Scribe.143~><~Game.2036~><~Scribe.144~> 5DF3A7
+$Disgruntled_Veteran<~Scribe.141~>166 <~Scribe.142~><~Game.2034~><~Scribe.143~><~Game.2036~><~Scribe.144~> D24E84
+$Disgruntled_Veteran<~Controls.644~>361 166 214 <~Controls.645~><~Game.2035~> ABBDC3
+$GambitLord<~Controls.644~>361 166 214 <~Controls.645~><~Game.2035~> B6833E
+$Disgruntled_Veteran<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> FBB8F7
+$Disgruntled_Veteran<~Scribe.141~>286 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1929~><~Scribe.144~> 9375BB
+$Disgruntled_Veteran<~Scribe.141~>286 <~Scribe.142~><~Game.1929~><~Scribe.143~><~Game.1925~><~Scribe.144~> 696CF6
+$Disgruntled_Veteran<~Controls.644~>211 <~Controls.645~><~Game.2035~> 8F1275
+$Disgruntled_Veteran<~Controls.731~>211 210 212 358 213 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> A2EBB2
+$Disgruntled_Veteran<~Controls.509~>127<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Disgruntled_Veteran<~Controls.509~>121<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$GambitLord<~Controls.757~>362 099 105 104 103 100 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> C1887E
+<~Game.7~>9 null
+$GambitLord<~Controls.762~>361 102 360 101 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 75F973
+$GambitLord<~Controls.509~>165<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$GambitLord<~Controls.509~>190<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<Disgruntled_Veteran> FP good A240DD
+$GambitLord<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> 191913
+$GambitLord<~Controls.345~>361 102 360 101 362 099 104 103 100 <~Controls.346~>13 10 14 15 13 15 13 15 15 null
+$GambitLord<~Controls.350~>361 102 360 101 362 099 104 103 100 null
+<GambitLord> almost 911B1D
+$Disgruntled_Veteran<~Controls.345~>211 210 212 358 213 <~Controls.346~>3 4 1 1 0 null
+$Disgruntled_Veteran<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 9C34CD
+$Disgruntled_Veteran<~Scribe.141~>reveal 127 B0F4569B945FF1DBA0339D5D7B1B8AB11317903B 10 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2031~><~Scribe.144~> 79A1E5
+$Disgruntled_Veteran<~Controls.644~>358 <~Controls.645~><~Game.2035~> 29DA79
+<GambitLord> lol 2E4FB5
+<GambitLord> i woulda moved 726770
+<GambitLord> I don't think I can do anything F34601
+$GambitLord<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> A392D2
+<Disgruntled_Veteran> yah 0C18FA
+$GambitLord<~Scribe.141~>reveal 165 9C872680D39DBFD07C309D4D86CA3DE5CC7C8F28 23 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2032~><~Scribe.144~> A13D88
+<Disgruntled_Veteran> the red 1 is nothing 0D26E3
+$GambitLord<~Controls.509~>182<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$GambitLord<~Controls.644~>360 <~Controls.645~><~Game.2035~> 726AFE
+<Disgruntled_Veteran> now its gg 2658CD
+<GambitLord> yup 350E2A
+$Disgruntled_Veteran<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> AAD115
+$Disgruntled_Veteran<~Controls.790~>247<~Controls.791~><~Game.532~><~Controls.792~><~Game.533~> 8C22F8
+$Disgruntled_Veteran<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 3D6E99
+$GambitLord<~Controls.624~>217<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Disgruntled_Veteran> tbf BE627D
+<Disgruntled_Veteran> i was thinking you'd use ring 6C7E50
+<GambitLord> oh 053633
+<GambitLord> I'm a moron C5BB0F
+<Disgruntled_Veteran> but then FFF544
+<GambitLord> I should've 57B03A
+<Disgruntled_Veteran> you likely dont win this rd C5AB19
+<GambitLord> at least make the eyes fatal 0952EB
+$Disgruntled_Veteran<~Scribe.141~>reveal 112 F67A3773BC8D96CB55D42AE229DAC6BFE9755A63 18 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.1972~><~Scribe.144~> 8618BB
+$Disgruntled_Veteran<~Scribe.141~>reveal 117 098C985B806DF63645A5114C3312C2E636B7F32F 9 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.1975~><~Scribe.144~> 63030C
+<Disgruntled_Veteran> id take 1 corruption and play these 412ADA
+<GambitLord> I woulda moved B24AD5
+<Disgruntled_Veteran> yes 84F082
+<GambitLord> given I play the ring 6B2218
+<Disgruntled_Veteran> the red 1 would do nothing D568F8
+<GambitLord> for an eye D387FB
+<GambitLord> Yeah, I can't inflict that much corruption C89110
+<Disgruntled_Veteran> i felt confident in holding D003C6
+<Disgruntled_Veteran> but A3505F
+<Disgruntled_Veteran> i shoulda moved B44812
+<GambitLord> I guess I coulda dropped another red tile in 30EAE6
+$GambitLord<~Scribe.141~>reveal 182 231FBA64A5E2D42DD7AE21CB45AE3D6B4B02C725 9 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.1976~><~Scribe.144~> 667C54
+<GambitLord> and made the eyes lethal 365247
+<GambitLord> def shoulda moved D9445B
+<GambitLord> gg 0417D2
+<Disgruntled_Veteran> gg 2D103C
+<GambitLord> was close 798ED2
+<Disgruntled_Veteran> yah 4A8B90
+<GambitLord> I didn't have the capacity for HD 62C67C
+<Disgruntled_Veteran> i had to hold my tongue..its easy to vent early on 116485
+<GambitLord> otherwise coulda closed out last turn 3C4751
+<GambitLord> needed a few more guys there 347A29
+<Disgruntled_Veteran> im trying not to vent mid game 49BD9D
+<GambitLord> I actually had swarm of bats 0348C4
+<GambitLord> meant to play that on Fords attack 8E2293
+<Disgruntled_Veteran> oh 996585
+<GambitLord> Alright, gotta run E2D642
+<GambitLord> see ya 28D883
+<Disgruntled_Veteran> cya F7C350

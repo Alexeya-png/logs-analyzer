@@ -1,0 +1,957 @@
+<auto> silent null
+<auto><~Scribe.141~>363 397 398 402 401 400 399 403 404 376 375 374 373 377 378 <~Scribe.142~><~Game.2038~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>365 366 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 367 368 369 370 371 372 <~Scribe.142~><~Game.2040~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>230 231 <~Scribe.142~><~Game.2044~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>155 152 <~Scribe.142~><~Game.2004~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>137 151 <~Scribe.142~><~Game.2005~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>161 198 <~Scribe.142~><~Game.2006~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>163 188 <~Scribe.142~><~Game.2007~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Controls.323~>364 null
+<auto> noisy null
+<auto> silent null
+<auto><~Scribe.141~>312 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1965~><~Scribe.144~> null
+<auto> noisy null
+<~Game.7~>1 null
+<auto> silent null
+<auto><~Scribe.141~>363 397 398 402 401 400 399 403 404 376 375 374 373 377 378 <~Scribe.142~><~Game.2038~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>365 366 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 367 368 369 370 371 372 <~Scribe.142~><~Game.2040~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>230 231 <~Scribe.142~><~Game.2044~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>155 152 <~Scribe.142~><~Game.2004~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>137 151 <~Scribe.142~><~Game.2005~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>161 198 <~Scribe.142~><~Game.2006~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>163 188 <~Scribe.142~><~Game.2007~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Controls.323~>364 null
+<auto> noisy null
+$base silent null
+$TEST<~Scribe.141~>312 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1965~><~Scribe.144~> null
+$base noisy null
+<game> Stella_Rossa<~Controls.408~>[WOTR-Gandalf2 wotr base2] null
+<~Talker.31~> null
+<Stella_Rossa> hello 
+<Stella_Rossa> roll and bid? 
+<Brodo_Braggings> sure! 
+<game> Stella_Rossa<~Controls.1~> 4 null
+<game> Brodo_Braggings<~Controls.1~> 5 null
+<Brodo_Braggings> I give you 2 tokens for the Shadow 
+<Stella_Rossa> accept 
+<Stella_Rossa> gl hf 
+<Brodo_Braggings> glhf 
+$Stella_Rossa<~Controls.281~>427 426 <~Controls.282~><~Game.2038~><~Controls.283~><~Game.2042~> 
+$Brodo_Braggings<~Controls.509~>162<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Stella_Rossa<~Controls.464~>C8697D7807E2AE2C66ED5E0CE95B93D3621AE815 D77F2CA24834124F31A4262D13E646D4 24 70F26411BEC5D28604CDBEF3E5D58FA70FB56335 F3AEBC83AF6B90D4B8D7950737D92B6F 7D587C151F983C3FBEC838FECEE06E9C23FC2815 4203759711ADF503A1F2FB281864B736 CA8C53E50B0E67486478FAD9B8C185A8F9210D9C 2A652D3F64032F9DE3A81CC0222ED492 450CC9AE41B15759800CACD2A97472807294C97A 41E1EF785FD5B4DD68924E52B3F8E2BB 02BBFC06B4B2993CEAAD3476E90FEDE81F6FE389 594F45802C9AEB7BA9D3F153EDC4F3EF F7205454D3FEF472B010794F15A56AC43716E9CF BCE5F6865BA58EF6952C1689CD020B3D AC00D9FD2181DC9F4B87EB50A9E131C3BBDA73CA B83C3FBB1A3E67F6B791389B7C1DA2FF 5A7EC01CA8ABC93E5FC2C68005F034575E5C7F4D 5D8609D8A37501E696B3DE74E5F8B327 A20265E894564D853979CE8245599E047CD9F932 84FE85E0F57033E85F1859CF87349BD2 8182E261AF3DCF7C5613FFA7AE8457302C6E47FC 13D746C7C61963C2C1AB5A488B471106 5E24F59F9571F67A771746E4E56A1C7A31F68D4C 8024897AB76AC11D18E99EC619CAFAE5 F5D3DF3E95E76D59572E151523D90E89F64D26FC 938E81C7C9CA7122CD03C6CCE67F9EBC 7A2FFDA82E3C2707A6968FE02FEF66BFB4A989A4 6FC9BC650F2C0704FBB1201A11F8A990 6568B1862F7E76A3CBEC9F04A80D80766CBFDA0E D21A202EA5E127B7567D9B082FD63FD7 FE3B6BD4E8AF3BA293A0049BB58BF19A349CCECD 9B6F1677E060C4FF48BE93FFA418796F ACA33FC1808D0EA5B5871550D753D84BFE509A4D 8CC53AFDC6615C155CA55E0334F08371 43AAF3DF330509ED100B5D65B1EFE34D70FF20CB 51ED98DDC01291B2DFF6EC72D9FC1F3B D51E723019C87E5BFBC9A27ED2E6E5F87DF651BE C1E8A9708D53FAEDC45C7CDED603E15E CBC3B15A11A39664AA02DAEA30EDBE79E343D381 6369C14B7A2B204FC872F1250B739EE0 8403694114FF6693A17BFA96B630B7A8453D18D9 3233F615CFEED842D6F083B98B450739 18E8FD6F4B30C02458188E1C9D3AA2401C1EA290 A467E7FD8CC75F21AB97188E6B1DB789 9E2949EA55D720E6750BF9AB00B5CA9357B334D9 E8FC5C8355957E1DBDC33A9EDCA6A2E3 232A4AAA693A33CA95549C9A27D65E69039A429C 6FE5E182A958619A59CA61537C987E80 99D072EF175800ACFCF01A7C0B1C4585643A88E2 AEAB5A565A9D58EC0A854CFFE8E425E6 24 2C1EB2518E71A6B1EC5B8AD402E673DBFA8BFB4E 218683C43998338341AFFF5495F1387E 6008DB8A02A61ECA8922E4A061F9176F0747F5EF 92276DFE10EC31F232FA992AE0E678B5 FE363D1959AA9D4EDD857296C1A031BFA00662C9 9ACFBF2DD4491875FBFAFA72636DFF02 18109C696AD350641CDF5F1ACE3F428CE433C2DD 685F00FD1B60F2220B57686E896CA4A8 F589EC4037BD3F88EFB29B01C5282CE6E06BE097 C1768BF4CBCDBF58C1D22E4E649EE8C8 A87D45E52C27B7FE89C90D3093AF7E5ABBDD82E5 47DDB6AF140CF15F5326F396BD0CD5DC 8E0147907CBF42EB9B2495CE8DE0A75B36FE03F9 FDBBC97D9F837479F1BC403A6CCBAC42 BBD0EBD03AB9CC27F1376E77FBEBDCFCAE45D057 0A6B806E0741634529C222D8EA834FBE 3D4B3C8E5AC8ED8180E3F58077BF99366B56A968 BCD7D88988FC5FAC8D2176AF24A6005B A53CD8B3361EEAD00AB304DBF4B22ED2882E6E14 D0C630C3F568B2A1925C692D91523045 43CEF92FA0AEC3EF5B7E385849B97D69FA05B442 EF768F58EFFD5327BA5A89A486512057 2D07264C252F171B6AD43973524292C62CCCB3C8 7C6788C453B1C23EF59708B8C8AB1036 B6F7DB4E533232016396968D209334E54EAC4B9B 8C47BD3BF453C1E54455E05A63B844D4 8551A03DAC4CB615C83478D2815B1A9C6CDBEA96 3551E12A898574DC9FAF41AAB9B3EADF 99938FE03BBF198F716A3B1975C1B3BDCE6CB3F9 0B95801FE973C6E519C1C651DD33FD54 220D97F5BC9DF0388F8216A3C8D51683740BDB66 E7F9F18875D9EA1A413032DC210ED7E1 FD0FD31BF690B60B17197419411036DFE4A1BB13 EAF40268D4EE7F1ACAD18D47ED81A7B8 824B7D2032D086B55E5197209C6E409DFC04E292 C13D582FE543609A6D405F3DD2BC7D7C E4409A50EEF49A4513C6D74573A488ABB4FC5A36 2A036F24F1B304AC0D8FB369DE0B8044 AD021C635E503CF625CE437136506588D8C6CBC6 B563DEA520E994C51C7931F4314E54D4 D71B0F05348D5A4EE7535A4704E2D73BF807368B CF2E31FF2E23B8003DB57317D07C049B AFE96B9E802FEDCF263170FB4EFB25007B3BBE44 FC31AC515E351F932A4EE322B85B0353 84EF1B6682C952BC724121DE15E2A9A52E481595 6396D583AEEFDB16D82564E436A8A21B 593001C8340567BC1411596D8EB854748E6734A4 8F12D6D34B672909D806A4F775588D07 0 0 96D076
+$Brodo_Braggings<~Controls.509~>196<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Stella_Rossa<~Controls.509~>112<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Stella_Rossa<~Controls.509~>121<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+<Stella_Rossa> fsp ok 72866D
+$Brodo_Braggings<~Controls.479~>FC0CAEC91570C89EC5D4FA9A415A65CA394546F9 F9E66948D24868E6C94F28C1FB2B45D9 24 7F016A0D8B8320C5A443CC8FBF428FB45884EBC4 5C4AD0A83B942E52A4E31393AE716157 55018313F1C127D0E9D75AB40D1349BE8BADD5E7 6FD875809F9048BCE1F7D8BA4E4D23F3 0CBFFD2FB17E8D71B91676524498B6D064938B30 BBAF0464864117CC73EFB84EF715C4F0 5452DDCC0F7522DB5AFFDBEF6CD8C29EE5E77B7A 9B7751CEA8047E573B6DD73005CFB1F8 49E71C0FE83840D7C90016EC9C66AF3CF5D96AD1 FD34545D5741AD0464401963A2A60BBA 2DE08608666E24B6C63951EDB5E7D67B3690D7D0 652753E33C1BA4531033DB6F9F494F75 255538F75A486B9556465D3431AECB47B08B8E6A 37F26F4B451C0EC4349FF4F488206778 8547F8DC97767754BEEAF9C28829A9BD3A9C089A 359607DDDD09FD3CBFED5367F1C9B66F 996FC85696A1C83B639BE25B9F29CF99640C17A1 45FF59915E594EB70164C1B91666C47B A4C21857F2DFE774DE56FBB6582B36D1BB0B7C75 782AF66AC3F78E244AE33683A387F23D 32579FA89AB3A7DCA4F5BE7BCCA870568E3B58B8 4728B4CAA258274AD27E0147CFDDA7A1 D2F4C5F7572610E9157E575D7FFD00CA07EEA229 1E7FD6DA5800C5A6D80BCC74AEEB7E77 DEEA308C914406430330D8DBD2594806C5DF34CB 1EB2805A85FD95C50C1000D7C760E906 B11453971AE60C25293D8E689E78756DE894A285 1FF04862BA053EA331B2DC54E4E6575D 8108A3093723F4FCDA7CBDE4855B90E68DFF9016 F32E87727129B4F2FE9079F12979B041 B77EED8CD0CDF54FD269BAF8FBC20594E1A27176 F136640D3D53B34F45A4E5B36898EA8C 4154891E169EF4C68D4911A7B6FE9FB24A1AFE7A B162CFDD42065760578CF0F4B3F0490E 075310CAA6BDA9336337B5523D50DF7B23350211 1417AA91E60F21E3A5F32E5F314425B8 3243C75CE1E04399CF344F11B273446A650EC608 8637E4F4C8203CF1AAE6B09335AFB052 303A108FF7287401B5C057BCAC6A0AEB60F2B0DC 861A35E5F0809AD10846EBDB8C991F6A DD84EE024C5725491004F0AD206B79D516066C10 66C2D0864853CF87F1B6C3F516E9E33D 24871E783580DDAE95E318B14A339390F10B623F 4F5E31E24B1C7474C8B5C0DB97491595 8E5E8F63B1985FD5E4C53852ADC9D7E6D6008A4F 8857092EFC7FD37B07AF5557CF9D6411 91067C0B69179CEA2CF5FD3B577CDD5DF9328250 F76EF26E186BAD0562425D38C7EDACC3 24 0AB4B16823E9FF961CC40E86FA5819255576E83D E7AEB27C8E1B78052D1452A96D6674D4 D13F9A8BAAA1F7F60C5B46EE509F93BD092F563A 0B35389B2EBCC408FAD0F855633EC54C 6BC82DF2EF371EBCB7598CA9DBEC8A5676FBEDCA C218F9A7A187A5F0864734F01394EFC9 FA53601BF47294C8087E6634C0A35FA666760E3D 9CF174E399A65E96D5BCE626069942D6 DDF7149A25FCBF62F8C0E5EF3A92E01A523650C9 1CC269DE483D8ABA9ADE51DB769EDC02 38672480AFD2B34C8271C3A1A1F3DAC0262C7D0E BF4A2653155C6B83DCF7986C21D796C8 04D03C42D412806C3163F305178752C32BA82B8E 3D0980418DC7B2B2D74B1F555FE20AD1 7DBE84C8317774584DA53E743FD938081A99BD42 0E68938F97CBB3071FBBB63C7674FD11 7066BC145DFAD7A5537856BA659FB751D1D6A91E 2FE2D88EEC8D36D80B17319B2DB05A2E C320BF6911CBEC12B2B3655772B3CC55AF39C3E3 251F82ECC593F85A50C728439E05A6BD CEA9D3866BD3CE8A69683EFD7A63809B80CCAD36 414BBEE1D56EC3F2EBA5FBC250AA8866 72130CBEEC5DBE00B70EC0BD03A63E11A559D40E 2630B58C79C50CBB44353DB485FE4670 76306985031F08967929349E29336CF16841AB5D 88D1FC992D2A92D69094936ECF739672 301DE3AD0E1DD9023A7E74E18FD1C53269643EA4 369245384276967076D64464E8C8D2D0 B0300CF18A1C9C1315EECD8A81F5B6C105A310DA 59253561CD9B8DD9F59DF0DAC3AE2A7E 4A1B5B3640BF0869C17032FA1D2F6AF7289B8293 FDCF2803E2225FB384254C04DE2A4941 7443BB96E7EC2D24A68735BCF2A2AD5EE2FA5056 D1BE1B7C02C6363F7A14755FDA4A8200 95835DDB2E1D79D8D614F17F0C2BE562C1C24235 2A747616D1E15DC2B0C6D1154CFDDE10 DEBA822AA401D47BA64C50D8B200AE2330EB55D2 4D9258110BAC0FC864EABBECD523CDAB E3BF164836346F9B82E686FABCE008BEC1E11F67 ED853EEFB865E51E60989CC16F32F67D 9F5484CDD8948CCABD3256B9F1788FBA8CF9363B F2D4F8D39FFC96A05A4AEF160AF00F37 6425DE961F907294AF909833AFEA744147ECFD4F 7B15032EF7CF9F9D9E531360572CA073 849D3D0825AA641B69759C8DA65205326E11473B 26D1A48B648C1EA3EABF29BEE27EE5AF D0C84BF0A91BA4A50B1651BFC33946D75EACD9A8 8ED826A2215342EB98BCB72B6663A4EB 0 0 DC66B6
+$Brodo_Braggings<~Controls.372~>105 2685E7
+$Brodo_Braggings<~Controls.345~>104 103 102 101 100 099 <~Controls.346~>11 15 14 10 11 12 null
+$Brodo_Braggings<~Controls.350~>104 103 102 101 100 099 null
+$Stella_Rossa<~Controls.345~>213 212 211 210 <~Controls.346~>0 4 1 3 null
+<Stella_Rossa> pass E41506
+$Brodo_Braggings<~Controls.276~>101<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> F8A7A4
+$Brodo_Braggings<~Scribe.141~>263 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 8B6107
+$Brodo_Braggings<~Controls.644~>101 <~Controls.645~><~Game.2035~> FA4728
+$Stella_Rossa<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 6A1FD4
+$Stella_Rossa<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> D66D81
+$Stella_Rossa<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> EF80DC
+<game> Brodo_Braggings<~Controls.1~> 3 3 null
+<Brodo_Braggings> safe D0040A
+$Brodo_Braggings<~Controls.276~>104<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 110679
+$Brodo_Braggings<~Scribe.141~>262 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 6ADBB4
+$Brodo_Braggings<~Controls.644~>104 <~Controls.645~><~Game.2035~> 1D08D8
+$Stella_Rossa<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> DE6527
+$Stella_Rossa<~Scribe.141~>073 072 <~Scribe.142~><~Game.1929~><~Scribe.143~><~Game.1925~><~Scribe.144~> 1778FD
+$Stella_Rossa<~Scribe.141~>065 <~Scribe.142~><~Game.1941~><~Scribe.143~><~Game.1957~><~Scribe.144~> D68385
+$Stella_Rossa<~Controls.644~>212 <~Controls.645~><~Game.2035~> 8F6FAC
+$Brodo_Braggings<~Controls.276~>099<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 2BC0F2
+$Brodo_Braggings<~Scribe.141~>034 033 <~Scribe.142~><~Game.1971~><~Scribe.143~><~Game.1977~><~Scribe.144~> 98E71A
+$Brodo_Braggings<~Scribe.141~>039 036 029 028 027 026 <~Scribe.142~><~Game.1979~><~Scribe.143~><~Game.1977~><~Scribe.144~> 33D54B
+$Brodo_Braggings<~Controls.644~>099 <~Controls.645~><~Game.2035~> 12546D
+$Stella_Rossa<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> FC8098
+$Stella_Rossa<~Controls.790~>248<~Controls.791~><~Game.2015~><~Controls.792~><~Game.2016~> FE8E74
+$Stella_Rossa<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 5A151B
+<game> Brodo_Braggings<~Controls.1~> 3 5 null
+<Brodo_Braggings> 1 hit 574393
+<Stella_Rossa> k DDD9F4
+$Brodo_Braggings<~Controls.624~>220<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Stella_Rossa<~Scribe.141~>240 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2037~><~Scribe.144~> 882C90
+$Stella_Rossa<~Scribe.141~>241 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> A9FE7E
+$Stella_Rossa<~Scribe.141~>247 <~Scribe.142~><~Game.1911~><~Scribe.143~><~Game.1912~><~Scribe.144~> DD798F
+$Stella_Rossa<~Controls.323~>247 E4C314
+$Stella_Rossa<~Controls.644~>220 240 <~Controls.645~><~Game.2035~> DC661C
+$Brodo_Braggings<~Controls.276~>102<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 85A8D1
+$Brodo_Braggings<~Controls.509~>164<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Brodo_Braggings<~Controls.644~>102 <~Controls.645~><~Game.2035~> 1BA8C1
+$Stella_Rossa<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> AF8F5D
+$Stella_Rossa<~Controls.323~>247 BDB38B
+$Stella_Rossa<~Controls.644~>210 <~Controls.645~><~Game.2035~> 94C9A1
+$Brodo_Braggings<~Controls.276~>100<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 971435
+$Brodo_Braggings<~Scribe.141~>254 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1919~><~Scribe.144~> DD7BFA
+$Brodo_Braggings<~Scribe.141~>360 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2036~><~Scribe.144~> 8AB9D1
+$Brodo_Braggings<~Scribe.141~>360 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2036~><~Scribe.144~> 13F489
+<Stella_Rossa> pass 81C861
+$Brodo_Braggings<~Controls.644~>100 360 <~Controls.645~><~Game.2035~> D7A490
+$Stella_Rossa<~Controls.726~>213 211 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 2C6A6E
+$Stella_Rossa<~Controls.731~>210 212 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 150CD4
+$Stella_Rossa<~Controls.509~>144<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Stella_Rossa<~Controls.509~>114<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Brodo_Braggings<~Controls.757~>103 105 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> C86FA0
+<~Game.7~>2 null
+$Brodo_Braggings<~Controls.762~>100 360 102 099 104 101 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 126E5B
+$Brodo_Braggings<~Controls.509~>158<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Brodo_Braggings<~Controls.509~>184<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<Stella_Rossa> fsp ol A5CDF6
+<Stella_Rossa> k 3C4B2C
+$Brodo_Braggings<~Controls.372~>100 D7BE68
+$Brodo_Braggings<~Controls.345~>360 102 099 104 101 103 105 <~Controls.346~>13 13 11 13 10 15 14 null
+$Brodo_Braggings<~Controls.350~>360 102 099 104 101 103 105 null
+$Stella_Rossa<~Controls.345~>210 212 213 211 <~Controls.346~>3 1 3 0 null
+$Stella_Rossa<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 5CBDE5
+$Stella_Rossa<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 2A39C8
+$Stella_Rossa<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 76AE0E
+<Stella_Rossa> hunt D7DC7B
+<game> Brodo_Braggings<~Controls.1~> 2 1 null
+<Brodo_Braggings> sorry, i had a distraction here 336A8E
+<Brodo_Braggings> safe D0E5C9
+<Stella_Rossa> np C45CF2
+$Brodo_Braggings<~Controls.276~>105<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 298D83
+$Brodo_Braggings<~CardBuffet.14~>reveal 158 F6D1E56746A89EF453AAC9D9AA2E4C999C4C218C 9<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> E9864F
+$Brodo_Braggings<~Controls.281~>237 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2045~> B4680A
+$Brodo_Braggings<~Controls.644~>105 158 <~Controls.645~><~Game.2035~> 7166F9
+<Stella_Rossa> pass C4B3B5
+$Brodo_Braggings<~Controls.276~>104<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> CFF6CB
+$Brodo_Braggings<~Scribe.141~>039 036 026 027 028 029 <~Scribe.142~><~Game.1977~><~Scribe.143~><~Game.1974~><~Scribe.144~> 38D8DC
+$Brodo_Braggings<~Controls.644~>104 <~Controls.645~><~Game.2035~> 6CD70B
+<Stella_Rossa> pass 12A4BD
+$Brodo_Braggings<~Controls.276~>102<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 5E0B12
+$Brodo_Braggings<~Scribe.141~>039 038 036 026 027 028 029 025 024 023 022 021 <~Scribe.142~><~Game.1974~><~Scribe.143~><~Game.1976~><~Scribe.144~> E14E86
+$Brodo_Braggings<~Controls.644~>102 <~Controls.645~><~Game.2035~> 593421
+$Stella_Rossa<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> EED4EC
+$Stella_Rossa<~Controls.366~>251<~Controls.367~><~Game.2010~><~Controls.368~><~Game.2011~> CC0CF3
+$Stella_Rossa<~Controls.790~>248<~Controls.791~><~Game.2015~><~Controls.792~><~Game.2016~> 827782
+$Stella_Rossa<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> EA1C9C
+<game> Brodo_Braggings<~Controls.1~> 4 6 null
+<Brodo_Braggings> 1hit DCFC6E
+<Stella_Rossa> yes 49D85A
+$Brodo_Braggings<~Controls.624~>216<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Stella_Rossa<~Scribe.141~>247 <~Scribe.142~><~Game.1912~><~Scribe.143~><~Game.1927~><~Scribe.144~> E25A8D
+$Stella_Rossa<~Controls.323~>247 237279
+$Stella_Rossa<~Scribe.141~>252 <~Scribe.142~><~Game.2014~><~Scribe.143~><~Game.2015~><~Scribe.144~> E3B950
+$Stella_Rossa<~Scribe.141~>216 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2036~><~Scribe.144~> A86675
+<Stella_Rossa> moria A18D18
+$Brodo_Braggings<~Controls.624~>214<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Stella_Rossa<~Controls.644~>216 214 <~Controls.645~><~Game.2035~> 932DBC
+<Brodo_Braggings> good one F2DAC1
+<Stella_Rossa> could definitely be worse E31BF7
+$Brodo_Braggings<~Controls.276~>360<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> A80AA2
+$Brodo_Braggings<~Scribe.141~>040 035 015 014 013 012 011 <~Scribe.142~><~Game.1956~><~Scribe.143~><~Game.1953~><~Scribe.144~> 76B35E
+$Brodo_Braggings<~Controls.644~>360 <~Controls.645~><~Game.2035~> 125EF6
+$Stella_Rossa<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> DD4C2A
+$Stella_Rossa<~Controls.323~>247 296CA8
+$Stella_Rossa<~Controls.644~>210 <~Controls.645~><~Game.2035~> EF356F
+$Brodo_Braggings<~Controls.276~>099<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> C42A37
+$Brodo_Braggings<~Scribe.141~>040 035 015 014 013 012 011 <~Scribe.142~><~Game.1953~><~Scribe.143~><~Game.1927~><~Scribe.144~> BCA109
+$Brodo_Braggings<~Scribe.141~>039 038 036 026 027 028 029 025 024 023 022 021 <~Scribe.142~><~Game.1976~><~Scribe.143~><~Game.1972~><~Scribe.144~> 949B8E
+$Brodo_Braggings<~Controls.644~>099 <~Controls.645~><~Game.2035~> 876D33
+$Stella_Rossa<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 2FD466
+$Stella_Rossa<~Scribe.141~>358 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.2037~><~Scribe.144~> 4CE5D6
+$Stella_Rossa<~Scribe.141~>240 <~Scribe.142~><~Game.2039~><~Scribe.143~><~Game.1887~><~Scribe.144~> B02E40
+$Stella_Rossa<~Controls.323~>240 707651
+$Stella_Rossa<~Controls.644~>211 358 <~Controls.645~><~Game.2035~> FCE13F
+<Brodo_Braggings> interesting E09DFD
+$Brodo_Braggings<~Controls.276~>101<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 82B260
+$Brodo_Braggings<~Scribe.141~>261 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> B9906C
+$Brodo_Braggings<~Controls.644~>101 <~Controls.645~><~Game.2035~> ED6984
+$Stella_Rossa<~Controls.726~>213 212 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 8A943D
+$Stella_Rossa<~Controls.731~>211 358 210 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> B1D1D0
+$Stella_Rossa<~Controls.509~>107<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Stella_Rossa<~Controls.509~>124<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Brodo_Braggings<~Controls.509~>116<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Brodo_Braggings<~Controls.819~> D980C1
+$Brodo_Braggings<~Controls.509~>167<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Brodo_Braggings<~Controls.509~>159<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Stella_Rossa<~Controls.757~>103 100 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 567EE3
+<~Game.7~>3 null
+$Stella_Rossa<~Controls.762~>101 099 360 102 104 105 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> D5850D
+<Stella_Rossa> fsp ok 065783
+$Brodo_Braggings<~Controls.372~>101 2D88ED
+$Brodo_Braggings<~Controls.345~>099 360 102 104 105 103 100 <~Controls.346~>14 11 11 12 10 15 12 null
+$Brodo_Braggings<~Controls.350~>099 360 102 104 105 103 100 null
+$Stella_Rossa<~Controls.345~>211 358 210 213 212 <~Controls.346~>4 1 4 1 0 null
+$Stella_Rossa<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> E7E63D
+$Stella_Rossa<~Scribe.141~>reveal 114 812A997122D0638D7E42C9E21CE5FEDA36621281 22 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> CD9341
+$Stella_Rossa<~Scribe.141~>240 <~Scribe.142~><~Game.1887~><~Scribe.143~><~Game.1891~><~Scribe.144~> 47CA50
+$Stella_Rossa<~Scribe.141~>257 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2003~><~Scribe.144~> 5542C1
+$Stella_Rossa<~Controls.323~>257 4FF1F7
+$Stella_Rossa<~Controls.644~>210 114 <~Controls.645~><~Game.2035~> CBFA13
+<Brodo_Braggings> I see! 8BD386
+$Brodo_Braggings<~HighlightLabel.81~>100<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 9A5D53
+$Brodo_Braggings<~Scribe.141~>039 038 036 026 027 028 029 025 024 023 022 021 <~Scribe.142~><~Game.1972~><~Scribe.143~><~Game.1975~><~Scribe.144~> 906673
+$Brodo_Braggings<~Scribe.141~>056 052 051 050 <~Scribe.142~><~Game.1986~><~Scribe.143~><~Game.1984~><~Scribe.144~> D557C8
+$Brodo_Braggings<~Controls.644~>100 <~Controls.645~><~Game.2035~> 106D18
+$Stella_Rossa<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> ABCDC8
+$Stella_Rossa<~Scribe.141~>313 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1965~><~Scribe.144~> B645E2
+$Stella_Rossa<~Controls.644~>212 <~Controls.645~><~Game.2035~> DC7A54
+$Brodo_Braggings<~Controls.276~>104<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 68E172
+$Brodo_Braggings<~Scribe.141~>039 038 036 026 027 028 029 025 024 023 022 021 <~Scribe.142~><~Game.1975~><~Scribe.143~><~Game.1966~><~Scribe.144~> ECF822
+$Brodo_Braggings<~Scribe.141~>054 053 <~Scribe.142~><~Game.1987~><~Scribe.143~><~Game.1984~><~Scribe.144~> B6D8D0
+$Brodo_Braggings<~Controls.644~>104 <~Controls.645~><~Game.2035~> AF67AF
+$Stella_Rossa<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> DF7752
+$Stella_Rossa<~Scribe.141~>reveal 124 CD8AF47704B2CF2C8B4273870A68770ABB7E92FB 10 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> 5E4115
+$Stella_Rossa<~Scribe.141~>304 305 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1970~><~Scribe.144~> 0A4E77
+$Stella_Rossa<~Controls.509~>118<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Stella_Rossa<~Controls.644~>211 124 <~Controls.645~><~Game.2035~> E1B7CB
+<Brodo_Braggings> lol 7B695C
+$Brodo_Braggings<~Controls.276~>102<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> A34AA5
+<Brodo_Braggings> Old Forest 3C24C3
+$Stella_Rossa<~Scribe.141~>258 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> 5DD899
+$Stella_Rossa<~Controls.323~>258 73E949
+<Stella_Rossa> card? 438EC9
+<Brodo_Braggings> mmm 0B98C7
+<Brodo_Braggings> nc A7216E
+$Stella_Rossa<~Scribe.141~>reveal 118 51E5FCCC3D2925704013845E3007CA961AE8AF8A 4 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> EEB701
+$Stella_Rossa<~Scribe.141~>065 <~Scribe.142~><~Game.1957~><~Scribe.143~><~Game.1954~><~Scribe.144~> E8DED2
+$Brodo_Braggings<~Scribe.141~>039 038 036 026 027 028 029 025 024 023 022 021 <~Scribe.142~><~Game.1966~><~Scribe.143~><~Game.1957~><~Scribe.144~> 9683FA
+<Brodo_Braggings> you have the perfect cards A29F37
+<Stella_Rossa> yes, very good 2FEC02
+$Stella_Rossa<~Controls.644~>102 118 <~Controls.645~><~Game.2035~> ABD6B7
+<Stella_Rossa> pass E58D57
+$Brodo_Braggings<~Controls.276~>099<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> C04E25
+$Brodo_Braggings<~CardBuffet.14~>reveal 167 2EFEE3364EDC0C2742664906F7146CA9B94B6515 17<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> A2CE6F
+$Brodo_Braggings<~Controls.281~>239 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2045~> 008C4E
+$Brodo_Braggings<~Controls.644~>099 167 <~Controls.645~><~Game.2035~> CA7151
+$Stella_Rossa<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> B19672
+$Stella_Rossa<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> CA6CA5
+$Stella_Rossa<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 20C685
+<game> Brodo_Braggings<~Controls.1~> 5 2 null
+<game> Brodo_Braggings<~Controls.1~> 6 6 null
+<Brodo_Braggings> 2h F14B27
+<Stella_Rossa> k 37E1F0
+$Brodo_Braggings<~Controls.624~>227<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Stella_Rossa> random 61EB71
+$Brodo_Braggings<~Controls.637~>241<~Controls.638~><~Game.1999~><~Controls.639~><~Game.2036~> null
+$Stella_Rossa<~Scribe.141~>242 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> 4DF610
+$Stella_Rossa<~Controls.644~>241 227 <~Controls.645~><~Game.2035~> AC91B5
+<Brodo_Braggings> oh wow 6AEB76
+<Stella_Rossa> eh 7CA01F
+<Stella_Rossa> painful, very A313ED
+<Brodo_Braggings> very unlucky, first draw 9E03E7
+<Brodo_Braggings> at least useful corruptionwise 21C9B2
+<Stella_Rossa> yes, efficient E1673E
+$Brodo_Braggings<~Controls.276~>105<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 6CD382
+$Brodo_Braggings<~Scribe.141~>261 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 7B976E
+<Stella_Rossa> thinking? D12BB6
+<Brodo_Braggings> sry, yes EF56E7
+<Stella_Rossa> tyt EB2DBD
+$Brodo_Braggings<~Controls.276~>360<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> A20BB4
+$Brodo_Braggings<~Controls.819~> 2FDC3E
+$Brodo_Braggings<~Controls.644~>105 <~Controls.645~><~Game.2035~> 5B136E
+$Stella_Rossa<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 5BB8DC
+$Stella_Rossa<~Controls.790~>248<~Controls.791~><~Game.2015~><~Controls.792~><~Game.2016~> 6352DB
+$Stella_Rossa<~Controls.795~>358<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 37AEEC
+<game> Brodo_Braggings<~Controls.1~> 4 4 null
+<game> Brodo_Braggings<~Controls.1~> 5 6 null
+<Brodo_Braggings> 2h 60C05D
+<Stella_Rossa> k CAA32A
+$Brodo_Braggings<~Controls.624~>215<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Stella_Rossa<~Scribe.141~>247 <~Scribe.142~><~Game.1927~><~Scribe.143~><~Game.1937~><~Scribe.144~> D3C546
+$Stella_Rossa<~Controls.323~>247 5F9EEE
+$Stella_Rossa<~Controls.644~>215 <~Controls.645~><~Game.2035~> F2EBF9
+$Brodo_Braggings<~Controls.276~>360<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> FC5591
+<Brodo_Braggings> WR AE0DFD
+$Stella_Rossa<~Scribe.141~>098 094 088 065 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1991~><~Scribe.144~> 758DD4
+$Stella_Rossa<~Scribe.141~>258 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> F84EDC
+$Brodo_Braggings<~Scribe.141~>039 038 036 026 027 028 029 025 024 023 022 021 <~Scribe.142~><~Game.1957~><~Scribe.143~><~Game.1954~><~Scribe.144~> 1FE7E2
+$Stella_Rossa<~Scribe.141~>256 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> 5C9039
+<Brodo_Braggings> no no D13965
+<Stella_Rossa> :-) 3CAF01
+<Brodo_Braggings> sorry, I'm stupid 3CC8D8
+$Stella_Rossa<~Controls.819~> 5C6CAD
+$Stella_Rossa<~Controls.819~> 1DB830
+$Stella_Rossa<~Controls.819~> 22DFBA
+<Stella_Rossa> np 54360C
+<Brodo_Braggings> very distracted 28D19E
+$Stella_Rossa<~Controls.819~> BF0989
+$Brodo_Braggings<~Scribe.141~>253 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1957~><~Scribe.144~> 852032
+$Brodo_Braggings<~Scribe.141~>362 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2036~><~Scribe.144~> 002316
+$Brodo_Braggings<~Controls.644~>360 362 <~Controls.645~><~Game.2035~> B999B1
+$Stella_Rossa<~Controls.323~>259 00A040
+$Stella_Rossa<~Controls.323~>260 C846D8
+$Stella_Rossa<~Scribe.141~>426 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> E721F8
+$Stella_Rossa<~Scribe.141~>258 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> 82C348
+$Stella_Rossa<~Controls.644~>426 <~Controls.645~><~Game.2035~> 9BB2E1
+$Stella_Rossa<~Controls.726~>358 213 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 08E6F6
+$Stella_Rossa<~Controls.731~>211 212 210 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 3F7785
+$Stella_Rossa<~Controls.509~>128<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Stella_Rossa<~Controls.509~>140<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Brodo_Braggings<~Controls.509~>182<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Brodo_Braggings<~Controls.509~>195<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<Stella_Rossa> fsp ok 766AA5
+$Stella_Rossa<~Controls.757~>103 101 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 3F2725
+<~Game.7~>4 null
+$Stella_Rossa<~Controls.762~>360 362 105 099 102 104 100 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> C50089
+$Brodo_Braggings<~Controls.281~>162 <~Controls.282~><~Controls.46~><~Controls.283~><~Game.2041~> 077941
+<Stella_Rossa> fsp ok 39A660
+$Brodo_Braggings<~Controls.372~>360 1EEED1
+$Brodo_Braggings<~Controls.345~>362 105 099 102 104 100 103 101 <~Controls.346~>11 11 14 10 13 12 14 10 null
+$Brodo_Braggings<~Controls.350~>362 105 099 102 104 100 103 101 null
+$Stella_Rossa<~Controls.345~>211 212 210 358 213 <~Controls.346~>1 3 4 1 0 null
+$Stella_Rossa<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 5DB99A
+$Stella_Rossa<~Scribe.141~>258 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> C434ED
+$Stella_Rossa<~Controls.644~>212 <~Controls.645~><~Game.2035~> B03A5F
+$Brodo_Braggings<~Controls.276~>100<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 84C8DF
+<Brodo_Braggings> wr E1999B
+$Stella_Rossa<~Scribe.141~>098 094 088 065 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1991~><~Scribe.144~> 2FB4E7
+$Brodo_Braggings<~Scribe.141~>253 039 038 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1957~><~Scribe.143~><~Game.1954~><~Scribe.144~> 812263
+$Brodo_Braggings<~Controls.644~>100 <~Controls.645~><~Game.2035~> 9CC377
+$Stella_Rossa<~Scribe.141~>256 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> 71A1BA
+$Stella_Rossa<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> F12DEB
+$Stella_Rossa<~Controls.323~>247 31E69C
+$Stella_Rossa<~Controls.644~>213 <~Controls.645~><~Game.2035~> F0C8AF
+$Brodo_Braggings<~Controls.276~>104<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 07F645
+$Brodo_Braggings<~Scribe.141~>037 <~Scribe.142~><~Game.1969~><~Scribe.143~><~Game.1937~><~Scribe.144~> 73719C
+$Brodo_Braggings<~Scribe.141~>037 <~Scribe.142~><~Game.1969~><~Scribe.143~><~Game.1937~><~Scribe.144~> C6F107
+$Brodo_Braggings<~Scribe.141~>040 <~Scribe.142~><~Game.1927~><~Scribe.143~><~Game.1954~><~Scribe.144~> B428AB
+$Brodo_Braggings<~Controls.644~>104 <~Controls.645~><~Game.2035~> 7DBC45
+$Stella_Rossa<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> AAB2A8
+$Stella_Rossa<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 2D6281
+$Stella_Rossa<~Controls.795~>358<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 49C694
+<game> Brodo_Braggings<~Controls.1~> 3 null
+<game> Brodo_Braggings<~Controls.1~> 2 null
+<Stella_Rossa> safe E89286
+<Brodo_Braggings> safe 2AABC8
+$Brodo_Braggings<~Controls.276~>105<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> D12475
+<Brodo_Braggings> Dale 5A9EC9
+<Brodo_Braggings> nc 8335CE
+$Stella_Rossa<~Scribe.141~>reveal 121 B88AFA72B84CB27DE21CB32C2BECF0AD4CF9C35D 13 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> 4B9372
+<game> Brodo_Braggings<~Controls.1~> 5 3 4 3 4 null
+<game> Brodo_Braggings<~Controls.1~> 4 2 6 5 4 null
+<game> Stella_Rossa<~Controls.1~> 2 4 5 null
+<Brodo_Braggings> 1 780CF9
+<game> Stella_Rossa<~Controls.1~> 5 null
+<Stella_Rossa> 3 0D2402
+$Stella_Rossa<~Scribe.141~>066 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.2037~><~Scribe.144~> 667763
+$Brodo_Braggings<~Controls.281~>021 029 028 <~Controls.282~><~Game.1954~><~Controls.283~><~Game.2041~> 538EE1
+<Brodo_Braggings> press 34E0C6
+$Stella_Rossa<~Scribe.141~>068 304 305 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.1965~><~Scribe.144~> 206278
+$Stella_Rossa<~Scribe.141~>423 <~Scribe.142~><~Game.27~><~Scribe.143~><~Game.28~><~Scribe.144~> 486E15
+$Brodo_Braggings<~Scribe.141~>027 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1970~><~Scribe.144~> F102E6
+$Brodo_Braggings<~Controls.644~>105 121 066 <~Controls.645~><~Game.2035~> 6C728F
+<Stella_Rossa> pass 08C136
+$Brodo_Braggings<~Controls.276~>101<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 14E3E4
+$Brodo_Braggings<~Scribe.141~>347 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1984~><~Scribe.144~> E0CCE4
+$Brodo_Braggings<~Controls.644~>101 <~Controls.645~><~Game.2035~> CB6479
+<Stella_Rossa> east rhun cannot 4C046E
+<Stella_Rossa> North Rhun 04BF09
+<Stella_Rossa> no settlement there 4EAB87
+<Brodo_Braggings> wow, I'm playing a stupid game 8907F9
+<Brodo_Braggings> srry 24F87B
+<Stella_Rossa> happens :-) 6F5E0E
+$Brodo_Braggings<~Scribe.141~>056 <~Scribe.142~><~Game.1984~><~Scribe.143~><~Game.1987~><~Scribe.144~> 509154
+<Stella_Rossa> pass AC1F94
+$Brodo_Braggings<~Controls.276~>102<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> D35821
+$Brodo_Braggings<~Scribe.141~>345 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1987~><~Scribe.144~> CE4B32
+$Brodo_Braggings<~Controls.644~>102 <~Controls.645~><~Game.2035~> BDE130
+$Stella_Rossa<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 014E26
+$Stella_Rossa<~Controls.790~>248<~Controls.791~><~Game.2015~><~Controls.792~><~Game.2016~> 3594DE
+$Stella_Rossa<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 1C6930
+<game> Brodo_Braggings<~Controls.1~> 6 null
+<Brodo_Braggings> 1h EBAAEF
+$Brodo_Braggings<~Controls.624~>225<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Stella_Rossa<~Scribe.141~>242 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2037~><~Scribe.144~> 08905F
+$Stella_Rossa<~Scribe.141~>244 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> 9B85CE
+$Stella_Rossa<~Controls.644~>225 242 <~Controls.645~><~Game.2035~> D2125F
+$Brodo_Braggings<~Controls.276~>103<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 89491D
+$Brodo_Braggings<~CardBuffet.14~>reveal 182 258BDB5E50DD9F3EA5D5FACF7C954273BBD8560A 11<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 0F8FF0
+$Brodo_Braggings<~Controls.281~>238 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2045~> 1FB2F4
+$Brodo_Braggings<~Controls.644~>103 182 <~Controls.645~><~Game.2035~> ABC2CB
+<Stella_Rossa> pass 9A7FDB
+$Brodo_Braggings<~Controls.276~>099<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> D1441A
+$Brodo_Braggings<~Scribe.141~>reveal 159 6B2914F19703874AF0EF4677DB32AFB3CE999C65 20 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> B37326
+$Brodo_Braggings<~Controls.304~>026 <~Controls.305~><~Game.1954~> 9FCA4F
+$Brodo_Braggings<~Controls.313~>336 <~Controls.309~><~Controls.314~><~Game.1954~> C7ECD6
+$Brodo_Braggings<~Controls.304~>025 <~Controls.305~><~Game.1954~> 562183
+$Brodo_Braggings<~Controls.313~>335 <~Controls.309~><~Controls.314~><~Game.1954~> 0C0C39
+$Brodo_Braggings<~Controls.644~>099 159 <~Controls.645~><~Game.2035~> 63D999
+$Stella_Rossa<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 4E2CD7
+$Stella_Rossa<~Scribe.141~>310 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1965~><~Scribe.144~> 621602
+$Stella_Rossa<~Scribe.141~>303 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1941~><~Scribe.144~> 7224CF
+$Stella_Rossa<~Controls.644~>210 <~Controls.645~><~Game.2035~> F68C19
+$Brodo_Braggings<~Controls.276~>362<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 87AB7F
+<Brodo_Braggings> Lorien 54394D
+$Stella_Rossa<~Scribe.141~>097 093 092 087 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.1992~><~Scribe.144~> A4F724
+$Stella_Rossa<~Scribe.141~>256 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> D7E39C
+$Brodo_Braggings<~Scribe.141~>035 015 014 013 012 011 <~Scribe.142~><~Game.1927~><~Scribe.143~><~Game.1928~><~Scribe.144~> 067245
+$Brodo_Braggings<~Controls.644~>362 <~Controls.645~><~Game.2035~> F3B0D1
+$Stella_Rossa<~Controls.726~>211 358 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 1E6862
+$Stella_Rossa<~Controls.731~>210 213 212 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 3041E6
+$Stella_Rossa<~Controls.509~>109<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Stella_Rossa<~Controls.509~>143<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Brodo_Braggings<~Controls.757~>360 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> D182A1
+<~Game.7~>5 null
+$Brodo_Braggings<~Controls.762~>362 099 103 102 101 105 104 100 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 0C5ACA
+$Stella_Rossa<~Controls.296~>112 <~Controls.297~><~Controls.45~> BBC9BF
+$Brodo_Braggings<~Controls.509~>174<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Brodo_Braggings<~Controls.509~>190<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<Stella_Rossa> declare BD67B6
+$Stella_Rossa<~Scribe.141~>247 <~Scribe.142~><~Game.1937~><~Scribe.143~><~Game.1967~><~Scribe.144~> F98EEB
+$Stella_Rossa<~Scribe.141~>248 <~Scribe.142~><~Game.2016~><~Scribe.143~><~Game.2014~><~Scribe.144~> AF7C2F
+$Stella_Rossa<~Scribe.141~>247 <~Scribe.142~><~Game.1967~><~Scribe.143~><~Game.1959~><~Scribe.144~> D88352
+<Stella_Rossa> fsp ok 5213CC
+$Brodo_Braggings<~Controls.372~>362 8E2A0D
+$Brodo_Braggings<~Controls.345~>099 103 102 101 105 104 100 360 <~Controls.346~>10 11 14 15 11 13 11 11 null
+$Brodo_Braggings<~Controls.350~>099 103 102 101 105 104 100 360 null
+$Stella_Rossa<~Controls.345~>210 213 212 211 358 <~Controls.346~>0 1 2 0 0 null
+$Stella_Rossa<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> EDF9DA
+$Stella_Rossa<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 5D4D59
+$Stella_Rossa<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 423B21
+<game> Brodo_Braggings<~Controls.1~> 2 6 null
+<Brodo_Braggings> 1h 7892F2
+<Stella_Rossa> yes C7A8FA
+$Brodo_Braggings<~Controls.624~>219<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Stella_Rossa<~Scribe.141~>247 <~Scribe.142~><~Game.1959~><~Scribe.143~><~Game.1964~><~Scribe.144~> 188829
+$Stella_Rossa<~Scribe.141~>252 <~Scribe.142~><~Game.2015~><~Scribe.143~><~Game.2016~><~Scribe.144~> 5B4260
+$Stella_Rossa<~Controls.323~>247 0A21BD
+$Stella_Rossa<~Controls.644~>219 <~Controls.645~><~Game.2035~> EED235
+$Brodo_Braggings<~Controls.276~>102<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 659BB4
+$Brodo_Braggings<~CardBuffet.14~>reveal 195 70E646F6D610F43D9438E7020BB590DF90EF4F34 17<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> D57133
+$Brodo_Braggings<~Scribe.141~>323 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1954~><~Scribe.144~> 4C63CC
+<Stella_Rossa> ? 30FBE2
+<Stella_Rossa> wrong card? F5A2DC
+$Brodo_Braggings<~CardBuffet.3~>195 <~CardBuffet.4~><~Game.2036~><~CardBuffet.5~><~Controls.46~> C43D69
+$Brodo_Braggings<~Scribe.141~>reveal 196 B67AB55992AC1E92E6F2762683540BF57B033C6F 21 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2036~><~Scribe.144~> 8EDC63
+<Stella_Rossa> ok 780E58
+<Brodo_Braggings> sure, srry CBD546
+$Brodo_Braggings<~Controls.644~>102 196 <~Controls.645~><~Game.2035~> 9BDA0C
+$Stella_Rossa<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 16B080
+$Stella_Rossa<~Controls.323~>247 3C9ABF
+$Stella_Rossa<~Controls.644~>358 <~Controls.645~><~Game.2035~> 09A750
+$Brodo_Braggings<~Controls.276~>105<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> AB2CEC
+<Brodo_Braggings> WR 24EA3D
+$Stella_Rossa<~Scribe.141~>256 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 948F4F
+$Brodo_Braggings<~Controls.840~>164 EBC556
+$Stella_Rossa<~Controls.840~>143 BAEDC1
+<auto> playchosen 8732F7
+<auto><~Controls.3~>reveal 143 185D7AA8BC3AF78DA511596CC0271D44ABEB93BF 11<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> D2EFFD
+<auto><~Controls.866~>reveal 164 558BB71015E7B9FEB8CB0809F20F62D1FB721867 10<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> F89E4C
+<auto> playchosen E787E9
+<Brodo_Braggings> so 61D02F
+<Brodo_Braggings> I hit with 5s you 3s? 51ECD2
+<Brodo_Braggings> right? 020569
+<Stella_Rossa> yes A4AFB8
+<Brodo_Braggings> ok 00CA08
+<Stella_Rossa> in combat, but 4 in reroll 5C9BCD
+<Brodo_Braggings> oh ok 3D638E
+<game> Brodo_Braggings<~Controls.1~> 3 6 2 5 5 null
+<game> Brodo_Braggings<~Controls.1~> 5 5 null
+<Brodo_Braggings> wow F04847
+<game> Stella_Rossa<~Controls.1~> 4 2 2 null
+<game> Stella_Rossa<~Controls.1~> 4 null
+<Stella_Rossa> 2 A43246
+<Brodo_Braggings> crazy 09F279
+$Stella_Rossa<~Scribe.141~>098 094 088 065 <~Scribe.142~><~Game.1991~><~Scribe.143~><~Game.2037~><~Scribe.144~> 49A51C
+<Stella_Rossa> happens 511BEF
+$Stella_Rossa<~Scribe.141~>423 <~Scribe.142~><~Game.28~><~Scribe.143~><~Game.30~><~Scribe.144~> D6A302
+$Brodo_Braggings<~Controls.281~>023 024 <~Controls.282~><~Game.1954~><~Controls.283~><~Game.2041~> D5A85C
+<Stella_Rossa> draw F1D3A5
+<Stella_Rossa> fro WK 8F1E4D
+<Brodo_Braggings> remind me plesae 3FA361
+<Stella_Rossa> draw a S card for WK 761B14
+<Brodo_Braggings> it has to be strategy? 5F8885
+<Stella_Rossa> yes 1DC4FD
+$Brodo_Braggings<~Controls.509~>189<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<Brodo_Braggings> ty 35DE2F
+<Stella_Rossa> sure A858A9
+$Stella_Rossa<~Controls.644~>105 164 143 098 094 088 065 <~Controls.645~><~Game.2035~> CC4E9B
+$Stella_Rossa<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 092928
+$Stella_Rossa<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 30502D
+$Stella_Rossa<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 92F9A4
+<game> Brodo_Braggings<~Controls.1~> 2 3 null
+<Brodo_Braggings> safe 720FFE
+$Brodo_Braggings<~Controls.276~>100<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 999B88
+$Brodo_Braggings<~Scribe.141~>034 033 032 031 030 <~Scribe.142~><~Game.1977~><~Scribe.143~><~Game.1969~><~Scribe.144~> 5CE08A
+$Brodo_Braggings<~Scribe.141~>345 056 <~Scribe.142~><~Game.1987~><~Scribe.143~><~Game.1984~><~Scribe.144~> A0AA1A
+$Brodo_Braggings<~Controls.644~>100 <~Controls.645~><~Game.2035~> C61AB8
+<Stella_Rossa> pass 8A7FAD
+$Brodo_Braggings<~Controls.276~>103<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> F9A50E
+$Brodo_Braggings<~Scribe.141~>345 056 347 054 053 052 051 050 <~Scribe.142~><~Game.1984~><~Scribe.143~><~Game.1980~><~Scribe.144~> 7C4770
+$Brodo_Braggings<~Scribe.141~>034 033 032 031 030 020 019 018 017 016 <~Scribe.142~><~Game.1969~><~Scribe.143~><~Game.1964~><~Scribe.144~> 436667
+$Brodo_Braggings<~Controls.644~>103 <~Controls.645~><~Game.2035~> 5B6E31
+<Stella_Rossa> pass 0E0B70
+$Brodo_Braggings<~Controls.276~>104<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 011B37
+$Brodo_Braggings<~Scribe.141~>040 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1964~><~Scribe.144~> CC6425
+$Brodo_Braggings<~CardBuffet.14~>reveal 174 30BABE783F415AADC90ADD8ED259ECEF79EB8E11 5<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 06D533
+<Stella_Rossa> roll when ready 9CAAC3
+$Brodo_Braggings<~Scribe.141~>253 038 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1980~><~Scribe.144~> A06F63
+<game> Brodo_Braggings<~Controls.1~> 6 4 null
+<game> Brodo_Braggings<~Controls.1~> 4 null
+<Brodo_Braggings> 1h 6BAD36
+$Brodo_Braggings<~Controls.624~>226<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Stella_Rossa<~Scribe.141~>244 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2037~><~Scribe.144~> 7B802E
+<Brodo_Braggings> mm E4A9A3
+$Stella_Rossa<~Scribe.141~>243 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> 531A35
+$Stella_Rossa<~Controls.644~>104 174 226 244 <~Controls.645~><~Game.2035~> B7B199
+<Brodo_Braggings> I was hoping a reveal 1F02A2
+<Stella_Rossa> I know 37C6A3
+<Stella_Rossa> but odds were in my favor DCC4BD
+$Stella_Rossa<~Scribe.141~>427 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 1D84F8
+$Stella_Rossa<~Controls.509~>132<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Stella_Rossa<~Controls.644~>427 <~Controls.645~><~Game.2035~> 7ACCD1
+$Brodo_Braggings<~Controls.276~>099<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> D293AA
+$Brodo_Braggings<~Scribe.141~>334 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1922~><~Scribe.144~> E501AB
+$Brodo_Braggings<~Controls.644~>099 <~Controls.645~><~Game.2035~> 549AC4
+$Stella_Rossa<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 979DCC
+$Stella_Rossa<~Controls.509~>139<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Stella_Rossa<~Controls.296~>139 <~Controls.297~><~Controls.45~> 144958
+$Stella_Rossa<~Controls.644~>212 <~Controls.645~><~Game.2035~> 2EED4F
+$Brodo_Braggings<~Controls.276~>360<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 683588
+$Brodo_Braggings<~Scribe.141~>334 010 009 <~Scribe.142~><~Game.1922~><~Scribe.143~><~Game.1934~><~Scribe.144~> 2B8E7C
+$Brodo_Braggings<~Scribe.141~>253 038 345 056 347 054 053 052 051 050 <~Scribe.142~><~Game.1980~><~Scribe.143~><~Game.1970~><~Scribe.144~> A9EDBD
+$Brodo_Braggings<~Controls.644~>360 <~Controls.645~><~Game.2035~> 980DD1
+$Stella_Rossa<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> BAE2C5
+$Stella_Rossa<~Controls.509~>149<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Stella_Rossa<~Controls.296~>132 <~Controls.297~><~Controls.45~> 25C251
+$Stella_Rossa<~Controls.644~>210 <~Controls.645~><~Game.2035~> D8DA81
+$Stella_Rossa<~Controls.726~>213 211 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 4B82D0
+$Stella_Rossa<~Controls.731~>210 212 358 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 040E11
+$Stella_Rossa<~Controls.509~>123<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Stella_Rossa<~Controls.509~>120<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Stella_Rossa<~Controls.296~>128 <~Controls.297~><~Controls.45~> 35FD8D
+$Brodo_Braggings<~Controls.757~>101 362 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> CEDE0D
+<~Game.7~>6 null
+$Brodo_Braggings<~Controls.762~>360 099 104 103 100 105 102 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> AFD1E4
+$Stella_Rossa<~Controls.296~>107 <~Controls.297~><~Controls.45~> A56EBC
+$Brodo_Braggings<~Controls.509~>168<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Stella_Rossa<~Scribe.141~>247 <~Scribe.142~><~Game.1964~><~Scribe.143~><~Game.524~><~Scribe.144~> 144E18
+$Brodo_Braggings<~Controls.509~>185<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Stella_Rossa<~Scribe.141~>248 <~Scribe.142~><~Game.2015~><~Scribe.143~><~Game.2014~><~Scribe.144~> 270510
+$Stella_Rossa<~Controls.281~>239 220 237 219 238 <~Controls.282~><~Game.2045~><~Controls.283~><~Game.2044~> 67F1C1
+<Stella_Rossa> fsp ok DB8755
+$Brodo_Braggings<~Controls.372~>360 6D7645
+$Brodo_Braggings<~Controls.345~>099 104 103 100 105 102 101 362 <~Controls.346~>14 10 15 10 13 15 12 12 null
+$Brodo_Braggings<~Controls.350~>099 104 103 100 105 102 101 362 null
+$Stella_Rossa<~Controls.345~>210 212 358 213 211 <~Controls.346~>4 3 1 4 2 null
+$Stella_Rossa<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> CF7A38
+$Stella_Rossa<~Scribe.141~>reveal 123 6E248CFE2683532B684E222452E7ECCC318CF144 22 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2029~><~Scribe.144~> 91C5E3
+$Stella_Rossa<~Controls.644~>211 <~Controls.645~><~Game.2035~> 8B2F66
+$Stella_Rossa<~Controls.819~> D3DBC6
+<Stella_Rossa> sorry, can I redo? 28F02D
+<Brodo_Braggings> sure E044B0
+<Stella_Rossa> ty C8BCA0
+$Stella_Rossa<~Controls.819~> 9F5D28
+$Stella_Rossa<~Controls.819~> C7A908
+$Stella_Rossa<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> BFB9AB
+$Stella_Rossa<~Scribe.141~>315 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1965~><~Scribe.144~> AA63C5
+$Stella_Rossa<~Controls.644~>212 <~Controls.645~><~Game.2035~> B69018
+<Brodo_Braggings> scary ADD204
+$Brodo_Braggings<~Controls.276~>101<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 3ADA73
+<Brodo_Braggings> Carrock 811567
+<Brodo_Braggings> nc 37E2B7
+<Stella_Rossa> nc C9D3DA
+<game> Brodo_Braggings<~Controls.1~> 2 5 3 null
+<game> Stella_Rossa<~Controls.1~> 2 null
+$Stella_Rossa<~Scribe.141~>303 <~Scribe.142~><~Game.1941~><~Scribe.143~><~Game.2037~><~Scribe.144~> A6A3C1
+$Brodo_Braggings<~Scribe.141~>334 010 009 <~Scribe.142~><~Game.1934~><~Scribe.143~><~Game.1941~><~Scribe.144~> F21636
+$Brodo_Braggings<~Controls.644~>101 303 <~Controls.645~><~Game.2035~> C8901A
+$Stella_Rossa<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> DAB37E
+$Stella_Rossa<~Scribe.141~>314 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1965~><~Scribe.144~> 60D42F
+$Stella_Rossa<~Controls.644~>213 <~Controls.645~><~Game.2035~> 09C0CA
+<Brodo_Braggings> brutal 672567
+<Stella_Rossa> tough 8EDA4E
+<Brodo_Braggings> ok, let's do it 427D1C
+$Brodo_Braggings<~Scribe.141~>037 <~Scribe.142~><~Game.1937~><~Scribe.143~><~Game.1970~><~Scribe.144~> 72CDE5
+$Brodo_Braggings<~Scribe.141~>040 <~Scribe.142~><~Game.1964~><~Scribe.143~><~Game.1970~><~Scribe.144~> 4604A6
+<Stella_Rossa> dice 9E8902
+$Brodo_Braggings<~Controls.276~>105<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 75E318
+$Brodo_Braggings<~Controls.644~>105 <~Controls.645~><~Game.2035~> B21DC2
+<Stella_Rossa> ok 93BBA6
+$Stella_Rossa<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 934A99
+$Stella_Rossa<~Scribe.141~>059 <~Scribe.142~><~Game.1973~><~Scribe.143~><~Game.1965~><~Scribe.144~> 09C6B5
+$Stella_Rossa<~Scribe.141~>080 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.1944~><~Scribe.144~> 175871
+$Stella_Rossa<~Controls.644~>210 <~Controls.645~><~Game.2035~> B6AB54
+$Brodo_Braggings<~Controls.276~>099<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 0B0D0E
+$Brodo_Braggings<~Scribe.141~>reveal 189 5B79EB468C7A782C0CD28F9858414EBD91AEE82F 23 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 5DFE5B
+$Brodo_Braggings<~Scribe.141~>331 330 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1910~><~Scribe.144~> 64D104
+$Brodo_Braggings<~Scribe.141~>332 329 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1914~><~Scribe.144~> 1BCF56
+$Brodo_Braggings<~Scribe.141~>324 322 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1919~><~Scribe.144~> 6F562C
+$Brodo_Braggings<~Controls.644~>099 189 <~Controls.645~><~Game.2035~> ABE42C
+<Stella_Rossa> pass D474BB
+$Brodo_Braggings<~Controls.276~>100<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 0C8BF4
+$Brodo_Braggings<~Controls.304~>005 <~Controls.305~><~Game.1919~> F5CF17
+$Brodo_Braggings<~Controls.313~>326 <~Controls.309~><~Controls.314~><~Game.1919~> 5CCA8D
+$Brodo_Braggings<~Controls.304~>004 <~Controls.305~><~Game.1919~> 5ED08D
+$Brodo_Braggings<~Controls.313~>325 <~Controls.309~><~Controls.314~><~Game.1919~> F29C5B
+$Brodo_Braggings<~Controls.644~>100 <~Controls.645~><~Game.2035~> 379CFB
+$Stella_Rossa<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 511E58
+$Stella_Rossa<~Scribe.141~>reveal 123 6E248CFE2683532B684E222452E7ECCC318CF144 22 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2029~><~Scribe.144~> 0AA8DE
+$Stella_Rossa<~Controls.644~>211 <~Controls.645~><~Game.2035~> 99A6D8
+$Brodo_Braggings<~HighlightLabel.81~>362<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 66CD51
+<Brodo_Braggings> Fords 84B105
+$Stella_Rossa<~Scribe.141~>259 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> 47CC31
+$Brodo_Braggings<~Controls.840~>184 55FE39
+$Stella_Rossa<~Controls.840~>120 D86835
+<auto> playchosen A92C39
+<auto><~Controls.3~>reveal 120 7F4DC9C5BF1A5C1DB8CA0209CECD4E12A40F643A 16<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 340A51
+<auto><~Controls.866~>reveal 184 C3290B2F6DA670607E0D0AE17C2ADBA214E7E14D 7<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 0C4B10
+<auto> playchosen 344574
+<game> Brodo_Braggings<~Controls.1~> 1 1 3 3 3 null
+<game> Brodo_Braggings<~Controls.1~> 4 2 2 4 4 null
+<game> Stella_Rossa<~Controls.1~> 6 1 null
+<game> Stella_Rossa<~Controls.1~> 4 null
+<Stella_Rossa> 1 0CD539
+$Stella_Rossa<~Scribe.141~>069 <~Scribe.142~><~Game.1918~><~Scribe.143~><~Game.2037~><~Scribe.144~> 320449
+$Brodo_Braggings<~Controls.281~>002 <~Controls.282~><~Game.1919~><~Controls.283~><~Game.2040~> A71FAE
+<Brodo_Braggings> press EEA84E
+$Stella_Rossa<~Scribe.141~>074 070 <~Scribe.142~><~Game.1918~><~Scribe.143~><~Game.1923~><~Scribe.144~> 710AC1
+$Brodo_Braggings<~Scribe.141~>254 325 326 324 322 006 003 <~Scribe.142~><~Game.1919~><~Scribe.143~><~Game.1918~><~Scribe.144~> 5E1CDF
+$Brodo_Braggings<~Scribe.141~>254 <~Scribe.142~><~Game.1918~><~Scribe.143~><~Game.1919~><~Scribe.144~> AA6563
+$Brodo_Braggings<~Controls.644~>362 184 120 069 <~Controls.645~><~Game.2035~> B931CF
+$Stella_Rossa<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> EAD528
+$Stella_Rossa<~Controls.790~>247<~Controls.791~><~Game.524~><~Controls.792~><~Game.525~> 546FB7
+$Stella_Rossa<~Controls.795~>358<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 44DFD9
+$Brodo_Braggings<~Controls.624~>229<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Stella_Rossa<~Scribe.141~>243 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2037~><~Scribe.144~> F5ABA2
+$Stella_Rossa<~Scribe.141~>123 <~Scribe.142~><~Game.2029~><~Scribe.143~><~Game.2036~><~Scribe.144~> BBEAB2
+$Stella_Rossa<~Scribe.141~>245 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> BE79A7
+$Stella_Rossa<~Controls.644~>123 229 243 <~Controls.645~><~Game.2035~> AF66B3
+$Brodo_Braggings<~Controls.276~>104<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 145BF4
+$Brodo_Braggings<~Controls.281~>251 <~Controls.282~><~Game.2011~><~Controls.283~><~Game.2041~> 5A08BB
+$Brodo_Braggings changes 104  to A 1A9AB6
+<Brodo_Braggings> HD 6EEC22
+$Stella_Rossa<~Scribe.141~>074 070 071 <~Scribe.142~><~Game.1923~><~Scribe.143~><~Game.1993~><~Scribe.144~> 7FDBDF
+$Stella_Rossa<~Scribe.141~>259 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> 422EB5
+$Brodo_Braggings<~Scribe.141~>325 326 324 322 006 003 <~Scribe.142~><~Game.1918~><~Scribe.143~><~Game.1923~><~Scribe.144~> CD5ADA
+$Brodo_Braggings<~Controls.644~>104 <~Controls.645~><~Game.2035~> E304F9
+$Stella_Rossa<~Controls.726~>358 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 5CE151
+$Stella_Rossa<~Controls.731~>211 210 213 212 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> A38969
+$Stella_Rossa<~Controls.509~>133<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Brodo_Braggings<~Controls.757~>103 102 360 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> BED043
+<~Game.7~>7 null
+$Brodo_Braggings<~Controls.762~>104 362 100 099 105 101 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 82E488
+$Stella_Rossa<~Controls.509~>134<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Brodo_Braggings<~Controls.509~>202<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Brodo_Braggings<~Controls.509~>197<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<Stella_Rossa> fsp ok 44484C
+$Brodo_Braggings<~Controls.372~>104 B0BCBC
+$Brodo_Braggings<~Controls.345~>362 100 099 105 101 103 102 360 <~Controls.346~>13 14 14 13 15 14 13 15 null
+$Brodo_Braggings<~Controls.350~>362 100 099 105 101 103 102 360 null
+$Stella_Rossa<~Controls.345~>211 210 213 212 358 <~Controls.346~>2 1 1 1 1 null
+$Stella_Rossa<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 46C74D
+<Brodo_Braggings> wow 8958E7
+$Stella_Rossa<~Scribe.141~>reveal 149 20298B39CDEE2F30F5E1A61508B3690FC3CDDC90 9 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> 633AE0
+$Stella_Rossa<~Controls.281~>232 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2044~> AD0C7E
+$Stella_Rossa<~Controls.644~>210 149 <~Controls.645~><~Game.2035~> 206119
+$Brodo_Braggings<~Controls.276~>102<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 8B71E5
+<Brodo_Braggings> HD 77690D
+$Stella_Rossa<~Scribe.141~>259 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 974021
+<Brodo_Braggings> no, sry, can I undo? D83AAC
+<Stella_Rossa> sure C68B97
+<Brodo_Braggings> Westmmet 343B51
+<Brodo_Braggings> nc 0B3F52
+$Stella_Rossa<~Scribe.141~>reveal 134 89FA7D4B227AADC86E8E65CC7CFE5498F107CDBD 6 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> 9A8BC5
+<game> Brodo_Braggings<~Controls.1~> 3 4 5 null
+<game> Brodo_Braggings<~Controls.1~> 4 4 null
+<Brodo_Braggings> 1 F70003
+<game> Stella_Rossa<~Controls.1~> 6 4 null
+<Stella_Rossa> 1 8B76BF
+$Stella_Rossa<~Controls.304~>073 <~Controls.305~><~Game.1925~> 6FA066
+$Stella_Rossa<~Controls.313~>069 <~Controls.308~><~Controls.314~><~Game.1925~> 683BEF
+$Brodo_Braggings<~Controls.281~>003 <~Controls.282~><~Game.1923~><~Controls.283~><~Game.2041~> 42FC53
+<Brodo_Braggings> press 6228AF
+$Stella_Rossa<~Scribe.141~>069 072 <~Scribe.142~><~Game.1925~><~Scribe.143~><~Game.1929~><~Scribe.144~> 77B86C
+$Brodo_Braggings<~Scribe.141~>326 324 322 006 <~Scribe.142~><~Game.1923~><~Scribe.143~><~Game.1925~><~Scribe.144~> CD07D1
+$Brodo_Braggings<~Controls.644~>102 134 <~Controls.645~><~Game.2035~> BB0681
+$Stella_Rossa<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 185261
+$Stella_Rossa<~Controls.819~> 68BE4E
+$Stella_Rossa<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 01A241
+$Stella_Rossa<~Scribe.141~>reveal 133 5D3C9C6965D988D0F14D8A3A73FFC481D7468AB3 17 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> A40CAC
+$Stella_Rossa<~Controls.281~>234 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2044~> F37744
+$Stella_Rossa<~Controls.644~>358 133 <~Controls.645~><~Game.2035~> 5F4074
+$Brodo_Braggings<~Controls.276~>105<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 7C72F1
+<Brodo_Braggings> Edoras 3EFBED
+$Brodo_Braggings<~Controls.840~>195 D6EB3B
+<Stella_Rossa> nc 927DF2
+<auto> playchosen F6E46E
+<auto><~Controls.866~>reveal 195 70E646F6D610F43D9438E7020BB590DF90EF4F34 17<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 0EA21E
+<game> Brodo_Braggings<~Controls.1~> 5 5 2 4 null
+<game> Stella_Rossa<~Controls.1~> 2 6 null
+<Brodo_Braggings> 2 A63027
+<Stella_Rossa> 1 BFD200
+$Stella_Rossa<~Scribe.141~>069 072 <~Scribe.142~><~Game.1929~><~Scribe.143~><~Game.2037~><~Scribe.144~> DE772F
+$Stella_Rossa<~Scribe.141~>423 <~Scribe.142~><~Game.30~><~Scribe.143~><~Game.31~><~Scribe.144~> 8E8E58
+$Brodo_Braggings<~Controls.304~>006 <~Controls.305~><~Game.1925~> 6E1D3B
+$Brodo_Braggings<~Controls.313~>003 <~Controls.308~><~Controls.314~><~Game.1925~> ADC7B7
+$Brodo_Braggings<~Scribe.141~>003 <~Scribe.142~><~Game.1925~><~Scribe.143~><~Game.1929~><~Scribe.144~> 58C307
+$Brodo_Braggings<~Controls.644~>105 195 069 072 <~Controls.645~><~Game.2035~> 64D114
+$Stella_Rossa<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> B5C275
+$Stella_Rossa<~Controls.790~>247<~Controls.791~><~Game.525~><~Controls.792~><~Game.528~> 800493
+$Stella_Rossa<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 7B0A99
+$Brodo_Braggings<~Controls.624~>237<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Stella_Rossa<~Scribe.141~>247 <~Scribe.142~><~Game.528~><~Scribe.143~><~Game.525~><~Scribe.144~> 964702
+<game> Brodo_Braggings<~Controls.1~> 5 null
+$Stella_Rossa<~Scribe.141~>245 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2037~><~Scribe.144~> 2C4A50
+<Brodo_Braggings> wow 00D0BD
+$Stella_Rossa<~Scribe.141~>246 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.2037~><~Scribe.144~> E3B12D
+<Stella_Rossa> yes 9B5EC4
+<Stella_Rossa> wow 07ACE7
+$Stella_Rossa<~Scribe.141~>252 <~Scribe.142~><~Game.2016~><~Scribe.143~><~Game.2018~><~Scribe.144~> 73F38F
+$Stella_Rossa<~Controls.323~>247 97ACF1
+$Stella_Rossa<~Controls.644~>237 245 246 <~Controls.645~><~Game.2035~> 51C77D
+$Stella_Rossa<~Scribe.141~>364 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1999~><~Scribe.144~> BC7792
+<Brodo_Braggings> never got a high roll with the spider lady before 0A18D9
+$Brodo_Braggings<~Controls.276~>362<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> B2997E
+$Brodo_Braggings<~Scribe.141~>326 <~Scribe.142~><~Game.1925~><~Scribe.143~><~Game.1933~><~Scribe.144~> 45A0BE
+$Brodo_Braggings<~Controls.644~>362 <~Controls.645~><~Game.2035~> 7725A7
+$Stella_Rossa<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 31A77D
+$Stella_Rossa<~Controls.323~>247 90BF5B
+$Stella_Rossa<~Controls.644~>213 <~Controls.645~><~Game.2035~> 777B68
+$Brodo_Braggings<~Controls.276~>103<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> BFE6A5
+$Brodo_Braggings<~Controls.509~>115<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Brodo_Braggings<~Controls.819~> 830EEA
+$Brodo_Braggings<~Controls.509~>191<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Stella_Rossa<~Controls.644~>103 <~Controls.645~><~Game.2035~> A707F9
+<Stella_Rossa> pass E963D6
+$Brodo_Braggings<~Controls.276~>099<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> FFEA70
+$Brodo_Braggings<~CardBuffet.14~>reveal 191 8D21E594B80B5C461563A2E34F47D5BA4836F5DC 20<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> D4DBB1
+<Brodo_Braggings> Erebor 7F9EAD
+<Stella_Rossa> 4 dies 8C0350
+<Brodo_Braggings> 4? no five? BD9C43
+<Stella_Rossa> WK counts 1 for that card D21834
+<Brodo_Braggings> I thought he was a nazgul for this purpose 27F638
+<Stella_Rossa> he is a nazgul B3D228
+<Brodo_Braggings> it would be thematic F9B643
+<Stella_Rossa> the card says a dice for every nazgul 06604B
+<Brodo_Braggings> ok, It makes no sense 5776D8
+<Stella_Rossa> trust me :-) AA29F7
+<Stella_Rossa> is not a matter of leadership in this case 80CBD1
+<Brodo_Braggings> if anything he would be the toughest spellwise 306CBC
+<Stella_Rossa> is the number of nazguls 7D7230
+<Stella_Rossa> he has 2 as a leader but he is 1 nazgul 2AA345
+<Brodo_Braggings> If you go to the rules he's a nazgul for this kind of purpose, like moving etc. A25D3D
+<Stella_Rossa> he is a nazgul, 100% 8507C5
+<Brodo_Braggings> so? 03A482
+<Brodo_Braggings> 30A17D
+<Stella_Rossa> but he has 2 as leadership, but he is just 1 nazgul 6FBB75
+<Stella_Rossa> for this card counts the number of nazguls 53B63F
+<Stella_Rossa> not the leadership C01BCE
+<Brodo_Braggings> Roll a number of dice equal to the number of nazgul 90F499
+<Brodo_Braggings> oh, shit 929FA2
+<Stella_Rossa> yes, corrrect 46FCC2
+<Stella_Rossa> you have 4 nazguls 655327
+<Brodo_Braggings> I'm silly 2A1929
+<Stella_Rossa> :-) B8B0AF
+<Brodo_Braggings> sorry, 9E9390
+<Stella_Rossa> ok np E98C2D
+<game> Brodo_Braggings<~Controls.1~> 4 2 2 3 null
+$Stella_Rossa<~Controls.644~>099 191 <~Controls.645~><~Game.2035~> 020823
+$Stella_Rossa<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> EF68E3
+<Brodo_Braggings> great 087529
+$Stella_Rossa<~Scribe.141~>reveal 109 02FA45600FDD392CC57B55640E48104C23D0BD1B 21 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> BA7B07
+$Stella_Rossa<~Scribe.141~>252 <~Scribe.142~><~Game.2018~><~Scribe.143~><~Game.2016~><~Scribe.144~> 68CA39
+$Stella_Rossa<~Controls.644~>211 109 <~Controls.645~><~Game.2035~> 34DACB
+$Brodo_Braggings<~Controls.276~>100<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 809124
+$Brodo_Braggings<~CardBuffet.14~>reveal 197 96CDCC2B5FF3CF557AECFBBA241707075DC8A0D4 2<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 89ACA6
+$Brodo_Braggings<~Scribe.141~>326 <~Scribe.142~><~Game.1933~><~Scribe.143~><~Game.1925~><~Scribe.144~> 00C4DD
+$Brodo_Braggings<~Scribe.141~>003 <~Scribe.142~><~Game.1929~><~Scribe.143~><~Game.1925~><~Scribe.144~> C12770
+$Stella_Rossa<~Scribe.141~>419 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1929~><~Scribe.144~> 0FF687
+$Brodo_Braggings<~Scribe.141~>420 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1933~><~Scribe.144~> 8B5AE0
+$Brodo_Braggings<~Scribe.141~>334 010 009 <~Scribe.142~><~Game.1941~><~Scribe.143~><~Game.1957~><~Scribe.144~> 663305
+$Stella_Rossa<~Scribe.141~>415 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1941~><~Scribe.144~> 2E68AB
+$Brodo_Braggings<~Scribe.141~>055 049 048 047 <~Scribe.142~><~Game.1968~><~Scribe.143~><~Game.1946~><~Scribe.144~> 328F63
+$Brodo_Braggings<~Controls.644~>100 197 <~Controls.645~><~Game.2035~> 2938F5
+$Stella_Rossa<~Controls.726~>212 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 78C602
+$Stella_Rossa<~Controls.731~>211 213 358 210 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 81577F
+$Stella_Rossa<~Controls.509~>141<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Stella_Rossa<~Controls.509~>146<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Brodo_Braggings<~Controls.757~>101 360 104 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 71DB4C
+<~Game.7~>8 null
+$Brodo_Braggings<~Controls.762~>100 099 103 362 105 102 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 480E09
+$Brodo_Braggings<~Controls.509~>169<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Brodo_Braggings<~Controls.509~>206<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<Stella_Rossa> fsp ok DEF99E
+$Brodo_Braggings<~Controls.372~>100 46F99E
+$Brodo_Braggings<~Controls.345~>099 103 362 105 102 101 360 104 <~Controls.346~>10 15 13 14 15 11 15 13 null
+$Brodo_Braggings<~Controls.350~>099 103 362 105 102 101 360 104 null
+$Stella_Rossa<~Controls.345~>211 213 358 210 212 <~Controls.346~>1 4 1 1 4 null
+$Stella_Rossa<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> D558D5
+$Stella_Rossa<~Scribe.141~>reveal 141 22345170B04B208CD004E3AF967359B0C06F4331 2 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2036~><~Scribe.144~> 9DA7D8
+$Stella_Rossa<~Scribe.141~>252 <~Scribe.142~><~Game.2016~><~Scribe.143~><~Game.2015~><~Scribe.144~> 39850D
+$Stella_Rossa<~Scribe.141~>247 <~Scribe.142~><~Game.525~><~Scribe.143~><~Game.528~><~Scribe.144~> A9F064
+<Stella_Rossa> tile 09183B
+$Brodo_Braggings<~Controls.624~>232<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Stella_Rossa<~Scribe.141~>252 <~Scribe.142~><~Game.2015~><~Scribe.143~><~Game.2014~><~Scribe.144~> 24F745
+$Stella_Rossa<~Controls.644~>211 141 232 <~Controls.645~><~Game.2035~> 07B40B
+<Brodo_Braggings> nice 197E2A
+<Stella_Rossa> after the spider I needed it A6E4EB
+<Brodo_Braggings> very propper 88177D
+$Brodo_Braggings<~Controls.276~>101<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> CB3164
+$Brodo_Braggings<~Scribe.141~>057 055 045 047 048 049 046 <~Scribe.142~><~Game.1946~><~Scribe.143~><~Game.1932~><~Scribe.144~> 19A90F
+$Brodo_Braggings<~Scribe.141~>326 324 322 003 <~Scribe.142~><~Game.1925~><~Scribe.143~><~Game.1923~><~Scribe.144~> F4DD8C
+$Brodo_Braggings<~Scribe.141~>412 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1925~><~Scribe.144~> 6DA4B8
+$Brodo_Braggings<~Controls.644~>101 <~Controls.645~><~Game.2035~> 0F274D
+$Stella_Rossa<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 22E556
+$Stella_Rossa<~Controls.790~>247<~Controls.791~><~Game.528~><~Controls.792~><~Game.529~> 9E2C7A
+$Stella_Rossa<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 6FA9C1
+$Brodo_Braggings<~Controls.624~>220<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Stella_Rossa<~Scribe.141~>252 <~Scribe.142~><~Game.2014~><~Scribe.143~><~Game.2018~><~Scribe.144~> 10ECAE
+$Stella_Rossa<~Controls.323~>247 CADF3C
+$Stella_Rossa<~Controls.644~>220 <~Controls.645~><~Game.2035~> 981376
+$Brodo_Braggings<~HighlightLabel.81~>105<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> DECD08
+$Brodo_Braggings<~CardBuffet.14~>reveal 168 1BD40AC8380FB5257341D87B04DDEC5F6617EC80 2<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 298CCE
+$Brodo_Braggings<~Scribe.141~>253 040 037 038 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.1964~><~Scribe.144~> 945291
+<Brodo_Braggings> Osg 42D0C7
+$Stella_Rossa<~Scribe.141~>168 <~Scribe.142~><~Game.2036~><~Scribe.143~><~Game.2034~><~Scribe.144~> D92BD2
+$Stella_Rossa<~Scribe.141~>260 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> F541DD
+<Brodo_Braggings> nc 9E8C8E
+<Stella_Rossa> nc 8D5748
+<game> Brodo_Braggings<~Controls.1~> 5 6 6 2 6 null
+<game> Stella_Rossa<~Controls.1~> 2 null
+$Stella_Rossa<~Scribe.141~>079 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.2037~><~Scribe.144~> 32517F
+$Stella_Rossa<~Scribe.141~>168 <~Scribe.142~><~Game.2034~><~Scribe.143~><~Game.2036~><~Scribe.144~> 292668
+$Brodo_Braggings<~Scribe.141~>253 040 037 038 034 033 032 031 030 020 019 018 017 016 <~Scribe.142~><~Game.1964~><~Scribe.143~><~Game.1943~><~Scribe.144~> 4B604F
+$Brodo_Braggings<~Controls.644~>105 168 079 <~Controls.645~><~Game.2035~> B37F85
+$Stella_Rossa<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> E17575
+$Stella_Rossa<~Controls.323~>247 4C8EA6
+$Stella_Rossa<~Controls.644~>358 <~Controls.645~><~Game.2035~> 20489F
+$Brodo_Braggings<~Controls.276~>099<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 01D4C6
+$Brodo_Braggings<~CardBuffet.14~>reveal 206 CA4D16C032ABCEDD73B6F7B94B70FD34C65CFB39 12<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 60F3E5
+$Brodo_Braggings<~Scribe.141~>002 004 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1912~><~Scribe.144~> B41A45
+$Brodo_Braggings<~Scribe.141~>331 330 001 <~Scribe.142~><~Game.1910~><~Scribe.143~><~Game.1912~><~Scribe.144~> 1A421A
+<Stella_Rossa> 1 more 9E579D
+$Brodo_Braggings<~Scribe.141~>332 <~Scribe.142~><~Game.1914~><~Scribe.143~><~Game.1912~><~Scribe.144~> DA2292
+$Brodo_Braggings<~Controls.644~>099 206 <~Controls.645~><~Game.2035~> CCF96A
+$Stella_Rossa<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> C26E3E
+$Stella_Rossa<~Scribe.141~>265 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1911~><~Scribe.144~> 1597A0
+$Stella_Rossa<~Controls.644~>212 <~Controls.645~><~Game.2035~> 93965A
+$Brodo_Braggings<~Controls.276~>104<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 059268
+<Brodo_Braggings> HD 21740E
+<Brodo_Braggings> nc 3F256B
+<Stella_Rossa> nc 01647D
+<game> Brodo_Braggings<~Controls.1~> 4 5 5 3 1 null
+<game> Brodo_Braggings<~Controls.1~> 4 1 5 6 null
+<game> Stella_Rossa<~Controls.1~> 6 6 null
+<Stella_Rossa> 2 6041E5
+$Stella_Rossa<~Controls.281~>071 <~Controls.282~><~Game.1993~><~Controls.283~><~Game.2039~> E3CFE4
+$Brodo_Braggings<~Controls.304~>322 325 <~Controls.305~><~Game.1923~> ABC340
+$Brodo_Braggings<~Controls.313~>328 005 <~Controls.307~><~Controls.314~><~Game.1923~> EC97AA
+<Brodo_Braggings> press ABFE13
+$Brodo_Braggings<~Controls.304~>324 <~Controls.305~><~Game.1923~> F4A55A
+$Brodo_Braggings<~Controls.313~>327 <~Controls.307~><~Controls.314~><~Game.1923~> AA3E1F
+<Brodo_Braggings> nc B242C9
+<Stella_Rossa> nc 3F290C
+<game> Brodo_Braggings<~Controls.1~> 2 3 6 1 4 null
+<game> Stella_Rossa<~Controls.1~> 5 2 null
+<Stella_Rossa> 1 ED609F
+$Stella_Rossa<~Scribe.141~>074 070 <~Scribe.142~><~Game.1993~><~Scribe.143~><~Game.2037~><~Scribe.144~> 1EAFEF
+$Brodo_Braggings<~Controls.281~>003 <~Controls.282~><~Game.1923~><~Controls.283~><~Game.2041~> 726F53
+$Stella_Rossa<~Scribe.141~>423 <~Scribe.142~><~Game.31~><~Scribe.143~><~Game.33~><~Scribe.144~> 757C22
+$Brodo_Braggings<~Controls.644~>104 074 070 <~Controls.645~><~Game.2035~> 838218
+$Stella_Rossa<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> BAA0E9
+$Stella_Rossa<~Scribe.141~>reveal 146 693E5355349BF81D4C4582ECB22CA5DC6560A3E3 14 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> 5223D1
+$Stella_Rossa<~Scribe.141~>270 276 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1944~><~Scribe.144~> 6DD3EF
+$Stella_Rossa<~Controls.644~>213 146 <~Controls.645~><~Game.2035~> 888E2A
+$Brodo_Braggings<~Controls.276~>362<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 79852F
+<Brodo_Braggings> Pelargir E58C60
+$Stella_Rossa<~Scribe.141~>260 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> C99A49
+<Brodo_Braggings> nc 67BDDC
+<Stella_Rossa> nc 94B2F1
+<game> Brodo_Braggings<~Controls.1~> 2 4 1 4 5 null
+<game> Brodo_Braggings<~Controls.1~> 2 3 6 2 5 null
+<game> Stella_Rossa<~Controls.1~> 6 null
+<Stella_Rossa> 1 ED62C4
+$Stella_Rossa<~Scribe.141~>078 <~Scribe.142~><~Game.1931~><~Scribe.143~><~Game.2037~><~Scribe.144~> 0D16A6
+$Brodo_Braggings<~Controls.281~>033 <~Controls.282~><~Game.1943~><~Controls.283~><~Game.2041~> A40998
+$Stella_Rossa<~Scribe.141~>423 <~Scribe.142~><~Game.33~><~Scribe.143~><~Game.388~><~Scribe.144~> 06F097
+$Brodo_Braggings<~Scribe.141~>020 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.1931~><~Scribe.144~> C5AE18
+$Brodo_Braggings<~Controls.644~>362 078 <~Controls.645~><~Game.2035~> 650529
+$Stella_Rossa<~Controls.726~>210 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> F4E17C
+$Stella_Rossa<~Controls.731~>213 212 358 211 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> AB3799
+$Stella_Rossa<~Controls.509~>115<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Stella_Rossa<~Controls.509~>111<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Brodo_Braggings<~Controls.757~>103 102 360 100 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 339419
+<~Game.7~>9 null
+$Brodo_Braggings<~Controls.762~>362 104 099 105 101 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 76DCEC
+$Brodo_Braggings<~Controls.509~>160<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Brodo_Braggings<~Controls.509~>172<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<Stella_Rossa> fsp ok 75DE0A
+$Brodo_Braggings<~Controls.372~>362 3821D0
+$Brodo_Braggings<~Controls.345~>104 099 105 101 103 102 360 100 <~Controls.346~>15 12 12 13 13 11 11 10 null
+$Brodo_Braggings<~Controls.350~>104 099 105 101 103 102 360 100 null
+$Stella_Rossa<~Controls.345~>213 212 358 211 210 <~Controls.346~>4 1 2 2 2 null
+$Stella_Rossa<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> E474F5
+$Stella_Rossa<~Scribe.141~>reveal 115 373BE86876140450C9C52A1098A48ACDAEEA8FBF 18 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> 8F2233
+$Stella_Rossa<~Controls.281~>235 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2044~> 3158EE
+$Stella_Rossa<~Controls.644~>358 115 <~Controls.645~><~Game.2035~> A61625
+$Brodo_Braggings<~Controls.276~>105<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 5BD770
+$Brodo_Braggings<~CardBuffet.14~>reveal 185 BD984A4D90C37E4D9CDCAC051DF92DD81DFCBE44 6<~CardBuffet.15~><~Controls.46~><~CardBuffet.16~> 898DB0
+$Stella_Rossa<~Scribe.141~>077 076 075 <~Scribe.142~><~Game.1920~><~Scribe.143~><~Game.1995~><~Scribe.144~> 7BDBC5
+$Brodo_Braggings<~Scribe.141~>057 055 045 047 048 049 046 043 042 041 <~Scribe.142~><~Game.1932~><~Scribe.143~><~Game.1920~><~Scribe.144~> A623AF
+$Brodo_Braggings<~Controls.644~>105 185 <~Controls.645~><~Game.2035~> 4DA26C
+$Stella_Rossa<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 2B1418
+$Stella_Rossa<~Scribe.141~>reveal 140 F342B08B231A1234D522926BA458B8AC0824F2C9 20 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> 62750C
+$Stella_Rossa<~Scribe.141~>266 267 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1995~><~Scribe.144~> BD179F
+<Brodo_Braggings> lol B504B9
+$Stella_Rossa<~Controls.644~>210 140 <~Controls.645~><~Game.2035~> 8040A2
+$Brodo_Braggings<~Controls.296~>057 055 045 047 048 049 046 043 042 041 <~Controls.297~><~Game.1920~> 9AB9FD
+$Brodo_Braggings<~Controls.296~>057 055 045 047 048 049 046 043 042 041 <~Controls.297~><~Game.1920~> D9A375
+$Brodo_Braggings<~Controls.296~>057 055 045 047 048 049 046 043 042 041 <~Controls.297~><~Game.1920~> 49C9F3
+$Stella_Rossa<~Controls.819~> C6A9C9
+$Stella_Rossa<~Controls.819~> 57B796
+$Stella_Rossa<~Controls.819~> 26942B
+<Stella_Rossa> ok 0E11E0
+<Brodo_Braggings> Have you not a card for any situation? 14209F
+<Stella_Rossa> well, you got Corsairs I got Cirdan :-) C8D52E
+<Brodo_Braggings> fair enought B87D55
+$Brodo_Braggings<~Controls.276~>102<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> ED1404
+$Brodo_Braggings<~Scribe.141~>020 <~Scribe.142~><~Game.1931~><~Scribe.143~><~Game.1924~><~Scribe.144~> 1B82CA
+$Brodo_Braggings<~Scribe.141~>418 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1931~><~Scribe.144~> C944A2
+$Brodo_Braggings<~Scribe.141~>034 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.1935~><~Scribe.144~> 8C75BB
+$Brodo_Braggings<~Controls.644~>102 <~Controls.645~><~Game.2035~> 8BF935
+<Stella_Rossa> pass 75E5C6
+$Brodo_Braggings<~HighlightLabel.81~>103<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 32193F
+<Brodo_Braggings> MT EDE66C
+$Brodo_Braggings<~Controls.840~>160 947BFE
+$Stella_Rossa<~Scribe.141~>270 085 276 084 080 083 082 081 <~Scribe.142~><~Game.1944~><~Scribe.143~><~Game.1994~><~Scribe.144~> 293449
+$Stella_Rossa<~Controls.281~>081 <~Controls.282~><~Game.1994~><~Controls.283~><~Game.2038~> 5EDF92
+$Brodo_Braggings<~Scribe.141~>253 040 037 038 032 031 030 019 018 017 016 <~Scribe.142~><~Game.1943~><~Scribe.143~><~Game.1944~><~Scribe.144~> B5FCE0
+$Brodo_Braggings<~Controls.644~>103 <~Controls.645~><~Game.2035~> EFE94B
+$Brodo_Braggings<~Controls.179~> 1A8F5B
+$Stella_Rossa<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 26844F
+$Stella_Rossa<~Controls.509~>156<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Stella_Rossa<~Controls.644~>211 <~Controls.645~><~Game.2035~> 137BA1
+$Brodo_Braggings<~Controls.276~>099<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> DD3AF9
+$Brodo_Braggings<~Scribe.141~>326 328 005 <~Scribe.142~><~Game.1923~><~Scribe.143~><~Game.1925~><~Scribe.144~> 98CF0E
+$Brodo_Braggings<~Scribe.141~>332 331 330 001 002 004 <~Scribe.142~><~Game.1912~><~Scribe.143~><~Game.1906~><~Scribe.144~> 86FE46
+$Brodo_Braggings<~Controls.644~>099 <~Controls.645~><~Game.2035~> ABEFC5
+$Stella_Rossa<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> B663D5
+$Stella_Rossa<~Controls.790~>247<~Controls.791~><~Game.529~><~Controls.792~><~Game.532~> CA568C
+$Stella_Rossa<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> CFD63B
+$Brodo_Braggings<~Controls.624~>228<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Stella_Rossa<~Scribe.141~>252 <~Scribe.142~><~Game.2018~><~Scribe.143~><~Game.2021~><~Scribe.144~> F068FF
+$Stella_Rossa<~Controls.644~>228 <~Controls.645~><~Game.2035~> D5B828
+<Brodo_Braggings> you are there 21205F
+<Stella_Rossa> yes, 2 reds tough 4F1CF6
+<Brodo_Braggings> ok, let's do a desperate attempt F60F8A
+$Brodo_Braggings<~Controls.276~>101<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> CD7F51
+$Brodo_Braggings<~Scribe.141~>reveal 169 ECD32C8C3629E92F93DBD92A135AD37687EE7D3B 10 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 7C4934
+$Brodo_Braggings<~Controls.624~>217<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2036~> null
+$Stella_Rossa<~Scribe.141~>252 <~Scribe.142~><~Game.2021~><~Scribe.143~><~Game.2022~><~Scribe.144~> EECE18
+$Stella_Rossa<~Controls.644~>101 217 169 <~Controls.645~><~Game.2035~> 2921AC
+<Stella_Rossa> pass 418083
+$Brodo_Braggings<~HighlightLabel.81~>360<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 10F097
+$Brodo_Braggings<~Scribe.141~>326 328 005 <~Scribe.142~><~Game.1925~><~Scribe.143~><~Game.1944~><~Scribe.144~> 5BD671
+<Stella_Rossa> ? 471F0F
+$Brodo_Braggings<~Scribe.141~>reveal 190 F61CCF10B427290AA2C447419BDF9E2A49BE4E8F 9 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 00B660
+<Stella_Rossa> ok 1A831F
+$Brodo_Braggings<~Controls.644~>360 190 <~Controls.645~><~Game.2035~> 2DF9ED
+$Stella_Rossa<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> C4358D
+$Stella_Rossa<~Controls.366~>250<~Controls.367~><~Game.2009~><~Controls.368~><~Game.2011~> DC47F6
+$Stella_Rossa<~Controls.790~>247<~Controls.791~><~Game.532~><~Controls.792~><~Game.533~> C01871
+$Stella_Rossa<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 46BC4C
+$Brodo_Braggings<~Controls.624~>224<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Stella_Rossa> gg 49F037
+<Brodo_Braggings> gg 3407E2
+<Stella_Rossa> tough game 60AEBF
+<Stella_Rossa> nice 4551D5
+<Brodo_Braggings> nice run for the ring 3F75E7

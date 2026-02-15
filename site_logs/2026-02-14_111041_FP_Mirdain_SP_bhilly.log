@@ -1,0 +1,656 @@
+<auto> silent null
+<auto><~Scribe.141~>363 397 398 402 401 400 399 403 404 376 375 374 373 377 378 <~Scribe.142~><~Game.2038~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>365 366 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 367 368 369 370 371 372 <~Scribe.142~><~Game.2040~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>230 231 <~Scribe.142~><~Game.2044~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>155 152 <~Scribe.142~><~Game.2004~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>137 151 <~Scribe.142~><~Game.2005~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>161 198 <~Scribe.142~><~Game.2006~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>163 188 <~Scribe.142~><~Game.2007~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Controls.323~>364 null
+<auto> noisy null
+<auto> silent null
+<auto><~Scribe.141~>312 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1965~><~Scribe.144~> null
+<auto> noisy null
+<~Game.7~>1 null
+<auto> silent null
+<auto><~Scribe.141~>363 397 398 402 401 400 399 403 404 376 375 374 373 377 378 <~Scribe.142~><~Game.2038~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>365 366 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 367 368 369 370 371 372 <~Scribe.142~><~Game.2040~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>230 231 <~Scribe.142~><~Game.2044~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>155 152 <~Scribe.142~><~Game.2004~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>137 151 <~Scribe.142~><~Game.2005~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>161 198 <~Scribe.142~><~Game.2006~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>163 188 <~Scribe.142~><~Game.2007~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Controls.323~>364 null
+<auto> noisy null
+$base silent null
+$TEST<~Scribe.141~>312 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1965~><~Scribe.144~> null
+$base noisy null
+<game> Mirdain<~Controls.408~>[WOTR-Gandalf2 wotr base2] null
+<~Talker.31~> null
+<bhilly> ok hello 
+<Mirdain> hey! 
+<Mirdain> 1st game 
+<bhilly> ya been a while since we played 
+<bhilly> any balancing or just go? 
+<Mirdain> suggest 1 token 
+<bhilly> ok 
+<Mirdain> high sp first? 
+<bhilly> sure 
+<game> bhilly<~Controls.1~> 6 null
+<game> Mirdain<~Controls.1~> 6 null
+<game> bhilly<~Controls.1~> 4 null
+<game> Mirdain<~Controls.1~> 1 null
+<bhilly> gl 
+<Mirdain> gl hf! 
+$Mirdain<~Controls.464~>FB931ED91AAADBEB5732E04F4B98504B007EC949 703091B987BBB7B7577CB664FDDE821E 24 6D75ABCDD35D4000947C31D56A034FF739E2D656 9623D158C2C28BAAD2E2BD19FEA44C98 76C40902AEE8D6073EF2CBD734E20D4D95380D4E 128DC61A0FABA9C9AB50FC700D9FAAC5 C2D5E0BBA7DC68A5D729E1347CD84F9D9E6BA9A5 7483CBA88576BC7D4D1FD01686186163 6430277A980590FE253A9D00F4F84224A90BDB2A 7C607695471C70AA6E1907DBE14E6378 5C0F933871E6B33C1D857F887F0F98A18B8DE29C DDDB5707F8051FD2701D63FF486E625A 6C2AB90D5FB44DE7E7CE22437C5BD0E8C0FE5AC6 458E39516E70D5510A02DC0B69437740 12BB942451543B78CE3B92FBB698327204ACCD7F 992093A1A5A35DE927A108E38CB6D415 3F7B28FC3DC57E7F328BE70ADF44E55C3C950F0A 85AB8CE1F535C3560E2D53F3E763BE26 119D5285A5C838A1BA78798223E5EC99146A1D84 330B492C87CEEA18C2333B4531E5DF59 101171CA5D39092D9FD35B5D3F3C14A89DF995FA 592B9BD1051BBF04ABF429FE74A0D6D4 531743C7872657C12D41595A703BD4D3B7D2FDE8 798FF5B790EC4AC375EC83D027308925 50CE337E0C34513DDDEA056F08FBDD015664CEA8 649B93C8F7AF234837BBECF67BB804A0 550DE53DE649AE023E044AB2C9DD402749EAEF09 FF5FD04224B50606D8C86060F5BD4973 3B2EB5AF8EB7B9766CDD5CB36A9981BB78C3152F 49F096C8D9F9BEFEAE4B1ADF3C51F7BB F27AA6FD1EE61806A1E8006694E2CC92BA486864 9C82145A9C6B909A67956DA334A45C5B CCF3CDA2507F2412D1800AE30F2737760F5CF6D5 32E2947AF0D4C0852CCA22584A5C66B1 1FC7CB994D17CF483A61D62A3F68BFC69CE62F33 EAF4F54FC5E9A5270366918511365E39 256A4FF8EDCB5057FC729D03CD3AC19EC820B8C5 4C59A7B1302723D1743424C60ECEC8F9 05A6C20EB4AE9415F0C9AC1931FAF49E673DE066 CA60F7075E7AF9A76F9E3208CFA21650 6812B4CBD3A138DEC1C92BFDA3F37C7199DB4C0A 48EABE50C6E2F5F36C7286F042A49ACE F31550AE8A40E1D3AC97B7DC93DAACA08081A235 DEE0911F9E832B9AD38AB32C43E48927 701DBC5705090B8EC8A8956A547E2A6B678D99C2 DC62B2858FD838C49FF6D886763CEDCF E9C7D47A7EE65620454F8B30306526CD20134AE3 0ED56045AB015F653D88B91B56FDA68A 5F103D886497975B197F096A985DFA83AA90C502 406603DD9E5A2D30B9EE939A8EFA3B23 24 1D741824B61834CA8475DC3C7A97C0B1BB8E6DD7 04C743E523D1F2BC1CBD00C28788309B 0F564505332DDDFF32A2E299EEDDD7A19F50C5CA B219EA09BAAE49EE0F049FD0413FBF10 B947A3886E19C631FDAE44E789C5ADE36498487C AF5E28EC97C929D5C361BEB16696B8EB E5506E699F453028E72F5671D855D9DC3E519A1E F2E0795EDD50386C14ACBFC79CAEB7F2 A4073ED605370A615D4DE080AC17B4E7CA0D1933 C4666E4A0BA8CBE9EC98D3351ADCC9F0 8A926C0DA06458E0C3A3E6060CE293E2B1DCFDB9 C62AF1D7B6058D44E50851F37EC66B7F 7B444A2215467C2DDE7C12A02E17A7E17270DC3D 38E1170878C908EF32D8522ADC319863 34244771CFE4D92143EF22C0F150EE06010304FD 774D865328BD190EBF59E7F31AC5D113 1C639B70BCF68A08B6BEB287D9D70DA7F9F44152 C72B37324BB52A4495E0195C7A61D261 1F0312A66E94057FFE602A54DDFE572041A1A3B6 537343F8C9440D0B83FBC04977DF1FAA 77349161514B7C6D1599EDEEDA6159D9D9FD4DD4 71344DA5E377DBE6FA4682E7D5446F2F 66180228DF5A3E38C140E2E77632DE4D042F54E2 2997C32264CA451938F92617F3C7BC94 ECAE2E492053FE1A7CB4DC8C69EBBD52417F4CFB F7BD89BC16CD0DF5A98C6A4C63349080 33AC9105636B9E00F3CC0AD84919284A29A0B308 D090E227772E8148892C1F8BBC844AEB 6E2F0CA3093716DABB45F65C65E698E222AB0F71 62B41F3AAC1AD042CDC719B4AEC5D21A 474977428F240E03B11DEB0C8DCA82F7AE783178 A031B213B62655A643EE11775696C5D4 0274504E5F29EA01313EFC5F6A0FEA10BCC6C8EA 7D911F51E33A9468F8DBBF33D2D9AB6E 7E3C7071C759EF476A29178144B75CD191D93207 F670462286301923D9564584186EF27E CF5E14F72FBEE2B726984A5DF8792B6C142F5A08 56D18995EA16B6F59C4294AC03FCA582 6E23047EB7AEC40E8875F5A76FF8490764FE6173 B5A82A1083532CEEE00E5078AE3493A0 1093A6E510381C107BF1B921D3D88F08AE3BE99D C1768BBB66114B629263D54805109D2B 8EB8B2CE275A8E2FF18CD3C7A9311DAE2C29D355 C0E19188FAB3404B93AFE5F998E01FD9 6F6D1BAD2C7A4C204015464899772A837AA4C19C D59F167BEF4084F2977D2A7BB2505116 C7B1205BB5D2F923C2EE80840C122694FE79DF6D 813094E76FF596AD50B39E51AA9CFA1D 0 0 CEF5A8
+$bhilly<~Controls.479~>722CC02C999095DD267FC1A5DC101367D733A98C 5792845E43CAA2D81DB559B2C802AC66 24 E60BD217A381E38BD68FF8B5D4A542CBF1376FD0 7A9095E68BE27261135BF93FA46584F7 DFCAD2257EBD7CD3E898B3FC76DDCBBF910A8141 C7DCE58DE413B9DDD23CCC2BE67A2E95 1304E6D5F0494287D7E29D2E536D9A6EBF8CD943 D8DD9BF155EA4AAE7F08E617EE696C53 C9BF1C83B2A503247052A21058B079A6678371A7 86F904960AC0F3737776E90EB3709703 CD4DF8D980BAFAC8228C9B0FFDC109147004702D 69E4D7718C30D1B36F0ED6DA1B2C8BFE F5F95ABDCF8C85850FC1107B9511FBBBA8B5DCBE 9EE5CDCF320B2709DB9A0AC38C918C57 53523409AE0B4CF2E6A9956756024129F2391AC5 CA12A6EBD7785BB394EE7064C26DAEA5 BF6C78F3CCBEAC93A8C23FDAA98482744BF4582C 5FC851BFCC48A3BCB4E0ED7EE27CFE06 9EDFFEF983DD2C2CAE3FABD6448ABA23503D7AE5 1EE2396B1099F121C4A27A6FCF6FE381 1E09A760B93A0427453CBE953CA74660A2503382 DC7780E5BE4D3D7E19D5FA3CBC72C556 7DD50AA4A35F1C1605A795875436071DC56459F1 88221B90C60B62A57AFD34E10309A0E3 E97D4F67CF10A27384C4E2EAFDB66E86616AD3DA 6B0DDEA8DFAA092D064489F53452B535 735D3899DEABEF9EE0028B59E27348BC86C5FF86 B2575069BC526627549A5C6E6F0C8868 03941C8B9083B499FB87F1517017CCD21B704E80 298AA6127DB754CBDBB0EC46F6E7C22D 833E510ECB178CC07254330C7554601D963C3A69 4925C804682901A3945EA33BFDFF08D5 68C4DB116A6574CDCAD5F2D5D8735DE1DAEB8BBE 748B119AD86BA144DD5E4629C48C147E D2DEBF06F14CBBD7CC67EFE22C552FFADA36382B 7ECBD394758780EBA089CAB5E72246B8 0558D8A63F1BB9267171D24163C9E7CA7940C926 6F0FA8FBA40BB951B4E95F4AF4131832 34706C4CC6F2AF23AD2C20149DA0763897E72E3E 86B3C4D64173CD6F8355BE7F3EC40E96 A62363043F5F953ADD210404A05015444FA1AA6F 8149DE268BA015BEEC6D1034F009F8B2 8FA8B810DC2C1C7F974405363BF08B90B312E0CC 1B0CFFF55FA4F3E7692755FF64E9D84F 4DD0A7B44C4E67310F8A9BB1ED6EB3FB66A4184B D68663A0A94431B17441EE6DB5420AE2 604402DB7A508E2223633377D4C6A484287FEB3D FA75137F17F60AEE265094C39244FAEA 5290927C0004FE6886386E4EA2A2C5BB672392E7 DD22DA530E3D84A5213C4F6155B81144 24 455C7880FC344A9D1810931B947841A1A09AE203 63C0B116E1A9ECBEB05C9CB9537B999F AA03CBD4F3809669A62CC7BF3CDCF2CECF4CDFE4 C88BE9B340E43B662C90D9E475B96D26 37656EAE09851F0DFEA06167BC0D73C9D15AFEE7 9CB58690EE795EC2A1F69EE707BD1151 8B8DAF0E9B9C760657276D386340D02D88E749C6 0F57DC33B664F4C3B03227FBCF6790F0 61398AABCD45106AAB2599507998E943029DFD16 6EF756B29F7B9D05B654802F61A9C22D 4AFFB233641D51E347C1CB2EF28348E3A31ADB27 ED653C9A5E43FFAF2DD43D7EB1865605 77874BE04DD90B39BB0813EB46AC758A03D2A9B4 A6EBE8670BD27286523B066DE9868639 0514F7C73CA1C62B6AAF4F3E96D602DF123FE73C E1191F6818BA00150869DD277D991AB1 3E36DA701CEF8D3805D66969094452FF4E3CFA30 96B88F6C7E303C08FC8CB61D7BC948F3 6D93BC607E48505C7C47F44B0F4CC2CE27E69D47 2F99139538E2ED120842E7A427529DA2 3BE3D2818B684CFCCBBCAF8E82BA4262CFDD9458 91516977F42C922FDC6AC7A2C7E8761B 0E7496B0837289A2CF668DE9EE7FE3933454B0E2 5D23E52B08AFB53BDBB45F28BA4F1D56 58C7B29D27FA107E354551878717306D4FB2EA5A 7293A1C7A26276CC42E5C217CF8645DE FA1C3AA6E69EDCBEC37CDEA6D97847ACD6AB73E9 B675A3E843B81E0D8F54CC40D32C38AB B1A36EC0A7FE654728C934F0AA31D0ED8F835A9B 16714C866E64338E203CC0AA6BE6034A 62763239942B71E3E55B6E6F51326546E720B165 CA3FA3D49CD4A32B19BAF08824DE6E97 C6EC87A2F27FDB65FFABF432E387B10E2246766C DD2FA9D3727F58D78BAF545DC8B1F706 8E8D53529534B19ABF73CB40CA207FAF782EAC2B ECA76801358459D1D2DC2B2BF3606788 665E408125F79EF334E44E6A3163BF08D7F9A7D9 2DB4E07D7D4D7B0B3DE09D17E5107BBB B9900A3FC35E03E9705330C8C51E44F60968578B B3DFADEF282B267BF4FAF71498B94592 C9C5415E6B38A7A91EB706B6256803A8BCFD23D9 EFDD904F9117A97B16C0070114105764 1C9E104935CE81E1120388060CA731FE5031CD7A 79C8F7E3021CD71D21124F260242B6F7 98FF8A2100518AD1F64B205B02DA2413B305D4DA 10F5B69C6608B2099712B0247F56942E C848C59F7D1B6F62AFFEC5427A6AE8DE1D48A963 DFA76A664272DC13DDE7F59E334883F2 0 0 D81ABA
+$bhilly<~Controls.509~>128<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$bhilly<~Controls.509~>143<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$bhilly<~Controls.509~>174<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$bhilly<~Controls.509~>190<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Mirdain<~Controls.281~>426 <~Controls.282~><~Game.2038~><~Controls.283~><~Game.2042~> E3BA6C
+<Mirdain> fsp ok F0663B
+$bhilly<~Controls.345~>105 104 103 102 101 100 099 <~Controls.346~>10 14 12 11 11 14 10 null
+$bhilly<~Controls.350~>105 104 103 102 101 100 099 null
+$Mirdain<~Controls.345~>213 212 211 210 <~Controls.346~>0 0 4 3 null
+$Mirdain<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> D9BC66
+$Mirdain<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 296DDB
+$Mirdain<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 5EE79A
+$bhilly<~HighlightLabel.81~>105<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> AF9E00
+$bhilly<~Scribe.141~>263 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 000243
+$bhilly<~Controls.644~>105 <~Controls.645~><~Game.2035~> B6ABD0
+$Mirdain<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 60EE0D
+$Mirdain<~Controls.790~>248<~Controls.791~><~Game.2015~><~Controls.792~><~Game.2016~> 6BA64A
+$Mirdain<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 5FD1C3
+$bhilly<~HighlightLabel.81~>099<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 8EE5A0
+$bhilly<~Scribe.141~>262 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> F08B02
+$bhilly<~Controls.644~>099 <~Controls.645~><~Game.2035~> 6F03B2
+<Mirdain> pass EAA93D
+$bhilly<~HighlightLabel.81~>100<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 039DF0
+$bhilly<~Controls.509~>205<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$bhilly<~Controls.644~>100 <~Controls.645~><~Game.2035~> E84594
+$Mirdain<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 84BE46
+$Mirdain<~Scribe.141~>073 072 <~Scribe.142~><~Game.1929~><~Scribe.143~><~Game.1925~><~Scribe.144~> D83C33
+$Mirdain<~Scribe.141~>065 <~Scribe.142~><~Game.1941~><~Scribe.143~><~Game.1957~><~Scribe.144~> BF94C4
+$Mirdain<~Controls.644~>211 <~Controls.645~><~Game.2035~> 6E2DF8
+$bhilly<~HighlightLabel.81~>102<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> BBBAFB
+$bhilly<~Scribe.141~>254 360 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2035~><~Scribe.144~> E965E1
+$bhilly<~Scribe.141~>254 360 <~Scribe.142~><~Game.2035~><~Scribe.143~><~Game.2037~><~Scribe.144~> 9E3B46
+$bhilly<~Scribe.141~>254 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.1919~><~Scribe.144~> B0AD18
+$bhilly<~Controls.644~>102 360 <~Controls.645~><~Game.2035~> DF0EA7
+<Mirdain> pass A5E553
+$bhilly<~HighlightLabel.81~>103<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 21D085
+$bhilly<~Scribe.141~>039 036 029 028 027 026 <~Scribe.142~><~Game.1979~><~Scribe.143~><~Game.1977~><~Scribe.144~> FFC549
+$bhilly<~Scribe.141~>040 035 015 014 013 012 011 <~Scribe.142~><~Game.1956~><~Scribe.143~><~Game.1949~><~Scribe.144~> 31C35C
+$bhilly<~Controls.644~>103 <~Controls.645~><~Game.2035~> 002D9D
+<Mirdain> pass 5FD9F3
+$bhilly<~HighlightLabel.81~>101<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 4A89D6
+$bhilly<~Scribe.141~>040 035 015 014 013 012 011 <~Scribe.142~><~Game.1949~><~Scribe.143~><~Game.1927~><~Scribe.144~> C06D4D
+$bhilly<~Scribe.141~>039 036 029 028 027 026 <~Scribe.142~><~Game.1977~><~Scribe.143~><~Game.1974~><~Scribe.144~> 204880
+$bhilly<~Controls.644~>101 <~Controls.645~><~Game.2035~> 037E38
+$Mirdain<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 4A9A55
+$Mirdain<~Controls.366~>251<~Controls.367~><~Game.2010~><~Controls.368~><~Game.2011~> 29CB53
+$Mirdain changes 210  to C 47ABE7
+$Mirdain<~Controls.790~>248<~Controls.791~><~Game.2016~><~Controls.792~><~Game.2017~> A70A91
+$Mirdain<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 7FE05D
+$bhilly<~HighlightLabel.81~>104<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 068F50
+$bhilly<~Controls.509~>184<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$bhilly<~Controls.644~>104 <~Controls.645~><~Game.2035~> 988FF9
+$Mirdain<~Controls.726~>210 213 212 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 2F6D6D
+$Mirdain<~Controls.731~>211 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> B75501
+$bhilly<~Controls.762~>104 101 103 102 360 100 099 105 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 1CB830
+<~Game.7~>2 null
+$Mirdain<~Controls.509~>136<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Mirdain<~Controls.509~>140<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$bhilly<~Controls.509~>166<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$bhilly<~Controls.509~>199<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<Mirdain> f ok BCBF81
+$bhilly<~Controls.372~>104 45E49F
+$bhilly<~Controls.345~>101 103 102 360 100 099 105 <~Controls.346~>12 15 15 11 15 15 12 null
+$bhilly<~Controls.350~>101 103 102 360 100 099 105 null
+$Mirdain<~Controls.345~>211 210 213 212 <~Controls.346~>1 1 4 1 null
+$Mirdain<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> F179EC
+$Mirdain<~Controls.790~>248<~Controls.791~><~Game.2017~><~Controls.792~><~Game.2018~> 24B96D
+$Mirdain<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 6B3828
+<game> bhilly<~Controls.1~> 3 4 4 6 3 null
+$bhilly<~Controls.624~>217<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Mirdain<~Scribe.141~>252 <~Scribe.142~><~Game.2014~><~Scribe.143~><~Game.2015~><~Scribe.144~> E9D688
+$Mirdain<~Scribe.141~>247 <~Scribe.142~><~Game.1911~><~Scribe.143~><~Game.1915~><~Scribe.144~> 554EC4
+$Mirdain<~Scribe.141~>247 <~Scribe.142~><~Game.1915~><~Scribe.143~><~Game.1912~><~Scribe.144~> 454277
+$Mirdain<~Scribe.141~>247 <~Scribe.142~><~Game.1912~><~Scribe.143~><~Game.1917~><~Scribe.144~> E7835E
+$Mirdain<~Scribe.141~>247 <~Scribe.142~><~Game.1917~><~Scribe.143~><~Game.1927~><~Scribe.144~> 41B94D
+$Mirdain<~Controls.323~>247 456669
+$bhilly<~Scribe.141~>217 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2036~><~Scribe.144~> 1FF662
+$bhilly<~Controls.624~>229<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Mirdain<~Scribe.141~>240 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2035~><~Scribe.144~> 8851EF
+$Mirdain<~Scribe.141~>241 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> 228E55
+$Mirdain<~Controls.644~>240 217 229 <~Controls.645~><~Game.2035~> C46E6A
+$bhilly<~HighlightLabel.81~>101<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> FAAE70
+$bhilly<~Scribe.141~>008 007 <~Scribe.142~><~Game.1917~><~Scribe.143~><~Game.1927~><~Scribe.144~> 823F42
+$bhilly<~Scribe.141~>039 038 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1974~><~Scribe.143~><~Game.1976~><~Scribe.144~> 444CDB
+$bhilly<~Controls.644~>101 <~Controls.645~><~Game.2035~> 2F6EB6
+$Mirdain<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> AAA85F
+$Mirdain<~Controls.323~>247 94F5F1
+$Mirdain<~Controls.644~>210 <~Controls.645~><~Game.2035~> 75F030
+$bhilly<~HighlightLabel.81~>105<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> B30ACD
+$bhilly<~Scribe.141~>055 049 048 047 <~Scribe.142~><~Game.1968~><~Scribe.143~><~Game.1946~><~Scribe.144~> 36FF6A
+$bhilly<~Scribe.141~>039 038 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1976~><~Scribe.143~><~Game.1972~><~Scribe.144~> 13F8B0
+$bhilly<~Controls.644~>105 <~Controls.645~><~Game.2035~> 54D9F5
+$Mirdain<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 71C15B
+$Mirdain<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> F08BD3
+$Mirdain<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 1E9753
+<game> bhilly<~Controls.1~> 5 1 2 6 4 null
+<game> bhilly<~Controls.1~> 6 3 null
+$bhilly<~Controls.624~>226<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Mirdain> random 2D5CE6
+$bhilly<~Controls.637~>243<~Controls.638~><~Game.1998~><~Controls.639~><~Game.2036~> null
+$Mirdain<~Controls.644~>243 226 <~Controls.645~><~Game.2035~> 89D9F0
+$bhilly<~HighlightLabel.81~>360<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> AB3B30
+$bhilly<~Scribe.141~>039 038 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1972~><~Scribe.143~><~Game.1975~><~Scribe.144~> 02758C
+$bhilly<~Scribe.141~>055 057 049 048 047 046 045 <~Scribe.142~><~Game.1946~><~Scribe.143~><~Game.1932~><~Scribe.144~> 440117
+$bhilly<~Controls.644~>360 <~Controls.645~><~Game.2035~> 4A11B3
+$Mirdain<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> CE9213
+$Mirdain<~Scribe.141~>256 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> C8F7B1
+$Mirdain<~Controls.644~>213 <~Controls.645~><~Game.2035~> 117C7C
+$bhilly<~Controls.726~>211 212 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> BCD2D5
+$bhilly<~Controls.731~>213 210 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> A3FAC4
+$bhilly<~Controls.757~>103 102 100 099 104 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> AA3528
+<~Game.7~>3 null
+$bhilly<~Controls.762~>360 105 101 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> C4C8B0
+$bhilly<~Controls.509~>169<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$bhilly<~Controls.509~>192<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Mirdain<~Controls.509~>142<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Mirdain<~Controls.509~>118<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$bhilly<~Controls.281~>174 <~Controls.282~><~Controls.46~><~Controls.283~><~Game.2041~> B8E94F
+$Mirdain<~Scribe.141~>247 <~Scribe.142~><~Game.1927~><~Scribe.143~><~Game.1953~><~Scribe.144~> F84192
+$Mirdain<~Scribe.141~>248 <~Scribe.142~><~Game.2015~><~Scribe.143~><~Game.2014~><~Scribe.144~> D7CE37
+<Mirdain> f ok EA45AF
+$bhilly<~Controls.281~>184 <~Controls.282~><~Controls.46~><~Controls.283~><~Game.2041~> 7EDED5
+$bhilly<~Controls.372~>360 C68937
+$bhilly<~Controls.345~>105 101 103 102 100 099 104 <~Controls.346~>15 10 10 10 15 15 13 null
+$bhilly<~Controls.350~>105 101 103 102 100 099 104 null
+$Mirdain<~Controls.345~>213 210 211 212 <~Controls.346~>0 1 1 1 null
+<Mirdain> ) 3E8C4C
+<bhilly> what are these rolls 4C010C
+<bhilly> lol 3FE86A
+$Mirdain<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 6AEB29
+$Mirdain<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 339910
+$Mirdain<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> A5860B
+<game> bhilly<~Controls.1~> 6 1 3 5 null
+$bhilly<~Controls.624~>221<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Mirdain<~Scribe.141~>247 <~Scribe.142~><~Game.1953~><~Scribe.143~><~Game.1951~><~Scribe.144~> 405722
+$Mirdain<~Controls.323~>247 DCBC89
+$Mirdain<~Scribe.141~>252 <~Scribe.142~><~Game.2015~><~Scribe.143~><~Game.2016~><~Scribe.144~> F27C88
+$Mirdain<~Controls.644~>221 <~Controls.645~><~Game.2035~> 6EB461
+$bhilly<~HighlightLabel.81~>103<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 2C1D0F
+$bhilly<~Scribe.141~>261 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> B77D47
+$bhilly<~Controls.644~>103 <~Controls.645~><~Game.2035~> 9D8F7C
+$Mirdain<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 4DB23F
+$Mirdain<~Controls.323~>247 569CC6
+$Mirdain<~Controls.644~>211 <~Controls.645~><~Game.2035~> 58CFFD
+$bhilly<~HighlightLabel.81~>104<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> D66948
+$bhilly<~Scribe.141~>reveal 169 E45BB2875FCE0CEAFE34EB5BF02B42FEE61D5247 2 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2036~><~Scribe.144~> 7C2CB5
+$bhilly<~Scribe.141~>039 038 <~Scribe.142~><~Game.1975~><~Scribe.143~><~Game.1927~><~Scribe.144~> 2F40B7
+$bhilly<~Scribe.141~>037 <~Scribe.142~><~Game.1969~><~Scribe.143~><~Game.1951~><~Scribe.144~> 5CC5C1
+<bhilly> lorien D867F2
+$Mirdain<~Scribe.141~>097 093 092 087 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.1992~><~Scribe.144~> BC04D4
+$bhilly<~Scribe.141~>039 038 040 035 008 007 015 014 013 012 011 <~Scribe.142~><~Game.1927~><~Scribe.143~><~Game.1928~><~Scribe.144~> C09471
+$bhilly<~Controls.644~>104 169 <~Controls.645~><~Game.2035~> 200C04
+$Mirdain<~Scribe.141~>256 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> BD32DA
+$Mirdain<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> A4110C
+$Mirdain<~Scribe.141~>240 <~Scribe.142~><~Game.2039~><~Scribe.143~><~Game.1921~><~Scribe.144~> C4E156
+$Mirdain<~Controls.323~>240 2E76D0
+$Mirdain<~Controls.644~>213 <~Controls.645~><~Game.2035~> 31A8BB
+$bhilly<~HighlightLabel.81~>102<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 521420
+$Mirdain<~Controls.281~>358 <~Controls.282~><~Game.2038~><~Controls.283~><~Game.2039~> C096E0
+$bhilly<~Scribe.141~>251 <~Scribe.142~><~Game.2011~><~Scribe.143~><~Game.2037~><~Scribe.144~> F0151F
+<bhilly> lorien 269C4F
+<bhilly> nc 556411
+$Mirdain<~Scribe.141~>256 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> EDFFA7
+$Mirdain<~Controls.840~>118 837C2A
+<auto><~Controls.861~>reveal 118 9962F0A9A45D469C5EA861CB889755A7A74B9918 16<~Controls.862~><~Controls.45~><~Controls.863~><~Game.2037~> 678AB8
+<auto> playchosen 751023
+<game> bhilly<~Controls.1~> 6 3 3 3 4 null
+<game> bhilly<~Controls.1~> 1 3 5 null
+<bhilly> 1 87EE5E
+<game> Mirdain<~Controls.1~> 6 6 1 null
+<game> Mirdain<~Controls.1~> 3 null
+<Mirdain> 2 2F08CD
+$bhilly<~Scribe.141~>012 011 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.2037~><~Scribe.144~> D340CD
+$Mirdain<~Controls.304~>093 <~Controls.305~><~Game.1992~> 486EDA
+$Mirdain<~Controls.313~>269 <~Controls.307~><~Controls.314~><~Game.1992~> 385282
+$bhilly<~Controls.644~>102 118 251 012 011 <~Controls.645~><~Game.2035~> 70EFE7
+$Mirdain<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 93693F
+$Mirdain<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 055C73
+$Mirdain<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 5E41BE
+<game> bhilly<~Controls.1~> 6 4 6 6 null
+<game> bhilly<~Controls.1~> 2 null
+$bhilly<~Controls.624~>220<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<bhilly> 3r 197637
+<Mirdain> random D1B349
+$bhilly<~Controls.637~>246<~Controls.638~><~Game.1998~><~Controls.639~><~Game.2036~> null
+$Mirdain<~Scribe.141~>252 <~Scribe.142~><~Game.2016~><~Scribe.143~><~Game.2018~><~Scribe.144~> 6E3B0B
+$Mirdain<~Scribe.141~>246 <~Scribe.142~><~Game.2036~><~Scribe.143~><~Game.1937~><~Scribe.144~> 5B6ED7
+$Mirdain<~Scribe.141~>246 <~Scribe.142~><~Game.1937~><~Scribe.143~><~Game.1925~><~Scribe.144~> E9728A
+$Mirdain<~Scribe.141~>247 <~Scribe.142~><~Game.1951~><~Scribe.143~><~Game.1959~><~Scribe.144~> 7A0175
+$Mirdain<~Controls.323~>247 11F3EB
+$Mirdain<~Controls.644~>220 <~Controls.645~><~Game.2035~> 86A474
+<bhilly> ? 30B2E8
+<bhilly> you were only on step 1 575055
+$Mirdain<~Scribe.141~>247 <~Scribe.142~><~Game.1959~><~Scribe.143~><~Game.1948~><~Scribe.144~> CB1D43
+<Mirdain> really E7FAB5
+<bhilly> ya B5BFFC
+<bhilly> you moved, got hit revealed, hit, moved hit revealed 6B5A6A
+$bhilly<~HighlightLabel.81~>101<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> ABD267
+$bhilly<~Scribe.141~>253 361 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2037~><~Scribe.144~> A076A1
+$bhilly<~Scribe.141~>253 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.1928~><~Scribe.144~> 2AFB48
+$bhilly<~Controls.644~>101 361 <~Controls.645~><~Game.2035~> 3D2342
+$Mirdain<~Controls.726~>210 212 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> A19ABF
+$Mirdain<~Controls.731~>358 213 211 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 4A3177
+$bhilly<~Controls.757~>105 100 099 360 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> A77514
+<~Game.7~>4 null
+$bhilly<~Controls.762~>101 361 102 104 103 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 841171
+$bhilly<~Controls.509~>182<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$bhilly<~Controls.509~>170<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Mirdain<~Controls.509~>154<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Mirdain<~Controls.509~>122<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Mirdain<~Controls.281~>154 <~Controls.282~><~Controls.45~><~Controls.283~><~Game.2039~> 5846EB
+<Mirdain> fsp ok A9BF4A
+$bhilly<~Controls.281~>190 <~Controls.282~><~Controls.46~><~Controls.283~><~Game.2041~> 679672
+$bhilly<~Controls.372~>101 4F8288
+$bhilly<~Controls.345~>361 102 104 103 105 100 099 360 <~Controls.346~>12 12 14 15 10 11 15 12 null
+$bhilly<~Controls.350~>361 102 104 103 105 100 099 360 null
+$Mirdain<~Controls.345~>358 213 211 210 212 <~Controls.346~>1 0 4 4 1 null
+$Mirdain<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 3753A4
+$Mirdain<~Controls.323~>247 07BCD6
+$Mirdain<~Controls.644~>210 <~Controls.645~><~Game.2035~> 7B005B
+$bhilly<~HighlightLabel.81~>102<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 4CB5E0
+$bhilly<~Controls.819~> 47AD6F
+$bhilly<~HighlightLabel.81~>105<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> B4FAC7
+$bhilly<~Scribe.141~>261 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 14FFB0
+$bhilly<~Controls.644~>105 <~Controls.645~><~Game.2035~> 81C62D
+$Mirdain<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> B8FFD3
+$Mirdain<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 64B614
+$Mirdain<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 277A03
+<game> bhilly<~Controls.1~> 5 1 5 null
+$bhilly<~HighlightLabel.81~>361<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 4E3612
+$bhilly<~Scribe.141~>036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1975~><~Scribe.143~><~Game.1966~><~Scribe.144~> C5F896
+$bhilly<~Scribe.141~>055 057 049 048 047 046 045 043 042 041 <~Scribe.142~><~Game.1932~><~Scribe.143~><~Game.1938~><~Scribe.144~> FAFBD8
+$bhilly<~Controls.644~>361 <~Controls.645~><~Game.2035~> 4921DD
+<Mirdain> pass 3D508E
+$bhilly<~HighlightLabel.81~>102<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> A51876
+<bhilly> ofr AFDAC6
+$bhilly<~Controls.840~>192 F32093
+$Mirdain<~Controls.840~>122 EA5FDA
+<auto> playchosen 73F3F0
+<auto><~Controls.3~>reveal 122 8DA15098F517E1A9D31AF29381AE22BF71C934C7 3<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 2EBE1A
+<auto><~Controls.866~>reveal 192 866D5339D7A6A0B4E2D769A85DD244DFF267BF2A 2<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 21A38C
+<auto> playchosen 3ECCBB
+<game> bhilly<~Controls.1~> 1 2 6 3 2 null
+<bhilly> 1 F860EC
+<game> Mirdain<~Controls.1~> 6 null
+<Mirdain> 1 8D6075
+$bhilly<~Scribe.141~>021 <~Scribe.142~><~Game.1966~><~Scribe.143~><~Game.2037~><~Scribe.144~> 10952C
+$Mirdain<~Controls.296~>065 <~Controls.297~><~Game.1957~> 294899
+$bhilly<~Scribe.141~>036 029 028 027 026 025 024 023 022 <~Scribe.142~><~Game.1966~><~Scribe.143~><~Game.1957~><~Scribe.144~> 3D8392
+$bhilly<~Scribe.141~>258 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> C5C66C
+$bhilly<~Controls.323~>258 2B923E
+$bhilly<~Controls.644~>102 192 122 021 <~Controls.645~><~Game.2035~> C15DA3
+$Mirdain<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> D42106
+$Mirdain<~Scribe.141~>266 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1954~><~Scribe.144~> C41040
+$Mirdain<~Controls.644~>211 <~Controls.645~><~Game.2035~> 3533AB
+$bhilly<~HighlightLabel.81~>360<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> B65486
+<bhilly> lorien 82DB82
+$bhilly<~Controls.840~>166 05D0C8
+<Mirdain> nc 1550C9
+<auto><~Controls.866~>reveal 166 E8C4267837856C41FFCA876DB875E9F1CC4EB6E0 13<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> F21650
+<game> bhilly<~Controls.1~> 2 1 1 6 1 null
+<game> bhilly<~Controls.1~> 5 3 3 1 null
+<bhilly> 1 12A287
+<game> Mirdain<~Controls.1~> 6 5 5 null
+<Mirdain> 3 73D31A
+<bhilly> mmmmmm 730CA1
+$Mirdain<~Controls.304~>092 <~Controls.305~><~Game.1992~> 8E4747
+$Mirdain<~Controls.313~>268 <~Controls.307~><~Controls.314~><~Game.1992~> BBFADB
+$bhilly<~Scribe.141~>035 008 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.2037~><~Scribe.144~> A42017
+<bhilly> stop draw 90622C
+$bhilly<~Controls.509~>194<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$bhilly<~Controls.644~>360 166 035 008 <~Controls.645~><~Game.2035~> DDCBE5
+$Mirdain<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 5049E1
+$Mirdain<~Controls.790~>248<~Controls.791~><~Game.2015~><~Controls.792~><~Game.2016~> 541645
+$Mirdain<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 613144
+<game> bhilly<~Controls.1~> 3 1 2 null
+<bhilly> gg 9C5772
+<bhilly> lol A10C23
+$bhilly<~HighlightLabel.81~>100<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> B0389F
+<bhilly> wlr C66920
+$Mirdain<~Scribe.141~>098 266 094 088 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1991~><~Scribe.144~> BBF98D
+$bhilly<~Scribe.141~>036 029 028 027 026 025 024 023 022 <~Scribe.142~><~Game.1957~><~Scribe.143~><~Game.1954~><~Scribe.144~> 1ED6E0
+$bhilly<~Controls.644~>100 <~Controls.645~><~Game.2035~> D23C40
+$Mirdain<~Scribe.141~>426 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> F46C27
+$Mirdain<~Controls.323~>259 257 71612B
+$Mirdain<~Controls.323~>259 257 9A9023
+$Mirdain<~Controls.323~>259 257 D28B02
+$Mirdain<~Controls.323~>260 08444F
+$bhilly<~Controls.276~>104<~Controls.277~><~Game.2043~><~Controls.278~><~Game.2035~> 24EF08
+<Mirdain> wait) D39D36
+$bhilly<~Controls.281~>104 <~Controls.282~><~Game.2035~><~Controls.283~><~Game.2042~> 3E92E6
+$bhilly<~Controls.281~>104 <~Controls.282~><~Game.2042~><~Controls.283~><~Game.2043~> 1BF460
+<Mirdain> just fliiped 59C584
+<Mirdain> forogot to do it 3132B7
+$Mirdain<~Scribe.141~>257 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> F924AC
+$Mirdain<~Controls.644~>426 <~Controls.645~><~Game.2035~> 7DF54E
+$bhilly<~HighlightLabel.81~>104<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 4C7FC7
+$bhilly<~Scribe.141~>reveal 182 15F9ED938CE7487E0EA2B226B7AEA6953C358CC3 3 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2036~><~Scribe.144~> CE5AA0
+$bhilly<~Scribe.141~>236 <~Scribe.142~><~Game.2046~><~Scribe.143~><~Game.2037~><~Scribe.144~> CB16DE
+$bhilly<~Controls.644~>104 182 236 <~Controls.645~><~Game.2035~> 2C92E0
+$Mirdain<~HighlightLabel.86~>358<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> CD954E
+$Mirdain<~Controls.790~>248<~Controls.791~><~Game.2016~><~Controls.792~><~Game.2017~> 2030FD
+$Mirdain<~Controls.795~>358<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> BB2244
+<game> bhilly<~Controls.1~> 1 2 2 null
+<bhilly> ...... BE3F54
+$Mirdain<~Controls.726~>358 212 213 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> E4A16D
+$Mirdain<~Controls.731~>211 210 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 60EAC0
+$bhilly<~Controls.757~>103 099 101 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> E78F8E
+<~Game.7~>5 null
+$bhilly<~Controls.762~>104 100 360 102 361 105 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> D8A810
+$bhilly<~Controls.509~>193<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$bhilly<~Controls.509~>196<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Mirdain<~Controls.509~>116<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Mirdain<~Controls.509~>111<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$bhilly<~Controls.372~>104 5793E0
+$Mirdain<~Controls.281~>142 <~Controls.282~><~Controls.45~><~Controls.283~><~Game.2039~> BCBD8C
+$bhilly<~Controls.281~>236 220 221 <~Controls.282~><~Game.2045~><~Controls.283~><~Game.2044~> F30900
+$bhilly<~Controls.372~>100 9F9938
+$Mirdain<~Scribe.141~>247 <~Scribe.142~><~Game.1948~><~Scribe.143~><~Game.1959~><~Scribe.144~> 74A415
+$bhilly<~Controls.372~>360 1E99BB
+$bhilly<~Controls.372~>360 7FBF18
+$Mirdain<~Scribe.141~>247 <~Scribe.142~><~Game.1959~><~Scribe.143~><~Game.1964~><~Scribe.144~> 0C6D43
+$Mirdain<~Scribe.141~>247 <~Scribe.142~><~Game.1964~><~Scribe.143~><~Game.1969~><~Scribe.144~> 3C1BDF
+$bhilly<~Controls.372~>102 B1BB2E
+$Mirdain<~Scribe.141~>247 <~Scribe.142~><~Game.1969~><~Scribe.143~><~Game.524~><~Scribe.144~> 98A2BC
+$Mirdain<~Scribe.141~>248 <~Scribe.142~><~Game.2017~><~Scribe.143~><~Game.2014~><~Scribe.144~> 6E4084
+<Mirdain> ok F27018
+$bhilly<~Controls.345~>361 105 103 099 101 <~Controls.346~>15 12 15 12 14 null
+$bhilly<~Controls.350~>361 105 103 099 101 null
+$Mirdain<~Controls.345~>211 210 358 212 213 <~Controls.346~>1 1 2 2 1 null
+$Mirdain<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> F9234D
+$Mirdain<~CardBuffet.9~>reveal 136 0D02830B319B13433B3612D944D5341EE908246C 23<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> CE7A98
+<game> Mirdain<~Controls.1~> 1 5 3 null
+$Mirdain<~Scribe.141~>252 <~Scribe.142~><~Game.2018~><~Scribe.143~><~Game.2016~><~Scribe.144~> ADAA77
+$Mirdain<~Controls.644~>212 136 <~Controls.645~><~Game.2035~> D84E61
+$bhilly<~HighlightLabel.81~>099<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> DB4559
+<bhilly> lorien A6B77C
+$bhilly<~Controls.840~>193 142D53
+$Mirdain<~Controls.840~>116 38357C
+<auto> playchosen 0B5E5A
+<auto><~Controls.3~>reveal 116 F8D2AC14ACF0D40944AC29E5E3D82BAB42A8D7D8 6<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> FA2B93
+<auto><~Controls.866~>reveal 193 171FD4597A7D412200EB843B5AAF0796939AEB7D 23<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> D31D29
+<auto> playchosen 1BF353
+<bhilly> pre 415AD0
+<game> bhilly<~Controls.1~> 5 3 4 null
+<bhilly> 2 9C6428
+$Mirdain<~Scribe.141~>087 269 <~Scribe.142~><~Game.1992~><~Scribe.143~><~Game.2036~><~Scribe.144~> A54088
+<game> bhilly<~Controls.1~> 1 4 6 1 null
+<game> bhilly<~Controls.1~> 2 1 1 null
+<bhilly> 1 2965B1
+<game> Mirdain<~Controls.1~> 1 null
+<game> Mirdain<~Controls.1~> 2 null
+$Mirdain<~Scribe.141~>097 <~Scribe.142~><~Game.1992~><~Scribe.143~><~Game.2037~><~Scribe.144~> D5AC56
+$bhilly<~Controls.509~>167<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$bhilly<~Controls.644~>099 193 087 269 116 097 <~Controls.645~><~Game.2035~> 752AA9
+$Mirdain<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 7C2EF9
+$Mirdain<~CardBuffet.9~>reveal 128 B52CBF4D20A7D3DB1AF3907E2B530BBD13A0E465 9<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> 53ECA5
+$Mirdain<~Controls.281~>232 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2044~> D366B0
+$Mirdain<~Controls.644~>213 128 <~Controls.645~><~Game.2035~> FF56D7
+$bhilly<~HighlightLabel.81~>105<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 0A82FE
+$bhilly<~Controls.819~> 165A36
+$bhilly<~HighlightLabel.81~>105<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 655130
+<bhilly> lorien F30770
+$bhilly<~Controls.840~>167 116105
+<Mirdain> nc 97A112
+<auto><~Controls.866~>reveal 167 FC76CD7771808E118B8F549FE5158AE1ECC67C8E 19<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> FBB7B2
+<game> bhilly<~Controls.1~> 6 6 6 2 null
+<game> Mirdain<~Controls.1~> 4 null
+$Mirdain<~Controls.296~>268 <~Controls.297~><~Game.1992~> 34B023
+$bhilly<~Controls.509~>200<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$bhilly<~Controls.644~>105 167 <~Controls.645~><~Game.2035~> DD5565
+$Mirdain<~HighlightLabel.86~>358<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 110872
+$Mirdain<~Controls.509~>125<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Mirdain<~Controls.644~>358 <~Controls.645~><~Game.2035~> 2D0F9F
+<bhilly> pass 67D41C
+$bhilly<~Scribe.141~>423 <~Scribe.142~><~Game.27~><~Scribe.143~><~Game.29~><~Scribe.144~> 8D1B4A
+$Mirdain<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 996A9D
+$Mirdain<~Controls.790~>247<~Controls.791~><~Game.524~><~Controls.792~><~Game.525~> 2572E8
+$Mirdain<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 5CD399
+$bhilly<~Controls.624~>228<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Mirdain> random 6FC56B
+$bhilly<~Controls.637~>244<~Controls.638~><~Game.1998~><~Controls.639~><~Game.2036~> null
+$Mirdain<~Scribe.141~>252 <~Scribe.142~><~Game.2016~><~Scribe.143~><~Game.2017~><~Scribe.144~> A99C17
+$Mirdain<~Controls.644~>244 228 <~Controls.645~><~Game.2035~> B6833C
+$bhilly<~HighlightLabel.81~>101<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> BBCD7F
+$bhilly<~Scribe.141~>reveal 200 BB425034CDB756394F017EE527CF67273142FF33 15 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> A1772B
+$bhilly<~Controls.624~>216<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2036~> null
+$Mirdain<~Scribe.141~>252 <~Scribe.142~><~Game.2017~><~Scribe.143~><~Game.2018~><~Scribe.144~> 53E2DB
+$Mirdain<~Controls.323~>247 AEFE4F
+$bhilly<~Controls.644~>101 216 200 <~Controls.645~><~Game.2035~> A9FCD2
+$Mirdain<~Controls.271~>211<~Controls.272~><~Game.2042~><~Controls.273~><~Game.2035~> 5A9BE4
+$Mirdain<~Controls.323~>247 D66A96
+$Mirdain<~Controls.644~>211 <~Controls.645~><~Game.2035~> 200BCB
+$bhilly<~Controls.726~>210 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 8D848C
+$bhilly<~Controls.731~>211 358 213 212 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> FCE9F9
+$bhilly<~Controls.757~>361 103 102 360 100 104 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 8B0440
+<~Game.7~>6 null
+$bhilly<~Controls.762~>101 105 099 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 2FD1DC
+$bhilly<~Controls.509~>209<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$bhilly<~Controls.509~>172<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Mirdain<~Controls.509~>157<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Mirdain<~Controls.509~>119<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+<Mirdain> ok 13C7B3
+$bhilly<~Controls.281~>170 <~Controls.282~><~Controls.46~><~Controls.283~><~Game.2041~> E33560
+$bhilly<~Controls.372~>101 F2E099
+$bhilly<~Controls.372~>105 17DF48
+$bhilly<~Controls.372~>099 937803
+$bhilly<~Controls.345~>361 103 102 360 100 104 <~Controls.346~>14 11 13 15 12 12 null
+$bhilly<~Controls.350~>361 103 102 360 100 104 null
+$Mirdain<~Controls.345~>211 358 213 212 210 <~Controls.346~>0 0 1 1 1 null
+$Mirdain<~HighlightLabel.86~>358<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 5A16E4
+$Mirdain<~Controls.790~>247<~Controls.791~><~Game.525~><~Controls.792~><~Game.528~> 2CD24F
+$Mirdain<~Controls.795~>358<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> D11B17
+$bhilly<~Controls.624~>222<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<bhilly> 4r 9D7813
+$Mirdain<~Scribe.141~>241 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2035~><~Scribe.144~> 37680B
+$Mirdain<~Scribe.141~>252 <~Scribe.142~><~Game.2018~><~Scribe.143~><~Game.2019~><~Scribe.144~> E82E11
+$Mirdain<~Controls.323~>247 276F46
+$Mirdain<~Controls.644~>241 222 <~Controls.645~><~Game.2035~> DCB53B
+$Mirdain<~Scribe.141~>242 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> 8416F0
+$bhilly<~HighlightLabel.81~>102<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 06DDDC
+$bhilly<~Scribe.141~>037 <~Scribe.142~><~Game.1951~><~Scribe.143~><~Game.1938~><~Scribe.144~> DE7CF2
+$bhilly<~Scribe.141~>253 040 038 039 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.1954~><~Scribe.144~> 47B686
+$bhilly<~Controls.644~>102 <~Controls.645~><~Game.2035~> C47B1A
+$Mirdain<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 376BB1
+$Mirdain<~Controls.323~>247 CC43CF
+$Mirdain<~Controls.644~>210 <~Controls.645~><~Game.2035~> 7D76B0
+$bhilly<~HighlightLabel.81~>100<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 16663A
+<bhilly> wlr 8C3551
+$bhilly<~Controls.840~>209 355C3A
+$Mirdain<~Controls.840~>111 29DE97
+<auto> playchosen C6ED2C
+<auto><~Controls.3~>reveal 111 6BBC27B1ED71F375AF84D980C0446351B1BDC3AC 10<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 209042
+<auto><~Controls.866~>reveal 209 5DDB68015D28569F79377EB89528FDB2C0EE9AD2 4<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 058EA5
+<auto> playchosen E82B1E
+<game> bhilly<~Controls.1~> 3 4 1 5 2 null
+<game> bhilly<~Controls.1~> 5 6 4 null
+<bhilly> 2-1 BB5065
+<game> Mirdain<~Controls.1~> 4 5 2 null
+<game> Mirdain<~Controls.1~> 1 null
+<Mirdain> 1 56D150
+$bhilly<~Scribe.141~>022 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.2037~><~Scribe.144~> D73E93
+$Mirdain<~Controls.304~>094 <~Controls.305~><~Game.1991~> 0D7836
+$Mirdain<~Controls.313~>268 <~Controls.308~><~Controls.314~><~Game.1991~> 68767B
+<bhilly> stop draw 9F5F61
+$bhilly<~Controls.509~>177<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$bhilly<~Controls.644~>100 209 111 022 <~Controls.645~><~Game.2035~> 6F7007
+$Mirdain<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> AE0FDD
+$Mirdain<~CardBuffet.9~>reveal 157 AEBE7DF3DEC69A59DA7ECC4864CC23093134A81C 10<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> 7FB282
+$Mirdain<~Scribe.141~>157 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2029~><~Scribe.144~> 2189D2
+$Mirdain<~Controls.644~>212 <~Controls.645~><~Game.2035~> 390922
+$bhilly<~HighlightLabel.81~>104<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 05620F
+<bhilly> wlr 13A2E0
+$bhilly<~Controls.840~>194 31ADAA
+<Mirdain> nc 11C6E6
+<auto><~Controls.866~>reveal 194 E68C2826565E91F513FC5090631AC0F425D050C8 16<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 7C9082
+<bhilly> ff2 92D9DD
+<game> bhilly<~Controls.1~> 1 3 5 3 6 null
+<game> bhilly<~Controls.1~> 4 5 6 null
+<bhilly> 2 AA573B
+<game> Mirdain<~Controls.1~> 3 5 4 null
+<game> Mirdain<~Controls.1~> 6 null
+<Mirdain> sor 137E9B
+<bhilly> 1 E70B49
+<Mirdain> 1 A50738
+<Mirdain> yes 953273
+$bhilly<~Scribe.141~>023 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.2037~><~Scribe.144~> 6170C6
+$Mirdain<~Scribe.141~>266 <~Scribe.142~><~Game.1991~><~Scribe.143~><~Game.2037~><~Scribe.144~> FE5392
+<bhilly> stop draw A0D19D
+$bhilly<~Controls.509~>208<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$bhilly<~Controls.644~>104 194 266 023 <~Controls.645~><~Game.2035~> E05093
+$Mirdain<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 920945
+$Mirdain<~Controls.790~>247<~Controls.791~><~Game.528~><~Controls.792~><~Game.529~> F14619
+$Mirdain<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 0557CE
+$bhilly<~Controls.624~>236<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Mirdain<~Scribe.141~>157 <~Scribe.142~><~Game.2029~><~Scribe.143~><~Game.2036~><~Scribe.144~> 843A7C
+$Mirdain<~Scribe.141~>236 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2034~><~Scribe.144~> A32EAD
+$bhilly<~Controls.624~>218<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Mirdain<~Scribe.141~>236 <~Scribe.142~><~Game.2034~><~Scribe.143~><~Game.2035~><~Scribe.144~> 84B128
+$Mirdain<~Scribe.141~>242 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2037~><~Scribe.144~> 78F948
+$Mirdain<~Scribe.141~>245 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> 9096ED
+$Mirdain<~Controls.323~>245 537B93
+$Mirdain<~Controls.323~>247 1DACB8
+$Mirdain<~Controls.281~>236 <~Controls.282~><~Game.2035~><~Controls.283~><~Game.2044~> 38653E
+$Mirdain<~Controls.644~>157 218 242 <~Controls.645~><~Game.2035~> 45A040
+$bhilly<~HighlightLabel.81~>361<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> FB896C
+$bhilly<~Scribe.141~>reveal 208 0A5EE213DDEEE15F80C229DB6BC8E7DAD4BE2C27 22 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2036~><~Scribe.144~> 90673B
+<game> bhilly<~Controls.1~> 1 2 2 null
+<bhilly> welp DC5540
+<bhilly> this game has definitely happened B54594
+<bhilly> lol 056BBB
+<bhilly> nothing to be done 3CDC84
+$bhilly<~Controls.644~>361 208 <~Controls.645~><~Game.2035~> 8CA493
+$Mirdain<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> F3593D
+$Mirdain<~Controls.323~>247 81E62F
+$Mirdain<~Controls.644~>211 <~Controls.645~><~Game.2035~> 605B3A
+$bhilly<~HighlightLabel.81~>103<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 61379D
+<bhilly> wlr 0334B6
+$bhilly<~Controls.840~>177 97CAF2
+<Mirdain> nc 995F13
+<auto><~Controls.866~>reveal 177 03BB713C7F036AD63BE4CFD565589E90B2B93CED 8<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 1FB2E3
+<game> bhilly<~Controls.1~> 1 1 5 6 2 null
+<game> bhilly<~Controls.1~> 4 4 1 6 null
+<bhilly> 2 55584E
+<game> Mirdain<~Controls.1~> 3 6 null
+<Mirdain> 1 2F6D9F
+$bhilly<~Scribe.141~>423 <~Scribe.142~><~Game.29~><~Scribe.143~><~Game.31~><~Scribe.144~> 4485C2
+$Mirdain<~Controls.296~>098 268 088 <~Controls.297~><~Game.1991~> 89E539
+$bhilly<~Controls.509~>160<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$bhilly<~Controls.644~>103 177 <~Controls.645~><~Game.2035~> 3C0FA7
+$Mirdain<~Controls.726~>213 358 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 605D0E
+$Mirdain<~Controls.731~>211 212 210 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> BC761D
+$bhilly<~Controls.757~>360 099 105 101 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 226A2D
+<~Game.7~>7 null
+$bhilly<~Controls.762~>103 361 104 100 102 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 1D660B
+$bhilly<~Controls.509~>191<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$bhilly<~Controls.509~>180<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Mirdain<~Controls.509~>139<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Mirdain<~Controls.509~>146<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+<Mirdain> f ok AC19E8
+$bhilly<~Controls.281~>199 <~Controls.282~><~Controls.46~><~Controls.283~><~Game.2041~> A50453
+$bhilly<~Controls.372~>103 50273C
+$bhilly<~Controls.345~>103 361 104 100 102 360 099 105 101 <~Controls.346~>15 11 10 14 15 14 14 15 12 null
+$bhilly<~Scribe.141~>105 102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> 519D14
+$Mirdain<~Controls.345~>211 212 210 213 358 <~Controls.346~>4 3 0 4 1 null
+$Mirdain<~HighlightLabel.86~>210<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 6BB6BC
+$Mirdain<~Controls.790~>247<~Controls.791~><~Game.529~><~Controls.792~><~Game.532~> 12EDE2
+$Mirdain<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> CBE31B
+$bhilly<~Controls.624~>214<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Mirdain<~Controls.323~>247 7EC33F
+$Mirdain<~Controls.644~>214 <~Controls.645~><~Game.2035~> 6E2ED6
+$bhilly<~HighlightLabel.81~>360<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 8ADBF3
+$bhilly<~Scribe.141~>reveal 191 BA4C1696646EBBA03A5514E63BB1DAA5CB76F4C0 9 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2036~><~Scribe.144~> 2D94FB
+$bhilly<~Controls.281~>237 <~Controls.282~><~Game.2046~><~Controls.283~><~Game.2044~> 9B28B3
+$bhilly<~Controls.644~>360 191 <~Controls.645~><~Game.2035~> E2F5A5
+$Mirdain<~HighlightLabel.86~>358<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 82FCE2
+$Mirdain<~Controls.323~>247 FC698E
+$Mirdain<~Controls.644~>358 <~Controls.645~><~Game.2035~> 6F8882
+$bhilly<~HighlightLabel.81~>100<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 6DCB74
+$bhilly<~Scribe.141~>reveal 160 9566D1D9D37F6D3218584513EC718DBF9B6F3CB8 10 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2036~><~Scribe.144~> F0FC90
+$bhilly<~Controls.624~>225<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Mirdain<~Scribe.141~>245 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2037~><~Scribe.144~> F23457
+$Mirdain<~Scribe.141~>252 <~Scribe.142~><~Game.2019~><~Scribe.143~><~Game.2020~><~Scribe.144~> E3E63A
+$bhilly<~Controls.644~>100 160 225 245 <~Controls.645~><~Game.2035~> 329380
+$Mirdain<~Scribe.141~>364 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1999~><~Scribe.144~> 51D2C6
+<Mirdain> pass F1636B
+$bhilly<~HighlightLabel.81~>099<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 30A808
+$bhilly<~Controls.509~>173<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$bhilly<~Controls.644~>099 <~Controls.645~><~Game.2035~> 1ABA05
+$Mirdain<~HighlightLabel.86~>213<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> FB4FD4
+$Mirdain<~Scribe.141~>246 073 072 <~Scribe.142~><~Game.1925~><~Scribe.143~><~Game.1923~><~Scribe.144~> 28B8B7
+$Mirdain<~Scribe.141~>059 <~Scribe.142~><~Game.1973~><~Scribe.143~><~Game.1965~><~Scribe.144~> 83E0A4
+$Mirdain<~Controls.644~>213 <~Controls.645~><~Game.2035~> 455D0F
+$bhilly<~HighlightLabel.81~>104<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> C9537D
+$bhilly<~Scribe.141~>255 362 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2037~><~Scribe.144~> 000D32
+$bhilly<~Scribe.141~>255 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.1969~><~Scribe.144~> 07451A
+$bhilly<~Controls.644~>104 362 <~Controls.645~><~Game.2035~> CB12E9
+$Mirdain<~HighlightLabel.86~>212<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> F8B72D
+$Mirdain<~Scribe.141~>258 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> 57984C
+$Mirdain<~Controls.644~>212 <~Controls.645~><~Game.2035~> 16FE22
+$bhilly<~HighlightLabel.81~>101<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> 75379F
+$bhilly<~Scribe.141~>056 052 051 050 <~Scribe.142~><~Game.1986~><~Scribe.143~><~Game.1984~><~Scribe.144~> E24922
+$bhilly<~Scribe.141~>054 053 <~Scribe.142~><~Game.1987~><~Scribe.143~><~Game.1984~><~Scribe.144~> 1AD04A
+$bhilly<~Controls.644~>101 <~Controls.645~><~Game.2035~> 1E9C35
+$Mirdain<~HighlightLabel.86~>211<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> A35E75
+$Mirdain<~Scribe.141~>258 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> C6C13B
+$Mirdain<~Controls.644~>211 <~Controls.645~><~Game.2035~> 06B809
+$bhilly<~HighlightLabel.81~>361<~HighlightLabel.82~><~Game.2043~><~HighlightLabel.83~><~Game.2035~> BA3D87
+<bhilly> dale nc 86B37A
+<Mirdain> nc BDA097
+<game> bhilly<~Controls.1~> 3 2 6 4 6 null
+<game> Mirdain<~Controls.1~> 2 null
+<game> Mirdain<~Controls.1~> 2 null
+$Mirdain<~Controls.296~>068 066 <~Controls.297~><~Game.1970~> 511013
+$bhilly<~Scribe.141~>253 040 038 039 036 029 028 027 026 025 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1970~><~Scribe.144~> 1B3BFB
+$bhilly<~Controls.644~>361 <~Controls.645~><~Game.2035~> 8F3CF8
+$Mirdain<~Controls.726~>210 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 15B5CC
+$Mirdain<~Controls.731~>211 212 213 358 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> E59C31
+$bhilly<~Controls.757~>105 102 103 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 0E1C3C
+<~Game.7~>8 null
+$bhilly<~Controls.762~>361 101 104 362 099 100 360 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> B5D516
+$bhilly<~Controls.509~>162<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$bhilly<~Controls.509~>164<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Mirdain<~Controls.509~>135<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Mirdain<~Controls.509~>131<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$bhilly<~Controls.281~>164 <~Controls.282~><~Controls.46~><~Controls.283~><~Game.2041~> BDD869
+$Mirdain<~Controls.281~>135 <~Controls.282~><~Controls.45~><~Controls.283~><~Game.2039~> 13B51A
+$bhilly<~Controls.372~>361 235E31
+$Mirdain<~Controls.281~>140 <~Controls.282~><~Controls.45~><~Controls.283~><~Game.2039~> 8F88D6
+<Mirdain> ok 49E95F
+$bhilly<~Controls.345~>101 104 362 099 100 360 105 102 103 <~Controls.346~>14 13 14 15 10 13 11 12 10 null
+$bhilly<~Controls.350~>101 104 362 099 100 360 105 102 103 null
+$Mirdain<~Controls.345~>211 212 213 358 210 <~Controls.346~>3 4 1 0 3 null
+$Mirdain<~HighlightLabel.86~>358<~HighlightLabel.87~><~Game.2042~><~HighlightLabel.88~><~Game.2035~> 5852D8
+$Mirdain<~CardBuffet.9~>reveal 139 33B79EEDAD20309B24C628B1BE1208ABD3E245E1 2<~CardBuffet.10~><~Controls.45~><~CardBuffet.11~> 546392
+$Mirdain<~Scribe.141~>252 <~Scribe.142~><~Game.2020~><~Scribe.143~><~Game.2019~><~Scribe.144~> 5F9870
+$Mirdain<~Scribe.141~>247 <~Scribe.142~><~Game.532~><~Scribe.143~><~Game.533~><~Scribe.144~> 043F65
+$bhilly<~Controls.624~>223<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2036~> null
+<bhilly> gg 377298
+$Mirdain<~Scribe.141~>252 <~Scribe.142~><~Game.2019~><~Scribe.143~><~Game.2020~><~Scribe.144~> 7CCB7D
+<Mirdain> gg 13D99A
+<bhilly> teach me your ways. I usually roll -5 moves 2E9F11
+<bhilly> i like this "jsut run" thing 04473C
+<Mirdain> expromt) C49C31
+<Mirdain> improvisation 9ACD0B
+<bhilly> hehehe 67BB5A
+<Mirdain> thanks for game!) 69D0CC
+<bhilly> see you BF6004
+<~Talker.22~> null
+<Mirdain> see you! 5913D7

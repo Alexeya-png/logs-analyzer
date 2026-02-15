@@ -1,0 +1,844 @@
+<auto> silent null
+<auto><~Scribe.141~>363 397 398 402 401 400 399 403 404 376 375 374 373 377 378 <~Scribe.142~><~Game.2038~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>365 366 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 367 368 369 370 371 372 <~Scribe.142~><~Game.2040~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>230 231 <~Scribe.142~><~Game.2044~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>155 152 <~Scribe.142~><~Game.2004~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>137 151 <~Scribe.142~><~Game.2005~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>161 198 <~Scribe.142~><~Game.2006~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>163 188 <~Scribe.142~><~Game.2007~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Controls.323~>364 null
+<auto> noisy null
+<auto> silent null
+<auto><~Scribe.141~>312 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1965~><~Scribe.144~> null
+<auto> noisy null
+<~Game.7~>1 null
+<auto> silent null
+<auto><~Scribe.141~>363 397 398 402 401 400 399 403 404 376 375 374 373 377 378 <~Scribe.142~><~Game.2038~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>365 366 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 367 368 369 370 371 372 <~Scribe.142~><~Game.2040~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>230 231 <~Scribe.142~><~Game.2044~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>155 152 <~Scribe.142~><~Game.2004~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>137 151 <~Scribe.142~><~Game.2005~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>161 198 <~Scribe.142~><~Game.2006~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Scribe.141~>163 188 <~Scribe.142~><~Game.2007~><~Scribe.143~>Spare<~Scribe.144~> null
+<auto><~Controls.323~>364 null
+<auto> noisy null
+$base silent null
+$TEST<~Scribe.141~>312 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1965~><~Scribe.144~> null
+$base noisy null
+<game> Clive<~Controls.408~>[WOTR-Gandalf2 wotr base2] null
+<~Talker.31~> null
+<Laker> okay 
+<Clive> hi again 
+<Laker> 2 tokens league 
+$Clive<~Controls.281~>427 426 <~Controls.282~><~Game.2038~><~Controls.283~><~Game.2042~> 
+$Laker<~Controls.479~>6F358038CB831E503B85F40847569410C0534958 12A0DC172032176C60F7B3C529133FF6 24 0A6917ABD3DF203A78D905DC0FA6DA54B91AEBBD 4FF9D7DC5F950D67576BB70691F7CDB1 3E9F5B76CEFA54F469F53ED0F63251873A75CD8C D9044206D63B6CC47A1E27D3B9D650A7 453916F23BEA88C89CBFFE0543E4C73B55939979 4686410B2B37FF25A99D56593BE9F6F9 2C66F173440B0C95024B56D5AA25E43DB177C1BC BB8E41A4EF38D22D70E8BCBAAD2F7FC4 42F452F83AD56DBAA1C7DD001C80FEF1A208A7CD B1DD895A13DEB1B568C9BBFE36EDB2C5 5CBF93D5B940784E70ED05F09EDCDC74CCC4DE85 FC09F65A9ABDB15DDDD0D9D863B77425 B219E3D2AEF1B04F13C260941EF8D00DDAF2E508 09B707558F2E78F5B1D5CEA63B2F1066 12DC0D3E9D09E4D2F16D776E2996167F7FE72776 675A90D039F9AB0A7F205D1690B7A31B 1921861059D9320D3A4329B342E7AD7C2D7A2467 8855F32C8E67EFB302A5EFE597BC3EB7 4BF28C99230331809E38A8B2CF8C396EAB5CC8D9 C767C9A5E46897F6B8ED97BFBB60E459 6B223521882917ACF0C965D7B8717C30AD9A53E8 ACBCBABDEEBC044DC29D8CBAADA24B16 FA6AACCA79B3E8C3D34EF914D10C95E6BC4FA878 6F1AF551E55970770EADF335BF503374 60EB7268928B6E2A8979DFFB62B7C43B8D89B585 BAF4F71A05825BF0B7C2D17E725DB12E 818D942F6624E93792FABC4BF972ED46116F8D16 B367C84A3A3CE7DBAB51AAAC4D694A9D F8F5CF521BC4F89C760BEE9441C1ED6415203DF8 395F3B591B245ECD8E5BF2DAEF9517A7 152F8706CD7DE336330089311574E1CDEEAB33B9 6D6E247517C57633DDFD310B67F60D85 782178C7817F4CA442EC151AEB8718736897B926 731B1CD1EDF48301562DCF9AC330DC85 A0287BB80E2D5FE005FCEE1129C93FDF2DCD9653 79A3787461E12B5597433E02E62408E0 E5AC0BE968C9D5EF18CC4836DE524CAE72406705 F77A40F92CC5956C0543FB1F9FAC3FDF EE5329F845C2A6221CA9BEA9C0FB3AD23B2B52A4 380E8ECE3378897BEFF4785AF6C86C2D F5142062787B99C756DB1D4C3C9E45959754FB8A 1A865018FC4EFB7DF2456187C8D04E00 EB8DAE2603368434AB486F6BF65BD586F6A590FE 1195CD015DFD316F9E84548695745FC6 F1E54313FCEA48F284EC69ABF698FCC9AE4DF96A 7190047C75705BA559660B8098ABE3D2 9E90EB45C06E2FC4CAC07288F2CA153240F4F8B1 EC59539CE0D3400583F6998A17DE751E 24 E7B5EA88E4FA844ADA0267A961E45D1D2FB1D244 58DDC19626361950DAD3CF3EFCE057A8 EEC8C82C26864D1ED47212F3DF4D3BA4677B3FFE B526611A73807DA920609463A596B062 3E8FF619AB99378E17D1AAFF626BA79672878CD2 6E5477618DB57744FBC5E3F0F748C2F1 CF727BDCBCA22D663FE7E714503D5587F9348040 DFE901D301ACD2C71BF9FB26B9106451 B140D4841C60E98AACAB1F9BDC314537E145385C 1746ACA3A0B76EBAA114978D1EDED9AD 84E04D1031E12F1E6EC452A41472626E263F2AC1 DE42F08129F6B22BBFBB0245A3F6CB3A 5DA915952842C4FCEBFC5B2BB722E49D9BFC4371 F93FF34F47337AC99B60BAED1BFCD77D 2C922FDBE9A1D87E2BE22B9BD4C5F642A606A786 AC1E120EBD9755D77895247507D14297 BEFDAF63361E8BD575950F9EEF027DEE0D4630E0 7FF132F7DF97EEA117CC719D2BEEF363 1B700DDC724926DBBE46D90775780D56B6BF5E24 45641B0443D5F4675B279D0D5DFD5785 964F60D1CE2253B4277038E80387667619128E40 59207771B8E79B8F2B4376F39FCD5127 BB170E7995BDEFBDACFF9CE4779851AB26D075C2 2AB129DD774178D79B16A5BE70F43DCF 83E624283C2680FAF1D88117F039197F5CEF7456 FAAC3B3F98A2C9F24D5407975EB07E3A BFDD4EF946AC19708D6F880F6971E41D5576E9C0 E2256B91C7CF344F15EDD8ECE0E04ACC 6FF6BA32E7AE33786A7620ABCF5AF2FD47EF20D2 19A763D23780D533DB980FC46227D4CA 9A810260E94DC8A0D238CD87FC68490EFCA34D3C 75422227D6B6ACCAC5896B30A0858590 325411E37A00846194781C9A0CDB226752C90C04 30724EE2C1FAFE3495AD3D4B370D5D50 AB19E48648566F0D7EAE75FDB607BA2017270922 EFD298E6F922797C4F2106D178747861 D49120D1CFA7FA3CE5C716440854B46C73DEE41E 00FABC2A57A929ED1EBB13827FA4158F 27143CB368D119FABD0B87AFCAD389B4D3725E8E E3EBD39BBDB8C74277CE77708494C554 6F8DD681E221EE740EA045F2729A4D63147396A0 0BF778798E6AA0A57E8E2F157006A17B 93F6FA93970EAAA85EBEBBB3A81562B545298977 E5F61AD75FE715FCA9B29678B3F83352 7CCB845236A753CD04FC1CDD29224FA1D307D29A 1943F0BAEE5E23CCA3414DF554E1CDDE 36598FA97AFB3B5883089735811AAD71848FAEF8 0FCFA36D520B143872A6F44A48063270 0 0 553D8F
+$Clive<~Controls.464~>B22F2A3EE565019D91F23576C5E6CBC26F10A0E9 B4A57D6BE82AE1F8E1FE0E8D0317B559 24 8D160579232920B240C09DE275E19CB4A6DF5C84 1BB2EEF24DB2F09446C98BDC4BBAE8AD 26822EC61CB4108D6E292990BCAE171F3238E9B8 11285C49CA5047C1D286C0666E0303FE 74EF6A61AC473257546DF5E7450F0D9F79F03DA5 33C1AE37A47C28E1E4025BB308A1899E 48A302F57C95C0BC45B7F1E3BC7FC5A61C263EE6 B70C769B7367A236CB96E66C5957B2F8 B2C9BEF23EE218D0B858BFBCF1A954EB690EA62C B04884D61698CCAFADEEB4875BAD9376 CF9B9BD270CD60F9B0FC601635C3E37B33ADD482 8F0B9801E6AF01A5AAB8930B16D70A4E FE9F607C5E1B6406BE5373B989311A3BA568B94D EC8138BE2DCFD3FB40A20BBB3371659E 8E8CDB725AB4D4038AA837B0F7F076306759C0B7 8644F19AD94C7E5AF047C797CFE1B26E C17A319859C6C33D79C6305C44B6C25FE437B800 880A67946CB58E0422FB864C92728AF4 838A9CDF99B895E2D585EB7B5DE2B7784D05DF8E 0EBC8E953645AA764582F0ABFF775092 72D06D65A844B9F8127F0C16CE61ABA6FF0ECE8B E6A8E4F5C651F4333A37D8F60C1AD631 749EAEE5E7ABC866A649D170F0E64E54BAE5778B 9AE719DE9D56ED76F227935EF591D4D9 F8A6CF0AC82CADE8D0DE2F0662B78224F4C7B54D AE208A7E2599E990551DB8FE4CF17D83 287A983AF2A52AE417030F9F3EB2E8BAFCFFB9A0 254A2CEFE197B9E165ACAF3F55C66A86 104B9AE774CA89DFD199F4148AE337868CE4F539 4A17D5FAE4B80D14A3B5D1869031CD3D 25E669051E3CC6C3BC6266D8B44901BB63214BD3 AC20CA9787EBC105B1F6D03B96404777 925903F6CDE150F54A1B51B8B064F2BE16B9AE41 690811425631D5BC38921B5428A24B83 E86E957691CA09451F3184F010491B2C010AE74F AF1ED6304A429C7D0BB2E1BD8407CD6D B5E05CB5A824274B87F4498A098B9528B161772E 804AFA9B3DC0FD738CA7E18BFAC6719D 07E640AC35426CA984E19482BB3B8360814F79B8 B43A902199AD790B4E2E2BABBF93C64C 02D76A154F4FFFD14F0E621C50FCAF768A168506 44230D41531BA59FFBB4011B015F448D 3F0E2D12152806A6EC223F556760A58E4F3A854F C48A71C31742DE6B78D01F1F3BB6AAA4 F73148FF62A1FD9E67365AA0AA0A4BA0F0E7B46E 31ECF278C47A8CCC463D1C24CA32710B D422EF905E2B69AA8E43E399EFF2C057D59975FD ED30F7AD1BCA82F12B13D31EBFCE2764 24 8E2238CD43003B088372D20E0BBCF3120ADA82AD 0647BF16B2F352F7110FBC08F532C7C8 731B4164038446111186E98B427C0216F717CE40 BE572E332E48CA172D1741D666526F71 586A51BB642926E2B5C40DC1AAD3DDDE7F25199B 4762EF96B0A2B0CF635DB65FBAE62341 FDE44814D38E2D155880462556A1830DD179A9DF CD3E135E8F4975BCE8C3C75320A2FB45 470AB6DAC91064D61AE2D35387E7F8FCA724BF9B BA4D5DEF48A6FCC628684571612A30DC 4E126D208B180DB412168FAB387DCC78560A21DA 35571514B2087D5CEA7773203231CA63 8D0D327CAEC6BB206013124A9D8233B7345B88A4 EA5E993575E987DAB2B49F9FC93D8668 5D49E5C9476B2BF16A66090ADFABBA7ED724AB03 10705213BC5F408366490186B2FB43A0 DEFF07DF02EB6DB53296D9F78B048239A156AC9C A7A55B9C29BE96D134D60D79E2221B37 0AECA4B22917F1D29A03647E693A7DD946AEC8EE 02F35A67098B6C96B2D6B8CD0C4D4ECE 540ECA447C3CB776C6E324F7BBD2B8F5F720BC19 8470FFECC947031646C6C00E334C053E E6B6D142059B85605A82331C957500DCCFDD8719 AE309196A7BB4B4CC7A67F4580D63D46 A48CCC6ACE2B5C1CBF9435BC42345F3E69DA83A3 58E13A8EACB5D26564CDEA91549BFAB2 8202F08EFB736E490C8C74AB093878CE16BA8590 3EBD753AD8796365C419C862A115A627 CC999020D4204B04227DB0BA9B4EC345FD64AEDE BE91845D9F4D475B6FFBDC2675AF1F7F C9C618D6D767F9E99538B2365DDFF9A2DBE5BDF3 DFDC72ED94D78CB56CE93DEDD70A3FF6 C5FFB83A307E92D0CE05262F16E7B274D8D0B0F0 9547D91C634639302A302B54D68302C7 6128B1E5179C942ADE79C2D951B58A023B5D9D4C 4200F9780573F023A33952B5DE3F5B60 256BA61AE37A0E99C7DBD0075F3ABE682BDA9310 80B9D3FA2E72C030BEB318724D5EDA82 AB7AB7BCF7A04CA256923EA9A9AE213C2DA6E956 1D51FEF60849900CF43809FD451EA892 38F94527B7957E3E7E584680467F2A9E15BE3ABD 666348C726B97808365FCF04C30D67CC D1BEA32A61E3EA35779471A0F0AFDD3425D7D3CC A84E332AB35749590E51AB63F095327A 4D04EA10B8BAF33CE1F7865A1B4974AD77126673 F36AD7BAE963EB74045523FAB7780919 6572E0B25D98E9CECA55E02EAC83826AD393FF41 217A7EA8C91077BB42E73BD79713EABA 0 0 A6541F
+$Laker<~Controls.509~>203<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Laker<~Controls.509~>171<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Clive<~Controls.509~>128<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Clive<~Controls.509~>119<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+<Clive> fsp ok E193E7
+<Clive> gl hf 04C183
+$Laker<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> 50452B
+$Laker<~Controls.345~>104 103 102 101 100 099 <~Controls.346~>14 15 10 15 10 11 null
+$Laker<~Controls.350~>104 103 102 101 100 099 null
+$Clive<~Controls.345~>213 212 211 210 <~Controls.346~>1 4 2 4 null
+$Clive<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> A1BB45
+$Clive<~Scribe.141~>reveal 128 01ED6953548CB0B05C652DA98708F06C95C3F96B 22 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2029~><~Scribe.144~> 876CC9
+$Clive<~Controls.509~>123<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Clive<~Controls.644~>211 <~Controls.645~><~Game.2035~> D79F47
+$Laker<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 71516B
+$Laker<~Scribe.141~>263 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 559457
+$Laker<~Controls.644~>102 <~Controls.645~><~Game.2035~> 973B83
+$Clive<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> B2AC02
+$Clive<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 382405
+$Clive<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 58FB70
+<game> Laker<~Controls.1~> 6 4 6 null
+$Laker<~Controls.624~>223<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Clive<~Scribe.141~>128 <~Scribe.142~><~Game.2029~><~Scribe.143~><~Game.2037~><~Scribe.144~> FA8C2D
+$Clive<~Controls.644~>128 223 <~Controls.645~><~Game.2035~> 1AC1B9
+$Laker<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> EE7B83
+$Laker<~Controls.509~>164<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Laker<~Controls.644~>104 <~Controls.645~><~Game.2035~> 2739B4
+$Clive<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> E250A4
+$Clive<~Scribe.141~>065 <~Scribe.142~><~Game.1941~><~Scribe.143~><~Game.1957~><~Scribe.144~> 6E8492
+$Clive<~Scribe.141~>073 072 <~Scribe.142~><~Game.1929~><~Scribe.143~><~Game.1925~><~Scribe.144~> 0CE6AE
+$Clive<~Controls.644~>210 <~Controls.645~><~Game.2035~> EF3A6F
+$Laker<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 09B70A
+$Laker<~Scribe.141~>254 360 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2037~><~Scribe.144~> BDA027
+$Laker<~Scribe.141~>254 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.1919~><~Scribe.144~> 0AB274
+$Laker<~Controls.644~>100 360 <~Controls.645~><~Game.2035~> 82E410
+$Clive<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> A5E198
+$Clive<~Scribe.141~>256 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> AD8971
+$Clive<~Controls.644~>212 <~Controls.645~><~Game.2035~> C3F28E
+$Laker<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> E3F5AE
+$Laker<~Scribe.141~>262 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> DF3DA4
+$Laker<~Controls.644~>099 <~Controls.645~><~Game.2035~> E78912
+$Clive<~Controls.509~>154<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Clive<~Controls.509~>118<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Clive<~Controls.757~>103 101 105 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 41B849
+$Clive<~Controls.762~>099 100 360 104 102 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 7624C8
+$Clive<~Controls.726~>213 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 11035C
+<~Game.7~>2 null
+$Clive<~Controls.731~>212 210 211 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 4F0E5F
+$Laker<~Controls.509~>208<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Laker<~Controls.509~>176<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<Clive> fsp ok 37A03B
+$Laker<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> 90B69C
+$Laker<~Controls.345~>099 100 360 104 102 103 101 <~Controls.346~>10 11 11 10 13 12 11 null
+$Laker<~Controls.350~>099 100 360 104 102 103 101 null
+$Clive<~Controls.345~>212 210 211 213 <~Controls.346~>1 4 1 3 null
+<Clive> pass 1E3F3D
+$Laker<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 931A39
+$Laker<~Scribe.141~>261 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> 70C297
+$Laker<~Controls.644~>104 <~Controls.645~><~Game.2035~> 47921D
+<Clive> pass 112DE2
+$Laker<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 760897
+$Laker<~Scribe.141~>261 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 4DDCC8
+$Laker<~Controls.644~>099 <~Controls.645~><~Game.2035~> 8E8206
+<Clive> pass B48035
+$Laker<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 19EA38
+$Laker<~Scribe.141~>326 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1910~><~Scribe.144~> BB4AC8
+$Laker<~Controls.644~>100 <~Controls.645~><~Game.2035~> 7AF549
+$Clive<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 3ECBC8
+$Clive<~Controls.790~>248<~Controls.791~><~Game.2015~><~Controls.792~><~Game.2016~> 87C3A6
+$Clive<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 9F374F
+<game> Laker<~Controls.1~> 1 null
+$Laker<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 674081
+$Laker<~Scribe.141~>326 001 <~Scribe.142~><~Game.1910~><~Scribe.143~><~Game.1917~><~Scribe.144~> F40C4A
+$Laker<~Scribe.141~>040 035 015 014 013 012 <~Scribe.142~><~Game.1956~><~Scribe.143~><~Game.1953~><~Scribe.144~> D5565B
+$Laker<~Controls.644~>103 <~Controls.645~><~Game.2035~> E43268
+$Clive<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 5C66D6
+$Clive<~Controls.790~>248<~Controls.791~><~Game.2016~><~Controls.792~><~Game.2017~> 416F68
+$Clive<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 04144B
+<game> Laker<~Controls.1~> 4 null
+$Laker<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 3A1F7E
+$Laker<~Scribe.141~>040 035 015 014 013 012 <~Scribe.142~><~Game.1953~><~Scribe.143~><~Game.1927~><~Scribe.144~> F78AA6
+$Laker<~Scribe.141~>326 001 008 007 <~Scribe.142~><~Game.1917~><~Scribe.143~><~Game.1927~><~Scribe.144~> 47AB26
+$Laker<~Controls.644~>101 <~Controls.645~><~Game.2035~> 0737C4
+$Clive<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> D3488B
+$Clive<~Scribe.141~>260 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> 6A9309
+$Clive<~Controls.644~>213 <~Controls.645~><~Game.2035~> 455173
+$Laker<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 8204C5
+$Laker<~Scribe.141~>reveal 176 D913A133255F420B2B71A46E395527E298BDEC17 18 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 5529B3
+$Laker<~Scribe.141~>351 352 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1986~><~Scribe.144~> 4725CD
+$Laker<~Scribe.141~>349 350 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1987~><~Scribe.144~> CB30CB
+$Laker<~Scribe.141~>348 353 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1946~><~Scribe.144~> 89565C
+$Laker<~Controls.644~>360 176 <~Controls.645~><~Game.2035~> 1AF519
+$Clive<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 55F88F
+$Clive<~Controls.366~>251<~Controls.367~><~Game.2010~><~Controls.368~><~Game.2011~> 829E8C
+$Clive<~Controls.790~>248<~Controls.791~><~Game.2017~><~Controls.792~><~Game.2018~> DCC196
+$Clive<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 246F5F
+<game> Laker<~Controls.1~> 5 null
+$Laker<~Controls.624~>228<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Clive<~Scribe.141~>240 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2037~><~Scribe.144~> 7FFAA9
+$Clive<~Scribe.141~>241 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> 9EF871
+$Clive<~Controls.644~>228 240 <~Controls.645~><~Game.2035~> 0F4A7B
+$Laker<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 16AB69
+$Laker<~Scribe.141~>039 036 029 028 027 026 <~Scribe.142~><~Game.1979~><~Scribe.143~><~Game.533~><~Scribe.144~> CC104C
+$Laker<~Controls.644~>102 <~Controls.645~><~Game.2035~> FC1634
+$Clive<~Scribe.141~>039 036 029 028 027 026 <~Scribe.142~><~Game.533~><~Scribe.143~><~Game.1977~><~Scribe.144~> 7DF651
+$Clive<~Controls.726~>210 212 211 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> A163F2
+$Clive<~Controls.731~>213 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 636632
+$Clive<~Controls.509~>126<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Clive<~Controls.509~>153<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Laker<~Controls.757~>105 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> B7BDA4
+<~Game.7~>3 null
+$Laker<~Controls.762~>102 360 101 103 100 099 104 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 02D6B5
+$Laker<~Controls.509~>174<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Laker<~Controls.509~>187<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<Clive> fsp ok 5CD8F6
+$Laker<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> 140254
+$Laker<~Controls.345~>102 360 101 103 100 099 104 <~Controls.346~>15 12 11 10 12 12 10 null
+$Laker<~Controls.350~>102 360 101 103 100 099 104 null
+$Clive<~Controls.345~>213 210 212 211 <~Controls.346~>1 1 0 2 null
+$Clive<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 31E329
+$Clive<~Scribe.141~>240 <~Scribe.142~><~Game.2039~><~Scribe.143~><~Game.1921~><~Scribe.144~> F7D016
+$Clive<~Scribe.141~>358 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.2037~><~Scribe.144~> 7037C0
+$Clive<~Controls.323~>240 8970B0
+$Clive<~Controls.644~>212 358 <~Controls.645~><~Game.2035~> ED3460
+$Laker<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 7EC1B4
+$Laker<~Scribe.141~>324 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1910~><~Scribe.144~> AE4B29
+$Laker<~Controls.644~>104 <~Controls.645~><~Game.2035~> 6019D9
+<Clive> pass D96101
+$Laker<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 48F6D9
+$Laker<~Scribe.141~>325 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1910~><~Scribe.144~> 8F9F4C
+$Laker<~Controls.644~>103 <~Controls.645~><~Game.2035~> 9AD95F
+<Clive> pass D80AA0
+$Laker<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 230212
+$Laker<~Scribe.141~>322 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1910~><~Scribe.144~> 5A1D8C
+$Laker<~Controls.644~>101 <~Controls.645~><~Game.2035~> 92553A
+$Clive<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 77508F
+$Clive<~Scribe.141~>reveal 153 851B90B028505B872315E2E59D4A1EE9B9160666 5 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2029~><~Scribe.144~> 5D9528
+$Clive<~Scribe.141~>258 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> 9CD829
+$Clive<~Controls.644~>211 <~Controls.645~><~Game.2035~> 10F1B5
+$Laker<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 2AFE18
+$Laker<~Scribe.141~>251 <~Scribe.142~><~Game.2011~><~Scribe.143~><~Game.2037~><~Scribe.144~> AFBAAF
+$Laker changes 100  to P 38360F
+$Laker<~Scribe.141~>reveal 187 82FE0CF7E0CC40398B78B394A1147FAA9C6168BC 12 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2036~><~Scribe.144~> 60293D
+$Laker<~Scribe.141~>331 332 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1912~><~Scribe.144~> BA7028
+$Laker<~Scribe.141~>322 325 324 <~Scribe.142~><~Game.1910~><~Scribe.143~><~Game.1912~><~Scribe.144~> 6E99C1
+$Laker<~Scribe.141~>000 <~Scribe.142~><~Game.1914~><~Scribe.143~><~Game.1912~><~Scribe.144~> DC8263
+$Laker<~Controls.644~>100 187 251 <~Controls.645~><~Game.2035~> F1A9A7
+$Clive<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 323C3F
+$Clive<~Controls.790~>248<~Controls.791~><~Game.2018~><~Controls.792~><~Game.2019~> 7974D9
+$Clive<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 28E297
+<game> Laker<~Controls.1~> 6 3 null
+$Laker<~Controls.624~>221<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Laker> 2r ED4872
+<Laker> 1r 5F4B84
+$Clive<~Scribe.141~>252 <~Scribe.142~><~Game.2014~><~Scribe.143~><~Game.2015~><~Scribe.144~> FCF95A
+$Clive<~Scribe.141~>247 <~Scribe.142~><~Game.1911~><~Scribe.143~><~Game.1915~><~Scribe.144~> 11CAEF
+$Clive<~Scribe.141~>247 <~Scribe.142~><~Game.1915~><~Scribe.143~><~Game.1912~><~Scribe.144~> 05FB0D
+$Clive<~Scribe.141~>247 <~Scribe.142~><~Game.1912~><~Scribe.143~><~Game.1917~><~Scribe.144~> E3EBC2
+$Clive<~Scribe.141~>247 <~Scribe.142~><~Game.1917~><~Scribe.143~><~Game.1927~><~Scribe.144~> 0E489A
+$Clive<~Scribe.141~>247 <~Scribe.142~><~Game.1927~><~Scribe.143~><~Game.1930~><~Scribe.144~> AB9402
+$Clive<~Controls.323~>247 964F5E
+<Clive> moria B6DBF3
+$Laker<~Scribe.141~>221 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2036~><~Scribe.144~> 89BD6C
+$Laker<~Controls.624~>227<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Laker> perfect 66FAD6
+<Clive> random 4D49BF
+$Laker<~Controls.637~>242<~Controls.638~><~Game.1998~><~Controls.639~><~Game.2037~> null
+$Clive<~Scribe.141~>252 <~Scribe.142~><~Game.2015~><~Scribe.143~><~Game.2016~><~Scribe.144~> F402ED
+$Clive<~Controls.644~>221 227 242 <~Controls.645~><~Game.2035~> 613F02
+$Laker<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 98B370
+$Laker<~Scribe.141~>322 325 324 000 331 332 <~Scribe.142~><~Game.1912~><~Scribe.143~><~Game.1908~><~Scribe.144~> 873B1B
+$Laker<~Scribe.141~>039 036 029 028 027 026 <~Scribe.142~><~Game.1977~><~Scribe.143~><~Game.1974~><~Scribe.144~> 455EE6
+$Laker<~Controls.644~>360 <~Controls.645~><~Game.2035~> C57F1C
+$Clive<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 23AF6C
+$Clive<~Controls.323~>247 8C9986
+$Clive<~Controls.644~>213 <~Controls.645~><~Game.2035~> 73ED35
+$Laker<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 2E9771
+$Laker<~Scribe.141~>039 038 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1974~><~Scribe.143~><~Game.1976~><~Scribe.144~> 36F4ED
+$Laker<~Scribe.141~>056 351 352 052 051 050 <~Scribe.142~><~Game.1986~><~Scribe.143~><~Game.1984~><~Scribe.144~> B92B08
+$Laker<~Controls.644~>099 <~Controls.645~><~Game.2035~> 2B6184
+$Clive<~Scribe.141~>426 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 6FD9E3
+$Clive<~Scribe.141~>256 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> D66A57
+$Clive<~Controls.644~>426 <~Controls.645~><~Game.2035~> 2A32CB
+$Clive<~Controls.509~>125<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Clive<~Controls.509~>120<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Laker<~Controls.757~>102 105 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> A4D06D
+$Laker<~Controls.762~>099 360 100 101 103 104 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> C16F82
+$Clive<~Controls.726~>210 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> DBCCC3
+<~Game.7~>4 null
+$Clive<~Controls.731~>213 211 212 358 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 2451BA
+$Laker<~Controls.509~>167<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Laker<~Controls.509~>186<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Laker<~Controls.281~>174 <~Controls.282~><~Controls.46~><~Controls.283~><~Game.2041~> 09F7D9
+$Clive<~Controls.296~>123 <~Controls.297~><~Controls.45~> 0767A0
+<Clive> fsp ok 6FB83C
+$Laker<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> 66549B
+$Laker<~Controls.345~>099 360 100 101 103 104 102 <~Controls.346~>11 10 15 15 10 11 14 null
+$Laker<~Controls.350~>099 360 100 101 103 104 102 null
+$Clive<~Controls.345~>213 211 212 358 210 <~Controls.346~>1 1 3 4 4 null
+$Clive<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 399FFC
+$Clive<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 0EE265
+$Clive<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 7EF09C
+<game> Laker<~Controls.1~> 6 2 5 null
+$Laker<~Controls.624~>218<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Clive> random FF0E79
+$Laker<~Controls.637~>246<~Controls.638~><~Game.1998~><~Controls.639~><~Game.2036~> null
+$Clive<~Scribe.141~>246 <~Scribe.142~><~Game.2036~><~Scribe.143~><~Game.1928~><~Scribe.144~> 2E9A3F
+$Clive<~Scribe.141~>252 <~Scribe.142~><~Game.2016~><~Scribe.143~><~Game.2017~><~Scribe.144~> 551DB5
+$Clive<~Scribe.141~>247 <~Scribe.142~><~Game.1930~><~Scribe.143~><~Game.1937~><~Scribe.144~> 6AEB35
+$Clive<~Controls.323~>247 E44CBA
+$Clive<~Controls.644~>218 <~Controls.645~><~Game.2035~> 020D78
+$Laker<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> BAEEC8
+$Laker<~Scribe.141~>347 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1987~><~Scribe.144~> 730A15
+$Laker<~Controls.644~>103 <~Controls.645~><~Game.2035~> 33E98B
+$Clive<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 634855
+$Clive<~Controls.323~>247 EA84A9
+$Clive<~Controls.644~>212 <~Controls.645~><~Game.2035~> D6BEF3
+$Laker<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> F50DC9
+$Laker<~Controls.281~>104 <~Controls.282~><~Game.2035~><~Controls.283~><~Game.2043~> E4E0D6
+$Laker<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 892439
+<Laker> rivendell 739F40
+$Clive<~Scribe.141~>096 091 090 <~Scribe.142~><~Game.1911~><~Scribe.143~><~Game.1990~><~Scribe.144~> 9DED81
+$Laker<~Scribe.141~>322 325 324 000 331 332 <~Scribe.142~><~Game.1908~><~Scribe.143~><~Game.1911~><~Scribe.144~> 185809
+$Clive<~Scribe.141~>256 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 3CBB54
+$Laker<~Scribe.141~>256 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> D222FE
+$Laker<~Controls.644~>104 <~Controls.645~><~Game.2035~> 12154B
+$Clive<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 2DE32D
+$Clive<~Scribe.141~>267 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1928~><~Scribe.144~> F86057
+$Clive<~Controls.644~>358 <~Controls.645~><~Game.2035~> F362CF
+$Laker<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> D392AF
+<Laker> lorien 250113
+$Clive<~Scribe.141~>246 097 267 093 092 087 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.1992~><~Scribe.144~> 726750
+$Laker<~Scribe.141~>040 326 035 001 008 007 015 014 013 012 <~Scribe.142~><~Game.1927~><~Scribe.143~><~Game.1928~><~Scribe.144~> 8F6DAE
+$Laker<~Controls.644~>099 <~Controls.645~><~Game.2035~> 202AC0
+$Clive<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 3E0D4B
+$Clive<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 88C73B
+$Clive<~Controls.795~>213<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 937B9A
+<game> Laker<~Controls.1~> 2 1 3 null
+$Laker<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> D943B3
+$Laker<~Scribe.141~>253 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1911~><~Scribe.144~> F5617A
+$Laker<~Scribe.141~>361 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2037~><~Scribe.144~> B1485F
+$Laker<~Controls.644~>360 361 <~Controls.645~><~Game.2035~> A993FA
+$Clive<~Controls.323~>259 257 85A2F4
+$Laker<~Controls.323~>260 C4B10A
+$Laker<~Scribe.141~>260 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2001~><~Scribe.144~> B8CFA8
+$Clive<~Controls.323~>258 54CF15
+$Laker<~Scribe.141~>260 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> 43847B
+$Clive<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 725AD0
+$Clive<~Scribe.141~>260 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> DBA89B
+$Clive<~Controls.644~>210 <~Controls.645~><~Game.2035~> 6D508C
+$Laker<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 3D905E
+$Laker<~Scribe.141~>reveal 167 79EE5151E98D48DC9F7BDD18D1002B62B6605804 8 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> A89B18
+<Laker> rivendell CB4E09
+$Laker<~Scribe.141~>320 321 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1911~><~Scribe.144~> 069184
+$Clive<~Scribe.141~>167 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2034~><~Scribe.144~> B8D653
+$Laker<~Scribe.141~>167 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2034~><~Scribe.144~> E2AC2B
+$Laker<~Controls.840~>164 886747
+$Clive<~Controls.840~>119 71DF6B
+<auto> playchosen 7FCF4C
+<auto><~Controls.3~>reveal 119 FF62B2B0228244D16DDBBACD2670DCBD9E3CF4A7 1<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 995088
+<auto><~Controls.866~>reveal 164 2987034D3047E503FAABB0AA4DFB331283D3CB91 16<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 0885D1
+<auto> playchosen A481EF
+<game> Laker<~Controls.1~> 4 3 3 2 1 null
+<game> Laker<~Controls.1~> 6 1 3 6 null
+<Laker> 2 403F83
+<game> Clive<~Controls.1~> 3 3 null
+<game> Clive<~Controls.1~> 5 null
+<Clive> 1 2784A4
+<Clive> +1 560A22
+$Clive<~Controls.304~>090 <~Controls.305~><~Game.1990~> 048499
+$Clive<~Controls.313~>269 <~Controls.307~><~Controls.314~><~Game.1990~> 400805
+$Clive<~Controls.304~>091 <~Controls.305~><~Game.1990~> F52FF3
+$Clive<~Controls.313~>268 <~Controls.307~><~Controls.314~><~Game.1990~> B05A57
+$Laker<~Controls.304~>325 324 <~Controls.305~><~Game.1911~> 504E8C
+$Laker<~Controls.313~>329 330 <~Controls.307~><~Controls.314~><~Game.1911~> D7FE6B
+$Laker<~Scribe.141~>332 <~Scribe.142~><~Game.1911~><~Scribe.143~><~Game.2036~><~Scribe.144~> 55C069
+<Laker> press draw A0E64D
+$Laker<~Controls.662~>164 332 119 <~Controls.663~><~Game.2035~> C739A4
+$Laker<~Controls.509~>190<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+<Laker> nc F0CA1E
+$Clive<~Controls.840~>126 EB7721
+<auto><~Controls.861~>reveal 126 9C810A4108307800DD397AA723AFE7AB199727CA 2<~Controls.862~><~Controls.45~><~Controls.863~><~Game.2037~> 596F80
+<game> Laker<~Controls.1~> 2 3 3 6 2 null
+<game> Laker<~Controls.1~> 4 1 5 5 null
+<Laker> 1 9AAAA9
+<game> Clive<~Controls.1~> 6 3 null
+<game> Clive<~Controls.1~> 2 null
+<Clive> 1 9A9260
+$Laker<~Scribe.141~>331 <~Scribe.142~><~Game.1911~><~Scribe.143~><~Game.2036~><~Scribe.144~> F60409
+$Clive<~Scribe.141~>096 <~Scribe.142~><~Game.1990~><~Scribe.143~><~Game.2037~><~Scribe.144~> 89326E
+<Laker> press 96F987
+$Laker<~Controls.662~>331 126 096 <~Controls.663~><~Game.2035~> C92E14
+$Laker<~Controls.304~>322 <~Controls.305~><~Game.1911~> 2B49D2
+$Laker<~Controls.313~>331 <~Controls.307~><~Controls.314~><~Game.1911~> 13FD6A
+$Laker<~Controls.840~>171 6497D4
+<Clive> nc B17B4C
+<auto><~Controls.866~>reveal 171 C6E6CD6DFB5621C531A78916E39973CFC82EB258 2<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 8F34A3
+<game> Laker<~Controls.1~> 3 4 3 2 null
+<game> Laker<~Controls.1~> 6 1 2 3 null
+<Laker> 1 C38DEE
+<game> Clive<~Controls.1~> 4 5 null
+<Clive> 1 C83A3B
+$Clive<~Scribe.141~>269 <~Scribe.142~><~Game.1990~><~Scribe.143~><~Game.2037~><~Scribe.144~> 0BCBC7
+$Laker<~Scribe.141~>331 <~Scribe.142~><~Game.1911~><~Scribe.143~><~Game.2036~><~Scribe.144~> F0225C
+$Laker<~Scribe.141~>167 <~Scribe.142~><~Game.2034~><~Scribe.143~><~Game.2036~><~Scribe.144~> 8CC06F
+$Laker<~Controls.644~>102 167 171 331 269 <~Controls.645~><~Game.2035~> AE0767
+$Clive<~Controls.726~>213 211 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 086713
+$Clive<~Controls.731~>210 358 212 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 0C9E58
+$Clive<~Controls.509~>148<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Clive<~Controls.509~>110<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Laker<~Controls.757~>100 101 105 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 70C077
+<~Game.7~>5 null
+$Laker<~Controls.762~>102 360 361 099 104 103 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> F0E486
+$Laker<~Controls.509~>166<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Laker<~Controls.509~>170<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Clive<~Scribe.141~>247 <~Scribe.142~><~Game.1937~><~Scribe.143~><~Game.1948~><~Scribe.144~> AD4A27
+$Clive<~Scribe.141~>248 <~Scribe.142~><~Game.2015~><~Scribe.143~><~Game.2014~><~Scribe.144~> DB95D8
+$Laker<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> BD3661
+<Clive> fsp ok 091155
+$Laker<~Controls.345~>102 360 361 099 104 103 100 101 <~Controls.346~>11 10 11 12 13 14 13 12 null
+$Laker<~Controls.350~>102 360 361 099 104 103 100 101 null
+$Clive<~Controls.345~>210 358 212 213 211 <~Controls.346~>1 4 3 0 0 null
+$Clive<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 56FA42
+$Clive<~Scribe.141~>241 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.1942~><~Scribe.144~> E1ED41
+$Clive<~Scribe.141~>241 <~Scribe.142~><~Game.1942~><~Scribe.143~><~Game.1944~><~Scribe.144~> 1B393B
+$Clive<~Scribe.141~>243 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> C9E07D
+$Clive<~Controls.644~>213 <~Controls.645~><~Game.2035~> 461AC9
+$Laker<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 65B895
+$Laker<~Scribe.141~>reveal 186 EF9595090FE6549796727530F9930C787929F947 21 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 73F8A8
+$Laker<~Scribe.141~>322 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1911~><~Scribe.144~> EA26E3
+$Laker<~Controls.644~>103 186 <~Controls.645~><~Game.2035~> 3A33B8
+$Clive<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 137869
+$Clive<~Controls.323~>241 D0D4B3
+$Clive<~Scribe.141~>359 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.2037~><~Scribe.144~> 48F35D
+$Clive<~Controls.644~>211 359 <~Controls.645~><~Game.2035~> D37176
+$Laker<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 810145
+<Laker> rivendell 45293E
+<Laker> nc C5D350
+<Clive> nc 65DD7D
+<game> Laker<~Controls.1~> 5 2 3 5 null
+<game> Laker<~Controls.1~> 6 3 3 5 null
+<Laker> 1 FDF88B
+<game> Clive<~Controls.1~> 5 null
+$Laker<~Scribe.141~>329 <~Scribe.142~><~Game.1911~><~Scribe.143~><~Game.2037~><~Scribe.144~> 334E06
+$Clive<~Scribe.141~>268 <~Scribe.142~><~Game.1990~><~Scribe.143~><~Game.2037~><~Scribe.144~> C2A545
+$Laker<~Controls.644~>104 329 268 <~Controls.645~><~Game.2035~> 1B57A4
+$Laker<~Scribe.141~>423 <~Scribe.142~><~Game.27~><~Scribe.143~><~Game.29~><~Scribe.144~> 91D010
+<Clive> pass 9DB009
+<Clive> w8 1F7288
+<Laker> ok E66365
+$Clive<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> E96553
+$Clive<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> DE058E
+$Clive<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 42643E
+<game> Laker<~Controls.1~> 5 null
+$Laker<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> C9EC7F
+$Laker<~Scribe.141~>reveal 166 50054B20BEEEC3730F7ED62112FD74FBFFE7A731 5 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 3E8BBB
+$Laker<~Scribe.141~>253 321 320 <~Scribe.142~><~Game.1911~><~Scribe.143~><~Game.1928~><~Scribe.144~> 049EDF
+$Laker<~Scribe.141~>039 038 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1976~><~Scribe.143~><~Game.1948~><~Scribe.144~> 7E98A1
+$Laker<~Scribe.141~>039 038 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1948~><~Scribe.143~><~Game.1976~><~Scribe.144~> C8E8CD
+$Laker<~Scribe.141~>039 <~Scribe.142~><~Game.1976~><~Scribe.143~><~Game.1948~><~Scribe.144~> C253E3
+$Laker<~Scribe.141~>037 <~Scribe.142~><~Game.1969~><~Scribe.143~><~Game.1984~><~Scribe.144~> 866072
+<Laker> okay rolling now for hunt 97AF3B
+$Laker<~Scribe.141~>166 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2034~><~Scribe.144~> B94EC9
+<Clive> ok ECDFB7
+<game> Laker<~Controls.1~> 6 null
+$Laker<~Controls.624~>220<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Laker> 1r 046794
+<Clive> random BBE305
+$Laker<~Controls.637~>245<~Controls.638~><~Game.1998~><~Controls.639~><~Game.2036~> null
+$Clive<~Scribe.141~>247 <~Scribe.142~><~Game.1948~><~Scribe.143~><~Game.1937~><~Scribe.144~> 838BF0
+$Clive<~Scribe.141~>247 <~Scribe.142~><~Game.1937~><~Scribe.143~><~Game.1921~><~Scribe.144~> F880F3
+$Laker<~Scribe.141~>166 <~Scribe.142~><~Game.2034~><~Scribe.143~><~Game.2036~><~Scribe.144~> 27EB25
+$Clive<~Scribe.141~>247 240 <~Scribe.142~><~Game.1921~><~Scribe.143~><~Game.1948~><~Scribe.144~> 81FF7E
+$Clive<~Scribe.141~>245 <~Scribe.142~><~Game.2036~><~Scribe.143~><~Game.1921~><~Scribe.144~> 24AD72
+$Clive<~Scribe.141~>240 <~Scribe.142~><~Game.1948~><~Scribe.143~><~Game.1921~><~Scribe.144~> 5EEE52
+$Clive<~Scribe.141~>247 <~Scribe.142~><~Game.1948~><~Scribe.143~><~Game.1959~><~Scribe.144~> 2895A3
+$Clive<~Controls.323~>247 4A40C9
+$Clive<~Scribe.141~>247 <~Scribe.142~><~Game.1959~><~Scribe.143~><~Game.1967~><~Scribe.144~> 88ED27
+$Clive<~Scribe.141~>247 <~Scribe.142~><~Game.1967~><~Scribe.143~><~Game.1959~><~Scribe.144~> 282FA1
+<Clive> ok 4F1CC8
+$Laker<~Controls.644~>100 166 220 <~Controls.645~><~Game.2035~> 2119A5
+<Clive> pass 6AD4F6
+$Laker<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 652EFB
+$Laker<~Scribe.141~>037 056 351 352 052 051 050 <~Scribe.142~><~Game.1984~><~Scribe.143~><~Game.1980~><~Scribe.144~> 1FE79E
+$Laker<~Scribe.141~>038 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1976~><~Scribe.143~><~Game.1967~><~Scribe.144~> 5E145F
+$Laker<~Controls.644~>099 <~Controls.645~><~Game.2035~> F51D3C
+$Clive<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> FBA54A
+$Clive<~Scribe.141~>265 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1954~><~Scribe.144~> 3556DF
+$Clive<~Controls.644~>212 <~Controls.645~><~Game.2035~> C4C36A
+$Laker<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 9D84EA
+$Laker<~Scribe.141~>347 349 350 054 053 <~Scribe.142~><~Game.1987~><~Scribe.143~><~Game.1980~><~Scribe.144~> 0F569B
+$Laker<~Scribe.141~>347 349 350 054 053 <~Scribe.142~><~Game.1980~><~Scribe.143~><~Game.1987~><~Scribe.144~> EB23BC
+$Laker<~Scribe.141~>347 350 054 053 <~Scribe.142~><~Game.1987~><~Scribe.143~><~Game.1980~><~Scribe.144~> 14C4A2
+$Laker<~Scribe.141~>038 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1967~><~Scribe.143~><~Game.1948~><~Scribe.144~> 329EEF
+$Laker<~Controls.644~>101 <~Controls.645~><~Game.2035~> 40FAFA
+<Clive> pass AD85FD
+$Laker<~Scribe.141~>361 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 1AD59F
+<Laker> dale E042F9
+<Laker> nc 65363F
+$Clive<~Controls.840~>110 08F0C3
+<auto> playchosen 5F1055
+<auto><~Controls.861~>reveal 110 43675EE2BE56AFC220D44198FBDC3B571E417018 3<~Controls.862~><~Controls.45~><~Controls.863~><~Game.2037~> FB47BB
+$Laker<~Scribe.141~>258 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2003~><~Scribe.144~> 7BF8E1
+$Clive<~Scribe.141~>068 066 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.1965~><~Scribe.144~> 77EA31
+$Laker<~Scribe.141~>037 347 056 350 054 053 351 352 052 051 050 <~Scribe.142~><~Game.1980~><~Scribe.143~><~Game.1970~><~Scribe.144~> 4FEDBB
+$Laker<~Controls.644~>361 110 <~Controls.645~><~Game.2035~> A4A3FC
+$Clive<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 89CB8E
+$Clive<~Scribe.141~>266 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1954~><~Scribe.144~> 422973
+$Clive<~Controls.644~>358 <~Controls.645~><~Game.2035~> E80AC1
+$Laker<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 5503E9
+<Laker> wrl C6DE35
+$Clive<~Scribe.141~>098 266 265 094 088 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1991~><~Scribe.144~> 2C2186
+$Laker<~Scribe.141~>037 347 056 350 054 053 351 352 052 051 050 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.1954~><~Scribe.144~> 4A6EF1
+$Laker<~Scribe.141~>051 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1970~><~Scribe.144~> 5C6A04
+$Laker<~Scribe.141~>423 <~Scribe.142~><~Game.29~><~Scribe.143~><~Game.30~><~Scribe.144~> 671320
+$Laker<~Controls.644~>102 <~Controls.645~><~Game.2035~> 08561D
+<Clive> pass CC8D2F
+$Laker<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> CC3D2B
+$Laker<~Scribe.141~>346 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1987~><~Scribe.144~> C9CA3C
+$Laker<~Controls.644~>360 <~Controls.645~><~Game.2035~> 08508B
+$Clive<~Controls.509~>112<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Clive<~Controls.509~>146<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Laker<~Controls.757~>105 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> D13FB7
+$Laker<~Controls.762~>360 102 361 101 099 100 104 103 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> FDE150
+$Laker<~Controls.509~>173<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Clive<~Controls.726~>210 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> 37B7B5
+<~Game.7~>6 null
+$Clive<~Controls.731~>358 212 211 359 213 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> B3DF3E
+$Laker<~Controls.509~>207<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Clive<~Controls.296~>112 <~Controls.297~><~Controls.45~> 2D399F
+<Clive> fsp ok 51F318
+$Laker<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> F63A7C
+$Laker<~Controls.345~>360 102 361 101 099 100 104 103 <~Controls.346~>13 11 12 11 15 14 13 11 null
+$Laker<~Controls.350~>360 102 361 101 099 100 104 103 null
+$Clive<~Controls.345~>358 212 211 359 213 210 <~Controls.346~>3 1 3 1 3 1 null
+$Clive<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> D705A6
+$Clive<~Controls.323~>247 F73B02
+$Clive<~Controls.644~>210 <~Controls.645~><~Game.2035~> E6C591
+$Laker<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 14C535
+<Laker> lorien C89067
+$Laker<~Controls.840~>207 15CB5C
+$Clive<~Controls.840~>118 899214
+<auto> playchosen 06B7E5
+<auto><~Controls.3~>reveal 118 22C4CE795E60250FB9CD21ED44B14C652F75B952 14<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 230FAF
+<auto><~Controls.866~>reveal 207 527C9F067D7185340D48AD41AFCB7F3131F3900C 8<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> A4B28F
+<auto> playchosen 42D6D9
+<Clive> pre C3884C
+<game> Clive<~Controls.1~> 2 3 3 null
+<Clive> wops 7F8267
+<game> Laker<~Controls.1~> 2 3 2 6 5 null
+<game> Laker<~Controls.1~> 6 3 3 3 null
+<Laker> 2 27154D
+<game> Clive<~Controls.1~> 3 3 4 5 null
+<game> Clive<~Controls.1~> 4 5 null
+<Clive> 2 13D39C
+$Clive<~Controls.304~>267 <~Controls.305~><~Game.1992~> 4AD6D2
+$Clive<~Controls.313~>268 <~Controls.308~><~Controls.314~><~Game.1992~> 7E43EC
+$Laker<~Scribe.141~>001 012 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.2036~><~Scribe.144~> BE45EF
+$Clive<~Controls.304~>093 <~Controls.305~><~Game.1992~> E54791
+$Clive<~Controls.313~>269 <~Controls.308~><~Controls.314~><~Game.1992~> C60825
+<Laker> inlfict 2 7CC1EB
+$Laker<~Scribe.141~>014 013 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.2036~><~Scribe.144~> FABE09
+<game> Laker<~Controls.1~> 5 6 null
+<Laker> 2 C333B6
+$Clive<~Controls.296~>092 <~Controls.297~><~Game.1992~> ED97C5
+<Laker> press draw D09AAF
+$Laker<~Controls.304~>035 <~Controls.305~><~Game.1928~> 32EB4D
+$Laker<~Controls.313~>344 <~Controls.307~><~Controls.314~><~Game.1928~> 26C269
+$Laker<~Controls.509~>178<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Laker<~Controls.662~>207 001 014 013 012 118 <~Controls.663~><~Game.2035~> 80FAE8
+<Laker> nc 2EB990
+$Clive<~Controls.840~>148 F2DB76
+<auto><~Controls.861~>reveal 148 AE038CA98EE0ED38579A2ABF048D0BD8A8C5FB52 15<~Controls.862~><~Controls.45~><~Controls.863~><~Game.2037~> 879F3E
+<game> Laker<~Controls.1~> 3 1 4 2 5 null
+<game> Laker<~Controls.1~> 4 5 6 1 1 null
+<Laker> 1 410958
+<game> Clive<~Controls.1~> 2 4 5 null
+<Clive> ff1  to hit 1 BE074A
+<game> Clive<~Controls.1~> 5 null
+<Clive> 3 1E8A8F
+$Laker<~Scribe.141~>326 344 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.2036~><~Scribe.144~> 38B0E9
+$Clive<~Scribe.141~>269 <~Scribe.142~><~Game.1992~><~Scribe.143~><~Game.2037~><~Scribe.144~> CF9B6B
+$Laker<~Controls.644~>104 326 344 148 269 <~Controls.645~><~Game.2035~> D6045C
+$Laker<~Scribe.141~>326 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1927~><~Scribe.144~> D7A12C
+$Laker<~Scribe.141~>326 <~Scribe.142~><~Game.1927~><~Scribe.143~><~Game.1928~><~Scribe.144~> DADBCE
+$Laker<~Controls.304~>326 <~Controls.305~><~Game.1928~> 7B159A
+$Laker<~Controls.313~>001 <~Controls.307~><~Controls.314~><~Game.1928~> 907395
+$Laker<~Controls.281~>008 <~Controls.282~><~Game.1928~><~Controls.283~><~Game.2041~> 10B3F4
+$Clive<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> F2A6C7
+$Clive<~Controls.790~>248<~Controls.791~><~Game.2014~><~Controls.792~><~Game.2015~> 846F10
+$Clive<~Controls.795~>212<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 72BFF8
+<game> Laker<~Controls.1~> 5 2 null
+$Laker<~Scribe.141~>361 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> B30A68
+$Laker<~Scribe.141~>reveal 190 95BE5ED9B1624916339C1DD022A9486E369B35C6 15 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> DDF783
+$Laker<~Scribe.141~>333 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1928~><~Scribe.144~> 060308
+$Laker<~Controls.644~>361 190 <~Controls.645~><~Game.2035~> B320F8
+$Clive<~Scribe.141~>359 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> F24B07
+$Clive<~Controls.790~>248<~Controls.791~><~Game.2015~><~Controls.792~><~Game.2016~> E739E9
+$Clive<~Controls.795~>359<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> B6A2CD
+<game> Laker<~Controls.1~> 3 3 null
+$Laker<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 96D0D2
+$Laker<~Scribe.141~>reveal 203 DFA4DA1E3061736A86EF5807075044DB4C2EA587 15 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> B91C21
+$Laker<~Controls.624~>222<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2036~> null
+$Laker<~Controls.644~>100 222 203 <~Controls.645~><~Game.2035~> BB3166
+$Clive<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 416AD0
+$Clive<~Scribe.141~>276 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1944~><~Scribe.144~> B3DA5B
+$Clive<~Controls.644~>211 <~Controls.645~><~Game.2035~> 4497CB
+$Laker<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 935679
+$Laker<~Scribe.141~>reveal 178 97CDD2A4FC09C73F2D9C2826BFF9862B4D6BC006 4 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 385F4A
+$Laker<~Scribe.141~>reveal 178 97CDD2A4FC09C73F2D9C2826BFF9862B4D6BC006 4 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 193380
+<Laker> lorien E1FEBE
+$Clive<~Scribe.141~>178 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2032~><~Scribe.144~> 1F9549
+<Laker> were gonna be risky BE01E5
+$Laker<~Controls.840~>208 54C1B1
+$Clive<~Controls.840~>146 582BDF
+<auto> playchosen DBFED9
+<auto><~Controls.3~>reveal 146 CC09F86C68CDFB2775905A6228A05AABA7233CCD 16<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 0CDEB4
+<auto><~Controls.866~>reveal 208 A494CA0A11119D2EC4339E846046EC49874909F1 2<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 413D55
+<auto> playchosen 786CEE
+<Laker> you cant play a card' 71FD18
+<Clive> why not? A16E22
+<Laker> oh you have a compaion 362979
+<Laker> your good ED2594
+<Laker> i cancel pippin 4B3775
+<Clive> u are going to win anyway XD AE61E6
+<Clive> ok B5C42E
+<game> Laker<~Controls.1~> 1 6 4 4 null
+<game> Laker<~Controls.1~> 6 2 5 null
+<Laker> 2 3A41EF
+<game> Clive<~Controls.1~> 6 1 null
+<game> Clive<~Controls.1~> 6 null
+<Clive> 2 0F4A55
+$Clive<~Scribe.141~>268 <~Scribe.142~><~Game.1992~><~Scribe.143~><~Game.2037~><~Scribe.144~> E74331
+$Laker<~Scribe.141~>333 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.2036~><~Scribe.144~> 06A067
+$Laker<~Scribe.141~>178 <~Scribe.142~><~Game.2032~><~Scribe.143~><~Game.2033~><~Scribe.144~> 0A387E
+<Laker> draw D72309
+$Laker<~Controls.509~>160<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Laker<~Controls.662~>208 333 146 268 <~Controls.663~><~Game.2035~> FDAC90
+<Laker> nc 4D4356
+$Clive<~Controls.840~>154 B94E1B
+<auto><~Controls.861~>reveal 154 17EEAEFAAD94B253C74F388F8618CAF12FF91E64 19<~Controls.862~><~Controls.45~><~Controls.863~><~Game.2037~> 231DD2
+<Clive> pre 58910B
+<game> Clive<~Controls.1~> 5 2 null
+<Clive> 1 0EF26D
+$Laker<~Scribe.141~>001 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.2037~><~Scribe.144~> 2625F8
+<game> Laker<~Controls.1~> 4 1 null
+<game> Laker<~Controls.1~> 4 2 null
+<Laker> oh no 5065B0
+<game> Clive<~Controls.1~> 6 null
+$Laker<~Scribe.141~>007 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.2037~><~Scribe.144~> 6ED51D
+$Laker<~Scribe.141~>178 <~Scribe.142~><~Game.2033~><~Scribe.143~><~Game.2034~><~Scribe.144~> 01EB32
+<Laker> nc 0D0AA3
+$Laker<~Controls.662~>154 001 007 <~Controls.663~><~Game.2035~> 6C68E7
+<Clive> nc EEB9ED
+<game> Laker<~Controls.1~> 2 null
+<game> Laker<~Controls.1~> 2 null
+<Clive> ufff EFA4F8
+<game> Clive<~Controls.1~> 2 null
+<game> Clive<~Controls.1~> 1 null
+$Laker<~Scribe.141~>178 <~Scribe.142~><~Game.2034~><~Scribe.143~><~Game.2036~><~Scribe.144~> CCA3A3
+$Laker<~Controls.644~>102 178 <~Controls.645~><~Game.2035~> 5669E1
+<Clive> pass CB5C93
+$Laker<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> EC539D
+$Laker<~Scribe.141~>253 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.1954~><~Scribe.144~> 2C450C
+$Laker<~Scribe.141~>320 321 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.1954~><~Scribe.144~> 93ACBE
+$Laker<~Scribe.141~>040 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.1948~><~Scribe.144~> 22EF83
+$Laker<~Controls.644~>360 <~Controls.645~><~Game.2035~> D98C5A
+<Clive> it was so near... BEAE3C
+$Clive<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 74A7FC
+$Clive<~Scribe.141~>reveal 120 4A0FA1020F06C5C0D5AB2A5077198B96FC01B8BF 2 <~Scribe.142~><~Controls.45~><~Scribe.143~><~Game.2037~><~Scribe.144~> 8C3430
+$Clive<~Scribe.141~>264 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1991~><~Scribe.144~> ED2A4F
+$Clive<~Controls.509~>143<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Clive<~Controls.644~>213 120 <~Controls.645~><~Game.2035~> CF59E0
+$Laker<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 875C5C
+$Laker<~Scribe.141~>322 330 <~Scribe.142~><~Game.1911~><~Scribe.143~><~Game.1908~><~Scribe.144~> 350924
+$Laker<~Scribe.141~>346 349 <~Scribe.142~><~Game.1987~><~Scribe.143~><~Game.1980~><~Scribe.144~> 48BD00
+$Laker<~Controls.644~>101 <~Controls.645~><~Game.2035~> 7F450B
+$Clive<~Scribe.141~>427 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 765653
+$Clive<~Controls.509~>149<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Clive<~Controls.644~>427 <~Controls.645~><~Game.2035~> 07E400
+$Laker<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> A95BFF
+$Laker<~Scribe.141~>322 330 <~Scribe.142~><~Game.1908~><~Scribe.143~><~Game.1912~><~Scribe.144~> 208F79
+$Laker<~Scribe.141~>346 349 <~Scribe.142~><~Game.1980~><~Scribe.143~><~Game.1970~><~Scribe.144~> A56843
+$Laker<~Controls.644~>103 <~Controls.645~><~Game.2035~> BB5870
+$Clive<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 4D62EC
+$Clive<~Scribe.141~>275 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1944~><~Scribe.144~> D6CBF4
+$Clive<~Controls.644~>358 <~Controls.645~><~Game.2035~> 5E3794
+$Laker<~Controls.757~>099 105 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 24655A
+$Laker<~Controls.762~>103 101 360 102 100 361 104 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> FD4710
+$Clive<~Controls.509~>109<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Clive<~Controls.509~>106<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Laker<~Controls.509~>193<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Laker<~Controls.509~>199<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Clive<~Controls.726~>359 212 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> CDEFC8
+<~Game.7~>7 null
+$Clive<~Controls.731~>358 213 211 210 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 0C3F64
+$Clive<~Scribe.141~>247 <~Scribe.142~><~Game.1959~><~Scribe.143~><~Game.1964~><~Scribe.144~> 329862
+$Clive<~Scribe.141~>247 <~Scribe.142~><~Game.1964~><~Scribe.143~><~Game.1969~><~Scribe.144~> 8C8EA4
+$Clive<~Scribe.141~>247 <~Scribe.142~><~Game.1969~><~Scribe.143~><~Game.524~><~Scribe.144~> F42A59
+$Clive<~Controls.281~>222 220 221 <~Controls.282~><~Game.2045~><~Controls.283~><~Game.2044~> F4E069
+$Clive<~Scribe.141~>248 <~Scribe.142~><~Game.2016~><~Scribe.143~><~Game.2014~><~Scribe.144~> 3167DA
+<Clive> fsp ok F6E882
+$Laker<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> 60D9C8
+$Laker<~Controls.345~>103 101 360 102 100 361 104 099 <~Controls.346~>10 12 13 11 12 12 10 12 null
+$Laker<~Controls.350~>103 101 360 102 100 361 104 099 null
+$Clive<~Controls.345~>358 213 211 210 359 212 <~Controls.346~>1 3 1 1 1 3 null
+$Clive<~Scribe.141~>210 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 53A544
+$Clive<~Controls.790~>247<~Controls.791~><~Game.524~><~Controls.792~><~Game.525~> B80A9D
+$Clive<~Controls.795~>210<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> CA5813
+$Laker<~Controls.624~>216<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Clive<~Scribe.141~>252 <~Scribe.142~><~Game.2017~><~Scribe.143~><~Game.2018~><~Scribe.144~> CBECCC
+$Clive<~Controls.323~>247 7A86E8
+$Clive<~Controls.644~>216 <~Controls.645~><~Game.2035~> 4769F3
+$Laker<~Scribe.141~>101 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 95DD7E
+$Laker<~Scribe.141~>reveal 199 9C9FEC28B528520D786316B1ABA610028F1012BD 9 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> 0C6F76
+$Laker<~Scribe.141~>322 330 <~Scribe.142~><~Game.1912~><~Scribe.143~><~Game.1928~><~Scribe.144~> 981BFC
+$Laker<~Controls.644~>101 199 <~Controls.645~><~Game.2035~> 7D9D1D
+$Clive<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 569F38
+$Clive<~Controls.323~>247 DE8D14
+$Clive<~Controls.644~>211 <~Controls.645~><~Game.2035~> B90C66
+$Laker<~Scribe.141~>100 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 9970BB
+<Laker> lorien 1EA7F0
+$Laker<~Controls.840~>193 9EEA38
+$Clive<~Controls.840~>143 AECA48
+<auto> playchosen CF9D70
+<auto><~Controls.3~>reveal 143 82613ADEB0456C4DA528FBD351BB0FBFFD8DCCDF 0<~Controls.884~><~Controls.45~><~Controls.885~><~Game.2037~> 0620B4
+<auto><~Controls.866~>reveal 193 C5BF49248F2B2FC06AB48A8D2B441215E6AA93BD 23<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 343237
+<auto> playchosen 74F103
+<Laker> pre 3C56A2
+<game> Laker<~Controls.1~> 2 1 3 null
+<Laker> nooooooo 1B179F
+<game> Laker<~Controls.1~> 1 3 4 null
+<game> Laker<~Controls.1~> 6 null
+<Laker> 1 lol A7C41C
+<game> Clive<~Controls.1~> 2 null
+<game> Clive<~Controls.1~> 1 null
+<Clive> 1 90AB6D
+$Clive<~Scribe.141~>246 097 087 <~Scribe.142~><~Game.1992~><~Scribe.143~><~Game.2036~><~Scribe.144~> B7C885
+$Laker<~Scribe.141~>015 <~Scribe.142~><~Game.1928~><~Scribe.143~><~Game.2036~><~Scribe.144~> 528A40
+$Laker<~Controls.644~>100 193 246 097 015 087 143 <~Controls.645~><~Game.2035~> 316D03
+$Laker<~Scribe.141~>423 <~Scribe.142~><~Game.30~><~Scribe.143~><~Game.32~><~Scribe.144~> F47F79
+$Clive<~Scribe.141~>359 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> 620DA4
+$Clive<~Controls.790~>247<~Controls.791~><~Game.525~><~Controls.792~><~Game.528~> 3BE385
+$Clive<~Controls.795~>359<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 350C2F
+$Laker<~Controls.624~>229<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Clive<~Scribe.141~>243 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2037~><~Scribe.144~> F9D3CA
+$Clive<~Scribe.141~>252 <~Scribe.142~><~Game.2018~><~Scribe.143~><~Game.2019~><~Scribe.144~> 7365FF
+$Clive<~Controls.644~>229 243 <~Controls.645~><~Game.2035~> 0A99A1
+$Clive<~Scribe.141~>244 <~Scribe.142~><~Game.1998~><~Scribe.143~><~Game.1999~><~Scribe.144~> 47F304
+$Laker<~Scribe.141~>361 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 29B24E
+$Laker<~Scribe.141~>040 038 039 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1948~><~Scribe.143~><~Game.1937~><~Scribe.144~> B3E494
+$Laker<~Scribe.141~>346 <~Scribe.142~><~Game.1970~><~Scribe.143~><~Game.1954~><~Scribe.144~> 463B6D
+$Laker<~Controls.644~>361 <~Controls.645~><~Game.2035~> 70A9D8
+$Clive<~Scribe.141~>213 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> B4500E
+$Clive<~Controls.366~>250<~Controls.367~><~Game.2009~><~Controls.368~><~Game.2011~> 8610E1
+$Clive<~Scribe.141~>073 072 <~Scribe.142~><~Game.1925~><~Scribe.143~><~Game.1923~><~Scribe.144~> 438700
+$Clive<~Scribe.141~>074 069 070 <~Scribe.142~><~Game.1918~><~Scribe.143~><~Game.1923~><~Scribe.144~> 75055B
+$Clive<~Controls.644~>213 <~Controls.645~><~Game.2035~> AE805A
+$Laker<~Scribe.141~>360 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 335301
+$Laker<~Scribe.141~>reveal 160 407C676826CD09E5E9BCDF4D90A809343D017201 16 <~Scribe.142~><~Controls.46~><~Scribe.143~><~Game.2037~><~Scribe.144~> BF183A
+$Laker<~Scribe.141~>160 <~Scribe.142~><~Game.2037~><~Scribe.143~><~Game.2032~><~Scribe.144~> E37AA8
+<Laker> wrl D8D672
+$Laker<~Controls.840~>170 C9A321
+<auto><~Controls.866~>reveal 170 095292F4FCA9A9ED97CB362C601804A79E5607F4 1<~Controls.867~><~Controls.46~><~Controls.868~><~Game.2036~> 8CFF27
+<game> Laker<~Controls.1~> 1 3 3 1 2 null
+<game> Laker<~Controls.1~> 4 5 2 6 5 null
+<game> Clive<~Controls.1~> 5 2 1 4 3 null
+<game> Clive<~Controls.1~> 2 null
+<Clive> 1 8D1E28
+<Laker> 1 4B29DB
+$Laker<~Scribe.141~>351 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.2036~><~Scribe.144~> CBAABD
+$Clive<~Controls.304~>265 <~Controls.305~><~Game.1991~> 0FD4CC
+$Clive<~Controls.313~>087 <~Controls.308~><~Controls.314~><~Game.1991~> 3D605C
+$Laker<~Scribe.141~>160 <~Scribe.142~><~Game.2032~><~Scribe.143~><~Game.2033~><~Scribe.144~> 1F2734
+<Laker> press draw EBE767
+$Laker<~Controls.509~>189<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Laker<~Controls.662~>170 351 <~Controls.663~><~Game.2035~> B3C79A
+<Laker> nc 46F28B
+$Clive<~Controls.840~>106 1BCE86
+<auto><~Controls.861~>reveal 106 9F1D3BB3C0387D1B7ED3C694DCDE3139064F9898 23<~Controls.862~><~Controls.45~><~Controls.863~><~Game.2037~> 2B9A64
+<game> Laker<~Controls.1~> 2 1 4 5 4 null
+<game> Laker<~Controls.1~> 1 6 6 2 1 null
+<Laker> 2 1D9B84
+<game> Clive<~Controls.1~> 2 3 4 2 1 null
+<game> Clive<~Controls.1~> 3 null
+<Clive> lol E313DA
+$Clive<~Controls.304~>094 <~Controls.305~><~Game.1991~> 32A1FC
+$Clive<~Controls.313~>268 <~Controls.308~><~Controls.314~><~Game.1991~> A26D13
+$Clive<~Controls.304~>266 <~Controls.305~><~Game.1991~> B97483
+$Clive<~Controls.313~>269 <~Controls.308~><~Controls.314~><~Game.1991~> ECAD28
+<Laker> press nc C2F5AC
+$Laker<~Scribe.141~>160 <~Scribe.142~><~Game.2033~><~Scribe.143~><~Game.2034~><~Scribe.144~> FE3AD3
+$Laker<~Controls.662~>106 <~Controls.663~><~Game.2035~> 478E31
+<Clive> nc 6EB764
+<game> Laker<~Controls.1~> 2 4 2 5 5 null
+<game> Laker<~Controls.1~> 4 4 4 2 2 null
+<game> Clive<~Controls.1~> 2 4 5 5 1 null
+<game> Clive<~Controls.1~> 1 null
+<Clive> 2 8373B5
+$Laker<~Scribe.141~>350 053 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.2036~><~Scribe.144~> A83111
+<Laker> press nc 051743
+$Laker<~Controls.304~>346 <~Controls.305~><~Game.1954~> C33661
+$Laker<~Controls.313~>351 <~Controls.307~><~Controls.314~><~Game.1954~> CFCFEA
+$Laker<~Controls.662~>350 053 <~Controls.663~><~Game.2035~> AEB448
+<Clive> nc E1F7FC
+<game> Laker<~Controls.1~> 4 3 5 5 1 null
+<game> Laker<~Controls.1~> 1 4 2 6 6 null
+<Laker> 2 7799A0
+<game> Clive<~Controls.1~> 2 2 1 4 2 null
+<game> Clive<~Controls.1~> 2 null
+$Clive<~Scribe.141~>264 <~Scribe.142~><~Game.1991~><~Scribe.143~><~Game.2036~><~Scribe.144~> EB01F7
+<Laker> press nc 5EDBDA
+$Laker<~Controls.304~>347 <~Controls.305~><~Game.1954~> 130857
+$Laker<~Controls.313~>350 <~Controls.307~><~Controls.314~><~Game.1954~> 1FC783
+<Clive> -5 6 haha A092D8
+$Laker<~Controls.662~>264 <~Controls.663~><~Game.2035~> 3379C8
+<Clive> nc D583BA
+<game> Laker<~Controls.1~> 5 6 6 6 6 null
+<Laker> lol B9F732
+<game> Clive<~Controls.1~> 5 4 6 4 null
+<game> Laker<~Controls.1~> 2 null
+<Laker> 4 C6CC1B
+<game> Clive<~Controls.1~> 6 null
+<Clive> 3 614A14
+$Clive<~Scribe.141~>098 269 268 087 088 <~Scribe.142~><~Game.1991~><~Scribe.143~><~Game.2036~><~Scribe.144~> 461764
+$Laker<~Scribe.141~>352 052 050 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.2036~><~Scribe.144~> 2D0531
+$Laker<~Scribe.141~>160 <~Scribe.142~><~Game.2034~><~Scribe.143~><~Game.2036~><~Scribe.144~> FCDBBB
+$Laker<~Controls.644~>360 160 098 352 052 050 269 268 087 088 <~Controls.645~><~Game.2035~> 83AF4C
+$Clive<~Scribe.141~>358 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> AF784F
+$Clive<~Controls.790~>247<~Controls.791~><~Game.528~><~Controls.792~><~Game.529~> 462C70
+$Clive<~Controls.795~>358<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> CE77D8
+$Laker<~Controls.624~>226<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Clive<~Scribe.141~>244 <~Scribe.142~><~Game.1999~><~Scribe.143~><~Game.2037~><~Scribe.144~> 8D6DA7
+$Clive<~Scribe.141~>364 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1999~><~Scribe.144~> 2D5A1A
+$Clive<~Controls.644~>226 244 <~Controls.645~><~Game.2035~> BDC580
+$Laker<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 8C367A
+$Laker<~Controls.281~>102 <~Controls.282~><~Game.2035~><~Controls.283~><~Game.2043~> 8B1643
+$Laker<~Scribe.141~>102 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 3A9A04
+$Laker<~Scribe.141~>040 038 039 036 029 028 027 026 025 024 023 022 021 <~Scribe.142~><~Game.1937~><~Scribe.143~><~Game.1925~><~Scribe.144~> 6EBE95
+$Laker<~Scribe.141~>253 320 321 037 056 350 351 <~Scribe.142~><~Game.1954~><~Scribe.143~><~Game.1970~><~Scribe.144~> C26A77
+$Laker<~Controls.644~>102 <~Controls.645~><~Game.2035~> 9BE964
+$Clive<~Scribe.141~>259 <~Scribe.142~><~Game.2000~><~Scribe.143~><~Game.2001~><~Scribe.144~> 68DBD4
+$Laker<~Scribe.141~>423 <~Scribe.142~><~Game.32~><~Scribe.143~><~Game.388~><~Scribe.144~> 37595A
+<Clive> pass 63406C
+$Laker<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 40CE36
+$Laker<~Scribe.141~>255 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1969~><~Scribe.144~> 330325
+$Laker<~Scribe.141~>362 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.2037~><~Scribe.144~> 6D5F0D
+$Laker<~Controls.644~>103 362 <~Controls.645~><~Game.2035~> AE719A
+<Clive> pass 51E657
+$Laker<~Scribe.141~>099 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> 08A5E4
+$Laker<~Scribe.141~>254 006 005 004 003 <~Scribe.142~><~Game.1919~><~Scribe.143~><~Game.1918~><~Scribe.144~> 500F62
+$Laker<~Scribe.141~>254 006 005 004 003 <~Scribe.142~><~Game.1918~><~Scribe.143~><~Game.1919~><~Scribe.144~> D966AA
+$Laker<~Scribe.141~>025 <~Scribe.142~><~Game.1925~><~Scribe.143~><~Game.1929~><~Scribe.144~> 697B27
+$Laker<~Scribe.141~>006 <~Scribe.142~><~Game.1919~><~Scribe.143~><~Game.1918~><~Scribe.144~> 55AC15
+$Laker<~Controls.644~>099 <~Controls.645~><~Game.2035~> E22254
+$Clive<~Scribe.141~>259 <~Scribe.142~><~Game.2001~><~Scribe.143~><~Game.2002~><~Scribe.144~> CC6153
+$Laker<~Scribe.141~>423 <~Scribe.142~><~Game.388~><~Scribe.143~><~Game.389~><~Scribe.144~> 213606
+$Clive<~Scribe.141~>212 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> BAA68D
+$Clive<~Scribe.141~>299 <~Scribe.142~><~Game.2038~><~Scribe.143~><~Game.1902~><~Scribe.144~> 6B03C8
+$Clive<~Controls.644~>212 <~Controls.645~><~Game.2035~> 749825
+$Laker<~Scribe.141~>104 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> A40D6A
+$Laker<~Controls.323~>255 AD2333
+$Laker<~Controls.509~>204<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+<Laker> hd 666F86
+$Laker<~Controls.819~> 16AB9A
+$Clive<~Scribe.141~>074 073 069 070 072 071 <~Scribe.142~><~Game.1923~><~Scribe.143~><~Game.1993~><~Scribe.144~> 080938
+$Laker<~Scribe.141~>040 038 039 036 029 028 027 026 024 023 022 021 <~Scribe.142~><~Game.1925~><~Scribe.143~><~Game.1923~><~Scribe.144~> D3C09B
+$Clive<~Scribe.141~>259 <~Scribe.142~><~Game.2002~><~Scribe.143~><~Game.2003~><~Scribe.144~> 09CB8B
+$Laker<~Scribe.141~>420 <~Scribe.142~><~Game.2040~><~Scribe.143~><~Game.1925~><~Scribe.144~> 03BCEA
+$Laker<~Controls.644~>104 <~Controls.645~><~Game.2035~> 661D59
+$Clive<~Controls.509~>142<~Controls.510~><~Game.2004~><~Controls.511~><~Controls.45~> null
+$Clive<~Controls.509~>140<~Controls.510~><~Game.2005~><~Controls.511~><~Controls.45~> null
+$Laker<~Controls.757~>105 <~Controls.758~><~Game.1997~><~Controls.759~><~Game.2043~> 87BB27
+$Laker<~Controls.762~>104 099 103 362 102 360 361 100 101 <~Controls.763~><~Game.2041~><~Controls.764~><~Game.2043~> 024864
+$Laker<~Controls.509~>182<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Laker<~Controls.509~>192<~Controls.510~><~Game.2007~><~Controls.511~><~Controls.46~> null
+$Clive<~Controls.726~>358 359 210 <~Controls.727~><~Game.1997~><~Controls.728~><~Game.2042~> F0B3CD
+<~Game.7~>8 null
+$Clive<~Controls.731~>212 213 211 <~Controls.732~><~Game.2039~><~Controls.733~><~Game.2042~> 039213
+$Laker<~Scribe.141~>105 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.1997~><~Scribe.144~> CDF31B
+<Clive> fsp ok 62C9A2
+$Laker<~Controls.345~>104 099 103 362 102 360 361 100 101 <~Controls.346~>12 11 14 14 11 11 10 10 10 null
+$Laker<~Controls.350~>104 099 103 362 102 360 361 100 101 null
+$Clive<~Controls.345~>212 213 211 358 359 210 <~Controls.346~>1 2 0 1 0 4 null
+$Clive<~Scribe.141~>211 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> F383DE
+$Clive<~Controls.790~>247<~Controls.791~><~Game.529~><~Controls.792~><~Game.532~> 101BE9
+$Clive<~Controls.795~>211<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 2EBC56
+$Laker<~Controls.624~>217<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+$Clive<~Scribe.141~>252 <~Scribe.142~><~Game.2019~><~Scribe.143~><~Game.2020~><~Scribe.144~> E7E880
+<Laker> gg 25F358
+$Clive<~Controls.644~>217 <~Controls.645~><~Game.2035~> D25349
+$Laker<~Scribe.141~>103 <~Scribe.142~><~Game.2043~><~Scribe.143~><~Game.2035~><~Scribe.144~> D57635
+<Clive> no red? 96C4A4
+<Laker> nope FD2C6F
+$Laker<~Controls.509~>179<~Controls.510~><~Game.2006~><~Controls.511~><~Controls.46~> null
+$Laker<~Controls.644~>103 <~Controls.645~><~Game.2035~> 1177C3
+$Clive<~Scribe.141~>359 <~Scribe.142~><~Game.2042~><~Scribe.143~><~Game.2035~><~Scribe.144~> C9F0DF
+$Clive<~Controls.790~>247<~Controls.791~><~Game.532~><~Controls.792~><~Game.533~> C0FB5A
+$Clive<~Controls.795~>359<~Controls.796~><~Game.2035~><~Controls.797~><~Game.1997~> 800A38
+$Laker<~Controls.624~>225<~Controls.625~><~Game.2044~><~Controls.626~><~Game.2037~> null
+<Clive> gg 4BB816
+<Laker> gg F788F2
+$Clive<~Scribe.141~>252 <~Scribe.142~><~Game.2020~><~Scribe.143~><~Game.2021~><~Scribe.144~> A378F8
+$Clive<~Controls.323~>247 560E16
+<Laker> got time for the second? 1396DF
+<Clive> yep EBBCDC
+<Clive> but give me a minute B0A84E
+<Laker> lets do it 23C8BF
+<~Talker.22~> null
